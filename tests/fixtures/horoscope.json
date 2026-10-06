@@ -1,0 +1,336 @@
+{
+  "status": "ok",
+  "data": {
+    "areas": [
+      {
+        "area": "work",
+        "level": "mixed",
+        "text": {
+          "en": "Today, the working mood is uneven; focus on tasks within your control and let the rest settle in its own time. Examinations, interviews and competitive tasks are favoured; thorough preparation turns this support into success. Ventures may absorb effort without quick profit; review before expanding and leave no gaps for rivals to exploit.",
+          "hi": "आज कार्य का वातावरण असमान है; जो आपके वश में है उस पर ध्यान दें और शेष को अपने समय पर सुलझने दें। परीक्षा, साक्षात्कार और प्रतिस्पर्धा वाले कार्य अनुकूल हैं; पूरी तैयारी इस सहयोग को सफलता में बदलती है। उद्यम शीघ्र लाभ दिए बिना परिश्रम ले सकते हैं; विस्तार से पहले समीक्षा करें और ऐसी त्रुटियाँ न छोड़ें जिनका विरोधी लाभ उठा सकें।"
+        }
+      },
+      {
+        "area": "money",
+        "level": "care",
+        "text": {
+          "en": "Today, avoid lending, borrowing or speculative moves where you can; protecting what you have is the wiser course. Gains can be quick and sizeable; keep windfalls separate from regular income and spend them deliberately. Spending on home upkeep or vehicles may rise; plan such costs and avoid property decisions in a hurry.",
+          "hi": "आज जहाँ तक संभव हो ऋण देने, ऋण लेने या सट्टे जैसे निर्णयों से बचें; जो आपके पास है उसे सुरक्षित रखना बुद्धिमानी है। लाभ शीघ्र और बड़ा हो सकता है; आकस्मिक प्राप्तियों को नियमित आय से अलग रखें और सोच-समझकर व्यय करें। गृह-सुधार या वाहन पर व्यय बढ़ सकता है; ऐसे व्यय की योजना बनाएँ और भूमि-भवन के निर्णय उतावली में न लें।"
+        }
+      },
+      {
+        "area": "relationships",
+        "level": "care",
+        "text": {
+          "en": "Today, tempers may run short at home or among friends; a pause before reacting saves later regret. Warmth comes easily; share time with family and let your affection show. Your partner may need support or space; attentiveness and loyalty speak louder than gifts.",
+          "hi": "आज घर या मित्रों के बीच धैर्य शीघ्र चुक सकता है; प्रतिक्रिया देने से पहले क्षण भर ठहरना पश्चात्ताप से बचाता है। आत्मीयता सहज रूप से आती है; परिवार के साथ समय बिताएँ और अपना स्नेह प्रकट करें। जीवनसाथी को सहारे या एकांत की आवश्यकता हो सकती है; उपहारों से अधिक सजगता और निष्ठा बोलती है।"
+        }
+      },
+      {
+        "area": "health",
+        "level": "mixed",
+        "text": {
+          "en": "Today, you have strength for what matters, but stress can creep in; short breaks and regular meals keep you balanced. Emotional balance and fluid intake deserve care; regular meals keep the mood steady. The feet, the eyes and the quality of sleep deserve care; a quiet wind-down at night helps.",
+          "hi": "आज महत्त्वपूर्ण कार्यों के लिए शक्ति है, पर तनाव धीरे-धीरे घर कर सकता है; छोटे विराम और नियमित भोजन संतुलन बनाए रखते हैं। भावनात्मक संतुलन और जल-सेवन का ध्यान रखें; समय पर भोजन मन को स्थिर रखता है। पैरों, नेत्रों और निद्रा की गुणवत्ता का ध्यान रखें; रात्रि में शांत होकर सोने की तैयारी सहायक है।"
+        }
+      },
+      {
+        "area": "education",
+        "level": "care",
+        "text": {
+          "en": "Today, research or study may hit unexpected hurdles; seek help early rather than struggling alone. Home distractions can unsettle formal education; a calm study routine and patience over admissions or transfers keep you steady.",
+          "hi": "आज शोध या अध्ययन में अनपेक्षित बाधाएँ आ सकती हैं; अकेले जूझने के स्थान पर समय रहते सहायता माँगें। घर की उलझनें औपचारिक शिक्षा को अस्थिर कर सकती हैं; शांत अध्ययन-दिनचर्या और प्रवेश या स्थानांतरण में धैर्य आपको स्थिर रखते हैं।"
+        }
+      }
+    ],
+    "basis": [
+      {
+        "entered": null,
+        "from": "2026-09-27T18:30:00.000Z",
+        "graha": {
+          "id": "sun",
+          "name": "Sun",
+          "names": {
+            "en": "Sun",
+            "hi": "सूर्य"
+          }
+        },
+        "house": 6,
+        "leaves": null,
+        "nature": "favourable",
+        "retrograde": false,
+        "sign": {
+          "id": "virgo",
+          "name": "Virgo",
+          "names": {
+            "en": "Virgo",
+            "hi": "कन्या"
+          }
+        },
+        "to": "2026-09-28T18:30:00.000Z"
+      },
+      {
+        "entered": null,
+        "from": "2026-09-27T18:30:00.000Z",
+        "graha": {
+          "id": "moon",
+          "name": "Moon",
+          "names": {
+            "en": "Moon",
+            "hi": "चंद्र"
+          }
+        },
+        "house": 12,
+        "leaves": "2026-09-28T04:46:38.438Z",
+        "nature": "unfavourable",
+        "retrograde": false,
+        "sign": {
+          "id": "pisces",
+          "name": "Pisces",
+          "names": {
+            "en": "Pisces",
+            "hi": "मीन"
+          }
+        },
+        "to": "2026-09-28T04:46:38.438Z"
+      },
+      {
+        "entered": "2026-09-28T04:46:38.438Z",
+        "from": "2026-09-28T04:46:38.438Z",
+        "graha": {
+          "id": "moon",
+          "name": "Moon",
+          "names": {
+            "en": "Moon",
+            "hi": "चंद्र"
+          }
+        },
+        "house": 1,
+        "leaves": null,
+        "nature": "favourable",
+        "retrograde": false,
+        "sign": {
+          "id": "aries",
+          "name": "Aries",
+          "names": {
+            "en": "Aries",
+            "hi": "मेष"
+          }
+        },
+        "to": "2026-09-28T18:30:00.000Z"
+      },
+      {
+        "entered": null,
+        "from": "2026-09-27T18:30:00.000Z",
+        "graha": {
+          "id": "mars",
+          "name": "Mars",
+          "names": {
+            "en": "Mars",
+            "hi": "मंगल"
+          }
+        },
+        "house": 4,
+        "leaves": null,
+        "nature": "unfavourable",
+        "retrograde": false,
+        "sign": {
+          "id": "cancer",
+          "name": "Cancer",
+          "names": {
+            "en": "Cancer",
+            "hi": "कर्क"
+          }
+        },
+        "to": "2026-09-28T18:30:00.000Z"
+      },
+      {
+        "entered": null,
+        "from": "2026-09-27T18:30:00.000Z",
+        "graha": {
+          "id": "mercury",
+          "name": "Mercury",
+          "names": {
+            "en": "Mercury",
+            "hi": "बुध"
+          }
+        },
+        "house": 7,
+        "leaves": null,
+        "nature": "unfavourable",
+        "retrograde": false,
+        "sign": {
+          "id": "libra",
+          "name": "Libra",
+          "names": {
+            "en": "Libra",
+            "hi": "तुला"
+          }
+        },
+        "to": "2026-09-28T18:30:00.000Z"
+      },
+      {
+        "entered": null,
+        "from": "2026-09-27T18:30:00.000Z",
+        "graha": {
+          "id": "jupiter",
+          "name": "Jupiter",
+          "names": {
+            "en": "Jupiter",
+            "hi": "गुरु"
+          }
+        },
+        "house": 4,
+        "leaves": null,
+        "nature": "unfavourable",
+        "retrograde": false,
+        "sign": {
+          "id": "cancer",
+          "name": "Cancer",
+          "names": {
+            "en": "Cancer",
+            "hi": "कर्क"
+          }
+        },
+        "to": "2026-09-28T18:30:00.000Z"
+      },
+      {
+        "entered": null,
+        "from": "2026-09-27T18:30:00.000Z",
+        "graha": {
+          "id": "venus",
+          "name": "Venus",
+          "names": {
+            "en": "Venus",
+            "hi": "शुक्र"
+          }
+        },
+        "house": 7,
+        "leaves": null,
+        "nature": "unfavourable",
+        "retrograde": false,
+        "sign": {
+          "id": "libra",
+          "name": "Libra",
+          "names": {
+            "en": "Libra",
+            "hi": "तुला"
+          }
+        },
+        "to": "2026-09-28T18:30:00.000Z"
+      },
+      {
+        "entered": null,
+        "from": "2026-09-27T18:30:00.000Z",
+        "graha": {
+          "id": "saturn",
+          "name": "Saturn",
+          "names": {
+            "en": "Saturn",
+            "hi": "शनि"
+          }
+        },
+        "house": 12,
+        "leaves": null,
+        "nature": "unfavourable",
+        "retrograde": true,
+        "sign": {
+          "id": "pisces",
+          "name": "Pisces",
+          "names": {
+            "en": "Pisces",
+            "hi": "मीन"
+          }
+        },
+        "to": "2026-09-28T18:30:00.000Z"
+      },
+      {
+        "entered": null,
+        "from": "2026-09-27T18:30:00.000Z",
+        "graha": {
+          "id": "rahu",
+          "name": "Rahu",
+          "names": {
+            "en": "Rahu",
+            "hi": "राहु"
+          }
+        },
+        "house": 11,
+        "leaves": null,
+        "nature": "favourable",
+        "retrograde": true,
+        "sign": {
+          "id": "aquarius",
+          "name": "Aquarius",
+          "names": {
+            "en": "Aquarius",
+            "hi": "कुंभ"
+          }
+        },
+        "to": "2026-09-28T18:30:00.000Z"
+      },
+      {
+        "entered": null,
+        "from": "2026-09-27T18:30:00.000Z",
+        "graha": {
+          "id": "ketu",
+          "name": "Ketu",
+          "names": {
+            "en": "Ketu",
+            "hi": "केतु"
+          }
+        },
+        "house": 5,
+        "leaves": null,
+        "nature": "unfavourable",
+        "retrograde": true,
+        "sign": {
+          "id": "leo",
+          "name": "Leo",
+          "names": {
+            "en": "Leo",
+            "hi": "सिंह"
+          }
+        },
+        "to": "2026-09-28T18:30:00.000Z"
+      }
+    ],
+    "from": "2026-09-27T18:30:00.000Z",
+    "period": "day",
+    "sign": {
+      "id": "aries",
+      "name": "Aries",
+      "names": {
+        "en": "Aries",
+        "hi": "मेष"
+      }
+    },
+    "summary": {
+      "level": "care",
+      "text": {
+        "en": "Today, small setbacks are possible, and meeting them with calm, practical steps keeps them small. A favourable stretch for ambitions; aim high, but keep an eye on what you truly need. Intuition sharpens while confidence may waver; trust quiet insight but check it before acting.",
+        "hi": "आज छोटी-मोटी बाधाएँ संभव हैं, और शांत, व्यावहारिक उपायों से उनका सामना करने पर वे छोटी ही रहती हैं। महत्त्वाकांक्षाओं के लिए यह अनुकूल समय है; ऊँचा लक्ष्य रखें, पर यह भी देखें कि वास्तव में आपको क्या चाहिए। अंतर्ज्ञान तीक्ष्ण होता है पर आत्मविश्वास डगमगा सकता है; शांत अंतर्दृष्टि पर भरोसा करें, पर कार्य से पहले उसकी पुष्टि करें।"
+      }
+    },
+    "to": "2026-09-28T18:30:00.000Z",
+    "disclaimer": {
+      "en": "These predictions are indicative. For a reading of your own chart, consult an astrologer.",
+      "hi": "ये फलादेश सांकेतिक हैं। अपनी कुंडली के व्यक्तिगत विश्लेषण के लिए किसी ज्योतिषी से परामर्श करें।"
+    }
+  },
+  "meta": {
+    "cached": false,
+    "ayanamsa": {
+      "id": "lahiri"
+    },
+    "timezone": {
+      "name": "Asia/Kolkata",
+      "utc_offset": "+05:30",
+      "source": "given"
+    },
+    "engine": "0.10.1",
+    "compute_ms": 6,
+    "language_fallback": [],
+    "credits": 5
+  }
+}

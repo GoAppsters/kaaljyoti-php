@@ -1,0 +1,3439 @@
+{
+  "status": "ok",
+  "data": {
+    "areas": [
+      {
+        "area": "self",
+        "basis": {
+          "aspects": [
+            {
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "house": 1,
+              "nature": -1
+            }
+          ],
+          "baseline": 1.2,
+          "factors": ["karaka_strong"],
+          "houses": [1],
+          "karakas": [
+            {
+              "combust": false,
+              "dignity": "exalted",
+              "graha": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "placed_in": 10,
+              "score": 1.5
+            }
+          ],
+          "lord": {
+            "combust": false,
+            "dignity": "none",
+            "functional_class": "auspicious",
+            "graha": {
+              "id": "moon",
+              "name": "Moon",
+              "names": {
+                "en": "Moon",
+                "hi": "चंद्र"
+              }
+            },
+            "house": 1,
+            "placed_in": 6,
+            "retrograde": false
+          },
+          "occupants": [
+            {
+              "graha": {
+                "id": "ketu",
+                "name": "Ketu",
+                "names": {
+                  "en": "Ketu",
+                  "hi": "केतु"
+                }
+              },
+              "house": 1,
+              "nature": 1
+            }
+          ],
+          "other_lords": [],
+          "pressure": "malefic_pressure",
+          "reasons": [
+            {
+              "code": "lord_in_dusthana",
+              "graha": {
+                "id": "moon",
+                "name": "Moon",
+                "names": {
+                  "en": "Moon",
+                  "hi": "चंद्र"
+                }
+              },
+              "group": "lord",
+              "house": 1,
+              "source": "PD 15.3, 15.5, 15.9; BPHS 14.1-2 note, 20.2",
+              "weight": -1.5
+            },
+            {
+              "code": "lord_benefic_contact",
+              "graha": {
+                "id": "moon",
+                "name": "Moon",
+                "names": {
+                  "en": "Moon",
+                  "hi": "चंद्र"
+                }
+              },
+              "group": "lord",
+              "house": 1,
+              "source": "BPHS 13.14-16 (Sharma p.193); PD 15.3",
+              "weight": 0.25
+            },
+            {
+              "code": "lord_relieved_by_benefic",
+              "graha": {
+                "id": "moon",
+                "name": "Moon",
+                "names": {
+                  "en": "Moon",
+                  "hi": "चंद्र"
+                }
+              },
+              "group": "lord",
+              "house": 1,
+              "source": "PD 15.3, 15.5",
+              "weight": 0.75
+            },
+            {
+              "code": "lord_functional_benefic",
+              "graha": {
+                "id": "moon",
+                "name": "Moon",
+                "names": {
+                  "en": "Moon",
+                  "hi": "चंद्र"
+                }
+              },
+              "group": "lord",
+              "house": 1,
+              "source": "LP S.6-12 (Jha p.19-25)",
+              "weight": 0.5
+            },
+            {
+              "code": "benefic_occupant",
+              "graha": {
+                "id": "ketu",
+                "name": "Ketu",
+                "names": {
+                  "en": "Ketu",
+                  "hi": "केतु"
+                }
+              },
+              "group": "influence",
+              "house": 1,
+              "source": "PD 15.1, 15.18; BPHS 13.14-16",
+              "weight": 0.75
+            },
+            {
+              "code": "malefic_aspect",
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "group": "influence",
+              "house": 1,
+              "source": "PD 15.1; BPHS 13.14-16",
+              "weight": -0.5
+            },
+            {
+              "code": "karaka_exalted",
+              "graha": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "group": "karaka",
+              "house": null,
+              "source": "PD 15.25; UK V (p.113-124); BPHS 16.2 note",
+              "weight": 1
+            },
+            {
+              "code": "karaka_in_kendra_trikona",
+              "graha": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "group": "karaka",
+              "house": null,
+              "source": "PD 15.25; UK V (p.113-124); BPHS 16.2 note",
+              "weight": 0.5
+            },
+            {
+              "code": "yoga_supports",
+              "graha": null,
+              "group": "yoga",
+              "house": null,
+              "source": "BPHS 13.14-16; the yoga's own verse (yoga content)",
+              "weight": 0.35,
+              "yoga": "gaja_kesari"
+            },
+            {
+              "code": "yoga_supports",
+              "graha": null,
+              "group": "yoga",
+              "house": null,
+              "source": "BPHS 13.14-16; the yoga's own verse (yoga content)",
+              "weight": 0.35,
+              "yoga": "raj_yoga"
+            }
+          ],
+          "relative": 1.25,
+          "score": 2.45,
+          "support": "karaka_strong",
+          "yogas": ["gaja_kesari", "raj_yoga"]
+        },
+        "level": "favourable",
+        "periods": [
+          {
+            "current": false,
+            "from": "2003-11-23T17:55:30.000Z",
+            "lord": {
+              "id": "sun",
+              "name": "Sun",
+              "names": {
+                "en": "Sun",
+                "hi": "सूर्य"
+              }
+            },
+            "to": "2009-11-23T05:55:30.000Z"
+          },
+          {
+            "current": false,
+            "from": "2009-11-23T05:55:30.000Z",
+            "lord": {
+              "id": "moon",
+              "name": "Moon",
+              "names": {
+                "en": "Moon",
+                "hi": "चंद्र"
+              }
+            },
+            "to": "2019-11-23T17:55:30.000Z"
+          }
+        ],
+        "text": {
+          "en": "Self-belief comes fairly easily to you. Over the years this inner steadiness tends to earn you respect, and it helps you recover quickly when life asks a lot. The natural source of vitality and self-belief in your chart is strong, supporting clear purpose, good energy and the courage to lead. This area was most active during the Moon mahadasha, from November 2009 to November 2019, and much of what took shape then still shows today.",
+          "hi": "आत्मविश्वास आपको अपेक्षाकृत सहजता से मिलता है। वर्षों के साथ यह भीतरी स्थिरता आपको सम्मान दिलाती है और कठिन समय में शीघ्र सँभलने में सहायता करती है। आपकी कुंडली में जीवनशक्ति और आत्मविश्वास का स्वाभाविक स्रोत बलवान है, जो स्पष्ट उद्देश्य, अच्छी ऊर्जा और नेतृत्व करने के साहस को बल देता है। यह क्षेत्र चंद्र की महादशा में, नवंबर 2009 से नवंबर 2019 तक, सबसे अधिक सक्रिय रहा, और उस काल में बनी अनेक बातें आज भी दिखाई देती हैं।"
+        }
+      },
+      {
+        "area": "wealth",
+        "basis": {
+          "aspects": [
+            {
+              "graha": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "house": 2,
+              "nature": 1
+            },
+            {
+              "graha": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "house": 11,
+              "nature": 1
+            }
+          ],
+          "baseline": 1,
+          "factors": ["lord_strong"],
+          "houses": [2, 11],
+          "karakas": [
+            {
+              "combust": false,
+              "dignity": "none",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "placed_in": 12,
+              "score": -0.5
+            }
+          ],
+          "lord": {
+            "combust": false,
+            "dignity": "exalted",
+            "functional_class": "inauspicious",
+            "graha": {
+              "id": "sun",
+              "name": "Sun",
+              "names": {
+                "en": "Sun",
+                "hi": "सूर्य"
+              }
+            },
+            "house": 2,
+            "placed_in": 10,
+            "retrograde": false
+          },
+          "occupants": [],
+          "other_lords": [
+            {
+              "combust": false,
+              "dignity": "exalted",
+              "functional_class": "inauspicious",
+              "graha": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "house": 11,
+              "placed_in": 9,
+              "retrograde": false
+            }
+          ],
+          "pressure": "karaka_weak",
+          "reasons": [
+            {
+              "code": "lord_in_kendra_trikona",
+              "graha": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "group": "lord",
+              "house": 2,
+              "source": "BPHS 14.1-2 (Sharma p.194); UK IV (p.80)",
+              "weight": 0.667
+            },
+            {
+              "code": "lord_exalted",
+              "graha": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "group": "lord",
+              "house": 2,
+              "source": "PD 15.3; BPHS 17.3, 23.2",
+              "weight": 0.667
+            },
+            {
+              "code": "lord_malefic_contact",
+              "graha": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "group": "lord",
+              "house": 2,
+              "source": "BPHS 13.14-16 (Sharma p.193); PD 15.3",
+              "weight": -0.167
+            },
+            {
+              "code": "lord_functional_malefic",
+              "graha": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "group": "lord",
+              "house": 2,
+              "source": "LP S.6-12 (Jha p.19-25)",
+              "weight": -0.333
+            },
+            {
+              "code": "benefic_aspect",
+              "graha": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "group": "influence",
+              "house": 2,
+              "source": "PD 15.1; BPHS 13.14-16",
+              "weight": 0.333
+            },
+            {
+              "code": "lord_in_kendra_trikona",
+              "graha": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "group": "lord",
+              "house": 11,
+              "source": "BPHS 14.1-2 (Sharma p.194); UK IV (p.80)",
+              "weight": 0.333
+            },
+            {
+              "code": "lord_exalted",
+              "graha": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "group": "lord",
+              "house": 11,
+              "source": "PD 15.3; BPHS 17.3, 23.2",
+              "weight": 0.333
+            },
+            {
+              "code": "lord_malefic_contact",
+              "graha": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "group": "lord",
+              "house": 11,
+              "source": "BPHS 13.14-16 (Sharma p.193); PD 15.3",
+              "weight": -0.083
+            },
+            {
+              "code": "benefic_aspect",
+              "graha": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "group": "influence",
+              "house": 11,
+              "source": "PD 15.1; BPHS 13.14-16",
+              "weight": 0.167
+            },
+            {
+              "code": "karaka_in_dusthana",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "group": "karaka",
+              "house": null,
+              "source": "PD 15.25; UK V (p.113-124); BPHS 16.2 note",
+              "weight": -0.5
+            },
+            {
+              "code": "yoga_supports",
+              "graha": null,
+              "group": "yoga",
+              "house": null,
+              "source": "BPHS 13.14-16; the yoga's own verse (yoga content)",
+              "weight": 0.35,
+              "yoga": "budha_aditya"
+            }
+          ],
+          "relative": 0.767,
+          "score": 1.767,
+          "support": "lord_strong",
+          "yogas": ["budha_aditya"]
+        },
+        "level": "favourable",
+        "periods": [
+          {
+            "current": false,
+            "from": "2003-11-23T17:55:30.000Z",
+            "lord": {
+              "id": "sun",
+              "name": "Sun",
+              "names": {
+                "en": "Sun",
+                "hi": "सूर्य"
+              }
+            },
+            "to": "2009-11-23T05:55:30.000Z"
+          },
+          {
+            "current": false,
+            "from": "2044-11-22T23:55:30.000Z",
+            "lord": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "to": "2060-11-22T23:55:30.000Z"
+          }
+        ],
+        "text": {
+          "en": "You are inclined to earn well and to hold on to what you gain. Sensible handling of money and a gracious way of speaking tend to bring both savings and goodwill. The rulers of money and gains are well placed, favouring a steady income, sensible savings and support from family when it counts. This area was most active during the Sun mahadasha, from November 2003 to November 2009, and much of what took shape then still shows today.",
+          "hi": "आप अच्छा अर्जित करने और प्राप्त धन को सँभालकर रखने की प्रवृत्ति रखते हैं। धन का विवेकपूर्ण प्रबंधन और मधुर वाणी संचय और सद्भाव दोनों लाते हैं। धन और लाभ के स्वामी अच्छी स्थिति में हैं, जो स्थिर आय, विवेकपूर्ण बचत और आवश्यकता के समय परिवार के सहयोग के अनुकूल है। यह क्षेत्र सूर्य की महादशा में, नवंबर 2003 से नवंबर 2009 तक, सबसे अधिक सक्रिय रहा, और उस काल में बनी अनेक बातें आज भी दिखाई देती हैं।"
+        }
+      },
+      {
+        "area": "siblings",
+        "basis": {
+          "aspects": [
+            {
+              "graha": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "house": 3,
+              "nature": 1
+            },
+            {
+              "graha": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "house": 3,
+              "nature": -1
+            }
+          ],
+          "baseline": 1.25,
+          "factors": ["lord_strong", "malefic_pressure"],
+          "houses": [3],
+          "karakas": [
+            {
+              "combust": false,
+              "dignity": "none",
+              "graha": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "placed_in": 8,
+              "score": -0.5
+            }
+          ],
+          "lord": {
+            "combust": false,
+            "dignity": "none",
+            "functional_class": "inauspicious",
+            "graha": {
+              "id": "mercury",
+              "name": "Mercury",
+              "names": {
+                "en": "Mercury",
+                "hi": "बुध"
+              }
+            },
+            "house": 3,
+            "placed_in": 10,
+            "retrograde": true
+          },
+          "occupants": [],
+          "other_lords": [],
+          "pressure": "malefic_pressure",
+          "reasons": [
+            {
+              "code": "lord_in_kendra_trikona",
+              "graha": {
+                "id": "mercury",
+                "name": "Mercury",
+                "names": {
+                  "en": "Mercury",
+                  "hi": "बुध"
+                }
+              },
+              "group": "lord",
+              "house": 3,
+              "source": "BPHS 14.1-2 (Sharma p.194); UK IV (p.80)",
+              "weight": 1
+            },
+            {
+              "code": "lord_malefic_contact",
+              "graha": {
+                "id": "mercury",
+                "name": "Mercury",
+                "names": {
+                  "en": "Mercury",
+                  "hi": "बुध"
+                }
+              },
+              "group": "lord",
+              "house": 3,
+              "source": "BPHS 13.14-16 (Sharma p.193); PD 15.3",
+              "weight": -0.25
+            },
+            {
+              "code": "benefic_aspect",
+              "graha": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "group": "influence",
+              "house": 3,
+              "source": "PD 15.1; BPHS 13.14-16",
+              "weight": 0.5
+            },
+            {
+              "code": "malefic_aspect",
+              "graha": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "group": "influence",
+              "house": 3,
+              "source": "PD 15.1; BPHS 13.14-16",
+              "weight": -0.5
+            },
+            {
+              "code": "karaka_in_dusthana",
+              "graha": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "group": "karaka",
+              "house": null,
+              "source": "PD 15.25; UK V (p.113-124); BPHS 16.2 note",
+              "weight": -0.5
+            },
+            {
+              "code": "yoga_supports",
+              "graha": null,
+              "group": "yoga",
+              "house": null,
+              "source": "BPHS 13.14-16; the yoga's own verse (yoga content)",
+              "weight": 0.35,
+              "yoga": "budha_aditya"
+            }
+          ],
+          "relative": -0.65,
+          "score": 0.6,
+          "support": "lord_strong",
+          "yogas": ["budha_aditya"]
+        },
+        "level": "mixed",
+        "periods": [
+          {
+            "current": true,
+            "from": "2019-11-23T17:55:30.000Z",
+            "lord": {
+              "id": "mars",
+              "name": "Mars",
+              "names": {
+                "en": "Mars",
+                "hi": "मंगल"
+              }
+            },
+            "to": "2026-11-23T11:55:30.000Z"
+          }
+        ],
+        "text": {
+          "en": "Courage is present in your chart but may come in bursts; you can act boldly at times and hesitate at others, so steady practice helps your confidence settle. What rules your initiative is well placed, lending you courage, a good flow of ideas and helpful ties with brothers and sisters. Harsher influences here sharpen your drive and boldness, though they can stir friction with siblings, so patient words keep those ties warm. This part of your life is active now, during the Mars mahadasha, which lasts until November 2026, so it is a good time to give it attention.",
+          "hi": "आपकी कुंडली में साहस है, पर वह रह-रहकर उभरता है; कभी आप निर्भीकता से कार्य करते हैं और कभी हिचकते हैं, इसलिए नियमित अभ्यास आपके आत्मविश्वास को स्थिर करता है। आपके उद्यम को नियंत्रित करने वाला तत्त्व अच्छी स्थिति में है, जो आपको साहस, विचारों का अच्छा प्रवाह और भाई-बहनों से सहयोगपूर्ण संबंध देता है। यहाँ के कठोर प्रभाव आपके उत्साह और निर्भीकता को तीक्ष्ण करते हैं, यद्यपि भाई-बहनों से कुछ टकराव ला सकते हैं, अतः धैर्यपूर्ण वचन संबंधों में आत्मीयता बनाए रखते हैं। मंगल की महादशा में जीवन का यह क्षेत्र अभी विशेष रूप से सक्रिय है और यह काल नवंबर 2026 तक चलेगा, अतः इस पर ध्यान देने का यह उपयुक्त समय है।"
+        }
+      },
+      {
+        "area": "home",
+        "basis": {
+          "aspects": [
+            {
+              "graha": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "house": 4,
+              "nature": -1
+            },
+            {
+              "graha": {
+                "id": "mercury",
+                "name": "Mercury",
+                "names": {
+                  "en": "Mercury",
+                  "hi": "बुध"
+                }
+              },
+              "house": 4,
+              "nature": -1
+            },
+            {
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "house": 4,
+              "nature": 1
+            },
+            {
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "house": 4,
+              "nature": -1
+            }
+          ],
+          "baseline": 0.95,
+          "factors": ["mixed_signals"],
+          "houses": [4],
+          "karakas": [
+            {
+              "combust": false,
+              "dignity": "none",
+              "graha": {
+                "id": "moon",
+                "name": "Moon",
+                "names": {
+                  "en": "Moon",
+                  "hi": "चंद्र"
+                }
+              },
+              "placed_in": 6,
+              "score": -0.5
+            }
+          ],
+          "lord": {
+            "combust": false,
+            "dignity": "exalted",
+            "functional_class": "inauspicious",
+            "graha": {
+              "id": "venus",
+              "name": "Venus",
+              "names": {
+                "en": "Venus",
+                "hi": "शुक्र"
+              }
+            },
+            "house": 4,
+            "placed_in": 9,
+            "retrograde": false
+          },
+          "occupants": [],
+          "other_lords": [],
+          "pressure": "malefic_pressure",
+          "reasons": [
+            {
+              "code": "lord_in_kendra_trikona",
+              "graha": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "group": "lord",
+              "house": 4,
+              "source": "BPHS 14.1-2 (Sharma p.194); UK IV (p.80)",
+              "weight": 1
+            },
+            {
+              "code": "lord_exalted",
+              "graha": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "group": "lord",
+              "house": 4,
+              "source": "PD 15.3; BPHS 17.3, 23.2",
+              "weight": 1
+            },
+            {
+              "code": "lord_malefic_contact",
+              "graha": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "group": "lord",
+              "house": 4,
+              "source": "BPHS 13.14-16 (Sharma p.193); PD 15.3",
+              "weight": -0.25
+            },
+            {
+              "code": "lord_functional_malefic",
+              "graha": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "group": "lord",
+              "house": 4,
+              "source": "LP S.6-12 (Jha p.19-25)",
+              "weight": -0.5
+            },
+            {
+              "code": "malefic_aspect",
+              "graha": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "group": "influence",
+              "house": 4,
+              "source": "PD 15.1; BPHS 13.14-16",
+              "weight": -0.5
+            },
+            {
+              "code": "malefic_aspect",
+              "graha": {
+                "id": "mercury",
+                "name": "Mercury",
+                "names": {
+                  "en": "Mercury",
+                  "hi": "बुध"
+                }
+              },
+              "group": "influence",
+              "house": 4,
+              "source": "PD 15.1; BPHS 13.14-16",
+              "weight": -0.5
+            },
+            {
+              "code": "benefic_aspect",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "group": "influence",
+              "house": 4,
+              "source": "PD 15.1; BPHS 13.14-16",
+              "weight": 0.5
+            },
+            {
+              "code": "malefic_aspect",
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "group": "influence",
+              "house": 4,
+              "source": "PD 15.1; BPHS 13.14-16",
+              "weight": -0.5
+            },
+            {
+              "code": "karaka_in_dusthana",
+              "graha": {
+                "id": "moon",
+                "name": "Moon",
+                "names": {
+                  "en": "Moon",
+                  "hi": "चंद्र"
+                }
+              },
+              "group": "karaka",
+              "house": null,
+              "source": "PD 15.25; UK V (p.113-124); BPHS 16.2 note",
+              "weight": -0.5
+            }
+          ],
+          "relative": -1.2,
+          "score": -0.25,
+          "support": "lord_strong",
+          "yogas": []
+        },
+        "level": "mixed",
+        "periods": [
+          {
+            "current": false,
+            "from": "1990-05-14T05:00:00.000Z",
+            "lord": {
+              "id": "venus",
+              "name": "Venus",
+              "names": {
+                "en": "Venus",
+                "hi": "शुक्र"
+              }
+            },
+            "to": "2003-11-23T17:55:30.000Z"
+          },
+          {
+            "current": false,
+            "from": "2009-11-23T05:55:30.000Z",
+            "lord": {
+              "id": "moon",
+              "name": "Moon",
+              "names": {
+                "en": "Moon",
+                "hi": "चंद्र"
+              }
+            },
+            "to": "2019-11-23T17:55:30.000Z"
+          }
+        ],
+        "text": {
+          "en": "Your chart shows a real but uneven promise of peace of mind. Simple routines, a tidy and restful living space and time away from noise tend to steady your inner world. Home life shows comfort and unrest in similar measure, so a settled home may take time to build, and patience with family pays off. This area was most active during the Moon mahadasha, from November 2009 to November 2019, and much of what took shape then still shows today.",
+          "hi": "आपकी कुंडली मानसिक शांति का वास्तविक पर असमान संकेत देती है। सरल दिनचर्या, व्यवस्थित और विश्रामदायक निवास तथा कोलाहल से दूर कुछ समय आपके अंतर्मन को स्थिर करते हैं। गृहस्थ जीवन में सुख और अशांति लगभग समान मात्रा में दिखते हैं, इसलिए स्थिर घर बनाने में समय लग सकता है, और परिवार के प्रति धैर्य फल देता है। यह क्षेत्र चंद्र की महादशा में, नवंबर 2009 से नवंबर 2019 तक, सबसे अधिक सक्रिय रहा, और उस काल में बनी अनेक बातें आज भी दिखाई देती हैं।"
+        }
+      },
+      {
+        "area": "education",
+        "basis": {
+          "aspects": [
+            {
+              "graha": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "house": 4,
+              "nature": -1
+            },
+            {
+              "graha": {
+                "id": "mercury",
+                "name": "Mercury",
+                "names": {
+                  "en": "Mercury",
+                  "hi": "बुध"
+                }
+              },
+              "house": 4,
+              "nature": -1
+            },
+            {
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "house": 4,
+              "nature": 1
+            },
+            {
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "house": 4,
+              "nature": -1
+            },
+            {
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "house": 9,
+              "nature": -1
+            }
+          ],
+          "baseline": 0.9,
+          "factors": ["lord_strong", "malefic_pressure"],
+          "houses": [4, 5, 9],
+          "karakas": [
+            {
+              "combust": false,
+              "dignity": "none",
+              "graha": {
+                "id": "mercury",
+                "name": "Mercury",
+                "names": {
+                  "en": "Mercury",
+                  "hi": "बुध"
+                }
+              },
+              "placed_in": 10,
+              "score": 0.5
+            },
+            {
+              "combust": false,
+              "dignity": "none",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "placed_in": 12,
+              "score": -0.5
+            }
+          ],
+          "lord": {
+            "combust": false,
+            "dignity": "exalted",
+            "functional_class": "inauspicious",
+            "graha": {
+              "id": "venus",
+              "name": "Venus",
+              "names": {
+                "en": "Venus",
+                "hi": "शुक्र"
+              }
+            },
+            "house": 4,
+            "placed_in": 9,
+            "retrograde": false
+          },
+          "occupants": [
+            {
+              "graha": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "house": 9,
+              "nature": -1
+            }
+          ],
+          "other_lords": [
+            {
+              "combust": false,
+              "dignity": "none",
+              "functional_class": "yogakaraka",
+              "graha": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "house": 5,
+              "placed_in": 8,
+              "retrograde": false
+            },
+            {
+              "combust": false,
+              "dignity": "none",
+              "functional_class": "blemished_auspicious",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "house": 9,
+              "placed_in": 12,
+              "retrograde": false
+            }
+          ],
+          "pressure": "malefic_pressure",
+          "reasons": [
+            {
+              "code": "lord_in_kendra_trikona",
+              "graha": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "group": "lord",
+              "house": 4,
+              "source": "BPHS 14.1-2 (Sharma p.194); UK IV (p.80)",
+              "weight": 0.5
+            },
+            {
+              "code": "lord_exalted",
+              "graha": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "group": "lord",
+              "house": 4,
+              "source": "PD 15.3; BPHS 17.3, 23.2",
+              "weight": 0.5
+            },
+            {
+              "code": "lord_malefic_contact",
+              "graha": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "group": "lord",
+              "house": 4,
+              "source": "BPHS 13.14-16 (Sharma p.193); PD 15.3",
+              "weight": -0.125
+            },
+            {
+              "code": "lord_functional_malefic",
+              "graha": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "group": "lord",
+              "house": 4,
+              "source": "LP S.6-12 (Jha p.19-25)",
+              "weight": -0.25
+            },
+            {
+              "code": "malefic_aspect",
+              "graha": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "group": "influence",
+              "house": 4,
+              "source": "PD 15.1; BPHS 13.14-16",
+              "weight": -0.25
+            },
+            {
+              "code": "malefic_aspect",
+              "graha": {
+                "id": "mercury",
+                "name": "Mercury",
+                "names": {
+                  "en": "Mercury",
+                  "hi": "बुध"
+                }
+              },
+              "group": "influence",
+              "house": 4,
+              "source": "PD 15.1; BPHS 13.14-16",
+              "weight": -0.25
+            },
+            {
+              "code": "benefic_aspect",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "group": "influence",
+              "house": 4,
+              "source": "PD 15.1; BPHS 13.14-16",
+              "weight": 0.25
+            },
+            {
+              "code": "malefic_aspect",
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "group": "influence",
+              "house": 4,
+              "source": "PD 15.1; BPHS 13.14-16",
+              "weight": -0.25
+            },
+            {
+              "code": "lord_in_dusthana",
+              "graha": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "group": "lord",
+              "house": 5,
+              "source": "PD 15.3, 15.5, 15.9; BPHS 14.1-2 note, 20.2",
+              "weight": -0.375
+            },
+            {
+              "code": "lord_benefic_contact",
+              "graha": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "group": "lord",
+              "house": 5,
+              "source": "BPHS 13.14-16 (Sharma p.193); PD 15.3",
+              "weight": 0.063
+            },
+            {
+              "code": "lord_relieved_by_benefic",
+              "graha": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "group": "lord",
+              "house": 5,
+              "source": "PD 15.3, 15.5",
+              "weight": 0.188
+            },
+            {
+              "code": "lord_yogakaraka",
+              "graha": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "group": "lord",
+              "house": 5,
+              "source": "LP S.6-12 (Jha p.19-25)",
+              "weight": 0.188
+            },
+            {
+              "code": "lord_in_dusthana",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "group": "lord",
+              "house": 9,
+              "source": "PD 15.3, 15.5, 15.9; BPHS 14.1-2 note, 20.2",
+              "weight": -0.375
+            },
+            {
+              "code": "lord_enemy_sign",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "group": "lord",
+              "house": 9,
+              "source": "PD 15.3",
+              "weight": -0.125
+            },
+            {
+              "code": "lord_benefic_contact",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "group": "lord",
+              "house": 9,
+              "source": "BPHS 13.14-16 (Sharma p.193); PD 15.3",
+              "weight": 0.063
+            },
+            {
+              "code": "lord_relieved_by_benefic",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "group": "lord",
+              "house": 9,
+              "source": "PD 15.3, 15.5",
+              "weight": 0.25
+            },
+            {
+              "code": "lord_functional_benefic_blemished",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "group": "lord",
+              "house": 9,
+              "source": "LP S.6-12 (Jha p.19-25)",
+              "weight": 0.063
+            },
+            {
+              "code": "malefic_occupant",
+              "graha": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "group": "influence",
+              "house": 9,
+              "source": "PD 15.1, 15.18; BPHS 13.14-16",
+              "weight": -0.188
+            },
+            {
+              "code": "malefic_aspect",
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "group": "influence",
+              "house": 9,
+              "source": "PD 15.1; BPHS 13.14-16",
+              "weight": -0.125
+            },
+            {
+              "code": "karaka_in_kendra_trikona",
+              "graha": {
+                "id": "mercury",
+                "name": "Mercury",
+                "names": {
+                  "en": "Mercury",
+                  "hi": "बुध"
+                }
+              },
+              "group": "karaka",
+              "house": null,
+              "source": "PD 15.25; UK V (p.113-124); BPHS 16.2 note",
+              "weight": 0.25
+            },
+            {
+              "code": "karaka_in_dusthana",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "group": "karaka",
+              "house": null,
+              "source": "PD 15.25; UK V (p.113-124); BPHS 16.2 note",
+              "weight": -0.25
+            },
+            {
+              "code": "yoga_supports",
+              "graha": null,
+              "group": "yoga",
+              "house": null,
+              "source": "BPHS 13.14-16; the yoga's own verse (yoga content)",
+              "weight": 0.175,
+              "yoga": "gaja_kesari"
+            },
+            {
+              "code": "yoga_supports",
+              "graha": null,
+              "group": "yoga",
+              "house": null,
+              "source": "BPHS 13.14-16; the yoga's own verse (yoga content)",
+              "weight": 0.175,
+              "yoga": "raj_yoga"
+            },
+            {
+              "code": "yoga_supports",
+              "graha": null,
+              "group": "yoga",
+              "house": null,
+              "source": "BPHS 13.14-16; the yoga's own verse (yoga content)",
+              "weight": 0.175,
+              "yoga": "harsha"
+            },
+            {
+              "code": "yoga_afflicts",
+              "graha": null,
+              "group": "yoga",
+              "house": null,
+              "source": "BPHS 13.14-16; the yoga's own verse (yoga content)",
+              "weight": -0.175,
+              "yoga": "mangal_dosha"
+            }
+          ],
+          "relative": -0.8,
+          "score": 0.1,
+          "support": "lord_strong",
+          "yogas": ["gaja_kesari", "raj_yoga", "harsha", "mangal_dosha"]
+        },
+        "level": "mixed",
+        "periods": [
+          {
+            "current": false,
+            "from": "1990-05-14T05:00:00.000Z",
+            "lord": {
+              "id": "venus",
+              "name": "Venus",
+              "names": {
+                "en": "Venus",
+                "hi": "शुक्र"
+              }
+            },
+            "to": "2003-11-23T17:55:30.000Z"
+          },
+          {
+            "current": false,
+            "from": "2044-11-22T23:55:30.000Z",
+            "lord": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "to": "2060-11-22T23:55:30.000Z"
+          }
+        ],
+        "text": {
+          "en": "Your intellect is capable, and it grows most through discipline and guidance. A good mentor and a regular study routine tend to unlock abilities you may not yet see in yourself. The rulers of learning are well placed, favouring a keen mind, steady progress in studies and teachers who recognise your ability. Harsher influences on your studies may bring distraction or a change of subject midway, so a quiet place to work and firm goals help. This area comes to the fore during the Jupiter mahadasha, from November 2044 to November 2060, when effort put into it tends to bear more fruit.",
+          "hi": "आपकी बुद्धि सक्षम है, और अनुशासन तथा मार्गदर्शन से सबसे अधिक विकसित होती है। अच्छा गुरु और नियमित अध्ययन-क्रम उन क्षमताओं को खोलते हैं जिन्हें आप अभी स्वयं में नहीं देख पाते। विद्या के स्वामी अच्छी स्थिति में हैं, जो तीक्ष्ण बुद्धि, अध्ययन में स्थिर प्रगति और आपकी योग्यता को पहचानने वाले शिक्षकों के अनुकूल है। आपके अध्ययन पर कठोर प्रभाव ध्यान भटकाने या बीच में विषय बदलने की स्थिति ला सकते हैं, अतः पढ़ने का शांत स्थान और दृढ़ लक्ष्य सहायक होते हैं। यह क्षेत्र गुरु की महादशा में, नवंबर 2044 से नवंबर 2060 तक, विशेष रूप से सामने आएगा, जब इस पर किया गया प्रयास प्रायः अधिक फल देता है।"
+        }
+      },
+      {
+        "area": "children",
+        "basis": {
+          "aspects": [],
+          "baseline": 1.2,
+          "factors": ["karaka_weak", "lord_strong"],
+          "houses": [5],
+          "karakas": [
+            {
+              "combust": false,
+              "dignity": "none",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "placed_in": 12,
+              "score": -0.5
+            }
+          ],
+          "lord": {
+            "combust": false,
+            "dignity": "none",
+            "functional_class": "yogakaraka",
+            "graha": {
+              "id": "mars",
+              "name": "Mars",
+              "names": {
+                "en": "Mars",
+                "hi": "मंगल"
+              }
+            },
+            "house": 5,
+            "placed_in": 8,
+            "retrograde": false
+          },
+          "occupants": [],
+          "other_lords": [],
+          "pressure": "karaka_weak",
+          "reasons": [
+            {
+              "code": "lord_in_dusthana",
+              "graha": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "group": "lord",
+              "house": 5,
+              "source": "PD 15.3, 15.5, 15.9; BPHS 14.1-2 note, 20.2",
+              "weight": -1.5
+            },
+            {
+              "code": "lord_benefic_contact",
+              "graha": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "group": "lord",
+              "house": 5,
+              "source": "BPHS 13.14-16 (Sharma p.193); PD 15.3",
+              "weight": 0.25
+            },
+            {
+              "code": "lord_relieved_by_benefic",
+              "graha": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "group": "lord",
+              "house": 5,
+              "source": "PD 15.3, 15.5",
+              "weight": 0.75
+            },
+            {
+              "code": "lord_yogakaraka",
+              "graha": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "group": "lord",
+              "house": 5,
+              "source": "LP S.6-12 (Jha p.19-25)",
+              "weight": 0.75
+            },
+            {
+              "code": "karaka_in_dusthana",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "group": "karaka",
+              "house": null,
+              "source": "PD 15.25; UK V (p.113-124); BPHS 16.2 note",
+              "weight": -0.5
+            },
+            {
+              "code": "yoga_afflicts",
+              "graha": null,
+              "group": "yoga",
+              "house": null,
+              "source": "BPHS 13.14-16; the yoga's own verse (yoga content)",
+              "weight": -0.35,
+              "yoga": "mangal_dosha"
+            }
+          ],
+          "relative": -1.8,
+          "score": -0.6,
+          "support": "lord_strong",
+          "yogas": ["mangal_dosha"]
+        },
+        "level": "care",
+        "periods": [
+          {
+            "current": true,
+            "from": "2019-11-23T17:55:30.000Z",
+            "lord": {
+              "id": "mars",
+              "name": "Mars",
+              "names": {
+                "en": "Mars",
+                "hi": "मंगल"
+              }
+            },
+            "to": "2026-11-23T11:55:30.000Z"
+          },
+          {
+            "current": false,
+            "from": "2044-11-22T23:55:30.000Z",
+            "lord": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "to": "2060-11-22T23:55:30.000Z"
+          }
+        ],
+        "text": {
+          "en": "Raising and guiding the young may ask a little more of you. Consistent affection, clear boundaries and time spent together tend to build bonds that grow stronger with the years. The natural source of blessings through children and wisdom is modest in your chart, so these matters reward patience, care and timely advice from elders. What governs children and creativity is well placed, favouring joy through children, a lively creative spark and sound judgement in plans. This part of your life is active now, during the Mars mahadasha, which lasts until November 2026, so it is a good time to give it attention.",
+          "hi": "युवा पीढ़ी का पालन-पोषण और मार्गदर्शन आपसे कुछ अधिक माँग सकता है। निरंतर स्नेह, स्पष्ट सीमाएँ और साथ बिताया समय ऐसे संबंध बनाते हैं जो वर्षों के साथ सुदृढ़ होते हैं। आपकी कुंडली में संतान-सुख और ज्ञान का स्वाभाविक स्रोत साधारण बल का है, अतः ये विषय धैर्य, देखभाल और बड़ों के समयोचित परामर्श से अच्छे फल देते हैं। संतान और सृजनशीलता को नियंत्रित करने वाला तत्त्व अच्छी स्थिति में है, जो संतान से आनंद, जीवंत सृजनात्मक प्रतिभा और योजनाओं में अच्छे विवेक के अनुकूल है। मंगल की महादशा में जीवन का यह क्षेत्र अभी विशेष रूप से सक्रिय है और यह काल नवंबर 2026 तक चलेगा, अतः इस पर ध्यान देने का यह उपयुक्त समय है।"
+        }
+      },
+      {
+        "area": "health",
+        "basis": {
+          "aspects": [
+            {
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "house": 1,
+              "nature": -1
+            },
+            {
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "house": 8,
+              "nature": 1
+            }
+          ],
+          "baseline": 1.35,
+          "factors": ["karaka_strong"],
+          "houses": [6, 1, 8],
+          "karakas": [
+            {
+              "combust": false,
+              "dignity": "exalted",
+              "graha": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "placed_in": 10,
+              "score": 1.5
+            },
+            {
+              "combust": false,
+              "dignity": "own_sign",
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "placed_in": 7,
+              "score": 1
+            }
+          ],
+          "lord": {
+            "combust": false,
+            "dignity": "none",
+            "functional_class": "blemished_auspicious",
+            "graha": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "house": 6,
+            "placed_in": 12,
+            "retrograde": false
+          },
+          "occupants": [
+            {
+              "graha": {
+                "id": "moon",
+                "name": "Moon",
+                "names": {
+                  "en": "Moon",
+                  "hi": "चंद्र"
+                }
+              },
+              "house": 6,
+              "nature": 1
+            },
+            {
+              "graha": {
+                "id": "ketu",
+                "name": "Ketu",
+                "names": {
+                  "en": "Ketu",
+                  "hi": "केतु"
+                }
+              },
+              "house": 1,
+              "nature": 1
+            },
+            {
+              "graha": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "house": 8,
+              "nature": 1
+            }
+          ],
+          "other_lords": [
+            {
+              "combust": false,
+              "dignity": "none",
+              "functional_class": "auspicious",
+              "graha": {
+                "id": "moon",
+                "name": "Moon",
+                "names": {
+                  "en": "Moon",
+                  "hi": "चंद्र"
+                }
+              },
+              "house": 1,
+              "placed_in": 6,
+              "retrograde": false
+            },
+            {
+              "combust": false,
+              "dignity": "own_sign",
+              "functional_class": "inauspicious",
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "house": 8,
+              "placed_in": 7,
+              "retrograde": true
+            }
+          ],
+          "pressure": "malefic_pressure",
+          "reasons": [
+            {
+              "code": "lord_viparita",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "group": "lord",
+              "house": 6,
+              "source": "PD 6.63-69 (p.79-80); BPHS 19.68 note",
+              "weight": 0
+            },
+            {
+              "code": "lord_enemy_sign",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "group": "lord",
+              "house": 6,
+              "source": "PD 15.3",
+              "weight": -0.25
+            },
+            {
+              "code": "lord_aspects_house",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "group": "lord",
+              "house": 6,
+              "source": "BPHS 13.14-16 (Sharma p.193)",
+              "weight": 0.25
+            },
+            {
+              "code": "lagna_lord_in_house",
+              "graha": {
+                "id": "moon",
+                "name": "Moon",
+                "names": {
+                  "en": "Moon",
+                  "hi": "चंद्र"
+                }
+              },
+              "group": "influence",
+              "house": 6,
+              "source": "PD 15.9-10",
+              "weight": 0.375
+            },
+            {
+              "code": "lord_in_dusthana",
+              "graha": {
+                "id": "moon",
+                "name": "Moon",
+                "names": {
+                  "en": "Moon",
+                  "hi": "चंद्र"
+                }
+              },
+              "group": "lord",
+              "house": 1,
+              "source": "PD 15.3, 15.5, 15.9; BPHS 14.1-2 note, 20.2",
+              "weight": -0.375
+            },
+            {
+              "code": "lord_benefic_contact",
+              "graha": {
+                "id": "moon",
+                "name": "Moon",
+                "names": {
+                  "en": "Moon",
+                  "hi": "चंद्र"
+                }
+              },
+              "group": "lord",
+              "house": 1,
+              "source": "BPHS 13.14-16 (Sharma p.193); PD 15.3",
+              "weight": 0.063
+            },
+            {
+              "code": "lord_relieved_by_benefic",
+              "graha": {
+                "id": "moon",
+                "name": "Moon",
+                "names": {
+                  "en": "Moon",
+                  "hi": "चंद्र"
+                }
+              },
+              "group": "lord",
+              "house": 1,
+              "source": "PD 15.3, 15.5",
+              "weight": 0.188
+            },
+            {
+              "code": "lord_functional_benefic",
+              "graha": {
+                "id": "moon",
+                "name": "Moon",
+                "names": {
+                  "en": "Moon",
+                  "hi": "चंद्र"
+                }
+              },
+              "group": "lord",
+              "house": 1,
+              "source": "LP S.6-12 (Jha p.19-25)",
+              "weight": 0.125
+            },
+            {
+              "code": "benefic_occupant",
+              "graha": {
+                "id": "ketu",
+                "name": "Ketu",
+                "names": {
+                  "en": "Ketu",
+                  "hi": "केतु"
+                }
+              },
+              "group": "influence",
+              "house": 1,
+              "source": "PD 15.1, 15.18; BPHS 13.14-16",
+              "weight": 0.188
+            },
+            {
+              "code": "malefic_aspect",
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "group": "influence",
+              "house": 1,
+              "source": "PD 15.1; BPHS 13.14-16",
+              "weight": -0.125
+            },
+            {
+              "code": "lord_in_kendra_trikona",
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "group": "lord",
+              "house": 8,
+              "source": "BPHS 14.1-2 (Sharma p.194); UK IV (p.80)",
+              "weight": 0.25
+            },
+            {
+              "code": "lord_own_sign",
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "group": "lord",
+              "house": 8,
+              "source": "BPHS 17.3, 20.1, 23.2",
+              "weight": 0.188
+            },
+            {
+              "code": "lord_malefic_contact",
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "group": "lord",
+              "house": 8,
+              "source": "BPHS 13.14-16 (Sharma p.193); PD 15.3",
+              "weight": -0.063
+            },
+            {
+              "code": "benefic_occupant",
+              "graha": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "group": "influence",
+              "house": 8,
+              "source": "PD 15.1, 15.18; BPHS 13.14-16",
+              "weight": 0.188
+            },
+            {
+              "code": "benefic_aspect",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "group": "influence",
+              "house": 8,
+              "source": "PD 15.1; BPHS 13.14-16",
+              "weight": 0.125
+            },
+            {
+              "code": "hemmed_by_malefics",
+              "graha": null,
+              "group": "influence",
+              "house": 8,
+              "source": "PD 15.6; UK IV (p.81)",
+              "weight": -0.125
+            },
+            {
+              "code": "karaka_exalted",
+              "graha": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "group": "karaka",
+              "house": null,
+              "source": "PD 15.25; UK V (p.113-124); BPHS 16.2 note",
+              "weight": 0.5
+            },
+            {
+              "code": "karaka_in_kendra_trikona",
+              "graha": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "group": "karaka",
+              "house": null,
+              "source": "PD 15.25; UK V (p.113-124); BPHS 16.2 note",
+              "weight": 0.25
+            },
+            {
+              "code": "karaka_own_sign",
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "group": "karaka",
+              "house": null,
+              "source": "PD 15.25; UK V (p.113-124); BPHS 16.2 note",
+              "weight": 0.25
+            },
+            {
+              "code": "karaka_in_kendra_trikona",
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "group": "karaka",
+              "house": null,
+              "source": "PD 15.25; UK V (p.113-124); BPHS 16.2 note",
+              "weight": 0.25
+            },
+            {
+              "code": "yoga_supports",
+              "graha": null,
+              "group": "yoga",
+              "house": null,
+              "source": "BPHS 13.14-16; the yoga's own verse (yoga content)",
+              "weight": 0.35,
+              "yoga": "gaja_kesari"
+            },
+            {
+              "code": "yoga_supports",
+              "graha": null,
+              "group": "yoga",
+              "house": null,
+              "source": "BPHS 13.14-16; the yoga's own verse (yoga content)",
+              "weight": 0.35,
+              "yoga": "raj_yoga"
+            },
+            {
+              "code": "yoga_supports",
+              "graha": null,
+              "group": "yoga",
+              "house": null,
+              "source": "BPHS 13.14-16; the yoga's own verse (yoga content)",
+              "weight": 0,
+              "yoga": "harsha"
+            },
+            {
+              "code": "yoga_afflicts",
+              "graha": null,
+              "group": "yoga",
+              "house": null,
+              "source": "BPHS 13.14-16; the yoga's own verse (yoga content)",
+              "weight": -0.175,
+              "yoga": "mangal_dosha"
+            },
+            {
+              "code": "yoga_supports",
+              "graha": null,
+              "group": "yoga",
+              "house": null,
+              "source": "BPHS 13.14-16; the yoga's own verse (yoga content)",
+              "weight": 0,
+              "yoga": "shasha"
+            }
+          ],
+          "relative": 1.425,
+          "score": 2.775,
+          "support": "karaka_strong",
+          "yogas": ["gaja_kesari", "raj_yoga", "harsha", "mangal_dosha", "shasha"]
+        },
+        "level": "favourable",
+        "periods": [
+          {
+            "current": false,
+            "from": "2003-11-23T17:55:30.000Z",
+            "lord": {
+              "id": "sun",
+              "name": "Sun",
+              "names": {
+                "en": "Sun",
+                "hi": "सूर्य"
+              }
+            },
+            "to": "2009-11-23T05:55:30.000Z"
+          },
+          {
+            "current": false,
+            "from": "2009-11-23T05:55:30.000Z",
+            "lord": {
+              "id": "moon",
+              "name": "Moon",
+              "names": {
+                "en": "Moon",
+                "hi": "चंद्र"
+              }
+            },
+            "to": "2019-11-23T17:55:30.000Z"
+          },
+          {
+            "current": false,
+            "from": "2044-11-22T23:55:30.000Z",
+            "lord": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "to": "2060-11-22T23:55:30.000Z"
+          },
+          {
+            "current": false,
+            "from": "2060-11-22T23:55:30.000Z",
+            "lord": {
+              "id": "saturn",
+              "name": "Saturn",
+              "names": {
+                "en": "Saturn",
+                "hi": "शनि"
+              }
+            },
+            "to": "2070-05-14T05:00:00.000Z"
+          }
+        ],
+        "text": {
+          "en": "Your chart gives you natural resilience: you tend to bounce back well, handle pressure calmly and overcome obstacles and rivals through persistence rather than conflict. The natural sources of vitality and endurance in your chart are strong, lending a robust constitution and the stamina to see hard tasks through. This area was most active during the Moon mahadasha, from November 2009 to November 2019, and much of what took shape then still shows today.",
+          "hi": "आपकी कुंडली आपको स्वाभाविक सहनशीलता देती है: आप शीघ्र पुनः ऊर्जा पा लेते हैं, दबाव शांति से सँभालते हैं और बाधाओं तथा प्रतिद्वंद्वियों पर टकराव से नहीं, लगन से विजय पाते हैं। आपकी कुंडली में जीवनशक्ति और धैर्य-क्षमता के स्वाभाविक स्रोत बलवान हैं, जो सुदृढ़ शरीर और कठिन कार्यों को पूरा करने की सामर्थ्य देते हैं। यह क्षेत्र चंद्र की महादशा में, नवंबर 2009 से नवंबर 2019 तक, सबसे अधिक सक्रिय रहा, और उस काल में बनी अनेक बातें आज भी दिखाई देती हैं।"
+        }
+      },
+      {
+        "area": "marriage",
+        "basis": {
+          "aspects": [],
+          "baseline": 0.7,
+          "factors": ["karaka_strong"],
+          "houses": [7],
+          "karakas": [
+            {
+              "combust": false,
+              "dignity": "exalted",
+              "graha": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "placed_in": 9,
+              "score": 1.5
+            }
+          ],
+          "lord": {
+            "combust": false,
+            "dignity": "own_sign",
+            "functional_class": "inauspicious",
+            "graha": {
+              "id": "saturn",
+              "name": "Saturn",
+              "names": {
+                "en": "Saturn",
+                "hi": "शनि"
+              }
+            },
+            "house": 7,
+            "placed_in": 7,
+            "retrograde": true
+          },
+          "occupants": [
+            {
+              "graha": {
+                "id": "rahu",
+                "name": "Rahu",
+                "names": {
+                  "en": "Rahu",
+                  "hi": "राहु"
+                }
+              },
+              "house": 7,
+              "nature": -1
+            }
+          ],
+          "other_lords": [],
+          "pressure": "malefic_pressure",
+          "reasons": [
+            {
+              "code": "lord_in_kendra_trikona",
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "group": "lord",
+              "house": 7,
+              "source": "BPHS 14.1-2 (Sharma p.194); UK IV (p.80)",
+              "weight": 1
+            },
+            {
+              "code": "lord_own_sign",
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "group": "lord",
+              "house": 7,
+              "source": "BPHS 17.3, 20.1, 23.2",
+              "weight": 0.75
+            },
+            {
+              "code": "lord_functional_malefic",
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "group": "lord",
+              "house": 7,
+              "source": "LP S.6-12 (Jha p.19-25)",
+              "weight": -0.5
+            },
+            {
+              "code": "malefic_occupant",
+              "graha": {
+                "id": "rahu",
+                "name": "Rahu",
+                "names": {
+                  "en": "Rahu",
+                  "hi": "राहु"
+                }
+              },
+              "group": "influence",
+              "house": 7,
+              "source": "PD 15.1, 15.18; BPHS 13.14-16",
+              "weight": -0.75
+            },
+            {
+              "code": "karaka_exalted",
+              "graha": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "group": "karaka",
+              "house": null,
+              "source": "PD 15.25; UK V (p.113-124); BPHS 16.2 note",
+              "weight": 1
+            },
+            {
+              "code": "karaka_in_kendra_trikona",
+              "graha": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "group": "karaka",
+              "house": null,
+              "source": "PD 15.25; UK V (p.113-124); BPHS 16.2 note",
+              "weight": 0.5
+            },
+            {
+              "code": "yoga_supports",
+              "graha": null,
+              "group": "yoga",
+              "house": null,
+              "source": "BPHS 13.14-16; the yoga's own verse (yoga content)",
+              "weight": 0.35,
+              "yoga": "shasha"
+            }
+          ],
+          "relative": 1.65,
+          "score": 2.35,
+          "support": "karaka_strong",
+          "yogas": ["shasha"]
+        },
+        "level": "favourable",
+        "periods": [
+          {
+            "current": false,
+            "from": "1990-05-14T05:00:00.000Z",
+            "lord": {
+              "id": "venus",
+              "name": "Venus",
+              "names": {
+                "en": "Venus",
+                "hi": "शुक्र"
+              }
+            },
+            "to": "2003-11-23T17:55:30.000Z"
+          },
+          {
+            "current": false,
+            "from": "2026-11-23T11:55:30.000Z",
+            "lord": {
+              "id": "rahu",
+              "name": "Rahu",
+              "names": {
+                "en": "Rahu",
+                "hi": "राहु"
+              }
+            },
+            "to": "2044-11-22T23:55:30.000Z"
+          },
+          {
+            "current": false,
+            "from": "2060-11-22T23:55:30.000Z",
+            "lord": {
+              "id": "saturn",
+              "name": "Saturn",
+              "names": {
+                "en": "Saturn",
+                "hi": "शनि"
+              }
+            },
+            "to": "2070-05-14T05:00:00.000Z"
+          }
+        ],
+        "text": {
+          "en": "Your chart promises harmony in close relationships and a happy married life. Keeping appreciation alive and sharing decisions openly tend to make this natural blessing grow even richer. The natural source of love and harmony in your chart is strong, supporting charm, affection and a shared enjoyment of beauty and comfort. This area comes to the fore during the Rahu mahadasha, from November 2026 to November 2044, when effort put into it tends to bear more fruit.",
+          "hi": "आपकी कुंडली निकट संबंधों में सामंजस्य और सुखी वैवाहिक जीवन का संकेत देती है। प्रशंसा का भाव जीवित रखना और निर्णय खुलकर साझा करना इस स्वाभाविक आशीर्वाद को और समृद्ध करते हैं। आपकी कुंडली में प्रेम और सामंजस्य का स्वाभाविक स्रोत बलवान है, जो आकर्षण, स्नेह और सौंदर्य तथा सुख-सुविधा के साझा आनंद को बल देता है। यह क्षेत्र राहु की महादशा में, नवंबर 2026 से नवंबर 2044 तक, विशेष रूप से सामने आएगा, जब इस पर किया गया प्रयास प्रायः अधिक फल देता है।"
+        }
+      },
+      {
+        "area": "fortune",
+        "basis": {
+          "aspects": [
+            {
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "house": 9,
+              "nature": -1
+            }
+          ],
+          "baseline": 1.25,
+          "factors": ["malefic_pressure", "yoga"],
+          "houses": [9],
+          "karakas": [
+            {
+              "combust": false,
+              "dignity": "none",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "placed_in": 12,
+              "score": -0.5
+            },
+            {
+              "combust": false,
+              "dignity": "exalted",
+              "graha": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "placed_in": 10,
+              "score": 1.5
+            }
+          ],
+          "lord": {
+            "combust": false,
+            "dignity": "none",
+            "functional_class": "blemished_auspicious",
+            "graha": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "house": 9,
+            "placed_in": 12,
+            "retrograde": false
+          },
+          "occupants": [
+            {
+              "graha": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "house": 9,
+              "nature": -1
+            }
+          ],
+          "other_lords": [],
+          "pressure": "malefic_pressure",
+          "reasons": [
+            {
+              "code": "lord_in_dusthana",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "group": "lord",
+              "house": 9,
+              "source": "PD 15.3, 15.5, 15.9; BPHS 14.1-2 note, 20.2",
+              "weight": -1.5
+            },
+            {
+              "code": "lord_enemy_sign",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "group": "lord",
+              "house": 9,
+              "source": "PD 15.3",
+              "weight": -0.5
+            },
+            {
+              "code": "lord_benefic_contact",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "group": "lord",
+              "house": 9,
+              "source": "BPHS 13.14-16 (Sharma p.193); PD 15.3",
+              "weight": 0.25
+            },
+            {
+              "code": "lord_relieved_by_benefic",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "group": "lord",
+              "house": 9,
+              "source": "PD 15.3, 15.5",
+              "weight": 1
+            },
+            {
+              "code": "lord_functional_benefic_blemished",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "group": "lord",
+              "house": 9,
+              "source": "LP S.6-12 (Jha p.19-25)",
+              "weight": 0.25
+            },
+            {
+              "code": "malefic_occupant",
+              "graha": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "group": "influence",
+              "house": 9,
+              "source": "PD 15.1, 15.18; BPHS 13.14-16",
+              "weight": -0.75
+            },
+            {
+              "code": "malefic_aspect",
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "group": "influence",
+              "house": 9,
+              "source": "PD 15.1; BPHS 13.14-16",
+              "weight": -0.5
+            },
+            {
+              "code": "karaka_in_dusthana",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "group": "karaka",
+              "house": null,
+              "source": "PD 15.25; UK V (p.113-124); BPHS 16.2 note",
+              "weight": -0.25
+            },
+            {
+              "code": "karaka_exalted",
+              "graha": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "group": "karaka",
+              "house": null,
+              "source": "PD 15.25; UK V (p.113-124); BPHS 16.2 note",
+              "weight": 0.5
+            },
+            {
+              "code": "karaka_in_kendra_trikona",
+              "graha": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "group": "karaka",
+              "house": null,
+              "source": "PD 15.25; UK V (p.113-124); BPHS 16.2 note",
+              "weight": 0.25
+            },
+            {
+              "code": "yoga_supports",
+              "graha": null,
+              "group": "yoga",
+              "house": null,
+              "source": "BPHS 13.14-16; the yoga's own verse (yoga content)",
+              "weight": 0.35,
+              "yoga": "gaja_kesari"
+            },
+            {
+              "code": "yoga_supports",
+              "graha": null,
+              "group": "yoga",
+              "house": null,
+              "source": "BPHS 13.14-16; the yoga's own verse (yoga content)",
+              "weight": 0.35,
+              "yoga": "raj_yoga"
+            },
+            {
+              "code": "yoga_supports",
+              "graha": null,
+              "group": "yoga",
+              "house": null,
+              "source": "BPHS 13.14-16; the yoga's own verse (yoga content)",
+              "weight": 0,
+              "yoga": "harsha"
+            }
+          ],
+          "relative": -1.8,
+          "score": -0.55,
+          "support": "yoga",
+          "yogas": ["gaja_kesari", "raj_yoga", "harsha"]
+        },
+        "level": "care",
+        "periods": [
+          {
+            "current": false,
+            "from": "1990-05-14T05:00:00.000Z",
+            "lord": {
+              "id": "venus",
+              "name": "Venus",
+              "names": {
+                "en": "Venus",
+                "hi": "शुक्र"
+              }
+            },
+            "to": "2003-11-23T17:55:30.000Z"
+          },
+          {
+            "current": false,
+            "from": "2003-11-23T17:55:30.000Z",
+            "lord": {
+              "id": "sun",
+              "name": "Sun",
+              "names": {
+                "en": "Sun",
+                "hi": "सूर्य"
+              }
+            },
+            "to": "2009-11-23T05:55:30.000Z"
+          },
+          {
+            "current": false,
+            "from": "2044-11-22T23:55:30.000Z",
+            "lord": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "to": "2060-11-22T23:55:30.000Z"
+          }
+        ],
+        "text": {
+          "en": "This area asks you to build your own luck through principle and persistence. Small acts of kindness, respect for elders and patient study tend to gather into real blessings. Harsher influences on fortune can make support from your father or mentors feel uneven, so relying on your own principled effort serves you best. A fortunate combination strengthens your chart's luck, supporting a rise through merit, blessings from elders and opportunities that arrive at the right time. This area was most active during the Sun mahadasha, from November 2003 to November 2009, and much of what took shape then still shows today.",
+          "hi": "यह पक्ष आपसे सिद्धांत और लगन द्वारा अपना सौभाग्य स्वयं गढ़ने को कहता है। दयालुता के छोटे कार्य, वरिष्ठों का सम्मान और धैर्यपूर्ण अध्ययन मिलकर वास्तविक आशीर्वाद बनते हैं। भाग्य पर कठोर प्रभावों के कारण पिता या मार्गदर्शकों का सहयोग असमान लग सकता है, अतः अपने सिद्धांतनिष्ठ प्रयास पर विश्वास रखना आपके लिए सबसे उचित है। एक शुभ संयोग आपकी कुंडली के भाग्य-पक्ष को बल देता है, जो योग्यता से उन्नति, बड़ों के आशीर्वाद और उचित समय पर आने वाले अवसरों का समर्थन करता है। यह क्षेत्र सूर्य की महादशा में, नवंबर 2003 से नवंबर 2009 तक, सबसे अधिक सक्रिय रहा, और उस काल में बनी अनेक बातें आज भी दिखाई देती हैं।"
+        }
+      },
+      {
+        "area": "career",
+        "basis": {
+          "aspects": [],
+          "baseline": 0.85,
+          "factors": ["karaka_strong", "malefic_pressure"],
+          "houses": [10],
+          "karakas": [
+            {
+              "combust": false,
+              "dignity": "exalted",
+              "graha": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "placed_in": 10,
+              "score": 1.5
+            },
+            {
+              "combust": false,
+              "dignity": "own_sign",
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "placed_in": 7,
+              "score": 1
+            },
+            {
+              "combust": false,
+              "dignity": "none",
+              "graha": {
+                "id": "mercury",
+                "name": "Mercury",
+                "names": {
+                  "en": "Mercury",
+                  "hi": "बुध"
+                }
+              },
+              "placed_in": 10,
+              "score": 0.5
+            }
+          ],
+          "lord": {
+            "combust": false,
+            "dignity": "none",
+            "functional_class": "yogakaraka",
+            "graha": {
+              "id": "mars",
+              "name": "Mars",
+              "names": {
+                "en": "Mars",
+                "hi": "मंगल"
+              }
+            },
+            "house": 10,
+            "placed_in": 8,
+            "retrograde": false
+          },
+          "occupants": [
+            {
+              "graha": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "house": 10,
+              "nature": -1
+            },
+            {
+              "graha": {
+                "id": "mercury",
+                "name": "Mercury",
+                "names": {
+                  "en": "Mercury",
+                  "hi": "बुध"
+                }
+              },
+              "house": 10,
+              "nature": -1
+            }
+          ],
+          "other_lords": [],
+          "pressure": "malefic_pressure",
+          "reasons": [
+            {
+              "code": "lord_in_dusthana",
+              "graha": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "group": "lord",
+              "house": 10,
+              "source": "PD 15.3, 15.5, 15.9; BPHS 14.1-2 note, 20.2",
+              "weight": -1.5
+            },
+            {
+              "code": "lord_benefic_contact",
+              "graha": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "group": "lord",
+              "house": 10,
+              "source": "BPHS 13.14-16 (Sharma p.193); PD 15.3",
+              "weight": 0.25
+            },
+            {
+              "code": "lord_relieved_by_benefic",
+              "graha": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "group": "lord",
+              "house": 10,
+              "source": "PD 15.3, 15.5",
+              "weight": 0.75
+            },
+            {
+              "code": "lord_yogakaraka",
+              "graha": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "group": "lord",
+              "house": 10,
+              "source": "LP S.6-12 (Jha p.19-25)",
+              "weight": 0.75
+            },
+            {
+              "code": "malefic_occupant",
+              "graha": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "group": "influence",
+              "house": 10,
+              "source": "PD 15.1, 15.18; BPHS 13.14-16",
+              "weight": -0.75
+            },
+            {
+              "code": "malefic_occupant",
+              "graha": {
+                "id": "mercury",
+                "name": "Mercury",
+                "names": {
+                  "en": "Mercury",
+                  "hi": "बुध"
+                }
+              },
+              "group": "influence",
+              "house": 10,
+              "source": "PD 15.1, 15.18; BPHS 13.14-16",
+              "weight": -0.75
+            },
+            {
+              "code": "karaka_exalted",
+              "graha": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "group": "karaka",
+              "house": null,
+              "source": "PD 15.25; UK V (p.113-124); BPHS 16.2 note",
+              "weight": 0.333
+            },
+            {
+              "code": "karaka_in_kendra_trikona",
+              "graha": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "group": "karaka",
+              "house": null,
+              "source": "PD 15.25; UK V (p.113-124); BPHS 16.2 note",
+              "weight": 0.167
+            },
+            {
+              "code": "karaka_own_sign",
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "group": "karaka",
+              "house": null,
+              "source": "PD 15.25; UK V (p.113-124); BPHS 16.2 note",
+              "weight": 0.167
+            },
+            {
+              "code": "karaka_in_kendra_trikona",
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "group": "karaka",
+              "house": null,
+              "source": "PD 15.25; UK V (p.113-124); BPHS 16.2 note",
+              "weight": 0.167
+            },
+            {
+              "code": "karaka_in_kendra_trikona",
+              "graha": {
+                "id": "mercury",
+                "name": "Mercury",
+                "names": {
+                  "en": "Mercury",
+                  "hi": "बुध"
+                }
+              },
+              "group": "karaka",
+              "house": null,
+              "source": "PD 15.25; UK V (p.113-124); BPHS 16.2 note",
+              "weight": 0.167
+            },
+            {
+              "code": "yoga_supports",
+              "graha": null,
+              "group": "yoga",
+              "house": null,
+              "source": "BPHS 13.14-16; the yoga's own verse (yoga content)",
+              "weight": 0.35,
+              "yoga": "budha_aditya"
+            },
+            {
+              "code": "yoga_afflicts",
+              "graha": null,
+              "group": "yoga",
+              "house": null,
+              "source": "BPHS 13.14-16; the yoga's own verse (yoga content)",
+              "weight": -0.35,
+              "yoga": "mangal_dosha"
+            }
+          ],
+          "relative": -1.1,
+          "score": -0.25,
+          "support": "karaka_strong",
+          "yogas": ["budha_aditya", "mangal_dosha"]
+        },
+        "level": "mixed",
+        "periods": [
+          {
+            "current": false,
+            "from": "2003-11-23T17:55:30.000Z",
+            "lord": {
+              "id": "sun",
+              "name": "Sun",
+              "names": {
+                "en": "Sun",
+                "hi": "सूर्य"
+              }
+            },
+            "to": "2009-11-23T05:55:30.000Z"
+          },
+          {
+            "current": true,
+            "from": "2019-11-23T17:55:30.000Z",
+            "lord": {
+              "id": "mars",
+              "name": "Mars",
+              "names": {
+                "en": "Mars",
+                "hi": "मंगल"
+              }
+            },
+            "to": "2026-11-23T11:55:30.000Z"
+          },
+          {
+            "current": false,
+            "from": "2060-11-22T23:55:30.000Z",
+            "lord": {
+              "id": "saturn",
+              "name": "Saturn",
+              "names": {
+                "en": "Saturn",
+                "hi": "शनि"
+              }
+            },
+            "to": "2070-05-14T05:00:00.000Z"
+          }
+        ],
+        "text": {
+          "en": "You may try more than one path before finding the work that truly suits you. Each change tends to add useful skills, and the right direction becomes clearer with time. The natural indicators of authority, discipline and skill in your chart are strong, supporting leadership, perseverance and sound professional judgement. Harsher influences on work can bring demanding superiors or tough competition, which toughens you, though keeping a calm, fair manner matters. This part of your life is active now, during the Mars mahadasha, which lasts until November 2026, so it is a good time to give it attention.",
+          "hi": "अपने अनुकूल कार्य पाने से पहले आप एक से अधिक मार्गों पर चल सकते हैं। प्रत्येक परिवर्तन उपयोगी कौशल जोड़ता है और समय के साथ सही दिशा स्पष्ट होती है। आपकी कुंडली में अधिकार, अनुशासन और कौशल के स्वाभाविक सूचक बलवान हैं, जो नेतृत्व, दृढ़ता और अच्छे व्यावसायिक विवेक को बल देते हैं। कार्य पर कठोर प्रभाव कठोर वरिष्ठ या कड़ी प्रतिस्पर्धा ला सकते हैं, जो आपको दृढ़ बनाते हैं, यद्यपि शांत और न्यायपूर्ण व्यवहार बनाए रखना महत्त्वपूर्ण है। मंगल की महादशा में जीवन का यह क्षेत्र अभी विशेष रूप से सक्रिय है और यह काल नवंबर 2026 तक चलेगा, अतः इस पर ध्यान देने का यह उपयुक्त समय है।"
+        }
+      },
+      {
+        "area": "foreign",
+        "basis": {
+          "aspects": [
+            {
+              "graha": {
+                "id": "moon",
+                "name": "Moon",
+                "names": {
+                  "en": "Moon",
+                  "hi": "चंद्र"
+                }
+              },
+              "house": 12,
+              "nature": 1
+            }
+          ],
+          "baseline": 0.85,
+          "factors": ["benefic_support"],
+          "houses": [12],
+          "karakas": [
+            {
+              "combust": false,
+              "dignity": "own_sign",
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "placed_in": 7,
+              "score": 1
+            },
+            {
+              "combust": false,
+              "dignity": "none",
+              "graha": {
+                "id": "ketu",
+                "name": "Ketu",
+                "names": {
+                  "en": "Ketu",
+                  "hi": "केतु"
+                }
+              },
+              "placed_in": 1,
+              "score": 0.5
+            }
+          ],
+          "lord": {
+            "combust": false,
+            "dignity": "none",
+            "functional_class": "inauspicious",
+            "graha": {
+              "id": "mercury",
+              "name": "Mercury",
+              "names": {
+                "en": "Mercury",
+                "hi": "बुध"
+              }
+            },
+            "house": 12,
+            "placed_in": 10,
+            "retrograde": true
+          },
+          "occupants": [
+            {
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "house": 12,
+              "nature": 1
+            }
+          ],
+          "other_lords": [],
+          "pressure": null,
+          "reasons": [
+            {
+              "code": "lord_in_kendra_trikona",
+              "graha": {
+                "id": "mercury",
+                "name": "Mercury",
+                "names": {
+                  "en": "Mercury",
+                  "hi": "बुध"
+                }
+              },
+              "group": "lord",
+              "house": 12,
+              "source": "BPHS 14.1-2 (Sharma p.194); UK IV (p.80)",
+              "weight": 1
+            },
+            {
+              "code": "lord_malefic_contact",
+              "graha": {
+                "id": "mercury",
+                "name": "Mercury",
+                "names": {
+                  "en": "Mercury",
+                  "hi": "बुध"
+                }
+              },
+              "group": "lord",
+              "house": 12,
+              "source": "BPHS 13.14-16 (Sharma p.193); PD 15.3",
+              "weight": -0.25
+            },
+            {
+              "code": "benefic_occupant",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "group": "influence",
+              "house": 12,
+              "source": "PD 15.1, 15.18; BPHS 13.14-16",
+              "weight": 0.75
+            },
+            {
+              "code": "benefic_aspect",
+              "graha": {
+                "id": "moon",
+                "name": "Moon",
+                "names": {
+                  "en": "Moon",
+                  "hi": "चंद्र"
+                }
+              },
+              "group": "influence",
+              "house": 12,
+              "source": "PD 15.1; BPHS 13.14-16",
+              "weight": 0.5
+            },
+            {
+              "code": "karaka_own_sign",
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "group": "karaka",
+              "house": null,
+              "source": "PD 15.25; UK V (p.113-124); BPHS 16.2 note",
+              "weight": 0.25
+            },
+            {
+              "code": "karaka_in_kendra_trikona",
+              "graha": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "group": "karaka",
+              "house": null,
+              "source": "PD 15.25; UK V (p.113-124); BPHS 16.2 note",
+              "weight": 0.25
+            },
+            {
+              "code": "karaka_in_kendra_trikona",
+              "graha": {
+                "id": "ketu",
+                "name": "Ketu",
+                "names": {
+                  "en": "Ketu",
+                  "hi": "केतु"
+                }
+              },
+              "group": "karaka",
+              "house": null,
+              "source": "PD 15.25; UK V (p.113-124); BPHS 16.2 note",
+              "weight": 0.25
+            },
+            {
+              "code": "yoga_supports",
+              "graha": null,
+              "group": "yoga",
+              "house": null,
+              "source": "BPHS 13.14-16; the yoga's own verse (yoga content)",
+              "weight": 0.35,
+              "yoga": "gaja_kesari"
+            },
+            {
+              "code": "yoga_supports",
+              "graha": null,
+              "group": "yoga",
+              "house": null,
+              "source": "BPHS 13.14-16; the yoga's own verse (yoga content)",
+              "weight": 0.35,
+              "yoga": "budha_aditya"
+            },
+            {
+              "code": "yoga_supports",
+              "graha": null,
+              "group": "yoga",
+              "house": null,
+              "source": "BPHS 13.14-16; the yoga's own verse (yoga content)",
+              "weight": 0,
+              "yoga": "raj_yoga"
+            },
+            {
+              "code": "yoga_supports",
+              "graha": null,
+              "group": "yoga",
+              "house": null,
+              "source": "BPHS 13.14-16; the yoga's own verse (yoga content)",
+              "weight": 0,
+              "yoga": "harsha"
+            }
+          ],
+          "relative": 2.6,
+          "score": 3.45,
+          "support": "benefic_support",
+          "yogas": ["gaja_kesari", "budha_aditya", "raj_yoga", "harsha"]
+        },
+        "level": "favourable",
+        "periods": [
+          {
+            "current": false,
+            "from": "2044-11-22T23:55:30.000Z",
+            "lord": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "to": "2060-11-22T23:55:30.000Z"
+          },
+          {
+            "current": false,
+            "from": "2060-11-22T23:55:30.000Z",
+            "lord": {
+              "id": "saturn",
+              "name": "Saturn",
+              "names": {
+                "en": "Saturn",
+                "hi": "शनि"
+              }
+            },
+            "to": "2070-05-14T05:00:00.000Z"
+          }
+        ],
+        "text": {
+          "en": "Your chart gives this area natural strength: travel and life abroad tend to suit you, spending usually goes toward worthwhile ends, and restful sleep and quiet reflection come easily. Gentle influences here incline you towards charity, spiritual practice and pleasant stays far from home, with spending on worthy causes. This area comes to the fore during the Jupiter mahadasha, from November 2044 to November 2060, when effort put into it tends to bear more fruit.",
+          "hi": "आपकी कुंडली इस क्षेत्र को स्वाभाविक बल देती है: यात्रा और विदेश-जीवन आपके अनुकूल रहते हैं, व्यय प्रायः सार्थक कार्यों में होता है, और शांत निद्रा तथा चिंतन सहज मिलते हैं। यहाँ के सौम्य प्रभाव आपको दान, आध्यात्मिक साधना और घर से दूर सुखद प्रवास की ओर प्रवृत्त करते हैं, और व्यय शुभ कार्यों में होता है। यह क्षेत्र गुरु की महादशा में, नवंबर 2044 से नवंबर 2060 तक, विशेष रूप से सामने आएगा, जब इस पर किया गया प्रयास प्रायः अधिक फल देता है।"
+        }
+      }
+    ],
+    "summary": {
+      "needs_care": ["children", "fortune"],
+      "strongest": ["foreign", "marriage"],
+      "text": {
+        "en": "Your chart shows its greatest strength in foreign lands and spending as well as marriage and partnership, the parts of life where your efforts tend to bring the readiest results. Your chart asks for more patience and effort in children and creativity as well as fortune, where steady habits and thoughtful choices make a real difference over time.",
+        "hi": "आपकी कुंडली में सबसे अधिक बल इन क्षेत्रों में दिखता है: विदेश और व्यय तथा विवाह और साझेदारी; जीवन के इन पक्षों में आपके प्रयास सबसे सहजता से फल देते हैं। इन क्षेत्रों में आपकी कुंडली अधिक धैर्य और प्रयास की अपेक्षा रखती है: संतान और सृजनशीलता तथा भाग्य; यहाँ नियमित अनुशासन और सोच-समझकर लिए गए निर्णय समय के साथ वास्तविक अंतर लाते हैं।"
+      }
+    },
+    "switches": {
+      "functional": {
+        "eighth_in_eighth_relief": false,
+        "house_pair_sadharmi": true,
+        "kendradhipati_class": "jha_inauspicious_light",
+        "kt_relation": "jha_placement",
+        "lagna_eighth": "jha_neutral",
+        "luminaries_maraka": true,
+        "luminary_eighth": "jha_small_blemish",
+        "mercury_alone": "jha_sama",
+        "moon_strength": "tithi8",
+        "mutual_aspect_needs_own_sign": false,
+        "node_same_kind_yk": false,
+        "node_with_eighth": "acts_as_eighth_lord",
+        "prime_maraka": "second",
+        "second_twelfth": "jha_companion_first",
+        "trikona_eighth": "jha_facilitator",
+        "trikona_sixth": "by_house_rank",
+        "unlisted_pairs": "sadharmi"
+      },
+      "life_areas": {
+        "benefic_relief": true,
+        "dusthana_own_sign_exempt": true,
+        "influence_nature": "functional_first",
+        "karaka_bhava_nashaya": false,
+        "lagna_lord_link": true,
+        "node_aspects": false,
+        "retrograde": "ignore",
+        "role_skips_evil_house": true,
+        "upachaya_malefics_help": true,
+        "viparita_relief": true
+      }
+    },
+    "disclaimer": {
+      "en": "These predictions are indicative. For a reading of your own chart, consult an astrologer.",
+      "hi": "ये फलादेश सांकेतिक हैं। अपनी कुंडली के व्यक्तिगत विश्लेषण के लिए किसी ज्योतिषी से परामर्श करें।"
+    }
+  },
+  "meta": {
+    "cached": false,
+    "ayanamsa": {
+      "id": "lahiri"
+    },
+    "timezone": {
+      "name": "Asia/Kolkata",
+      "utc_offset": "+05:30",
+      "source": "given"
+    },
+    "engine": "0.10.1",
+    "compute_ms": 3,
+    "language_fallback": [],
+    "credits": 5
+  }
+}

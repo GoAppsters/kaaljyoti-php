@@ -1,0 +1,305 @@
+{
+  "status": "ok",
+  "data": {
+    "grahas": [
+      {
+        "graha": {
+          "id": "sun",
+          "name": "Sun",
+          "names": {
+            "en": "Sun",
+            "hi": "सूर्य"
+          }
+        },
+        "house": 10,
+        "in_house": {
+          "text": {
+            "en": "The Sun in the tenth house has directional strength and is among its finest places. You tend to rise through your own conduct, gaining position, recognition and the trust of those in charge; leadership, government or any role with visible responsibility suits you. Comforts and reputation grow with your career. The risk is overwork and letting status define you, so keep time for family and pace yourself as the years advance.",
+            "hi": "दशम भाव में सूर्य को दिग्बल प्राप्त होता है और यह उसके श्रेष्ठतम स्थानों में है। आप अपने आचरण से उन्नति करते हैं और पद, प्रतिष्ठा तथा उच्चाधिकारियों का विश्वास पाते हैं; नेतृत्व, शासन या प्रत्यक्ष उत्तरदायित्व वाली भूमिकाएँ आपके अनुकूल हैं। व्यवसाय के साथ सुख-साधन और यश बढ़ते हैं। अति-परिश्रम और पद को ही अपनी पहचान मान लेना यहाँ की चुनौती है, अतः परिवार के लिए समय रखें और आयु बढ़ने पर अपनी गति संतुलित रखें।"
+          }
+        },
+        "in_sign": {
+          "text": {
+            "en": "Your Sun is in Aries, the sign of its exaltation, where it shines at full strength. You tend to be bold and self-starting, willing to take on what others hesitate over, and you rise by learning from capable people and following their example. A respected position and a name of your own come readily. The same fire can run hot: impatience and a quick temper deserve watching, and the blood and body heat ask for care.",
+            "hi": "आपका सूर्य मेष राशि में है, जो उसकी उच्च राशि है; यहाँ सूर्य पूर्ण तेज से प्रकाशित होता है। आप स्वभाव से साहसी और स्वप्रेरित होते हैं, जिन कार्यों से दूसरे हिचकते हैं उन्हें आप आगे बढ़कर उठा लेते हैं, और योग्य व्यक्तियों के आदर्श पर चलकर उन्नति करते हैं। प्रतिष्ठित पद और अपनी स्वतंत्र पहचान आपको सहज मिलती है। यही अग्नि कभी अधिक प्रखर हो जाती है; अधीरता और शीघ्र क्रोध पर ध्यान रखें, और रक्त तथा शरीर की उष्णता की देखभाल करें।"
+          }
+        },
+        "sign": {
+          "id": "aries",
+          "name": "Aries",
+          "names": {
+            "en": "Aries",
+            "hi": "मेष"
+          }
+        }
+      },
+      {
+        "graha": {
+          "id": "moon",
+          "name": "Moon",
+          "names": {
+            "en": "Moon",
+            "hi": "चंद्र"
+          }
+        },
+        "house": 6,
+        "in_house": {
+          "text": {
+            "en": "The Moon in the sixth house places your emotions in the arena of work, service and daily challenges. You may be caring toward those in your charge and effective in healing, nursing or service roles. Worry and stress tend to settle in the stomach, so regular meals and calm routines matter. Criticism can sting more than it should. A strong Moon here brings comfort and success over rivals; a weaker one asks for patience with setbacks.",
+            "hi": "षष्ठ भाव में चंद्रमा आपकी भावनाओं को कार्य, सेवा और दैनिक चुनौतियों के क्षेत्र में ले आता है। आप अपने अधीन लोगों के प्रति स्नेहशील होते हैं और उपचार, परिचर्या या सेवा से जुड़े कार्यों में सफल हो सकते हैं। चिंता और तनाव प्रायः उदर पर प्रभाव डालते हैं, अतः नियमित भोजन और शांत दिनचर्या महत्त्वपूर्ण है। आलोचना आपको आवश्यकता से अधिक चुभ सकती है। बलवान चंद्रमा यहाँ सुख और प्रतिद्वंद्वियों पर विजय देता है; दुर्बल चंद्रमा बाधाओं में धैर्य माँगता है।"
+          }
+        },
+        "in_sign": {
+          "text": {
+            "en": "Your Moon is in Sagittarius, the fiery sign of Jupiter, so Sagittarius is your rashi. You tend to be open-hearted, truthful and always engaged in some work, with an eloquent tongue and skill in more than one art, perhaps singing. Wealth, when it comes, does not make you miserly, and you respect elders. Kindness and gentle persuasion win you over more easily than force. The caution is idealism that can harden into rigid views, and a restless urge for the next horizon.",
+            "hi": "आपका चंद्रमा धनु राशि में है; यह गुरु की अग्नि तत्त्व की राशि है, अर्थात् आपकी राशि धनु है। आप उदारहृदय, सत्यवादी और सदा किसी न किसी कार्य में संलग्न रहने वाले होते हैं; आपकी वाणी प्रभावशाली होती है और एक से अधिक कलाओं में, संभवतः गायन में, आपकी निपुणता रहती है। धन आने पर भी आप कृपण नहीं होते, और बड़ों का आदर करते हैं। बल की अपेक्षा स्नेह और मृदु आग्रह से आपको सरलता से मनाया जा सकता है। सावधानी उस आदर्शवाद की है जो कठोर विचारों में बदल सकता है, और नए क्षितिज की ओर निरंतर खिंचते मन की अस्थिरता की।"
+          }
+        },
+        "sign": {
+          "id": "sagittarius",
+          "name": "Sagittarius",
+          "names": {
+            "en": "Sagittarius",
+            "hi": "धनु"
+          }
+        }
+      },
+      {
+        "graha": {
+          "id": "mars",
+          "name": "Mars",
+          "names": {
+            "en": "Mars",
+            "hi": "मंगल"
+          }
+        },
+        "house": 8,
+        "in_house": {
+          "text": {
+            "en": "Mars in the eighth house gives courage in crises and an interest in investigation, research, surgery or hidden matters. You tend to handle emergencies well and stay resilient through sudden changes. Finances linked to inheritance, insurance or joint resources can fluctuate, and criticism from others may test your composure. Physical safety and general vitality deserve steady care. Patience and caution with risk turn this intensity into strength.",
+            "hi": "अष्टम भाव में मंगल संकट में साहस तथा अन्वेषण, शोध, शल्य-क्रिया या गूढ़ विषयों में रुचि देता है। आप आपात स्थितियों को भली-भाँति सँभालते हैं और अचानक परिवर्तनों में भी दृढ़ बने रहते हैं। उत्तराधिकार या साझी संपत्ति से जुड़ा धन घट-बढ़ सकता है, और दूसरों की आलोचना आपके संयम की परीक्षा ले सकती है। शारीरिक सुरक्षा और समग्र जीवनी-शक्ति की निरंतर देखभाल करें। धैर्य और जोखिम में सावधानी इस तीव्रता को शक्ति में बदल देते हैं।"
+          }
+        },
+        "in_sign": {
+          "text": {
+            "en": "Your Mars is in Aquarius, the airy sign of Saturn, a neutral place for it. You tend to be impulsive and to work in bursts, with an independent, unconventional streak. With good friends you can gain a great deal, for you stay devoted to those who support you. The harder side is bluntness that seems impolite, tension with relatives, and scattered spending or an unsteady line of work. Choosing associates carefully and keeping regular habits help; health deserves steady attention.",
+            "hi": "आपका मंगल कुंभ राशि में है; यह शनि की वायु तत्त्व की राशि है और मंगल के लिए सम स्थान है। आप आवेगशील होते हैं और रुक-रुककर तीव्र गति से कार्य करते हैं, तथा आपमें स्वतंत्र और लीक से हटकर चलने की प्रवृत्ति रहती है। अच्छे मित्रों के साथ आप बहुत कुछ प्राप्त कर सकते हैं, क्योंकि जो आपका साथ देते हैं उनके प्रति आप समर्पित रहते हैं। कठिन पक्ष यह है कि स्पष्टवादिता अशिष्टता जैसी लग सकती है, संबंधियों से तनाव रह सकता है, और व्यय बिखरा हुआ या आजीविका अस्थिर हो सकती है। सहयोगियों का सावधानी से चयन और नियमित दिनचर्या सहायक है; स्वास्थ्य पर निरंतर ध्यान दें।"
+          }
+        },
+        "sign": {
+          "id": "aquarius",
+          "name": "Aquarius",
+          "names": {
+            "en": "Aquarius",
+            "hi": "कुंभ"
+          }
+        }
+      },
+      {
+        "graha": {
+          "id": "mercury",
+          "name": "Mercury",
+          "names": {
+            "en": "Mercury",
+            "hi": "बुध"
+          }
+        },
+        "house": 10,
+        "in_house": {
+          "text": {
+            "en": "Mercury in the tenth house favours a career built on intelligence, communication and trade. You tend to be capable and dependable, a person who keeps their word, and ventures often show promise from the start. Wealth and property tend to come through your own effort, and you hold parents and teachers in high regard. The caution is spreading yourself across too many projects; your standing grows fastest when skill is focused on a clear direction.",
+            "hi": "दशम भाव में बुध बुद्धि, संवाद और व्यापार पर आधारित कार्यक्षेत्र के अनुकूल होता है। आप योग्य और विश्वसनीय होते हैं, अपने वचन के पक्के रहते हैं, और आपके उपक्रम प्रायः आरंभ से ही आशाजनक दिखते हैं। धन और संपत्ति प्रायः आपके अपने प्रयास से आती है, तथा माता-पिता और गुरुजनों के प्रति आपका गहरा आदर रहता है। सावधानी अनेक परियोजनाओं में बिखर जाने की है; जब कौशल एक स्पष्ट दिशा में केंद्रित हो, तब आपकी प्रतिष्ठा सबसे शीघ्र बढ़ती है।"
+          }
+        },
+        "in_sign": {
+          "text": {
+            "en": "Mercury in Aries, a fiery sign of Mars, gives you a quick and combative intelligence. You think on your feet, argue ingeniously and decide fast, and you may enjoy music and movement. The same speed can make speech sharp and plans hasty: arguments flare, and money earned with effort can slip away on impulse. Borrowing deserves caution. Finishing one idea before starting the next, and choosing words with a little more patience, lets this bright mind deliver steady results.",
+            "hi": "बुध मंगल की अग्नि-तत्त्व राशि मेष में होने से आपकी बुद्धि तीव्र और संघर्षशील होती है। आप तत्काल सोचते हैं, तर्क में कुशल होते हैं और निर्णय शीघ्र लेते हैं; संगीत और नृत्य में भी रुचि हो सकती है। यही वेग वाणी को कटु और योजनाओं को उतावला बना सकता है, जिससे विवाद उठते हैं और परिश्रम से अर्जित धन आवेग में व्यय हो सकता है। ऋण लेने में सावधानी रखें। एक विचार पूर्ण करके ही दूसरा आरंभ करना और शब्दों को धैर्य से चुनना इस प्रखर बुद्धि को स्थिर फल देता है।"
+          }
+        },
+        "sign": {
+          "id": "aries",
+          "name": "Aries",
+          "names": {
+            "en": "Aries",
+            "hi": "मेष"
+          }
+        }
+      },
+      {
+        "graha": {
+          "id": "jupiter",
+          "name": "Jupiter",
+          "names": {
+            "en": "Jupiter",
+            "hi": "गुरु"
+          }
+        },
+        "house": 12,
+        "in_house": {
+          "text": {
+            "en": "Jupiter in the twelfth house directs wisdom toward charity, spiritual retreat and service in quiet or distant places. You tend to give generously, sometimes without recognition, and meditation, foreign lands or institutions such as ashrams and hospitals can hold meaning for you. The caution is friction with people who misread your intentions, and a sharp tongue when you feel unappreciated; mind your spending and energy, and give the heart and circulation steady care.",
+            "hi": "द्वादश भाव में गुरु विवेक को दान, आध्यात्मिक एकांत और शांत अथवा दूरस्थ स्थानों में सेवा की ओर ले जाता है। आप उदारता से देते हैं, कभी-कभी बिना किसी मान्यता के, और ध्यान, विदेश अथवा आश्रम और चिकित्सालय जैसी संस्थाएँ आपके लिए अर्थपूर्ण हो सकती हैं। सावधानी उन लोगों से टकराव की है जो आपके आशय को नहीं समझ पाते, और अनादर अनुभव होने पर कटु वचन बोलने की भी; व्यय और ऊर्जा का ध्यान रखें, तथा हृदय और रक्त-संचार को नियमित देखभाल दें।"
+          }
+        },
+        "in_sign": {
+          "text": {
+            "en": "Jupiter in Gemini, the airy sign of Mercury, joins wisdom with words. You tend to be learned, eloquent and modest, a poet, teacher or adviser who stands by friends and honours elders. Education and refined judgement are your strengths. Because the sign is dual, the mind may roam across many subjects and test received beliefs by reason. The caution is spreading yourself thin: choosing a few pursuits and seeing them through gives your knowledge weight.",
+            "hi": "गुरु बुध की वायु-तत्त्व राशि मिथुन में होने से ज्ञान और वाणी का मेल होता है। आप विद्वान, वाक्पटु और विनम्र होते हैं; कवि, शिक्षक या परामर्शदाता के रूप में मित्रों का साथ देते हैं और बड़ों का आदर करते हैं। शिक्षा और परिष्कृत विवेक आपकी शक्ति हैं। द्विस्वभाव राशि होने से मन अनेक विषयों में घूम सकता है और स्वीकृत मान्यताओं को तर्क की कसौटी पर परख सकता है। सावधानी स्वयं को बहुत फैलाने की है: कुछ चुने हुए कार्यों को पूर्ण करना आपके ज्ञान को गरिमा देता है।"
+          }
+        },
+        "sign": {
+          "id": "gemini",
+          "name": "Gemini",
+          "names": {
+            "en": "Gemini",
+            "hi": "मिथुन"
+          }
+        }
+      },
+      {
+        "graha": {
+          "id": "venus",
+          "name": "Venus",
+          "names": {
+            "en": "Venus",
+            "hi": "शुक्र"
+          }
+        },
+        "house": 9,
+        "in_house": {
+          "text": {
+            "en": "Venus in the ninth house brings good fortune through grace, generosity and the goodwill of people in authority. You tend to be devout, pure-hearted and attractive in manner, and a loving spouse, children and friends add to your happiness. Success often comes through your own efforts, with art, travel or culture as channels of luck. The caution is treating faith as a comfort rather than a practice; living your values gives them their full strength.",
+            "hi": "नवम भाव में शुक्र लालित्य, उदारता और अधिकारी वर्ग की सद्भावना के माध्यम से सौभाग्य देता है। आप श्रद्धालु, निर्मल हृदय और व्यवहार में आकर्षक होते हैं, और प्रेमपूर्ण जीवनसाथी, संतान तथा मित्र आपके सुख को बढ़ाते हैं। सफलता प्रायः आपके अपने प्रयास से आती है, जिसमें कला, यात्रा अथवा संस्कृति भाग्य के माध्यम बनते हैं। सावधानी आस्था को साधना के स्थान पर केवल सांत्वना मानने की है; अपने मूल्यों को जीने से ही वे पूर्ण बल पाते हैं।"
+          }
+        },
+        "in_sign": {
+          "text": {
+            "en": "Venus is exalted in Pisces, its finest sign, where love becomes compassionate and generous. You tend to be affable, charitable and cultured, gifted in the arts, and able to earn well by fair means, often with support from people in authority. Rivals tend to fall away before your goodwill, and you may love the water. Idealism is the caution here: romantic dreams may need a practical partner to become real. Keeping healthy boundaries protects your kind heart.",
+            "hi": "शुक्र मीन राशि में उच्च का है, जो उसकी श्रेष्ठ राशि है; यहाँ प्रेम करुणामय और उदार बनता है। आप मिलनसार, दानशील और सुसंस्कृत होते हैं, कलाओं में प्रतिभाशाली, और प्रायः अधिकारी वर्ग के सहयोग से उचित मार्ग से अच्छा धन अर्जित करते हैं। आपकी सद्भावना के सामने प्रतिद्वंद्वी पीछे हट जाते हैं, और जल से आपको विशेष लगाव हो सकता है। यहाँ सावधानी अति-आदर्शवाद की है: प्रेम के स्वप्नों को साकार होने के लिए व्यावहारिक साथी चाहिए। उचित सीमाएँ रखना आपके कोमल हृदय की रक्षा करता है।"
+          }
+        },
+        "sign": {
+          "id": "pisces",
+          "name": "Pisces",
+          "names": {
+            "en": "Pisces",
+            "hi": "मीन"
+          }
+        }
+      },
+      {
+        "graha": {
+          "id": "saturn",
+          "name": "Saturn",
+          "names": {
+            "en": "Saturn",
+            "hi": "शनि"
+          }
+        },
+        "house": 7,
+        "in_house": {
+          "text": {
+            "en": "Saturn in the seventh brings a serious, dutiful approach to marriage and partnership. Commitment may come later, and a mature or older-minded partner often suits you. Partnerships of every kind ask for patience and clear agreements, and a spouse's wellbeing deserves care. Restlessness, travel and money strain can test the bond. When you meet duty with warmth, the relationship tends to grow steadier with time.",
+            "hi": "सप्तम भाव में शनि विवाह और साझेदारी के प्रति गंभीर और कर्तव्यनिष्ठ दृष्टि देता है। प्रतिबद्धता विलंब से आ सकती है, और परिपक्व या अधिक आयु वाले विचारों का साथी प्रायः आपके अनुकूल रहता है। प्रत्येक प्रकार की साझेदारी धैर्य और स्पष्ट समझौते माँगती है, और जीवनसाथी के स्वास्थ्य का ध्यान रखना उचित है। अस्थिरता, यात्राएँ और धन का दबाव संबंध की परीक्षा ले सकते हैं। जब आप कर्तव्य को स्नेह के साथ निभाते हैं, तो संबंध समय के साथ और स्थिर होता जाता है।"
+          }
+        },
+        "in_sign": {
+          "text": {
+            "en": "Saturn is in its own sign Capricorn, where discipline, ambition and practical judgement come naturally. You tend to rise by self-determination and tact, gaining authority and the respect of your community, and you may make your home far from where you began. You have regard for ethics and can do well in teaching and the arts. The cautions are loneliness at the top and a pensive, withdrawn mood; the eyes deserve care.",
+            "hi": "शनि अपनी ही राशि मकर में है, जहाँ अनुशासन, महत्वाकांक्षा और व्यावहारिक विवेक स्वाभाविक रूप से आते हैं। आप आत्मनिर्णय और कूटनीति से ऊपर उठते हैं, अधिकार और अपने समुदाय का सम्मान पाते हैं, और संभव है कि जहाँ से आरंभ किया वहाँ से दूर अपना निवास बसाएँ। आप नैतिकता का आदर करते हैं और अध्यापन तथा कलाओं में अच्छा कर सकते हैं। शिखर पर एकाकीपन और चिंतनशील, अंतर्मुखी मनोदशा सावधानी के विषय हैं; नेत्र देखभाल के योग्य हैं।"
+          }
+        },
+        "sign": {
+          "id": "capricorn",
+          "name": "Capricorn",
+          "names": {
+            "en": "Capricorn",
+            "hi": "मकर"
+          }
+        }
+      },
+      {
+        "graha": {
+          "id": "rahu",
+          "name": "Rahu",
+          "names": {
+            "en": "Rahu",
+            "hi": "राहु"
+          }
+        },
+        "house": 7,
+        "in_house": {
+          "text": {
+            "en": "Rahu in the seventh gives an independent spirit and a taste for life's pleasures, and you may be drawn to a partner from a different background or culture. The partnership can be lively but costly, since a spouse may enjoy spending freely. The cautions are hasty judgement in choosing partners, money lost through indulgence, and unmet expectations on both sides. Clear agreements and honest attention to your partner's needs keep the bond healthy.",
+            "hi": "सप्तम भाव में राहु स्वतंत्र मनोवृत्ति और जीवन के सुखों की रुचि देता है, और आप भिन्न पृष्ठभूमि या संस्कृति के साथी की ओर आकर्षित हो सकते हैं। साझेदारी जीवंत किंतु व्ययशील हो सकती है, क्योंकि जीवनसाथी को खुलकर व्यय करना प्रिय हो सकता है। सावधानियाँ हैं साथी चुनने में उतावलापन, भोग-विलास में धन की हानि, और दोनों ओर की अपूर्ण अपेक्षाएँ। स्पष्ट समझौते और साथी की आवश्यकताओं पर सच्चा ध्यान संबंध को स्वस्थ रखते हैं।"
+          }
+        },
+        "in_sign": {
+          "text": {
+            "en": "Rahu in Capricorn, the earthy sign of its friend Saturn, turns ambition toward status, institutions and long-term achievement. You can climb patiently inside large organisations, manage resources shrewdly and handle responsibility others avoid. Rahu behaves much like Saturn, so the placement works with steady effort. The cautions are cold calculation, cutting corners to rise faster, and measuring your worth only by position.",
+            "hi": "मकर में, जो राहु के मित्र शनि की पृथ्वी राशि है, राहु महत्वाकांक्षा को पद, संस्थाओं और दीर्घकालीन उपलब्धि की ओर मोड़ता है। आप बड़े संगठनों में धैर्य से ऊपर चढ़ सकते हैं, साधनों का चतुराई से प्रबंध कर सकते हैं और वह दायित्व उठा सकते हैं जिससे अन्य लोग बचते हैं। राहु बहुत कुछ शनि जैसा आचरण करता है, इसलिए यह स्थिति निरंतर परिश्रम के साथ फलती है। ठंडी गणना, शीघ्र उठने के लिए नियमों से कतराना और अपना मूल्य केवल पद से मापना सावधानी के विषय हैं।"
+          }
+        },
+        "sign": {
+          "id": "capricorn",
+          "name": "Capricorn",
+          "names": {
+            "en": "Capricorn",
+            "hi": "मकर"
+          }
+        }
+      },
+      {
+        "graha": {
+          "id": "ketu",
+          "name": "Ketu",
+          "names": {
+            "en": "Ketu",
+            "hi": "केतु"
+          }
+        },
+        "house": 1,
+        "in_house": {
+          "text": {
+            "en": "Ketu on the ascendant gives you an independent, inward-looking and somewhat unconventional nature. You may feel like an outsider in ordinary society, which can make you original, intuitive or spiritually inclined. The cautions are restlessness, mistrust, quarrels with friends, and worry over family matters. Your nerves and the balance of air in the body (vata) deserve care. Gratitude and patience help you keep the goodwill you earn.",
+            "hi": "लग्न में केतु आपको स्वतंत्र, अंतर्मुखी और कुछ अपरंपरागत स्वभाव देता है। सामान्य समाज में आप स्वयं को बाहरी अनुभव कर सकते हैं, जो आपको मौलिक, अंतर्ज्ञानी या आध्यात्मिक बना सकता है। सावधानियाँ हैं अस्थिरता, अविश्वास, मित्रों से विवाद, और पारिवारिक विषयों की चिंता। स्नायु-तंत्र और शरीर में वात-संतुलन का ध्यान रखें। कृतज्ञता और धैर्य आपको अर्जित सद्भाव बनाए रखने में सहायक होते हैं।"
+          }
+        },
+        "in_sign": {
+          "text": {
+            "en": "Ketu in Cancer, the Moon's watery sign, teaches emotional self-reliance. You can stay calm for others in a crisis and need less outward comfort than most, often with a quiet spiritual sensitivity. The Moon is Ketu's adversary, though, so inner restlessness and a feeling of not quite belonging at home can arise. Nurturing your own roots and your bond with your mother brings balance.",
+            "hi": "कर्क में, जो चंद्रमा की जल राशि है, केतु भावनात्मक आत्मनिर्भरता सिखाता है। संकट में आप दूसरों के लिए शांत रह सकते हैं और अधिकांश लोगों से अल्प बाहरी सुख की अपेक्षा रखते हैं, प्रायः एक शांत आध्यात्मिक संवेदनशीलता के साथ। फिर भी चंद्रमा केतु का विरोधी है, इसलिए भीतरी अशांति और घर में पूर्णतः न जुड़ पाने का भाव उठ सकता है। अपनी जड़ों और माता के साथ संबंध का पोषण संतुलन लाता है।"
+          }
+        },
+        "sign": {
+          "id": "cancer",
+          "name": "Cancer",
+          "names": {
+            "en": "Cancer",
+            "hi": "कर्क"
+          }
+        }
+      }
+    ],
+    "disclaimer": {
+      "en": "These predictions are indicative. For a reading of your own chart, consult an astrologer.",
+      "hi": "ये फलादेश सांकेतिक हैं। अपनी कुंडली के व्यक्तिगत विश्लेषण के लिए किसी ज्योतिषी से परामर्श करें।"
+    }
+  },
+  "meta": {
+    "cached": false,
+    "ayanamsa": {
+      "id": "lahiri"
+    },
+    "timezone": {
+      "name": "Asia/Kolkata",
+      "utc_offset": "+05:30",
+      "source": "given"
+    },
+    "engine": "0.10.1",
+    "compute_ms": 4,
+    "language_fallback": [],
+    "credits": 5
+  }
+}

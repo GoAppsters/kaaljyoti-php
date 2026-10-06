@@ -1,0 +1,3812 @@
+{
+  "status": "ok",
+  "data": {
+    "lagna": {
+      "entry": {
+        "text": {
+          "en": "With Cancer rising, the Moon is the lord of your lagna, and the sign is movable and watery. You tend to be warm, sociable and quick to make friends, with a sensitive mind and good practical sense. Home and property matter to you, and this lagna tends to bring comfort, a well-kept house and steady means. Water, travel and pleasant food often appeal. Your moods tend to follow the Moon, so steadiness takes conscious effort, and you may lean heavily on your partner's opinions; keeping your own judgement in balance helps. Straight dealing, even when a roundabout path looks easier, keeps your relationships sound.",
+          "hi": "कर्क लग्न होने पर आपके लग्न के स्वामी चंद्रमा हैं; यह चर और जल तत्त्व की राशि है। आप स्नेहशील, मिलनसार और शीघ्र मित्रता करने वाले होते हैं, तथा आपका मन संवेदनशील और व्यावहारिक बुद्धि से युक्त होता है। गृह और संपत्ति आपके लिए महत्त्वपूर्ण होते हैं, और यह लग्न प्रायः सुख, सुंदर निवास और स्थिर साधन प्रदान करता है। जल, यात्रा और रुचिकर भोजन आपको आकर्षित करते हैं। चंद्रमा के समान आपका मन भी घटता-बढ़ता है, इसलिए स्थिरता के लिए सचेत प्रयास आवश्यक है; जीवनसाथी की राय के साथ अपने विवेक को भी महत्त्व दें। सरल और सीधा व्यवहार, भले ही घुमावदार मार्ग सुगम लगे, आपके संबंधों को सुदृढ़ रखता है।"
+        }
+      },
+      "sign": {
+        "id": "cancer",
+        "name": "Cancer",
+        "names": {
+          "en": "Cancer",
+          "hi": "कर्क"
+        }
+      }
+    },
+    "parts": ["lagna", "yogas", "vimshottari", "varshphal"],
+    "varshphal": {
+      "areas": [
+        {
+          "area": "work",
+          "level": "mixed",
+          "text": {
+            "en": "This year, work brings progress with some friction; keep communication clear and do not take small delays personally. What you have been aiming for at work is well placed to come about, whether a new role, recognition or a long-planned project taking shape.",
+            "hi": "इस वर्ष कार्यक्षेत्र में प्रगति के साथ कुछ घर्षण भी रहता है; संवाद स्पष्ट रखें और छोटे विलंबों को व्यक्तिगत रूप से न लें। कार्यक्षेत्र में आप जिस लक्ष्य की ओर बढ़ रहे हैं, वह पूर्ण होने की अच्छी स्थिति में है, चाहे वह नई भूमिका हो, मान्यता हो या लंबे समय से सोची गई परियोजना।"
+          }
+        },
+        {
+          "area": "money",
+          "level": "mixed",
+          "text": {
+            "en": "This year, some payments arrive on time and others lag, so plan around what is certain rather than what is promised. Help from family, a partner or a trusted adviser is likely to strengthen your finances, and shared efforts tend to bear fruit.",
+            "hi": "इस वर्ष कुछ भुगतान समय पर आते हैं और कुछ पिछड़ जाते हैं, अतः वचनों पर नहीं, निश्चित आय पर योजना बनाएँ। परिवार, जीवनसाथी या किसी विश्वसनीय परामर्शदाता की सहायता आपकी आर्थिक स्थिति को बल दे सकती है, और साझा प्रयास फलदायी रहते हैं।"
+          }
+        },
+        {
+          "area": "relationships",
+          "level": "mixed",
+          "text": {
+            "en": "This year, relationships bring both warmth and small misunderstandings; listen fully before you respond. A chance in a relationship may feel as though it has passed, so nurture the bonds already in your life rather than looking back.",
+            "hi": "इस वर्ष संबंधों में स्नेह के साथ छोटी-मोटी भ्रांतियाँ भी आ सकती हैं; उत्तर देने से पहले पूरी बात सुनें। संबंधों में कोई अवसर बीत गया-सा लग सकता है, अतः पीछे देखने के स्थान पर अपने जीवन में उपस्थित संबंधों को पोषित करें।"
+          }
+        },
+        {
+          "area": "health",
+          "level": "mixed",
+          "text": {
+            "en": "This year, good habits pay off, while irregular hours are felt more quickly than usual in your energy. Your energy may be stretched by many demands on your time, so pace yourself, rest before you are exhausted and avoid overcommitting.",
+            "hi": "इस वर्ष अच्छे अभ्यास फल देते हैं, जबकि अनियमित समय-सारिणी का प्रभाव ऊर्जा पर सामान्य से शीघ्र अनुभव होता है। समय पर अनेक माँगों के कारण आपकी ऊर्जा खिंच सकती है, अतः अपनी गति संयत रखें, थकान से पहले विश्राम करें और अधिक दायित्व लेने से बचें।"
+          }
+        },
+        {
+          "area": "education",
+          "level": "mixed",
+          "text": {
+            "en": "This year, learning moves ahead, though focus may waver; short, regular study sessions work better than long ones. A teacher, a mentor or a study partner is likely to make a real difference, so seek guidance early rather than struggling alone.",
+            "hi": "इस वर्ष अध्ययन आगे बढ़ता है, यद्यपि एकाग्रता डगमगा सकती है; लंबे सत्रों की अपेक्षा छोटे, नियमित अध्ययन-सत्र अधिक उपयोगी रहते हैं। कोई शिक्षक, मार्गदर्शक या अध्ययन-साथी वास्तविक अंतर ला सकता है, अतः अकेले संघर्ष करने के स्थान पर आरंभ में ही मार्गदर्शन लें।"
+          }
+        },
+        {
+          "area": "home",
+          "level": "mixed",
+          "text": {
+            "en": "This year, a move or renovation is possible, yet it may involve more planning than expected, so avoid rushing the details. A property or home opportunity may have passed you by, so look after what you have and wait for a better-timed opening.",
+            "hi": "इस वर्ष गृह-परिवर्तन या नवीनीकरण संभव है, पर उसमें अपेक्षा से अधिक योजना लग सकती है, अतः विवरणों में उतावली न करें। संपत्ति या घर से जुड़ा कोई अवसर निकल चुका हो सकता है, अतः जो आपके पास है उसकी देखभाल करें और उचित समय पर आने वाले अवसर की प्रतीक्षा करें।"
+          }
+        },
+        {
+          "area": "travel",
+          "level": "mixed",
+          "text": {
+            "en": "This year, travel is possible, though plans may change once or twice, so keep bookings flexible and your documents ready. Someone's help, perhaps a host, a sponsor or a well-connected friend, is likely to open the way for a journey or a move.",
+            "hi": "इस वर्ष यात्रा संभव है, यद्यपि योजनाएँ एक-दो बार बदल सकती हैं, अतः आरक्षण लचीले रखें और प्रलेख तैयार रखें। किसी का सहयोग, संभवतः किसी आतिथेय, प्रायोजक या अच्छे संपर्कों वाले मित्र का, यात्रा या स्थान-परिवर्तन का मार्ग खोल सकता है।"
+          }
+        }
+      ],
+      "basis": {
+        "areas": {
+          "education": {
+            "danger": false,
+            "factor": "helped",
+            "house": 5,
+            "karyesha": {
+              "id": "saturn",
+              "name": "Saturn",
+              "names": {
+                "en": "Saturn",
+                "hi": "शनि"
+              }
+            },
+            "natal_guard": {
+              "afflictions": ["natal_6_8_12"],
+              "capped": false,
+              "house": 5,
+              "lord": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "on": true
+            },
+            "reasons": [
+              {
+                "code": "house_with_own_lord",
+                "source": "Charak bk 174"
+              },
+              {
+                "code": "house_malefic_influence",
+                "source": "Charak bk 174-175"
+              },
+              {
+                "code": "house_year_lord_or_strong_planet",
+                "source": "Charak bk 174"
+              },
+              {
+                "code": "karyesha_strength",
+                "source": "Charak bk 109-111, 144"
+              },
+              {
+                "code": "tajika_yoga",
+                "source": "Charak bk 109-145"
+              },
+              {
+                "code": "house_benefic_influence",
+                "source": "Charak bk 174"
+              },
+              {
+                "code": "karaka_afflicted",
+                "source": "Charak bk 171"
+              },
+              {
+                "code": "karaka_strong",
+                "source": "Charak bk 171"
+              }
+            ],
+            "score": 1.875,
+            "yogas": [
+              {
+                "factor": "helped",
+                "graha": {
+                  "id": "mercury",
+                  "name": "Mercury",
+                  "names": {
+                    "en": "Mercury",
+                    "hi": "बुध"
+                  }
+                },
+                "house": 5,
+                "karyesha": {
+                  "id": "saturn",
+                  "name": "Saturn",
+                  "names": {
+                    "en": "Saturn",
+                    "hi": "शनि"
+                  }
+                },
+                "kinds": ["dutthottha_davira"],
+                "source": "lagna_lord",
+                "weight": 1
+              },
+              {
+                "factor": "passed",
+                "graha": {
+                  "id": "moon",
+                  "name": "Moon",
+                  "names": {
+                    "en": "Moon",
+                    "hi": "चंद्र"
+                  }
+                },
+                "house": 5,
+                "karyesha": {
+                  "id": "saturn",
+                  "name": "Saturn",
+                  "names": {
+                    "en": "Saturn",
+                    "hi": "शनि"
+                  }
+                },
+                "kinds": ["ishrafa"],
+                "source": "year_lord",
+                "weight": -1
+              },
+              {
+                "factor": "passed",
+                "graha": {
+                  "id": "mercury",
+                  "name": "Mercury",
+                  "names": {
+                    "en": "Mercury",
+                    "hi": "बुध"
+                  }
+                },
+                "house": 4,
+                "karyesha": {
+                  "id": "jupiter",
+                  "name": "Jupiter",
+                  "names": {
+                    "en": "Jupiter",
+                    "hi": "गुरु"
+                  }
+                },
+                "kinds": ["ishrafa", "dutthottha_davira"],
+                "source": "lagna_lord",
+                "weight": -1
+              },
+              {
+                "factor": "fulfils",
+                "graha": {
+                  "id": "moon",
+                  "name": "Moon",
+                  "names": {
+                    "en": "Moon",
+                    "hi": "चंद्र"
+                  }
+                },
+                "house": 4,
+                "karyesha": {
+                  "id": "jupiter",
+                  "name": "Jupiter",
+                  "names": {
+                    "en": "Jupiter",
+                    "hi": "गुरु"
+                  }
+                },
+                "kinds": ["poorna_ithasala", "rudda"],
+                "source": "year_lord",
+                "weight": 0.75
+              },
+              {
+                "factor": "helped",
+                "graha": {
+                  "id": "mercury",
+                  "name": "Mercury",
+                  "names": {
+                    "en": "Mercury",
+                    "hi": "बुध"
+                  }
+                },
+                "house": 9,
+                "karyesha": {
+                  "id": "venus",
+                  "name": "Venus",
+                  "names": {
+                    "en": "Venus",
+                    "hi": "शुक्र"
+                  }
+                },
+                "kinds": ["dutthottha_davira", "dutthottha_davira"],
+                "source": "lagna_lord",
+                "weight": 0.5
+              }
+            ]
+          },
+          "health": {
+            "danger": false,
+            "factor": "strained",
+            "house": 1,
+            "karyesha": {
+              "id": "mercury",
+              "name": "Mercury",
+              "names": {
+                "en": "Mercury",
+                "hi": "बुध"
+              }
+            },
+            "natal_guard": {
+              "afflictions": ["natal_6_8_12"],
+              "capped": false,
+              "house": 1,
+              "lord": {
+                "id": "moon",
+                "name": "Moon",
+                "names": {
+                  "en": "Moon",
+                  "hi": "चंद्र"
+                }
+              },
+              "on": true
+            },
+            "reasons": [
+              {
+                "code": "ithasala_with_sixth_lord",
+                "source": "Charak bk 184-185"
+              },
+              {
+                "code": "punya_and_eighth_lord_in_dusthana",
+                "source": "Charak bk 190"
+              },
+              {
+                "code": "malefic_in_annual_8th",
+                "source": "Charak bk 107"
+              },
+              {
+                "code": "relief_benefic_on_sixth",
+                "source": "Charak bk 184-186"
+              }
+            ],
+            "score": -2,
+            "yogas": [
+              {
+                "factor": "strained",
+                "graha": {
+                  "id": "mercury",
+                  "name": "Mercury",
+                  "names": {
+                    "en": "Mercury",
+                    "hi": "बुध"
+                  }
+                },
+                "house": 6,
+                "karyesha": {
+                  "id": "saturn",
+                  "name": "Saturn",
+                  "names": {
+                    "en": "Saturn",
+                    "hi": "शनि"
+                  }
+                },
+                "kinds": ["dutthottha_davira"],
+                "source": "lagna_lord",
+                "weight": -1
+              }
+            ]
+          },
+          "home": {
+            "danger": false,
+            "factor": "passed",
+            "house": 4,
+            "karyesha": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "natal_guard": {
+              "afflictions": [],
+              "capped": false,
+              "house": 4,
+              "lord": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "on": true
+            },
+            "reasons": [
+              {
+                "code": "house_with_own_lord",
+                "source": "Charak bk 174"
+              },
+              {
+                "code": "house_benefic_influence",
+                "source": "Charak bk 174"
+              },
+              {
+                "code": "house_malefic_influence",
+                "source": "Charak bk 174-175"
+              },
+              {
+                "code": "house_year_lord_or_strong_planet",
+                "source": "Charak bk 174"
+              },
+              {
+                "code": "karyesha_strength",
+                "source": "Charak bk 109-111, 144"
+              },
+              {
+                "code": "tajika_yoga",
+                "source": "Charak bk 109-145"
+              },
+              {
+                "code": "year_lord_is_karaka",
+                "source": "Charak bk 83-85"
+              }
+            ],
+            "score": 2.5,
+            "yogas": [
+              {
+                "factor": "passed",
+                "graha": {
+                  "id": "mercury",
+                  "name": "Mercury",
+                  "names": {
+                    "en": "Mercury",
+                    "hi": "बुध"
+                  }
+                },
+                "house": 4,
+                "karyesha": {
+                  "id": "jupiter",
+                  "name": "Jupiter",
+                  "names": {
+                    "en": "Jupiter",
+                    "hi": "गुरु"
+                  }
+                },
+                "kinds": ["ishrafa", "dutthottha_davira"],
+                "source": "lagna_lord",
+                "weight": -2
+              },
+              {
+                "factor": "fulfils",
+                "graha": {
+                  "id": "moon",
+                  "name": "Moon",
+                  "names": {
+                    "en": "Moon",
+                    "hi": "चंद्र"
+                  }
+                },
+                "house": 4,
+                "karyesha": {
+                  "id": "jupiter",
+                  "name": "Jupiter",
+                  "names": {
+                    "en": "Jupiter",
+                    "hi": "गुरु"
+                  }
+                },
+                "kinds": ["poorna_ithasala", "rudda"],
+                "source": "year_lord",
+                "weight": 1.5
+              }
+            ]
+          },
+          "money": {
+            "danger": false,
+            "factor": "helped",
+            "house": 2,
+            "karyesha": {
+              "id": "venus",
+              "name": "Venus",
+              "names": {
+                "en": "Venus",
+                "hi": "शुक्र"
+              }
+            },
+            "natal_guard": {
+              "afflictions": ["natal_net_very_bad"],
+              "capped": true,
+              "house": 2,
+              "lord": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "on": true
+            },
+            "reasons": [
+              {
+                "code": "house_with_own_lord",
+                "source": "Charak bk 174"
+              },
+              {
+                "code": "house_benefic_influence",
+                "source": "Charak bk 174"
+              },
+              {
+                "code": "house_malefic_influence",
+                "source": "Charak bk 174-175"
+              },
+              {
+                "code": "house_year_lord_or_strong_planet",
+                "source": "Charak bk 174"
+              },
+              {
+                "code": "karyesha_strength",
+                "source": "Charak bk 109-111, 144"
+              },
+              {
+                "code": "tajika_yoga",
+                "source": "Charak bk 109-145"
+              },
+              {
+                "code": "karaka_strong",
+                "source": "Charak bk 171"
+              },
+              {
+                "code": "natal_promise_guard",
+                "source": "Charak bk 3, 8, 145, 171"
+              }
+            ],
+            "score": 4.5,
+            "yogas": [
+              {
+                "factor": "helped",
+                "graha": {
+                  "id": "mercury",
+                  "name": "Mercury",
+                  "names": {
+                    "en": "Mercury",
+                    "hi": "बुध"
+                  }
+                },
+                "house": 2,
+                "karyesha": {
+                  "id": "venus",
+                  "name": "Venus",
+                  "names": {
+                    "en": "Venus",
+                    "hi": "शुक्र"
+                  }
+                },
+                "kinds": ["dutthottha_davira", "dutthottha_davira"],
+                "source": "lagna_lord",
+                "weight": 1
+              },
+              {
+                "factor": "helped",
+                "graha": {
+                  "id": "mercury",
+                  "name": "Mercury",
+                  "names": {
+                    "en": "Mercury",
+                    "hi": "बुध"
+                  }
+                },
+                "house": 11,
+                "karyesha": {
+                  "id": "moon",
+                  "name": "Moon",
+                  "names": {
+                    "en": "Moon",
+                    "hi": "चंद्र"
+                  }
+                },
+                "kinds": ["yamaya", "dutthottha_davira"],
+                "source": "lagna_lord",
+                "weight": 2
+              }
+            ]
+          },
+          "relationships": {
+            "danger": false,
+            "factor": "passed",
+            "house": 7,
+            "karyesha": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "natal_guard": {
+              "afflictions": ["natal_net_very_bad"],
+              "capped": false,
+              "house": 7,
+              "lord": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "on": true
+            },
+            "reasons": [
+              {
+                "code": "house_with_own_lord",
+                "source": "Charak bk 174"
+              },
+              {
+                "code": "house_benefic_influence",
+                "source": "Charak bk 174"
+              },
+              {
+                "code": "house_malefic_influence",
+                "source": "Charak bk 174-175"
+              },
+              {
+                "code": "house_year_lord_or_strong_planet",
+                "source": "Charak bk 174"
+              },
+              {
+                "code": "karyesha_strength",
+                "source": "Charak bk 109-111, 144"
+              },
+              {
+                "code": "occupant_favourable_house",
+                "source": "Charak ch. IX, bk 93-107"
+              },
+              {
+                "code": "occupant_unfavourable_house",
+                "source": "Charak ch. IX, bk 93-107"
+              },
+              {
+                "code": "tajika_yoga",
+                "source": "Charak bk 109-145"
+              },
+              {
+                "code": "karaka_strong",
+                "source": "Charak bk 171"
+              }
+            ],
+            "score": 3,
+            "yogas": [
+              {
+                "factor": "passed",
+                "graha": {
+                  "id": "mercury",
+                  "name": "Mercury",
+                  "names": {
+                    "en": "Mercury",
+                    "hi": "बुध"
+                  }
+                },
+                "house": 7,
+                "karyesha": {
+                  "id": "jupiter",
+                  "name": "Jupiter",
+                  "names": {
+                    "en": "Jupiter",
+                    "hi": "गुरु"
+                  }
+                },
+                "kinds": ["ishrafa", "dutthottha_davira"],
+                "source": "lagna_lord",
+                "weight": -2
+              },
+              {
+                "factor": "fulfils",
+                "graha": {
+                  "id": "moon",
+                  "name": "Moon",
+                  "names": {
+                    "en": "Moon",
+                    "hi": "चंद्र"
+                  }
+                },
+                "house": 7,
+                "karyesha": {
+                  "id": "jupiter",
+                  "name": "Jupiter",
+                  "names": {
+                    "en": "Jupiter",
+                    "hi": "गुरु"
+                  }
+                },
+                "kinds": ["poorna_ithasala", "rudda"],
+                "source": "year_lord",
+                "weight": 1.5
+              },
+              {
+                "factor": "helped",
+                "graha": {
+                  "id": "mercury",
+                  "name": "Mercury",
+                  "names": {
+                    "en": "Mercury",
+                    "hi": "बुध"
+                  }
+                },
+                "house": 5,
+                "karyesha": {
+                  "id": "saturn",
+                  "name": "Saturn",
+                  "names": {
+                    "en": "Saturn",
+                    "hi": "शनि"
+                  }
+                },
+                "kinds": ["dutthottha_davira"],
+                "source": "lagna_lord",
+                "weight": 0.5
+              },
+              {
+                "factor": "passed",
+                "graha": {
+                  "id": "moon",
+                  "name": "Moon",
+                  "names": {
+                    "en": "Moon",
+                    "hi": "चंद्र"
+                  }
+                },
+                "house": 5,
+                "karyesha": {
+                  "id": "saturn",
+                  "name": "Saturn",
+                  "names": {
+                    "en": "Saturn",
+                    "hi": "शनि"
+                  }
+                },
+                "kinds": ["ishrafa"],
+                "source": "year_lord",
+                "weight": -0.5
+              }
+            ]
+          },
+          "travel": {
+            "danger": false,
+            "factor": "helped",
+            "house": 9,
+            "karyesha": {
+              "id": "venus",
+              "name": "Venus",
+              "names": {
+                "en": "Venus",
+                "hi": "शुक्र"
+              }
+            },
+            "natal_guard": {
+              "afflictions": ["natal_6_8_12"],
+              "capped": false,
+              "house": 9,
+              "lord": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "on": true
+            },
+            "reasons": [
+              {
+                "code": "house_year_lord_or_strong_planet",
+                "source": "Charak bk 174"
+              },
+              {
+                "code": "karyesha_strength",
+                "source": "Charak bk 109-111, 144"
+              },
+              {
+                "code": "tajika_yoga",
+                "source": "Charak bk 109-145"
+              },
+              {
+                "code": "karyesha_in_6_8_12",
+                "source": "Charak bk 144-145"
+              },
+              {
+                "code": "house_with_own_lord",
+                "source": "Charak bk 174"
+              },
+              {
+                "code": "house_benefic_influence",
+                "source": "Charak bk 174"
+              },
+              {
+                "code": "house_malefic_influence",
+                "source": "Charak bk 174-175"
+              },
+              {
+                "code": "occupant_unfavourable_house",
+                "source": "Charak ch. IX, bk 93-107"
+              },
+              {
+                "code": "year_lord_is_karaka",
+                "source": "Charak bk 83-85"
+              }
+            ],
+            "score": 2.4375,
+            "yogas": [
+              {
+                "factor": "helped",
+                "graha": {
+                  "id": "mercury",
+                  "name": "Mercury",
+                  "names": {
+                    "en": "Mercury",
+                    "hi": "बुध"
+                  }
+                },
+                "house": 9,
+                "karyesha": {
+                  "id": "venus",
+                  "name": "Venus",
+                  "names": {
+                    "en": "Venus",
+                    "hi": "शुक्र"
+                  }
+                },
+                "kinds": ["dutthottha_davira", "dutthottha_davira"],
+                "source": "lagna_lord",
+                "weight": 1
+              },
+              {
+                "factor": "blocked",
+                "graha": {
+                  "id": "mercury",
+                  "name": "Mercury",
+                  "names": {
+                    "en": "Mercury",
+                    "hi": "बुध"
+                  }
+                },
+                "house": 12,
+                "karyesha": {
+                  "id": "sun",
+                  "name": "Sun",
+                  "names": {
+                    "en": "Sun",
+                    "hi": "सूर्य"
+                  }
+                },
+                "kinds": ["poorna_ithasala", "rudda", "duhphali_kuttha"],
+                "source": "lagna_lord",
+                "weight": -0.75
+              },
+              {
+                "factor": "fulfils",
+                "graha": {
+                  "id": "moon",
+                  "name": "Moon",
+                  "names": {
+                    "en": "Moon",
+                    "hi": "चंद्र"
+                  }
+                },
+                "house": 12,
+                "karyesha": {
+                  "id": "sun",
+                  "name": "Sun",
+                  "names": {
+                    "en": "Sun",
+                    "hi": "सूर्य"
+                  }
+                },
+                "kinds": ["yamaya"],
+                "source": "year_lord",
+                "weight": 0.375
+              }
+            ]
+          },
+          "work": {
+            "danger": false,
+            "factor": "fulfils",
+            "house": 10,
+            "karyesha": {
+              "id": "mercury",
+              "name": "Mercury",
+              "names": {
+                "en": "Mercury",
+                "hi": "बुध"
+              }
+            },
+            "natal_guard": {
+              "afflictions": ["natal_6_8_12"],
+              "capped": false,
+              "house": 10,
+              "lord": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "on": true
+            },
+            "reasons": [
+              {
+                "code": "house_with_own_lord",
+                "source": "Charak bk 174"
+              },
+              {
+                "code": "house_benefic_influence",
+                "source": "Charak bk 174"
+              },
+              {
+                "code": "house_malefic_influence",
+                "source": "Charak bk 174-175"
+              },
+              {
+                "code": "house_year_lord_or_strong_planet",
+                "source": "Charak bk 174"
+              },
+              {
+                "code": "karyesha_strength",
+                "source": "Charak bk 109-111, 144"
+              },
+              {
+                "code": "karyesha_in_6_8_12",
+                "source": "Charak bk 144-145"
+              },
+              {
+                "code": "occupant_favourable_house",
+                "source": "Charak ch. IX, bk 93-107"
+              },
+              {
+                "code": "tajika_yoga",
+                "source": "Charak bk 109-145"
+              },
+              {
+                "code": "karaka_afflicted",
+                "source": "Charak bk 171"
+              }
+            ],
+            "score": 2.25,
+            "yogas": [
+              {
+                "factor": "fulfils",
+                "graha": {
+                  "id": "moon",
+                  "name": "Moon",
+                  "names": {
+                    "en": "Moon",
+                    "hi": "चंद्र"
+                  }
+                },
+                "house": 10,
+                "karyesha": {
+                  "id": "mercury",
+                  "name": "Mercury",
+                  "names": {
+                    "en": "Mercury",
+                    "hi": "बुध"
+                  }
+                },
+                "kinds": ["yamaya"],
+                "source": "year_lord",
+                "weight": 0.75
+              }
+            ]
+          }
+        },
+        "five_lords": [
+          {
+            "graha": {
+              "id": "moon",
+              "name": "Moon",
+              "names": {
+                "en": "Moon",
+                "hi": "चंद्र"
+              }
+            },
+            "house": 7,
+            "roles": ["natal_lagna_lord", "muntha_lord", "year_lord"],
+            "strong": false,
+            "vb": 9.286468663855409,
+            "weak": false
+          },
+          {
+            "graha": {
+              "id": "mercury",
+              "name": "Mercury",
+              "names": {
+                "en": "Mercury",
+                "hi": "बुध"
+              }
+            },
+            "house": 8,
+            "roles": ["annual_lagna_lord"],
+            "strong": false,
+            "vb": 7.791106981304172,
+            "weak": true
+          },
+          {
+            "graha": {
+              "id": "mars",
+              "name": "Mars",
+              "names": {
+                "en": "Mars",
+                "hi": "मंगल"
+              }
+            },
+            "house": 8,
+            "roles": ["annual_eighth_lord"],
+            "strong": false,
+            "vb": 17.274139376783737,
+            "weak": true
+          }
+        ],
+        "months": [
+          {
+            "lord": {
+              "id": "venus",
+              "name": "Venus",
+              "names": {
+                "en": "Venus",
+                "hi": "शुक्र"
+              }
+            },
+            "reasons": [
+              {
+                "code": "period_lord_class",
+                "source": "Charak bk 73-75"
+              },
+              {
+                "code": "period_lord_rules_good_house",
+                "source": "Charak bk 16"
+              }
+            ],
+            "score": 1.5
+          },
+          {
+            "lord": {
+              "id": "sun",
+              "name": "Sun",
+              "names": {
+                "en": "Sun",
+                "hi": "सूर्य"
+              }
+            },
+            "reasons": [
+              {
+                "code": "period_lord_class",
+                "source": "Charak bk 73-75"
+              },
+              {
+                "code": "period_lord_rules_6_8_12",
+                "source": "Charak bk 144-145"
+              },
+              {
+                "code": "period_lord_in_8th",
+                "source": "Charak bk 107"
+              }
+            ],
+            "score": -1
+          },
+          {
+            "lord": {
+              "id": "moon",
+              "name": "Moon",
+              "names": {
+                "en": "Moon",
+                "hi": "चंद्र"
+              }
+            },
+            "reasons": [
+              {
+                "code": "period_lord_class",
+                "source": "Charak bk 73-75"
+              },
+              {
+                "code": "period_lord_rules_good_house",
+                "source": "Charak bk 16"
+              },
+              {
+                "code": "period_lord_is_year_lord",
+                "source": "Charak bk 82"
+              }
+            ],
+            "score": 0
+          },
+          {
+            "lord": {
+              "id": "mars",
+              "name": "Mars",
+              "names": {
+                "en": "Mars",
+                "hi": "मंगल"
+              }
+            },
+            "reasons": [
+              {
+                "code": "period_lord_class",
+                "source": "Charak bk 73-75"
+              },
+              {
+                "code": "period_lord_rules_6_8_12",
+                "source": "Charak bk 144-145"
+              },
+              {
+                "code": "period_lord_in_8th",
+                "source": "Charak bk 107"
+              }
+            ],
+            "score": 0
+          },
+          {
+            "lord": {
+              "id": "rahu",
+              "name": "Rahu",
+              "names": {
+                "en": "Rahu",
+                "hi": "राहु"
+              }
+            },
+            "reasons": [
+              {
+                "code": "period_lord_class",
+                "source": "Charak bk 73-75"
+              },
+              {
+                "code": "node_strength_proxy",
+                "source": "Charak bk 75 (tentative)"
+              },
+              {
+                "code": "period_malefic_good_house",
+                "source": "Charak bk 74"
+              }
+            ],
+            "score": 1
+          },
+          {
+            "lord": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "reasons": [
+              {
+                "code": "period_lord_class",
+                "source": "Charak bk 73-75"
+              }
+            ],
+            "score": 1
+          },
+          {
+            "lord": {
+              "id": "saturn",
+              "name": "Saturn",
+              "names": {
+                "en": "Saturn",
+                "hi": "शनि"
+              }
+            },
+            "reasons": [
+              {
+                "code": "period_lord_class",
+                "source": "Charak bk 73-75"
+              },
+              {
+                "code": "period_lord_rules_6_8_12",
+                "source": "Charak bk 144-145"
+              },
+              {
+                "code": "period_lord_rules_good_house",
+                "source": "Charak bk 16"
+              }
+            ],
+            "score": -1
+          },
+          {
+            "lord": {
+              "id": "mercury",
+              "name": "Mercury",
+              "names": {
+                "en": "Mercury",
+                "hi": "बुध"
+              }
+            },
+            "reasons": [
+              {
+                "code": "period_lord_class",
+                "source": "Charak bk 73-75"
+              },
+              {
+                "code": "period_lord_rules_good_house",
+                "source": "Charak bk 16"
+              },
+              {
+                "code": "period_lord_in_8th",
+                "source": "Charak bk 107"
+              }
+            ],
+            "score": -1
+          },
+          {
+            "lord": {
+              "id": "ketu",
+              "name": "Ketu",
+              "names": {
+                "en": "Ketu",
+                "hi": "केतु"
+              }
+            },
+            "reasons": [
+              {
+                "code": "period_lord_class",
+                "source": "Charak bk 73-75"
+              },
+              {
+                "code": "node_strength_proxy",
+                "source": "Charak bk 75 (tentative)"
+              }
+            ],
+            "score": 2
+          },
+          {
+            "lord": {
+              "id": "venus",
+              "name": "Venus",
+              "names": {
+                "en": "Venus",
+                "hi": "शुक्र"
+              }
+            },
+            "reasons": [
+              {
+                "code": "period_lord_class",
+                "source": "Charak bk 73-75"
+              },
+              {
+                "code": "period_lord_rules_good_house",
+                "source": "Charak bk 16"
+              }
+            ],
+            "score": 1.5
+          }
+        ],
+        "muntha": {
+          "class": "best",
+          "house": 11,
+          "lord": {
+            "id": "moon",
+            "name": "Moon",
+            "names": {
+              "en": "Moon",
+              "hi": "चंद्र"
+            }
+          },
+          "lord_house": 7,
+          "reasons": [
+            {
+              "code": "muntha_best_house",
+              "source": "Charak bk 33-35"
+            },
+            {
+              "code": "muntha_benefic_influence",
+              "source": "Charak bk 35"
+            },
+            {
+              "code": "muntha_lord_4_6_7_8_12",
+              "source": "Charak bk 37-38"
+            }
+          ],
+          "score": 2,
+          "sign": {
+            "id": "cancer",
+            "name": "Cancer",
+            "names": {
+              "en": "Cancer",
+              "hi": "कर्क"
+            }
+          }
+        },
+        "overall": {
+          "cancellation": [],
+          "force_care": false,
+          "level": "mixed",
+          "natal_gate": false,
+          "reasons": [
+            {
+              "code": "year_lord_medium",
+              "source": "Charak bk 62-63, 83"
+            },
+            {
+              "code": "five_lord_weak_or_6_8_12",
+              "source": "Charak bk 174"
+            },
+            {
+              "code": "muntha_best_house",
+              "source": "Charak bk 33-35"
+            },
+            {
+              "code": "muntha_benefic_influence",
+              "source": "Charak bk 35"
+            },
+            {
+              "code": "muntha_lord_4_6_7_8_12",
+              "source": "Charak bk 37-38"
+            },
+            {
+              "code": "lagna_lord_strength",
+              "source": "Charak bk 174-175"
+            }
+          ],
+          "score": 0
+        },
+        "switches": {
+          "functional": {
+            "eighth_in_eighth_relief": false,
+            "house_pair_sadharmi": true,
+            "kendradhipati_class": "jha_inauspicious_light",
+            "kt_relation": "jha_placement",
+            "lagna_eighth": "jha_neutral",
+            "luminaries_maraka": true,
+            "luminary_eighth": "jha_small_blemish",
+            "mercury_alone": "jha_sama",
+            "moon_strength": "tithi8",
+            "mutual_aspect_needs_own_sign": false,
+            "node_same_kind_yk": false,
+            "node_with_eighth": "acts_as_eighth_lord",
+            "prime_maraka": "second",
+            "second_twelfth": "jha_companion_first",
+            "trikona_eighth": "jha_facilitator",
+            "trikona_sixth": "by_house_rank",
+            "unlisted_pairs": "sadharmi"
+          },
+          "varsha": {
+            "cancellation_lifts": true,
+            "khallasara_cancels": true,
+            "lagna_lord_co_lordship_colours": false,
+            "mars_good_houses": "chapter_nine",
+            "natal_guard": true,
+            "natal_guard_counts_net_grade": true,
+            "natal_guard_min_afflictions": 1,
+            "node_strength_proxy": true,
+            "roga_saham_formula": "charak",
+            "roga_saham_trigger": false,
+            "rudda_needs_fast_planet": true,
+            "scale_mudda_to_year": true,
+            "year_lord_combust_retro_lowers": true,
+            "year_lord_dusthana_lowers": true
+          }
+        },
+        "year_lord": {
+          "combust": false,
+          "graha": {
+            "id": "moon",
+            "name": "Moon",
+            "names": {
+              "en": "Moon",
+              "hi": "चंद्र"
+            }
+          },
+          "placement_house": 7,
+          "reasons": [
+            {
+              "code": "year_lord_medium",
+              "source": "Charak bk 62-63, 83"
+            }
+          ],
+          "retrograde": false,
+          "score": 9.286468663855409,
+          "strength_class": "medium",
+          "vb_class": "medium"
+        }
+      },
+      "from": "2026-05-14T10:33:33.967Z",
+      "months": [
+        {
+          "from": "2026-05-14T10:33:33.967Z",
+          "level": "favourable",
+          "lord": {
+            "id": "venus",
+            "name": "Venus",
+            "names": {
+              "en": "Venus",
+              "hi": "शुक्र"
+            }
+          },
+          "to": "2026-06-24T14:51:42.905Z"
+        },
+        {
+          "from": "2026-06-24T14:51:42.905Z",
+          "level": "care",
+          "lord": {
+            "id": "sun",
+            "name": "Sun",
+            "names": {
+              "en": "Sun",
+              "hi": "सूर्य"
+            }
+          },
+          "to": "2026-07-12T21:09:34.562Z"
+        },
+        {
+          "from": "2026-07-12T21:09:34.562Z",
+          "level": "mixed",
+          "lord": {
+            "id": "moon",
+            "name": "Moon",
+            "names": {
+              "en": "Moon",
+              "hi": "चंद्र"
+            }
+          },
+          "to": "2026-08-12T07:39:20.657Z"
+        },
+        {
+          "from": "2026-08-12T07:39:20.657Z",
+          "level": "mixed",
+          "lord": {
+            "id": "mars",
+            "name": "Mars",
+            "names": {
+              "en": "Mars",
+              "hi": "मंगल"
+            }
+          },
+          "to": "2026-09-02T15:00:10.924Z"
+        },
+        {
+          "from": "2026-09-02T15:00:10.924Z",
+          "level": "favourable",
+          "lord": {
+            "id": "rahu",
+            "name": "Rahu",
+            "names": {
+              "en": "Rahu",
+              "hi": "राहु"
+            }
+          },
+          "to": "2026-10-27T09:53:45.895Z"
+        },
+        {
+          "from": "2026-10-27T09:53:45.895Z",
+          "level": "favourable",
+          "lord": {
+            "id": "jupiter",
+            "name": "Jupiter",
+            "names": {
+              "en": "Jupiter",
+              "hi": "गुरु"
+            }
+          },
+          "to": "2026-12-15T02:41:23.647Z"
+        },
+        {
+          "from": "2026-12-15T02:41:23.647Z",
+          "level": "care",
+          "lord": {
+            "id": "saturn",
+            "name": "Saturn",
+            "names": {
+              "en": "Saturn",
+              "hi": "शनि"
+            }
+          },
+          "to": "2027-02-10T22:37:57.228Z"
+        },
+        {
+          "from": "2027-02-10T22:37:57.228Z",
+          "level": "care",
+          "lord": {
+            "id": "mercury",
+            "name": "Mercury",
+            "names": {
+              "en": "Mercury",
+              "hi": "बुध"
+            }
+          },
+          "to": "2027-04-03T16:28:33.590Z"
+        },
+        {
+          "from": "2027-04-03T16:28:33.590Z",
+          "level": "favourable",
+          "lord": {
+            "id": "ketu",
+            "name": "Ketu",
+            "names": {
+              "en": "Ketu",
+              "hi": "केतु"
+            }
+          },
+          "to": "2027-04-24T23:49:23.856Z"
+        },
+        {
+          "from": "2027-04-24T23:49:23.856Z",
+          "level": "favourable",
+          "lord": {
+            "id": "venus",
+            "name": "Venus",
+            "names": {
+              "en": "Venus",
+              "hi": "शुक्र"
+            }
+          },
+          "to": "2027-05-14T16:30:47.109Z"
+        }
+      ],
+      "summary": {
+        "level": "mixed",
+        "text": {
+          "en": "This year, gains and hurdles tend to balance each other, so keep plans flexible and your expectations measured. The Moon rules your year with middling strength, so comforts and cash flow can be uneven. Spending may run ahead of income, energy can feel lower than usual, and those in charge may be harder to please. Keep a simple budget, protect your sleep and emotional calm, and let small, steady gains add up. The year centres on gains and fulfilled wishes. Income improves, superiors look on you kindly and health and spirits tend to be good. Friends and social networks prove helpful, and children bring joy. It is a year to set clear goals and reach for them, while remembering to share the rewards generously. The most rewarding stretch of this period runs from September 2026 to December 2026. The most demanding stretch runs from December 2026 to April 2027; pace yourself and keep commitments modest then.",
+          "hi": "इस वर्ष लाभ और बाधाएँ एक-दूसरे को संतुलित करती हैं, इसलिए योजनाओं को लचीला और अपेक्षाओं को संयत रखें। मध्यम बल वाले चंद्रमा के वर्ष का स्वामी होने पर सुख-साधन और धन का प्रवाह असमान रह सकता है। व्यय आय से आगे निकल सकता है, ऊर्जा सामान्य से न्यून लग सकती है और उच्चाधिकारियों को संतुष्ट करना कठिन हो सकता है। आय-व्यय का सरल लेखा रखें, नींद और मन की शांति की रक्षा करें, और छोटी-छोटी स्थिर उपलब्धियों को जुड़ने दें। इस वर्ष का केंद्र लाभ और इच्छापूर्ति है। आय में सुधार होता है, वरिष्ठ जन प्रसन्न रहते हैं, और स्वास्थ्य तथा मनोबल प्रायः अच्छे रहते हैं। मित्र और सामाजिक संपर्क सहायक सिद्ध होते हैं, और संतान से आनंद मिलता है। स्पष्ट लक्ष्य निर्धारित करके उनकी ओर बढ़ने का यह वर्ष है; साथ ही प्रतिफल को उदारता से बाँटना न भूलें। इस दशा का सबसे फलदायी समय सितंबर 2026 से दिसंबर 2026 तक रहता है। सबसे अधिक परिश्रम माँगने वाला समय दिसंबर 2026 से अप्रैल 2027 तक है; उस समय अपनी गति संतुलित और प्रतिबद्धताएँ सीमित रखें।"
+        }
+      },
+      "to": "2027-05-14T16:30:47.109Z",
+      "varsha_year": 36,
+      "year": 2026
+    },
+    "vimshottari": {
+      "basis": {
+        "functional": {
+          "jupiter": {
+            "blemishes": [
+              {
+                "house": 6,
+                "kind": "also_owns"
+              }
+            ],
+            "class": "blemished_auspicious",
+            "dasha_role": "yogakaraka",
+            "dasha_role_reasons": [
+              {
+                "code": "raja_yoga_partner_dasha",
+                "source": "LP S.14, S.16, S.33 (Jha p.27-28, p.36)"
+              }
+            ],
+            "eighth_lord": null,
+            "house_occupied": 12,
+            "houses_owned": [6, 9],
+            "kendra_lord": [],
+            "kendradhipati_dosha": null,
+            "maraka": null,
+            "natural": "benefic",
+            "net": "very_good",
+            "node_proxy": null,
+            "planet": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "raja_yoga_partner": "venus",
+            "reasons": [
+              {
+                "code": "natural_nature",
+                "source": "LP S.6 (Jha p.19)"
+              },
+              {
+                "code": "trikona_lord",
+                "source": "LP S.6 (Jha p.19)"
+              },
+              {
+                "code": "trishadaya_lord",
+                "source": "LP S.6 (Jha p.19-20)"
+              },
+              {
+                "code": "trikona_sixth_by_house_rank",
+                "source": "LP S.6-7 (Verma p.26, p.29-31)"
+              },
+              {
+                "code": "kendra_trikona_lord_owns_evil_house",
+                "source": "LP S.14-15, S.22 (Jha p.30)"
+              },
+              {
+                "code": "net_grade_merge",
+                "source": "LP S.6 (Jha p.19)"
+              }
+            ],
+            "second_twelfth": null,
+            "trikona_lord": [9],
+            "trishadaya_lord": {
+              "houses": [6],
+              "rank": 2
+            },
+            "yogakaraka": null
+          },
+          "ketu": {
+            "blemishes": [],
+            "class": "auspicious",
+            "dasha_role": "auspicious",
+            "dasha_role_reasons": [],
+            "eighth_lord": null,
+            "house_occupied": 1,
+            "houses_owned": [],
+            "kendra_lord": [],
+            "kendradhipati_dosha": null,
+            "maraka": null,
+            "natural": "malefic",
+            "net": "sama",
+            "node_proxy": {
+              "companions": [],
+              "follows": null,
+              "house": 1
+            },
+            "planet": {
+              "id": "ketu",
+              "name": "Ketu",
+              "names": {
+                "en": "Ketu",
+                "hi": "केतु"
+              }
+            },
+            "raja_yoga_partner": null,
+            "reasons": [
+              {
+                "code": "natural_nature",
+                "source": "LP S.6 (Jha p.19)"
+              },
+              {
+                "code": "node_by_house",
+                "source": "LP S.13 (Jha p.26)"
+              },
+              {
+                "code": "net_grade_merge",
+                "source": "LP S.6 (Jha p.19)"
+              }
+            ],
+            "second_twelfth": null,
+            "trikona_lord": [],
+            "trishadaya_lord": null,
+            "yogakaraka": null
+          },
+          "mars": {
+            "blemishes": [],
+            "class": "yogakaraka",
+            "dasha_role": "yogakaraka",
+            "dasha_role_reasons": [],
+            "eighth_lord": null,
+            "house_occupied": 8,
+            "houses_owned": [5, 10],
+            "kendra_lord": [10],
+            "kendradhipati_dosha": null,
+            "maraka": null,
+            "natural": "malefic",
+            "net": "sama",
+            "node_proxy": null,
+            "planet": {
+              "id": "mars",
+              "name": "Mars",
+              "names": {
+                "en": "Mars",
+                "hi": "मंगल"
+              }
+            },
+            "raja_yoga_partner": null,
+            "reasons": [
+              {
+                "code": "natural_nature",
+                "source": "LP S.6 (Jha p.19)"
+              },
+              {
+                "code": "trikona_lord",
+                "source": "LP S.6 (Jha p.19)"
+              },
+              {
+                "code": "kendra_lord_neutral",
+                "source": "LP S.7 (Jha p.20-21)"
+              },
+              {
+                "code": "yogakaraka_lordship",
+                "source": "LP S.12 (Jha p.25)"
+              },
+              {
+                "code": "net_grade_merge",
+                "source": "LP S.6 (Jha p.19)"
+              }
+            ],
+            "second_twelfth": null,
+            "trikona_lord": [5],
+            "trishadaya_lord": null,
+            "yogakaraka": {
+              "kendra": 10,
+              "kind": "lordship",
+              "trikona": 5
+            }
+          },
+          "mercury": {
+            "blemishes": [],
+            "class": "inauspicious",
+            "dasha_role": "inauspicious",
+            "dasha_role_reasons": [],
+            "eighth_lord": null,
+            "house_occupied": 10,
+            "houses_owned": [3, 12],
+            "kendra_lord": [],
+            "kendradhipati_dosha": null,
+            "maraka": null,
+            "natural": "malefic",
+            "net": "very_bad",
+            "node_proxy": null,
+            "planet": {
+              "id": "mercury",
+              "name": "Mercury",
+              "names": {
+                "en": "Mercury",
+                "hi": "बुध"
+              }
+            },
+            "raja_yoga_partner": null,
+            "reasons": [
+              {
+                "code": "natural_nature",
+                "source": "LP S.6 (Jha p.19)"
+              },
+              {
+                "code": "trishadaya_lord",
+                "source": "LP S.6 (Jha p.19-20)"
+              },
+              {
+                "code": "second_twelfth_by_association",
+                "source": "LP S.8 (Jha p.22)"
+              },
+              {
+                "code": "net_grade_merge",
+                "source": "LP S.6 (Jha p.19)"
+              }
+            ],
+            "second_twelfth": {
+              "basis": {
+                "kind": "companion",
+                "planet": {
+                  "id": "sun",
+                  "name": "Sun",
+                  "names": {
+                    "en": "Sun",
+                    "hi": "सूर्य"
+                  }
+                }
+              },
+              "houses": [12],
+              "resolved": "neutral"
+            },
+            "trikona_lord": [],
+            "trishadaya_lord": {
+              "houses": [3],
+              "rank": 1
+            },
+            "yogakaraka": null
+          },
+          "moon": {
+            "blemishes": [],
+            "class": "auspicious",
+            "dasha_role": "yogakaraka",
+            "dasha_role_reasons": [
+              {
+                "code": "raja_yoga_partner_dasha",
+                "source": "LP S.14, S.16, S.33 (Jha p.27-28, p.36)"
+              }
+            ],
+            "eighth_lord": null,
+            "house_occupied": 6,
+            "houses_owned": [1],
+            "kendra_lord": [],
+            "kendradhipati_dosha": null,
+            "maraka": null,
+            "natural": "benefic",
+            "net": "very_good",
+            "node_proxy": null,
+            "planet": {
+              "id": "moon",
+              "name": "Moon",
+              "names": {
+                "en": "Moon",
+                "hi": "चंद्र"
+              }
+            },
+            "raja_yoga_partner": "venus",
+            "reasons": [
+              {
+                "code": "natural_nature",
+                "source": "LP S.6 (Jha p.19)"
+              },
+              {
+                "code": "trikona_lord",
+                "source": "LP S.6 (Jha p.19)"
+              },
+              {
+                "code": "net_grade_merge",
+                "source": "LP S.6 (Jha p.19)"
+              }
+            ],
+            "second_twelfth": null,
+            "trikona_lord": [1],
+            "trishadaya_lord": null,
+            "yogakaraka": null
+          },
+          "rahu": {
+            "blemishes": [],
+            "class": "inauspicious",
+            "dasha_role": "maraka",
+            "dasha_role_reasons": [],
+            "eighth_lord": null,
+            "house_occupied": 7,
+            "houses_owned": [],
+            "kendra_lord": [],
+            "kendradhipati_dosha": null,
+            "maraka": {
+              "basis": {
+                "kind": "node_in_maraka_house"
+              },
+              "houses": [7],
+              "pressure": "normal",
+              "prime": false
+            },
+            "natural": "malefic",
+            "net": "very_bad",
+            "node_proxy": {
+              "companions": ["saturn"],
+              "follows": "saturn",
+              "house": 7
+            },
+            "planet": {
+              "id": "rahu",
+              "name": "Rahu",
+              "names": {
+                "en": "Rahu",
+                "hi": "राहु"
+              }
+            },
+            "raja_yoga_partner": null,
+            "reasons": [
+              {
+                "code": "natural_nature",
+                "source": "LP S.6 (Jha p.19)"
+              },
+              {
+                "code": "node_with_eighth_lord",
+                "source": "LP S.13 (Verma p.120)"
+              },
+              {
+                "code": "node_maraka",
+                "source": "LP S.13 (Verma p.48, p.120); MP 1.5 (Jha p.40)"
+              },
+              {
+                "code": "net_grade_merge",
+                "source": "LP S.6 (Jha p.19)"
+              }
+            ],
+            "second_twelfth": null,
+            "trikona_lord": [],
+            "trishadaya_lord": null,
+            "yogakaraka": null
+          },
+          "saturn": {
+            "blemishes": [
+              {
+                "house": 8,
+                "kind": "also_owns"
+              }
+            ],
+            "class": "inauspicious",
+            "dasha_role": "maraka",
+            "dasha_role_reasons": [],
+            "eighth_lord": {
+              "also": {
+                "house": 7,
+                "kind": "kendra"
+              },
+              "placed_in_eighth": false
+            },
+            "house_occupied": 7,
+            "houses_owned": [7, 8],
+            "kendra_lord": [7],
+            "kendradhipati_dosha": null,
+            "maraka": {
+              "basis": {
+                "kind": "lordship"
+              },
+              "houses": [7],
+              "pressure": "high",
+              "prime": false
+            },
+            "natural": "malefic",
+            "net": "very_bad",
+            "node_proxy": null,
+            "planet": {
+              "id": "saturn",
+              "name": "Saturn",
+              "names": {
+                "en": "Saturn",
+                "hi": "शनि"
+              }
+            },
+            "raja_yoga_partner": null,
+            "reasons": [
+              {
+                "code": "natural_nature",
+                "source": "LP S.6 (Jha p.19)"
+              },
+              {
+                "code": "kendra_lord_neutral",
+                "source": "LP S.7 (Jha p.20-21)"
+              },
+              {
+                "code": "eighth_lord",
+                "source": "LP S.9 (Jha p.23)"
+              },
+              {
+                "code": "kendra_trikona_lord_owns_evil_house",
+                "source": "LP S.14-15, S.22 (Jha p.30)"
+              },
+              {
+                "code": "maraka_lord",
+                "source": "LP S.23-24 (Jha p.31-32)"
+              },
+              {
+                "code": "maraka_high_inauspicious",
+                "source": "LP S.25-27 (Verma p.89-99)"
+              },
+              {
+                "code": "net_grade_merge",
+                "source": "LP S.6 (Jha p.19)"
+              }
+            ],
+            "second_twelfth": null,
+            "trikona_lord": [],
+            "trishadaya_lord": null,
+            "yogakaraka": null
+          },
+          "sun": {
+            "blemishes": [],
+            "class": "inauspicious",
+            "dasha_role": "maraka",
+            "dasha_role_reasons": [],
+            "eighth_lord": null,
+            "house_occupied": 10,
+            "houses_owned": [2],
+            "kendra_lord": [],
+            "kendradhipati_dosha": null,
+            "maraka": {
+              "basis": {
+                "kind": "lordship"
+              },
+              "houses": [2],
+              "pressure": "high",
+              "prime": true
+            },
+            "natural": "malefic",
+            "net": "very_bad",
+            "node_proxy": null,
+            "planet": {
+              "id": "sun",
+              "name": "Sun",
+              "names": {
+                "en": "Sun",
+                "hi": "सूर्य"
+              }
+            },
+            "raja_yoga_partner": null,
+            "reasons": [
+              {
+                "code": "natural_nature",
+                "source": "LP S.6 (Jha p.19)"
+              },
+              {
+                "code": "second_twelfth_by_association",
+                "source": "LP S.8 (Jha p.22)"
+              },
+              {
+                "code": "maraka_lord",
+                "source": "LP S.23-24 (Jha p.31-32)"
+              },
+              {
+                "code": "maraka_high_inauspicious",
+                "source": "LP S.25-27 (Verma p.89-99)"
+              },
+              {
+                "code": "net_grade_merge",
+                "source": "LP S.6 (Jha p.19)"
+              }
+            ],
+            "second_twelfth": {
+              "basis": {
+                "kind": "companion",
+                "planet": {
+                  "id": "mercury",
+                  "name": "Mercury",
+                  "names": {
+                    "en": "Mercury",
+                    "hi": "बुध"
+                  }
+                }
+              },
+              "houses": [2],
+              "resolved": "inauspicious"
+            },
+            "trikona_lord": [],
+            "trishadaya_lord": null,
+            "yogakaraka": null
+          },
+          "venus": {
+            "blemishes": [
+              {
+                "house": 11,
+                "kind": "also_owns"
+              }
+            ],
+            "class": "inauspicious",
+            "dasha_role": "yogakaraka",
+            "dasha_role_reasons": [
+              {
+                "code": "raja_yoga_partner_dasha",
+                "source": "LP S.14, S.16, S.33 (Jha p.27-28, p.36)"
+              }
+            ],
+            "eighth_lord": null,
+            "house_occupied": 9,
+            "houses_owned": [4, 11],
+            "kendra_lord": [4],
+            "kendradhipati_dosha": {
+              "from": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "houses": [4],
+              "kendra_weight": 1,
+              "level": "moderate",
+              "placement": "plain",
+              "planet_weight": 3,
+              "score": 4
+            },
+            "maraka": null,
+            "natural": "benefic",
+            "net": "sama",
+            "node_proxy": null,
+            "planet": {
+              "id": "venus",
+              "name": "Venus",
+              "names": {
+                "en": "Venus",
+                "hi": "शुक्र"
+              }
+            },
+            "raja_yoga_partner": "moon",
+            "reasons": [
+              {
+                "code": "natural_nature",
+                "source": "LP S.6 (Jha p.19)"
+              },
+              {
+                "code": "kendra_lord_neutral",
+                "source": "LP S.7 (Jha p.20-21)"
+              },
+              {
+                "code": "trishadaya_lord",
+                "source": "LP S.6 (Jha p.19-20)"
+              },
+              {
+                "code": "kendradhipati_dosha",
+                "source": "LP S.7, S.10 (Jha p.23-25)"
+              },
+              {
+                "code": "kendra_trikona_lord_owns_evil_house",
+                "source": "LP S.14-15, S.22 (Jha p.30)"
+              },
+              {
+                "code": "net_grade_merge",
+                "source": "LP S.6 (Jha p.19)"
+              }
+            ],
+            "second_twelfth": null,
+            "trikona_lord": [],
+            "trishadaya_lord": {
+              "houses": [11],
+              "rank": 3
+            },
+            "yogakaraka": null
+          }
+        },
+        "switches": {
+          "dasha": {
+            "inauspicious_light_softens": true,
+            "low_maraka_softens": true,
+            "maraka_pushes_level": true,
+            "mixed_strength_tilt": true,
+            "mutual_dusthana_worsens": true,
+            "raja_yoga_dasha": true,
+            "raja_yoga_min_relation": 1,
+            "s19_related_papa_in_yk": "jha_auspicious",
+            "s31_order": "jha",
+            "s32_unrelated": "neutral",
+            "s34_unrelated_auspicious_in_yk": "jha_full",
+            "s35_peak_requires_strong_yk": true,
+            "s36_houses": "trikona",
+            "s40_uk_inversion": false,
+            "s40_unrelated_only": true,
+            "sandwich": true,
+            "seventh_lord_maraka_trikona": true
+          },
+          "functional": {
+            "eighth_in_eighth_relief": false,
+            "house_pair_sadharmi": true,
+            "kendradhipati_class": "jha_inauspicious_light",
+            "kt_relation": "jha_placement",
+            "lagna_eighth": "jha_neutral",
+            "luminaries_maraka": true,
+            "luminary_eighth": "jha_small_blemish",
+            "mercury_alone": "jha_sama",
+            "moon_strength": "tithi8",
+            "mutual_aspect_needs_own_sign": false,
+            "node_same_kind_yk": false,
+            "node_with_eighth": "acts_as_eighth_lord",
+            "prime_maraka": "second",
+            "second_twelfth": "jha_companion_first",
+            "trikona_eighth": "jha_facilitator",
+            "trikona_sixth": "by_house_rank",
+            "unlisted_pairs": "sadharmi"
+          }
+        }
+      },
+      "periods": [
+        {
+          "antardashas": [
+            {
+              "from": "1990-05-14T05:00:00.000Z",
+              "grade": 3,
+              "lord": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "yk_dasha_yk_bhukti",
+                  "source": "LP S.33-34 (Verma p.110)"
+                }
+              ],
+              "to": "1991-01-23T08:55:30.000Z"
+            },
+            {
+              "from": "1991-01-23T08:55:30.000Z",
+              "grade": 1,
+              "lord": {
+                "id": "rahu",
+                "name": "Rahu",
+                "names": {
+                  "en": "Rahu",
+                  "hi": "राहु"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "yk_dasha_unrelated_contrary_mixed",
+                  "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+                },
+                {
+                  "code": "mixed_dasha_lord_stronger",
+                  "source": "LP S.31 (Jha p.35)"
+                }
+              ],
+              "to": "1994-01-23T02:55:30.000Z"
+            },
+            {
+              "from": "1994-01-23T02:55:30.000Z",
+              "grade": 3,
+              "lord": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "yk_dasha_yk_bhukti",
+                  "source": "LP S.33-34 (Verma p.110)"
+                }
+              ],
+              "to": "1996-09-23T02:55:30.000Z"
+            },
+            {
+              "from": "1996-09-23T02:55:30.000Z",
+              "grade": 2,
+              "lord": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "venus_saturn_dasha_lord_results",
+                  "source": "LP S.40 (Jha p.38; Verma p.126-129)"
+                }
+              ],
+              "to": "1999-11-23T17:55:30.000Z"
+            },
+            {
+              "from": "1999-11-23T17:55:30.000Z",
+              "grade": 1,
+              "lord": {
+                "id": "mercury",
+                "name": "Mercury",
+                "names": {
+                  "en": "Mercury",
+                  "hi": "बुध"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "yk_dasha_unrelated_contrary_mixed",
+                  "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+                },
+                {
+                  "code": "mixed_dasha_lord_stronger",
+                  "source": "LP S.31 (Jha p.35)"
+                }
+              ],
+              "to": "2002-09-23T14:55:30.000Z"
+            },
+            {
+              "from": "2002-09-23T14:55:30.000Z",
+              "grade": 2,
+              "lord": {
+                "id": "ketu",
+                "name": "Ketu",
+                "names": {
+                  "en": "Ketu",
+                  "hi": "केतु"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "lone_node_bhukti_yoga",
+                  "source": "LP S.36 (Jha p.37)"
+                }
+              ],
+              "to": "2003-11-23T17:55:30.000Z"
+            }
+          ],
+          "areas": [
+            {
+              "house": 9,
+              "level": "favourable"
+            },
+            {
+              "house": 4,
+              "level": "favourable"
+            },
+            {
+              "house": 11,
+              "level": "favourable"
+            }
+          ],
+          "current": false,
+          "from": "1990-05-14T05:00:00.000Z",
+          "level": "favourable",
+          "lord": {
+            "id": "venus",
+            "name": "Venus",
+            "names": {
+              "en": "Venus",
+              "hi": "शुक्र"
+            }
+          },
+          "text": {
+            "en": "A Venus period that works strongly for you brings comfort, beauty and success together. Relationships and marriage tend to flourish, finances ease, and vehicles, a better home or refined possessions may arrive. Creative, artistic or luxury-related work can bring real recognition. Enjoy the pleasures without over-indulgence, and this can be one of the most rewarding times of life. Teachers, mentors and your father tend to guide and support you, and higher learning or spiritual study progresses well. Studies, property, land and vehicles tend to bring comfort, and the foundations you lay now serve you for years. A high point of recognition and rise is likely between January 1994 and September 1996. Overall, a period to build on: opportunities are real, and using them wisely makes the gains last.",
+            "hi": "आपके लिए प्रबल रूप से शुभ शुक्र दशा सुख, सौंदर्य और सफलता को एक साथ लाती है। संबंध और विवाह प्रायः फलते-फूलते हैं, आर्थिक स्थिति सहज होती है, और वाहन, अच्छा घर या सुरुचिपूर्ण वस्तुएँ आ सकती हैं। सृजनात्मक, कलात्मक या विलास से जुड़े कार्यों में वास्तविक पहचान मिल सकती है। भोगों का आनंद लें पर अति से बचें, तो यह जीवन के सबसे फलदायी समयों में से एक हो सकता है। गुरुजन, मार्गदर्शक और आपके पिता आपको दिशा और सहयोग देते हैं, और उच्च शिक्षा या आध्यात्मिक अध्ययन अच्छी प्रगति करता है। अध्ययन, संपत्ति, भूमि और वाहन सुख देते हैं, और इस समय रखी गई नींव आपको वर्षों तक सहारा देती है। जनवरी 1994 से सितंबर 1996 के बीच मान-सम्मान और उन्नति का शिखर आने की संभावना है। समग्रतः यह आगे निर्माण करने का समय है: अवसर वास्तविक हैं, और उनका विवेकपूर्ण उपयोग उपलब्धियों को स्थायी बनाता है।"
+          },
+          "to": "2003-11-23T17:55:30.000Z"
+        },
+        {
+          "antardashas": [
+            {
+              "from": "2003-11-23T17:55:30.000Z",
+              "grade": -1,
+              "lord": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "own_bhukti_muted",
+                  "source": "LP S.29 (Jha p.35; Verma p.101-102)"
+                }
+              ],
+              "to": "2004-03-12T07:43:30.000Z"
+            },
+            {
+              "from": "2004-03-12T07:43:30.000Z",
+              "grade": 1,
+              "lord": {
+                "id": "moon",
+                "name": "Moon",
+                "names": {
+                  "en": "Moon",
+                  "hi": "चंद्र"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "maraka_dasha_table",
+                  "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+                }
+              ],
+              "to": "2004-09-10T22:43:30.000Z"
+            },
+            {
+              "from": "2004-09-10T22:43:30.000Z",
+              "grade": 1,
+              "lord": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "maraka_dasha_table",
+                  "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+                }
+              ],
+              "to": "2005-01-16T18:49:30.000Z"
+            },
+            {
+              "from": "2005-01-16T18:49:30.000Z",
+              "grade": -2,
+              "lord": {
+                "id": "rahu",
+                "name": "Rahu",
+                "names": {
+                  "en": "Rahu",
+                  "hi": "राहु"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "maraka_dasha_table",
+                  "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+                },
+                {
+                  "code": "maraka_care_colouring",
+                  "source": "LP S.39; owner 2026-09-29"
+                }
+              ],
+              "to": "2005-12-11T12:13:30.000Z"
+            },
+            {
+              "from": "2005-12-11T12:13:30.000Z",
+              "grade": 1,
+              "lord": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "maraka_dasha_table",
+                  "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+                }
+              ],
+              "to": "2006-09-29T17:01:30.000Z"
+            },
+            {
+              "from": "2006-09-29T17:01:30.000Z",
+              "grade": -2,
+              "lord": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "maraka_dasha_table",
+                  "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+                },
+                {
+                  "code": "maraka_care_colouring",
+                  "source": "LP S.39; owner 2026-09-29"
+                }
+              ],
+              "to": "2007-09-11T16:43:30.000Z"
+            },
+            {
+              "from": "2007-09-11T16:43:30.000Z",
+              "grade": -2,
+              "lord": {
+                "id": "mercury",
+                "name": "Mercury",
+                "names": {
+                  "en": "Mercury",
+                  "hi": "बुध"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "maraka_dasha_table",
+                  "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+                },
+                {
+                  "code": "maraka_care_colouring",
+                  "source": "LP S.39; owner 2026-09-29"
+                }
+              ],
+              "to": "2008-07-18T03:49:30.000Z"
+            },
+            {
+              "from": "2008-07-18T03:49:30.000Z",
+              "grade": 0,
+              "lord": {
+                "id": "ketu",
+                "name": "Ketu",
+                "names": {
+                  "en": "Ketu",
+                  "hi": "केतु"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "maraka_dasha_table",
+                  "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+                }
+              ],
+              "to": "2008-11-22T23:55:30.000Z"
+            },
+            {
+              "from": "2008-11-22T23:55:30.000Z",
+              "grade": 1,
+              "lord": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "maraka_dasha_table",
+                  "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+                }
+              ],
+              "to": "2009-11-23T05:55:30.000Z"
+            }
+          ],
+          "areas": [
+            {
+              "house": 10,
+              "level": "care"
+            },
+            {
+              "house": 2,
+              "level": "care"
+            }
+          ],
+          "current": false,
+          "from": "2003-11-23T17:55:30.000Z",
+          "level": "care",
+          "lord": {
+            "id": "sun",
+            "name": "Sun",
+            "names": {
+              "en": "Sun",
+              "hi": "सूर्य"
+            }
+          },
+          "text": {
+            "en": "A Sun period that works against you asks for humility and careful handling of authority. Disagreements with superiors, officials or your father may need more patience than usual, and effort can feel under-recognised for a while. It is a good time to strengthen routine, rest and health, and to let results speak. Steady conduct keeps your standing intact. Work pressure or dealings with superiors may need extra care; steady conduct and patience protect your position better than confrontation. Harsh or hasty words may cost you more than usual; a gentle tone and fewer promises help keep family ties steady. The period opens quietly, and its fuller effects begin to show only after March 2004. The most demanding stretch runs from September 2006 to July 2008; pace yourself and keep commitments modest then. Through these years, give your health regular attention and keep a steady, unhurried pace in work and travel. Taken as a whole, these are years for consolidation rather than expansion, and the lessons learned now last.",
+            "hi": "आपके प्रतिकूल चलने वाली सूर्य दशा विनम्रता और अधिकार से जुड़े विषयों में सावधानी माँगती है। वरिष्ठों, अधिकारियों या पिता से मतभेद में सामान्य से अधिक धैर्य चाहिए, और कुछ समय तक परिश्रम का उचित श्रेय न मिलने का अनुभव हो सकता है। यह दिनचर्या, विश्राम और स्वास्थ्य को सुदृढ़ करने तथा परिणामों को स्वयं बोलने देने का समय है। स्थिर आचरण आपकी प्रतिष्ठा को सुरक्षित रखता है। कार्य का दबाव या वरिष्ठों से व्यवहार अतिरिक्त सावधानी माँग सकता है; टकराव से अधिक स्थिर आचरण और धैर्य आपके पद की रक्षा करते हैं। कठोर या उतावले वचन इस समय सामान्य से अधिक महँगे पड़ सकते हैं; कोमल स्वर और सीमित प्रतिज्ञाएँ पारिवारिक संबंधों को स्थिर रखती हैं। यह दशा शांत ढंग से आरंभ होती है, और इसके पूर्ण प्रभाव मार्च 2004 के पश्चात ही प्रकट होने लगते हैं। सबसे अधिक परिश्रम माँगने वाला समय सितंबर 2006 से जुलाई 2008 तक है; उस समय अपनी गति संतुलित और प्रतिबद्धताएँ सीमित रखें। इन वर्षों में अपने स्वास्थ्य पर नियमित ध्यान दें और कार्य तथा यात्रा में स्थिर, धैर्यपूर्ण गति बनाए रखें। समग्र दृष्टि से ये वर्ष विस्तार के नहीं, सुदृढ़ीकरण के हैं, और इस समय सीखी गई बातें स्थायी रहती हैं।"
+          },
+          "to": "2009-11-23T05:55:30.000Z"
+        },
+        {
+          "antardashas": [
+            {
+              "from": "2009-11-23T05:55:30.000Z",
+              "grade": 1,
+              "lord": {
+                "id": "moon",
+                "name": "Moon",
+                "names": {
+                  "en": "Moon",
+                  "hi": "चंद्र"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "own_bhukti_muted",
+                  "source": "LP S.29 (Jha p.35; Verma p.101-102)"
+                }
+              ],
+              "to": "2010-09-23T14:55:30.000Z"
+            },
+            {
+              "from": "2010-09-23T14:55:30.000Z",
+              "grade": 2,
+              "lord": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "yk_dasha_yk_bhukti",
+                  "source": "LP S.33-34 (Verma p.110)"
+                }
+              ],
+              "to": "2011-04-24T16:25:30.000Z"
+            },
+            {
+              "from": "2011-04-24T16:25:30.000Z",
+              "grade": -2,
+              "lord": {
+                "id": "rahu",
+                "name": "Rahu",
+                "names": {
+                  "en": "Rahu",
+                  "hi": "राहु"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "yk_dasha_unrelated_contrary_mixed",
+                  "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+                },
+                {
+                  "code": "mixed_bhukti_lord_stronger",
+                  "source": "LP S.31 (Jha p.35)"
+                },
+                {
+                  "code": "mutual_6_8_12_worsens",
+                  "source": "LP S.37 (Verma p.122)"
+                }
+              ],
+              "to": "2012-10-23T13:25:30.000Z"
+            },
+            {
+              "from": "2012-10-23T13:25:30.000Z",
+              "grade": 2,
+              "lord": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "yk_dasha_yk_bhukti",
+                  "source": "LP S.33-34 (Verma p.110)"
+                }
+              ],
+              "to": "2014-02-22T13:25:30.000Z"
+            },
+            {
+              "from": "2014-02-22T13:25:30.000Z",
+              "grade": -2,
+              "lord": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "yk_dasha_unrelated_contrary_mixed",
+                  "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+                },
+                {
+                  "code": "mixed_bhukti_lord_stronger",
+                  "source": "LP S.31 (Jha p.35)"
+                },
+                {
+                  "code": "mutual_6_8_12_worsens",
+                  "source": "LP S.37 (Verma p.122)"
+                }
+              ],
+              "to": "2015-09-23T20:55:30.000Z"
+            },
+            {
+              "from": "2015-09-23T20:55:30.000Z",
+              "grade": 0,
+              "lord": {
+                "id": "mercury",
+                "name": "Mercury",
+                "names": {
+                  "en": "Mercury",
+                  "hi": "बुध"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "yk_dasha_unrelated_contrary_mixed",
+                  "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+                },
+                {
+                  "code": "mixed_equal_strength",
+                  "source": "LP S.31 (Jha p.35)"
+                }
+              ],
+              "to": "2017-02-22T07:25:30.000Z"
+            },
+            {
+              "from": "2017-02-22T07:25:30.000Z",
+              "grade": 2,
+              "lord": {
+                "id": "ketu",
+                "name": "Ketu",
+                "names": {
+                  "en": "Ketu",
+                  "hi": "केतु"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "lone_node_bhukti_yoga",
+                  "source": "LP S.36 (Jha p.37)"
+                }
+              ],
+              "to": "2017-09-23T08:55:30.000Z"
+            },
+            {
+              "from": "2017-09-23T08:55:30.000Z",
+              "grade": 3,
+              "lord": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "yk_dasha_yk_bhukti",
+                  "source": "LP S.33-34 (Verma p.110)"
+                }
+              ],
+              "to": "2019-05-25T02:55:30.000Z"
+            },
+            {
+              "from": "2019-05-25T02:55:30.000Z",
+              "grade": -1,
+              "lord": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "yk_dasha_unrelated_contrary_mixed",
+                  "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+                },
+                {
+                  "code": "mixed_bhukti_lord_stronger",
+                  "source": "LP S.31 (Jha p.35)"
+                }
+              ],
+              "to": "2019-11-23T17:55:30.000Z"
+            }
+          ],
+          "areas": [
+            {
+              "house": 6,
+              "level": "favourable"
+            },
+            {
+              "house": 1,
+              "level": "mixed"
+            }
+          ],
+          "current": false,
+          "from": "2009-11-23T05:55:30.000Z",
+          "level": "mixed",
+          "lord": {
+            "id": "moon",
+            "name": "Moon",
+            "names": {
+              "en": "Moon",
+              "hi": "चंद्र"
+            }
+          },
+          "text": {
+            "en": "A Moon period of this kind reflects whatever surrounds it, much as the Moon reflects light. Its tone follows the smaller periods within it and the planets that sit with the Moon in your chart. Home, feelings and public dealings are in focus, and changes of mood or residence are possible. Keeping your inner rhythm steady makes the good stretches count. Competition keeps you on your toes; you win some contests and lose others, and each round sharpens your skills. Recognition comes, but not always for the efforts you expect, and your confidence may swing between bold and unsure before it settles. The period opens quietly, and its fuller effects begin to show only after September 2010. A high point of recognition and rise is likely between September 2017 and May 2019. The most demanding stretch runs from February 2014 to September 2015; pace yourself and keep commitments modest then. In sum, a period of ups and downs that rewards flexibility, patience and clear priorities.",
+            "hi": "इस प्रकार की चंद्र दशा अपने आस-पास के प्रभावों को उसी प्रकार प्रतिबिंबित करती है, जैसे चंद्रमा सूर्य के प्रकाश को। इसका स्वर भीतर की छोटी अवधियों और कुंडली में चंद्रमा के साथ बैठे ग्रहों से तय होता है। घर, भावनाएँ और सार्वजनिक व्यवहार केंद्र में रहते हैं, और मनोदशा या निवास में परिवर्तन संभव है। भीतरी लय को स्थिर रखने से अच्छे समय का पूरा लाभ मिलता है। प्रतिस्पर्धा आपको सजग रखती है; कुछ में आप जीतते हैं, कुछ में नहीं, और प्रत्येक अवसर आपके कौशल को निखारता है। मान तो मिलता है, परंतु सदा उन प्रयासों के लिए नहीं जिनकी आप आशा करते हैं, और स्थिर होने से पहले आपका आत्मविश्वास कभी दृढ़ तो कभी डगमग रहता है। यह दशा शांत ढंग से आरंभ होती है, और इसके पूर्ण प्रभाव सितंबर 2010 के पश्चात ही प्रकट होने लगते हैं। सितंबर 2017 से मई 2019 के बीच मान-सम्मान और उन्नति का शिखर आने की संभावना है। सबसे अधिक परिश्रम माँगने वाला समय फ़रवरी 2014 से सितंबर 2015 तक है; उस समय अपनी गति संतुलित और प्रतिबद्धताएँ सीमित रखें। सारांश में, यह उतार-चढ़ाव की दशा है जो लचीलेपन, धैर्य और स्पष्ट प्राथमिकताओं को पुरस्कृत करती है।"
+          },
+          "to": "2019-11-23T17:55:30.000Z"
+        },
+        {
+          "antardashas": [
+            {
+              "from": "2019-11-23T17:55:30.000Z",
+              "grade": 1,
+              "lord": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "own_bhukti_muted",
+                  "source": "LP S.29 (Jha p.35; Verma p.101-102)"
+                }
+              ],
+              "to": "2020-04-20T21:22:30.000Z"
+            },
+            {
+              "from": "2020-04-20T21:22:30.000Z",
+              "grade": -2,
+              "lord": {
+                "id": "rahu",
+                "name": "Rahu",
+                "names": {
+                  "en": "Rahu",
+                  "hi": "राहु"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "yk_dasha_unrelated_contrary_mixed",
+                  "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+                },
+                {
+                  "code": "mixed_bhukti_lord_stronger",
+                  "source": "LP S.31 (Jha p.35)"
+                },
+                {
+                  "code": "mutual_6_8_12_worsens",
+                  "source": "LP S.37 (Verma p.122)"
+                }
+              ],
+              "to": "2021-05-09T09:40:30.000Z"
+            },
+            {
+              "from": "2021-05-09T09:40:30.000Z",
+              "grade": 2,
+              "lord": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "yk_dasha_yk_bhukti",
+                  "source": "LP S.33-34 (Verma p.110)"
+                }
+              ],
+              "to": "2022-04-15T07:16:30.000Z"
+            },
+            {
+              "from": "2022-04-15T07:16:30.000Z",
+              "grade": -2,
+              "lord": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "yk_dasha_unrelated_contrary_mixed",
+                  "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+                },
+                {
+                  "code": "mixed_bhukti_lord_stronger",
+                  "source": "LP S.31 (Jha p.35)"
+                },
+                {
+                  "code": "mutual_6_8_12_worsens",
+                  "source": "LP S.37 (Verma p.122)"
+                }
+              ],
+              "to": "2023-05-25T02:55:30.000Z"
+            },
+            {
+              "from": "2023-05-25T02:55:30.000Z",
+              "grade": 0,
+              "lord": {
+                "id": "mercury",
+                "name": "Mercury",
+                "names": {
+                  "en": "Mercury",
+                  "hi": "बुध"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "yk_dasha_unrelated_contrary_mixed",
+                  "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+                },
+                {
+                  "code": "mixed_equal_strength",
+                  "source": "LP S.31 (Jha p.35)"
+                }
+              ],
+              "to": "2024-05-21T07:52:30.000Z"
+            },
+            {
+              "from": "2024-05-21T07:52:30.000Z",
+              "grade": 2,
+              "lord": {
+                "id": "ketu",
+                "name": "Ketu",
+                "names": {
+                  "en": "Ketu",
+                  "hi": "केतु"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "lone_node_bhukti_yoga",
+                  "source": "LP S.36 (Jha p.37)"
+                }
+              ],
+              "to": "2024-10-17T11:19:30.000Z"
+            },
+            {
+              "from": "2024-10-17T11:19:30.000Z",
+              "grade": 3,
+              "lord": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "yk_dasha_yk_bhukti",
+                  "source": "LP S.33-34 (Verma p.110)"
+                }
+              ],
+              "to": "2025-12-17T14:19:30.000Z"
+            },
+            {
+              "from": "2025-12-17T14:19:30.000Z",
+              "grade": -1,
+              "lord": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "yk_dasha_unrelated_contrary_mixed",
+                  "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+                },
+                {
+                  "code": "mixed_bhukti_lord_stronger",
+                  "source": "LP S.31 (Jha p.35)"
+                }
+              ],
+              "to": "2026-04-24T10:25:30.000Z"
+            },
+            {
+              "from": "2026-04-24T10:25:30.000Z",
+              "grade": 2,
+              "lord": {
+                "id": "moon",
+                "name": "Moon",
+                "names": {
+                  "en": "Moon",
+                  "hi": "चंद्र"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "yk_dasha_yk_bhukti",
+                  "source": "LP S.33-34 (Verma p.110)"
+                }
+              ],
+              "to": "2026-11-23T11:55:30.000Z"
+            }
+          ],
+          "areas": [
+            {
+              "house": 8,
+              "level": "mixed"
+            },
+            {
+              "house": 5,
+              "level": "mixed"
+            },
+            {
+              "house": 10,
+              "level": "mixed"
+            }
+          ],
+          "current": true,
+          "from": "2019-11-23T17:55:30.000Z",
+          "level": "mixed",
+          "lord": {
+            "id": "mars",
+            "name": "Mars",
+            "names": {
+              "en": "Mars",
+              "hi": "मंगल"
+            }
+          },
+          "text": {
+            "en": "A Mars period of this kind brings energy without a fixed direction; what it builds depends on the smaller periods within it and the planets Mars keeps company with. There will be pushes to act, compete and assert yourself, some productive and some merely heated. Choosing your battles, and putting effort into property, fitness or skills, gives the years shape. Changes arrive with little warning, some welcome and some unsettling, and staying flexible lets you turn most of them to good use. Ideas come in plenty but not all of them ripen; choosing a few to see through works better than chasing every inspiration. The period opens quietly, and its fuller effects begin to show only after April 2020. A high point of recognition and rise is likely between October 2024 and December 2025. The most demanding stretch runs from April 2022 to May 2023; pace yourself and keep commitments modest then. Things tend to ease and improve noticeably after May 2023, so patience in the earlier years is well repaid. Taken together, these years are uneven but workable, and much depends on how you use the better stretches.",
+            "hi": "इस प्रकार की मंगल दशा ऊर्जा तो देती है, पर उसकी दिशा निश्चित नहीं होती; वह क्या रचती है, यह भीतर की छोटी अवधियों और मंगल की संगति वाले ग्रहों पर निर्भर है। कर्म करने, प्रतिस्पर्धा करने और अपनी बात रखने के प्रेरक क्षण आते हैं, कुछ फलदायी और कुछ केवल उत्तेजना भरे। सोच-समझकर संघर्ष चुनना और ऊर्जा को संपत्ति, शारीरिक क्षमता या कौशल में लगाना इन वर्षों को आकार देता है। परिवर्तन बिना पूर्व सूचना के आते हैं, कुछ स्वागत योग्य और कुछ विचलित करने वाले, और लचीलापन आपको उनमें से अधिकांश का सदुपयोग करने देता है। विचार तो बहुत आते हैं, परंतु सभी परिपक्व नहीं होते; प्रत्येक प्रेरणा के पीछे भागने से अच्छा है कुछ चुनकर उन्हें पूरा करना। यह दशा शांत ढंग से आरंभ होती है, और इसके पूर्ण प्रभाव अप्रैल 2020 के पश्चात ही प्रकट होने लगते हैं। अक्टूबर 2024 से दिसंबर 2025 के बीच मान-सम्मान और उन्नति का शिखर आने की संभावना है। सबसे अधिक परिश्रम माँगने वाला समय अप्रैल 2022 से मई 2023 तक है; उस समय अपनी गति संतुलित और प्रतिबद्धताएँ सीमित रखें। मई 2023 के पश्चात परिस्थितियाँ स्पष्ट रूप से सहज और अनुकूल होने लगती हैं, इसलिए आरंभिक वर्षों का धैर्य अच्छा फल देता है। एक साथ देखें तो ये वर्ष असमान किंतु संभालने योग्य हैं, और बहुत कुछ इस पर निर्भर है कि आप अनुकूल समयों का कैसा उपयोग करते हैं।"
+          },
+          "to": "2026-11-23T11:55:30.000Z"
+        },
+        {
+          "antardashas": [
+            {
+              "from": "2026-11-23T11:55:30.000Z",
+              "grade": -1,
+              "lord": {
+                "id": "rahu",
+                "name": "Rahu",
+                "names": {
+                  "en": "Rahu",
+                  "hi": "राहु"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "own_bhukti_muted",
+                  "source": "LP S.29 (Jha p.35; Verma p.101-102)"
+                }
+              ],
+              "to": "2029-08-05T16:07:30.000Z"
+            },
+            {
+              "from": "2029-08-05T16:07:30.000Z",
+              "grade": 1,
+              "lord": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "maraka_dasha_table",
+                  "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+                }
+              ],
+              "to": "2031-12-30T06:31:30.000Z"
+            },
+            {
+              "from": "2031-12-30T06:31:30.000Z",
+              "grade": -3,
+              "lord": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "maraka_dasha_table",
+                  "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+                },
+                {
+                  "code": "maraka_care_colouring",
+                  "source": "LP S.39; owner 2026-09-29"
+                }
+              ],
+              "to": "2034-11-05T05:37:30.000Z"
+            },
+            {
+              "from": "2034-11-05T05:37:30.000Z",
+              "grade": -3,
+              "lord": {
+                "id": "mercury",
+                "name": "Mercury",
+                "names": {
+                  "en": "Mercury",
+                  "hi": "बुध"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "maraka_dasha_table",
+                  "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+                },
+                {
+                  "code": "maraka_care_colouring",
+                  "source": "LP S.39; owner 2026-09-29"
+                }
+              ],
+              "to": "2037-05-24T14:55:30.000Z"
+            },
+            {
+              "from": "2037-05-24T14:55:30.000Z",
+              "grade": 0,
+              "lord": {
+                "id": "ketu",
+                "name": "Ketu",
+                "names": {
+                  "en": "Ketu",
+                  "hi": "केतु"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "maraka_dasha_table",
+                  "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+                }
+              ],
+              "to": "2038-06-12T03:13:30.000Z"
+            },
+            {
+              "from": "2038-06-12T03:13:30.000Z",
+              "grade": 1,
+              "lord": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "maraka_dasha_table",
+                  "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+                }
+              ],
+              "to": "2041-06-11T21:13:30.000Z"
+            },
+            {
+              "from": "2041-06-11T21:13:30.000Z",
+              "grade": -2,
+              "lord": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "maraka_dasha_table",
+                  "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+                },
+                {
+                  "code": "maraka_care_colouring",
+                  "source": "LP S.39; owner 2026-09-29"
+                }
+              ],
+              "to": "2042-05-06T14:37:30.000Z"
+            },
+            {
+              "from": "2042-05-06T14:37:30.000Z",
+              "grade": 1,
+              "lord": {
+                "id": "moon",
+                "name": "Moon",
+                "names": {
+                  "en": "Moon",
+                  "hi": "चंद्र"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "maraka_dasha_table",
+                  "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+                }
+              ],
+              "to": "2043-11-05T11:37:30.000Z"
+            },
+            {
+              "from": "2043-11-05T11:37:30.000Z",
+              "grade": 1,
+              "lord": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "maraka_dasha_table",
+                  "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+                }
+              ],
+              "to": "2044-11-22T23:55:30.000Z"
+            }
+          ],
+          "areas": [
+            {
+              "house": 7,
+              "level": "care"
+            },
+            {
+              "house": 8,
+              "level": "care"
+            }
+          ],
+          "current": false,
+          "from": "2026-11-23T11:55:30.000Z",
+          "level": "care",
+          "lord": {
+            "id": "rahu",
+            "name": "Rahu",
+            "names": {
+              "en": "Rahu",
+              "hi": "राहु"
+            }
+          },
+          "text": {
+            "en": "A Rahu period that works against you can feel unsettled and hard to read. Confusion, unrealistic ambitions, misleading people and sudden reversals are the themes to guard against, and anxiety can run higher than the facts justify. Keep advisers trustworthy, paperwork clean and routines simple. These years also teach discernment, which becomes a lasting strength. Married or partnered life may ask for extra patience; making time for each other and listening without blame keeps the bond strong. Handle joint finances, inherited property and others' money with scrupulous care, keeping records clear and agreements in writing. The period opens quietly, and its fuller effects begin to show only after August 2029. The most demanding stretch runs from December 2031 to May 2037; pace yourself and keep commitments modest then. Things tend to ease and improve noticeably after November 2034, so patience in the earlier years is well repaid. Through these years, give your health regular attention and keep a steady, unhurried pace in work and travel. Overall, this period asks for patience and care; a steady routine and modest goals carry you through well.",
+            "hi": "आपके प्रतिकूल चलने वाली राहु दशा अस्थिर और समझने में कठिन लग सकती है। भ्रम, अवास्तविक महत्त्वाकांक्षाएँ, भटकाने वाले लोग और अचानक उलटफेर ऐसे विषय हैं जिनसे सावधान रहना चाहिए, और चिंता तथ्यों से अधिक बढ़ सकती है। परामर्शदाता विश्वसनीय, लिखा-पढ़ी स्वच्छ और दिनचर्या सरल रखें। ये वर्ष विवेक भी सिखाते हैं, जो आगे चलकर स्थायी बल बनता है। दांपत्य या सहजीवन अतिरिक्त धैर्य माँग सकता है; एक-दूसरे के लिए समय निकालना और दोषारोपण के बिना सुनना संबंध को सुदृढ़ रखता है। संयुक्त वित्त, पैतृक संपत्ति और दूसरों के धन को अत्यंत सावधानी से सँभालें, लेखा स्पष्ट रखें और सहमतियाँ लिखित रूप में लें। यह दशा शांत ढंग से आरंभ होती है, और इसके पूर्ण प्रभाव अगस्त 2029 के पश्चात ही प्रकट होने लगते हैं। सबसे अधिक परिश्रम माँगने वाला समय दिसंबर 2031 से मई 2037 तक है; उस समय अपनी गति संतुलित और प्रतिबद्धताएँ सीमित रखें। नवंबर 2034 के पश्चात परिस्थितियाँ स्पष्ट रूप से सहज और अनुकूल होने लगती हैं, इसलिए आरंभिक वर्षों का धैर्य अच्छा फल देता है। इन वर्षों में अपने स्वास्थ्य पर नियमित ध्यान दें और कार्य तथा यात्रा में स्थिर, धैर्यपूर्ण गति बनाए रखें। समग्र रूप से यह दशा धैर्य और सावधानी माँगती है; नियमित दिनचर्या और संयमित लक्ष्य आपको भली-भाँति पार ले जाते हैं।"
+          },
+          "to": "2044-11-22T23:55:30.000Z"
+        },
+        {
+          "antardashas": [
+            {
+              "from": "2044-11-22T23:55:30.000Z",
+              "grade": 1,
+              "lord": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "own_bhukti_muted",
+                  "source": "LP S.29 (Jha p.35; Verma p.101-102)"
+                }
+              ],
+              "to": "2047-01-11T04:43:30.000Z"
+            },
+            {
+              "from": "2047-01-11T04:43:30.000Z",
+              "grade": -2,
+              "lord": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "yk_dasha_unrelated_contrary_mixed",
+                  "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+                },
+                {
+                  "code": "mixed_bhukti_lord_stronger",
+                  "source": "LP S.31 (Jha p.35)"
+                },
+                {
+                  "code": "mutual_6_8_12_worsens",
+                  "source": "LP S.37 (Verma p.122)"
+                }
+              ],
+              "to": "2049-07-24T11:55:30.000Z"
+            },
+            {
+              "from": "2049-07-24T11:55:30.000Z",
+              "grade": 0,
+              "lord": {
+                "id": "mercury",
+                "name": "Mercury",
+                "names": {
+                  "en": "Mercury",
+                  "hi": "बुध"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "yk_dasha_unrelated_contrary_mixed",
+                  "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+                },
+                {
+                  "code": "mixed_equal_strength",
+                  "source": "LP S.31 (Jha p.35)"
+                }
+              ],
+              "to": "2051-10-30T09:31:30.000Z"
+            },
+            {
+              "from": "2051-10-30T09:31:30.000Z",
+              "grade": 2,
+              "lord": {
+                "id": "ketu",
+                "name": "Ketu",
+                "names": {
+                  "en": "Ketu",
+                  "hi": "केतु"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "lone_node_bhukti_yoga",
+                  "source": "LP S.36 (Jha p.37)"
+                }
+              ],
+              "to": "2052-10-05T07:07:30.000Z"
+            },
+            {
+              "from": "2052-10-05T07:07:30.000Z",
+              "grade": 3,
+              "lord": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "yk_dasha_yk_bhukti",
+                  "source": "LP S.33-34 (Verma p.110)"
+                }
+              ],
+              "to": "2055-06-06T07:07:30.000Z"
+            },
+            {
+              "from": "2055-06-06T07:07:30.000Z",
+              "grade": -1,
+              "lord": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "yk_dasha_unrelated_contrary_mixed",
+                  "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+                },
+                {
+                  "code": "mixed_bhukti_lord_stronger",
+                  "source": "LP S.31 (Jha p.35)"
+                }
+              ],
+              "to": "2056-03-24T11:55:30.000Z"
+            },
+            {
+              "from": "2056-03-24T11:55:30.000Z",
+              "grade": 2,
+              "lord": {
+                "id": "moon",
+                "name": "Moon",
+                "names": {
+                  "en": "Moon",
+                  "hi": "चंद्र"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "yk_dasha_yk_bhukti",
+                  "source": "LP S.33-34 (Verma p.110)"
+                }
+              ],
+              "to": "2057-07-24T11:55:30.000Z"
+            },
+            {
+              "from": "2057-07-24T11:55:30.000Z",
+              "grade": 2,
+              "lord": {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "yk_dasha_yk_bhukti",
+                  "source": "LP S.33-34 (Verma p.110)"
+                }
+              ],
+              "to": "2058-06-30T09:31:30.000Z"
+            },
+            {
+              "from": "2058-06-30T09:31:30.000Z",
+              "grade": -2,
+              "lord": {
+                "id": "rahu",
+                "name": "Rahu",
+                "names": {
+                  "en": "Rahu",
+                  "hi": "राहु"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "yk_dasha_unrelated_contrary_mixed",
+                  "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+                },
+                {
+                  "code": "mixed_bhukti_lord_stronger",
+                  "source": "LP S.31 (Jha p.35)"
+                },
+                {
+                  "code": "mutual_6_8_12_worsens",
+                  "source": "LP S.37 (Verma p.122)"
+                }
+              ],
+              "to": "2060-11-22T23:55:30.000Z"
+            }
+          ],
+          "areas": [
+            {
+              "house": 12,
+              "level": "mixed"
+            },
+            {
+              "house": 6,
+              "level": "mixed"
+            },
+            {
+              "house": 9,
+              "level": "favourable"
+            }
+          ],
+          "current": false,
+          "from": "2044-11-22T23:55:30.000Z",
+          "level": "mixed",
+          "lord": {
+            "id": "jupiter",
+            "name": "Jupiter",
+            "names": {
+              "en": "Jupiter",
+              "hi": "गुरु"
+            }
+          },
+          "text": {
+            "en": "A Jupiter period of this kind is well-meaning but restrained: its natural kindness is present, yet the results depend on the smaller periods within it and the planets Jupiter is joined with. Learning, family matters, teachers and questions of belief come forward. Advice you give freely may not always be taken; patience and sincerity let the quieter blessings show. Expenses rise alongside income, some for good causes and some unplanned, so a little foresight keeps the balance comfortable. Luck arrives in patches, so doors open after some knocking; faith in your principles carries you through the slower stretches. The period opens quietly, and its fuller effects begin to show only after January 2047. A high point of recognition and rise is likely between October 2052 and June 2055. The most demanding stretch runs from January 2047 to July 2049; pace yourself and keep commitments modest then. Taken together, these years are uneven but workable, and much depends on how you use the better stretches.",
+            "hi": "इस प्रकार की गुरु दशा शुभ-भाव वाली किंतु संयमित होती है: इसकी स्वाभाविक कृपा उपस्थित रहती है, पर परिणाम भीतर की छोटी अवधियों और गुरु से जुड़े ग्रहों पर निर्भर करते हैं। अध्ययन, पारिवारिक विषय, गुरुजन और आस्था के प्रश्न सामने आते हैं। आपकी दी हुई सीख सदा स्वीकार न हो; धैर्य और निष्ठा से शांत आशीर्वाद प्रकट होते हैं। आय के साथ व्यय भी बढ़ता है, कुछ शुभ कार्यों में और कुछ अनियोजित, इसलिए थोड़ी दूरदर्शिता संतुलन को सुखद बनाए रखती है। भाग्य रुक-रुककर साथ देता है, इसलिए द्वार कुछ प्रयास के पश्चात खुलते हैं; अपने सिद्धांतों पर आस्था धीमे चरणों में आपको सँभाले रखती है। यह दशा शांत ढंग से आरंभ होती है, और इसके पूर्ण प्रभाव जनवरी 2047 के पश्चात ही प्रकट होने लगते हैं। अक्टूबर 2052 से जून 2055 के बीच मान-सम्मान और उन्नति का शिखर आने की संभावना है। सबसे अधिक परिश्रम माँगने वाला समय जनवरी 2047 से जुलाई 2049 तक है; उस समय अपनी गति संतुलित और प्रतिबद्धताएँ सीमित रखें। एक साथ देखें तो ये वर्ष असमान किंतु संभालने योग्य हैं, और बहुत कुछ इस पर निर्भर है कि आप अनुकूल समयों का कैसा उपयोग करते हैं।"
+          },
+          "to": "2060-11-22T23:55:30.000Z"
+        },
+        {
+          "antardashas": [
+            {
+              "from": "2060-11-22T23:55:30.000Z",
+              "grade": -1,
+              "lord": {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "own_bhukti_muted",
+                  "source": "LP S.29 (Jha p.35; Verma p.101-102)"
+                }
+              ],
+              "to": "2063-11-26T18:58:30.000Z"
+            },
+            {
+              "from": "2063-11-26T18:58:30.000Z",
+              "grade": -3,
+              "lord": {
+                "id": "mercury",
+                "name": "Mercury",
+                "names": {
+                  "en": "Mercury",
+                  "hi": "बुध"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "maraka_dasha_table",
+                  "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+                },
+                {
+                  "code": "maraka_care_colouring",
+                  "source": "LP S.39; owner 2026-09-29"
+                }
+              ],
+              "to": "2066-08-05T22:07:30.000Z"
+            },
+            {
+              "from": "2066-08-05T22:07:30.000Z",
+              "grade": -2,
+              "lord": {
+                "id": "ketu",
+                "name": "Ketu",
+                "names": {
+                  "en": "Ketu",
+                  "hi": "केतु"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "maraka_dasha_table",
+                  "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+                },
+                {
+                  "code": "sandwiched_bhukti_follows_neighbours",
+                  "source": "Verma p.104, p.111"
+                }
+              ],
+              "to": "2067-09-14T17:46:30.000Z"
+            },
+            {
+              "from": "2067-09-14T17:46:30.000Z",
+              "grade": -2,
+              "lord": {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              },
+              "phase": null,
+              "reasons": [
+                {
+                  "code": "venus_saturn_dasha_lord_results",
+                  "source": "LP S.40 (Jha p.38; Verma p.126-129)"
+                }
+              ],
+              "to": "2070-05-14T05:00:00.000Z"
+            }
+          ],
+          "areas": [
+            {
+              "house": 7,
+              "level": "care"
+            },
+            {
+              "house": 8,
+              "level": "care"
+            }
+          ],
+          "current": false,
+          "from": "2060-11-22T23:55:30.000Z",
+          "level": "care",
+          "lord": {
+            "id": "saturn",
+            "name": "Saturn",
+            "names": {
+              "en": "Saturn",
+              "hi": "शनि"
+            }
+          },
+          "text": {
+            "en": "A Saturn period that works against you is a long lesson in patience. Delays, heavier duties, tiredness and a feeling of carrying more than your share are common themes, and the joints and bones deserve care. Yet it is also a period that builds endurance and quiet strength. Simple living, honest work and respect for elders make the load noticeably lighter. Your partner's wellbeing and concerns deserve more attention in this period, and quiet support from you goes a long way. Sudden changes may test you; keeping reserves, backup plans and a calm pace helps you meet surprises without strain. The period opens quietly, and its fuller effects begin to show only after November 2063. The most demanding stretch runs from November 2063 to May 2070; pace yourself and keep commitments modest then. Through these years, give your health regular attention and keep a steady, unhurried pace in work and travel. Overall, this period asks for patience and care; a steady routine and modest goals carry you through well.",
+            "hi": "आपके प्रतिकूल चलने वाली शनि दशा धैर्य का एक लंबा पाठ है। विलंब, भारी कर्तव्य, थकान और अपने भाग से अधिक भार उठाने का अनुभव सामान्य विषय हैं, और जोड़ों तथा हड्डियों की देखभाल उचित है। फिर भी यह सहनशक्ति और शांत बल का निर्माण करने वाला समय है। सरल जीवन, सच्चा परिश्रम और बड़ों का सम्मान इस भार को स्पष्ट रूप से हल्का कर देते हैं। इस दशा में आपके जीवनसाथी के कल्याण और चिंताओं पर अधिक ध्यान देना उचित है, और आपका शांत सहयोग बहुत दूर तक काम आता है। आकस्मिक परिवर्तन आपकी परीक्षा ले सकते हैं; कुछ सुरक्षित संचय, वैकल्पिक योजनाएँ और शांत गति आपको बिना तनाव के अप्रत्याशित स्थितियों का सामना करने देती हैं। यह दशा शांत ढंग से आरंभ होती है, और इसके पूर्ण प्रभाव नवंबर 2063 के पश्चात ही प्रकट होने लगते हैं। सबसे अधिक परिश्रम माँगने वाला समय नवंबर 2063 से मई 2070 तक है; उस समय अपनी गति संतुलित और प्रतिबद्धताएँ सीमित रखें। इन वर्षों में अपने स्वास्थ्य पर नियमित ध्यान दें और कार्य तथा यात्रा में स्थिर, धैर्यपूर्ण गति बनाए रखें। समग्र रूप से यह दशा धैर्य और सावधानी माँगती है; नियमित दिनचर्या और संयमित लक्ष्य आपको भली-भाँति पार ले जाते हैं।"
+          },
+          "to": "2070-05-14T05:00:00.000Z"
+        }
+      ]
+    },
+    "yogas": [
+      {
+        "category": "Chandra",
+        "code": "gaja_kesari",
+        "entry": {
+          "text": {
+            "en": "Gaja-Kesari Yoga forms because Jupiter stands in a kendra (1st, 4th, 7th or 10th) from your Moon. It supports wisdom, a good reputation, the ability to speak well before others and the respect that comes from sound counsel. Its strength rises when Jupiter is exalted or in its own sign and falls when Jupiter is debilitated. It is fairly common, so read it with the rest of the chart, and do not let it breed complacency.",
+            "hi": "गुरु चंद्रमा से केंद्र (पहली, चौथी, सातवीं या दसवीं राशि) में स्थित है, इसलिए गजकेसरी योग बनता है। यह ज्ञान, अच्छी प्रतिष्ठा, सभा में प्रभावी ढंग से बोलने की क्षमता और उचित परामर्श से मिलने वाले सम्मान का समर्थन करता है। गुरु उच्च या स्वराशि में हो तो इसका बल बढ़ता है, और नीच राशि में हो तो घटता है। यह योग अपेक्षाकृत सामान्य है, अतः इसे पूरी कुंडली के साथ पढ़ें और इसके कारण आत्मसंतुष्ट न हों।"
+          }
+        },
+        "name": {
+          "en": "Gaja-Kesari Yoga",
+          "hi": "गजकेसरी योग"
+        },
+        "participants": [
+          {
+            "id": "jupiter",
+            "name": "Jupiter",
+            "names": {
+              "en": "Jupiter",
+              "hi": "गुरु"
+            }
+          },
+          {
+            "id": "moon",
+            "name": "Moon",
+            "names": {
+              "en": "Moon",
+              "hi": "चंद्र"
+            }
+          }
+        ]
+      },
+      {
+        "category": "Chandra",
+        "code": "sunapha",
+        "entry": {
+          "text": {
+            "en": "Sunapha Yoga forms when one or more of Mars, Mercury, Jupiter, Venus or Saturn occupy the 2nd sign from your Moon, with none in the 12th from it. It favours self-made resources, a good mind, reputation and a sense of security you build through your own work. The planet involved sets the flavour, from scholarly to enterprising. Guard against measuring your worth only by what you own.",
+            "hi": "जब मंगल, बुध, गुरु, शुक्र या शनि में से कोई ग्रह चंद्रमा से दूसरी राशि में हो और उससे बारहवीं राशि में कोई न हो, तब सुनफा योग बनता है। यह स्वयं अर्जित साधनों, कुशाग्र बुद्धि, प्रतिष्ठा और अपने परिश्रम से बनी सुरक्षा की भावना का पक्ष लेता है। संबंधित ग्रह इसका स्वरूप निर्धारित करता है, विद्वत्तापूर्ण से लेकर उद्यमी तक। अपने मूल्य को केवल अपनी संपत्ति से मापने से बचें।"
+          }
+        },
+        "name": {
+          "en": "Sunapha Yoga",
+          "hi": "सुनफा योग"
+        },
+        "participants": [
+          {
+            "id": "moon",
+            "name": "Moon",
+            "names": {
+              "en": "Moon",
+              "hi": "चंद्र"
+            }
+          },
+          {
+            "id": "saturn",
+            "name": "Saturn",
+            "names": {
+              "en": "Saturn",
+              "hi": "शनि"
+            }
+          }
+        ]
+      },
+      {
+        "category": "Other",
+        "code": "vasi",
+        "entry": {
+          "text": {
+            "en": "Vasi Yoga forms when one or more of Mars, Mercury, Jupiter, Venus or Saturn occupy the 12th sign from your Sun, with none in the 2nd from it. It gives foresight, diligence and measured speech, and a habit of planning before acting. With benefics it brings goodwill and prosperity; with malefics it asks for extra care in speech and company. Balance hard work with rest and recognition of your own efforts.",
+            "hi": "जब मंगल, बुध, गुरु, शुक्र या शनि में से कोई ग्रह सूर्य से बारहवीं राशि में हो और उससे दूसरी राशि में कोई न हो, तब वासि योग बनता है। यह दूरदर्शिता, परिश्रमशीलता, संयत वाणी और कार्य से पहले योजना बनाने की प्रवृत्ति देता है। शुभ ग्रह हों तो सद्भावना और समृद्धि मिलती है; पाप ग्रह हों तो वाणी और संगति में विशेष सावधानी अपेक्षित है। परिश्रम के साथ विश्राम और अपने प्रयासों की सराहना का संतुलन रखें।"
+          }
+        },
+        "name": {
+          "en": "Vasi Yoga",
+          "hi": "वाशि योग"
+        },
+        "participants": [
+          {
+            "id": "sun",
+            "name": "Sun",
+            "names": {
+              "en": "Sun",
+              "hi": "सूर्य"
+            }
+          },
+          {
+            "id": "venus",
+            "name": "Venus",
+            "names": {
+              "en": "Venus",
+              "hi": "शुक्र"
+            }
+          }
+        ]
+      },
+      {
+        "category": "Other",
+        "code": "budha_aditya",
+        "entry": {
+          "text": {
+            "en": "Budha-Aditya Yoga forms because the Sun and Mercury share a sign. It favours intelligence, clear expression, sound judgement and a good name for your abilities, with a natural pull toward work that uses the mind. Because Mercury stays close to the Sun, this pairing is common; its strength depends on the sign and house and on Mercury not being deeply combust. Watch for pride in your own opinions.",
+            "hi": "सूर्य और बुध एक ही राशि में होने से बुधादित्य योग बनता है। यह बुद्धिमत्ता, स्पष्ट अभिव्यक्ति, विवेकपूर्ण निर्णय और अपनी योग्यता के लिए अच्छी प्रतिष्ठा का पक्ष लेता है, और बौद्धिक कार्यों की ओर स्वाभाविक झुकाव देता है। बुध सूर्य के निकट ही रहता है, अतः यह योग बहुत-सी कुंडलियों में मिलता है; इसका बल राशि, भाव और बुध के अत्यधिक अस्त न होने पर निर्भर है। अपने मत के प्रति अहंकार से सावधान रहें।"
+          }
+        },
+        "name": {
+          "en": "Budha-Aditya Yoga",
+          "hi": "बुधादित्य योग"
+        },
+        "participants": [
+          {
+            "id": "sun",
+            "name": "Sun",
+            "names": {
+              "en": "Sun",
+              "hi": "सूर्य"
+            }
+          },
+          {
+            "id": "mercury",
+            "name": "Mercury",
+            "names": {
+              "en": "Mercury",
+              "hi": "बुध"
+            }
+          }
+        ]
+      },
+      {
+        "category": "Raj",
+        "code": "raj_yoga",
+        "entry": {
+          "text": {
+            "en": "A Raj Yoga is present: a kendra lord and a trikona lord are linked by exchange, conjunction or mutual aspect. Such links join effort with fortune and support status, authority, recognition and success in your field, most visibly in the periods of the planets involved. Several of these links strengthen the promise. Results still depend on the dignity of the planets and on your own discipline; it supports a rise, it does not ensure one.",
+            "hi": "आपकी कुंडली में राजयोग है: किसी केंद्र भाव का स्वामी और किसी त्रिकोण भाव का स्वामी परिवर्तन, युति या परस्पर दृष्टि से जुड़े हैं। ऐसा संबंध कर्म को भाग्य से जोड़ता है और प्रतिष्ठा, अधिकार, मान्यता तथा अपने क्षेत्र में सफलता का समर्थन करता है, जो संबंधित ग्रहों की दशा में सबसे स्पष्ट दिखती है। ऐसे अनेक संबंध इस संभावना को प्रबल करते हैं। फिर भी फल ग्रहों के बल और आपके अनुशासन पर निर्भर है; यह उन्नति को सहारा देता है, उसे सुनिश्चित नहीं करता।"
+          }
+        },
+        "name": {
+          "en": "Raj Yoga",
+          "hi": "राज योग"
+        },
+        "participants": [
+          {
+            "id": "moon",
+            "name": "Moon",
+            "names": {
+              "en": "Moon",
+              "hi": "चंद्र"
+            }
+          },
+          {
+            "id": "jupiter",
+            "name": "Jupiter",
+            "names": {
+              "en": "Jupiter",
+              "hi": "गुरु"
+            }
+          }
+        ]
+      },
+      {
+        "category": "Raj",
+        "code": "yogakaraka",
+        "entry": {
+          "text": {
+            "en": "A Yogakaraka is present: one planet rules both a kendra (4th, 7th or 10th) and a trikona (5th or 9th) for your lagna. That planet becomes especially helpful, joining effort with fortune, and its periods often mark progress in status, work and wellbeing. Its results are fullest when it is well placed and strong by sign; a weak placement tends to delay its help rather than remove it.",
+            "hi": "आपकी कुंडली में योगकारक ग्रह है: एक ही ग्रह आपके लग्न के लिए किसी केंद्र (चौथे, सातवें या दसवें) और किसी त्रिकोण (पाँचवें या नौवें) भाव का स्वामी है। वह ग्रह विशेष रूप से सहायक बनता है, परिश्रम और सौभाग्य को एक सूत्र में बाँधता है, और उसकी दशा प्रायः पद, कार्य और कल्याण में प्रगति का समय होती है। वह सुस्थित और राशि से बलवान हो तो फल पूर्ण मिलते हैं; निर्बल स्थिति उसकी सहायता को समाप्त नहीं करती, प्रायः केवल विलंबित करती है।"
+          }
+        },
+        "name": {
+          "en": "Yogakaraka",
+          "hi": "योगकारक"
+        },
+        "participants": [
+          {
+            "id": "mars",
+            "name": "Mars",
+            "names": {
+              "en": "Mars",
+              "hi": "मंगल"
+            }
+          }
+        ]
+      },
+      {
+        "category": "Vipreet Raj",
+        "code": "harsha",
+        "entry": {
+          "text": {
+            "en": "Harsha Yoga, a vipreet raj yoga, forms because the lord of your 6th house sits in the 6th, 8th or 12th. A difficult house lord placed in another difficult house tends to weaken obstacles: you are resilient, recover well and often come out ahead in rivalry and disputes. It gives a cheerful nature and a sturdy constitution that still deserves care. The gains usually come after pressure, not instead of it.",
+            "hi": "हर्ष योग, एक विपरीत राजयोग, इसलिए बनता है क्योंकि आपके छठे भाव का स्वामी छठे, आठवें या बारहवें भाव में स्थित है। कठिन भाव का स्वामी जब दूसरे कठिन भाव में जाता है, तो बाधाएँ दुर्बल होती हैं: आप धैर्यवान रहते हैं, शीघ्र संभलते हैं और प्रायः प्रतिस्पर्धा व विवादों में आगे निकलते हैं। यह प्रसन्नचित्त स्वभाव और सुदृढ़ शरीर देता है, जिसकी देखभाल फिर भी आवश्यक है। लाभ प्रायः दबाव के पश्चात आता है, उसके बिना नहीं।"
+          }
+        },
+        "name": {
+          "en": "Harsha Yoga",
+          "hi": "हर्ष योग"
+        },
+        "participants": [
+          {
+            "id": "jupiter",
+            "name": "Jupiter",
+            "names": {
+              "en": "Jupiter",
+              "hi": "गुरु"
+            }
+          }
+        ]
+      },
+      {
+        "category": "Dosha",
+        "code": "mangal_dosha",
+        "entry": {
+          "text": {
+            "en": "Mangal Dosha is noted because Mars is in the 1st, 2nd, 4th, 7th, 8th or 12th house from your lagna. It points to strong will and directness in marriage and partnership, where impatience or friction can arise if energy is not shared well. It also gives courage, protectiveness and drive. It is very common, is weaker when Mars is in its own or exalted sign, and has many recognised cancellations; judge it only with the whole chart.",
+            "hi": "मंगल आपके लग्न से पहले, दूसरे, चौथे, सातवें, आठवें या बारहवें भाव में है, इसलिए मंगल दोष बनता है। यह दांपत्य और साझेदारी में दृढ़ इच्छाशक्ति और स्पष्टवादिता का संकेत है, जहाँ ऊर्जा का संतुलन न रहे तो अधीरता या टकराव हो सकता है। यह साहस, संरक्षण-भाव और उत्साह भी देता है। यह योग बहुत सामान्य है, मंगल स्वराशि या उच्च राशि में हो तो दुर्बल रहता है, और इसके भंग की अनेक मान्य स्थितियाँ हैं; इसे केवल पूरी कुंडली के साथ ही आँकें।"
+          }
+        },
+        "name": {
+          "en": "Mangal Dosha",
+          "hi": "मंगल दोष"
+        },
+        "participants": [
+          {
+            "id": "mars",
+            "name": "Mars",
+            "names": {
+              "en": "Mars",
+              "hi": "मंगल"
+            }
+          }
+        ]
+      },
+      {
+        "category": "Mahapurusha",
+        "code": "shasha",
+        "entry": {
+          "text": {
+            "en": "Shasha Yoga, counted among the five great-person yogas, forms because Saturn is in its own or exalted sign (Capricorn, Aquarius or Libra) in a kendra from your lagna. It supports discipline, endurance, organising ability and authority earned slowly, often over people, systems or large undertakings. Rewards come later but last. The caution is severity and suspicion; fairness toward those who work with you keeps its power healthy.",
+            "hi": "शनि अपनी राशि या उच्च राशि (मकर, कुंभ या तुला) में लग्न से केंद्र में है, इसलिए शश योग बनता है, जो पंच महापुरुष योगों में से एक है। यह अनुशासन, सहनशक्ति, संगठन-क्षमता और धीरे-धीरे अर्जित अधिकार का समर्थन करता है, प्रायः लोगों, व्यवस्थाओं या बड़े उपक्रमों पर। फल विलंब से आते हैं पर टिकते हैं। सावधानी कठोरता और संदेह की है; सहकर्मियों के प्रति न्यायपूर्ण व्यवहार इसकी शक्ति को स्वस्थ रखता है।"
+          }
+        },
+        "name": {
+          "en": "Shasha Yoga",
+          "hi": "शश योग"
+        },
+        "participants": [
+          {
+            "id": "saturn",
+            "name": "Saturn",
+            "names": {
+              "en": "Saturn",
+              "hi": "शनि"
+            }
+          }
+        ]
+      }
+    ],
+    "disclaimer": {
+      "en": "These predictions are indicative. For a reading of your own chart, consult an astrologer.",
+      "hi": "ये फलादेश सांकेतिक हैं। अपनी कुंडली के व्यक्तिगत विश्लेषण के लिए किसी ज्योतिषी से परामर्श करें।"
+    }
+  },
+  "meta": {
+    "cached": false,
+    "ayanamsa": {
+      "id": "lahiri"
+    },
+    "timezone": {
+      "name": "Asia/Kolkata",
+      "utc_offset": "+05:30",
+      "source": "given"
+    },
+    "engine": "0.10.1",
+    "compute_ms": 9,
+    "language_fallback": [],
+    "credits": 20
+  }
+}

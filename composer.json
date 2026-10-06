@@ -1,0 +1,59 @@
+{
+  "name": "kaaljyoti/sdk",
+  "description": "Typed PHP client for the Kaal Jyoti API: kundli, panchang, dasha, transits and matching.",
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://kaaljyoti.com/api/docs",
+  "keywords": [
+    "astrology",
+    "vedic",
+    "kundli",
+    "panchang",
+    "jyotish",
+    "kaaljyoti",
+    "api",
+    "sdk"
+  ],
+  "authors": [
+    {
+      "name": "GoAppsters",
+      "homepage": "https://goappsters.in"
+    }
+  ],
+  "require": {
+    "php": ">=8.2",
+    "ext-json": "*"
+  },
+  "suggest": {
+    "ext-curl": "The default HTTP client; any PSR-18 client works instead.",
+    "psr/http-client": "To use Kaaljyoti\\Http\\Psr18Client with your own client.",
+    "psr/http-factory": "Request and stream factories for Psr18Client."
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^11.5",
+    "phpstan/phpstan": "^2.1",
+    "psr/http-client": "^1.0",
+    "psr/http-factory": "^1.1",
+    "psr/http-message": "^2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Kaaljyoti\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Kaaljyoti\\Tests\\": "tests/"
+    }
+  },
+  "scripts": {
+    "test": "phpunit",
+    "smoke": "KJ_SMOKE=1 phpunit --group smoke",
+    "stan": "phpstan analyse --memory-limit=512M",
+    "lint": "find src tests examples -name '*.php' -print0 | xargs -0 -n1 php -l > /dev/null"
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "minimum-stability": "stable"
+}

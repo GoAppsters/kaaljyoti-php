@@ -1,0 +1,2067 @@
+{
+  "status": "ok",
+  "data": {
+    "basis": {
+      "functional": {
+        "jupiter": {
+          "blemishes": [
+            {
+              "house": 6,
+              "kind": "also_owns"
+            }
+          ],
+          "class": "blemished_auspicious",
+          "dasha_role": "yogakaraka",
+          "dasha_role_reasons": [
+            {
+              "code": "raja_yoga_partner_dasha",
+              "source": "LP S.14, S.16, S.33 (Jha p.27-28, p.36)"
+            }
+          ],
+          "eighth_lord": null,
+          "house_occupied": 12,
+          "houses_owned": [6, 9],
+          "kendra_lord": [],
+          "kendradhipati_dosha": null,
+          "maraka": null,
+          "natural": "benefic",
+          "net": "very_good",
+          "node_proxy": null,
+          "planet": {
+            "id": "jupiter",
+            "name": "Jupiter",
+            "names": {
+              "en": "Jupiter",
+              "hi": "गुरु"
+            }
+          },
+          "raja_yoga_partner": "venus",
+          "reasons": [
+            {
+              "code": "natural_nature",
+              "source": "LP S.6 (Jha p.19)"
+            },
+            {
+              "code": "trikona_lord",
+              "source": "LP S.6 (Jha p.19)"
+            },
+            {
+              "code": "trishadaya_lord",
+              "source": "LP S.6 (Jha p.19-20)"
+            },
+            {
+              "code": "trikona_sixth_by_house_rank",
+              "source": "LP S.6-7 (Verma p.26, p.29-31)"
+            },
+            {
+              "code": "kendra_trikona_lord_owns_evil_house",
+              "source": "LP S.14-15, S.22 (Jha p.30)"
+            },
+            {
+              "code": "net_grade_merge",
+              "source": "LP S.6 (Jha p.19)"
+            }
+          ],
+          "second_twelfth": null,
+          "trikona_lord": [9],
+          "trishadaya_lord": {
+            "houses": [6],
+            "rank": 2
+          },
+          "yogakaraka": null
+        },
+        "ketu": {
+          "blemishes": [],
+          "class": "auspicious",
+          "dasha_role": "auspicious",
+          "dasha_role_reasons": [],
+          "eighth_lord": null,
+          "house_occupied": 1,
+          "houses_owned": [],
+          "kendra_lord": [],
+          "kendradhipati_dosha": null,
+          "maraka": null,
+          "natural": "malefic",
+          "net": "sama",
+          "node_proxy": {
+            "companions": [],
+            "follows": null,
+            "house": 1
+          },
+          "planet": {
+            "id": "ketu",
+            "name": "Ketu",
+            "names": {
+              "en": "Ketu",
+              "hi": "केतु"
+            }
+          },
+          "raja_yoga_partner": null,
+          "reasons": [
+            {
+              "code": "natural_nature",
+              "source": "LP S.6 (Jha p.19)"
+            },
+            {
+              "code": "node_by_house",
+              "source": "LP S.13 (Jha p.26)"
+            },
+            {
+              "code": "net_grade_merge",
+              "source": "LP S.6 (Jha p.19)"
+            }
+          ],
+          "second_twelfth": null,
+          "trikona_lord": [],
+          "trishadaya_lord": null,
+          "yogakaraka": null
+        },
+        "mars": {
+          "blemishes": [],
+          "class": "yogakaraka",
+          "dasha_role": "yogakaraka",
+          "dasha_role_reasons": [],
+          "eighth_lord": null,
+          "house_occupied": 8,
+          "houses_owned": [5, 10],
+          "kendra_lord": [10],
+          "kendradhipati_dosha": null,
+          "maraka": null,
+          "natural": "malefic",
+          "net": "sama",
+          "node_proxy": null,
+          "planet": {
+            "id": "mars",
+            "name": "Mars",
+            "names": {
+              "en": "Mars",
+              "hi": "मंगल"
+            }
+          },
+          "raja_yoga_partner": null,
+          "reasons": [
+            {
+              "code": "natural_nature",
+              "source": "LP S.6 (Jha p.19)"
+            },
+            {
+              "code": "trikona_lord",
+              "source": "LP S.6 (Jha p.19)"
+            },
+            {
+              "code": "kendra_lord_neutral",
+              "source": "LP S.7 (Jha p.20-21)"
+            },
+            {
+              "code": "yogakaraka_lordship",
+              "source": "LP S.12 (Jha p.25)"
+            },
+            {
+              "code": "net_grade_merge",
+              "source": "LP S.6 (Jha p.19)"
+            }
+          ],
+          "second_twelfth": null,
+          "trikona_lord": [5],
+          "trishadaya_lord": null,
+          "yogakaraka": {
+            "kendra": 10,
+            "kind": "lordship",
+            "trikona": 5
+          }
+        },
+        "mercury": {
+          "blemishes": [],
+          "class": "inauspicious",
+          "dasha_role": "inauspicious",
+          "dasha_role_reasons": [],
+          "eighth_lord": null,
+          "house_occupied": 10,
+          "houses_owned": [3, 12],
+          "kendra_lord": [],
+          "kendradhipati_dosha": null,
+          "maraka": null,
+          "natural": "malefic",
+          "net": "very_bad",
+          "node_proxy": null,
+          "planet": {
+            "id": "mercury",
+            "name": "Mercury",
+            "names": {
+              "en": "Mercury",
+              "hi": "बुध"
+            }
+          },
+          "raja_yoga_partner": null,
+          "reasons": [
+            {
+              "code": "natural_nature",
+              "source": "LP S.6 (Jha p.19)"
+            },
+            {
+              "code": "trishadaya_lord",
+              "source": "LP S.6 (Jha p.19-20)"
+            },
+            {
+              "code": "second_twelfth_by_association",
+              "source": "LP S.8 (Jha p.22)"
+            },
+            {
+              "code": "net_grade_merge",
+              "source": "LP S.6 (Jha p.19)"
+            }
+          ],
+          "second_twelfth": {
+            "basis": {
+              "kind": "companion",
+              "planet": {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              }
+            },
+            "houses": [12],
+            "resolved": "neutral"
+          },
+          "trikona_lord": [],
+          "trishadaya_lord": {
+            "houses": [3],
+            "rank": 1
+          },
+          "yogakaraka": null
+        },
+        "moon": {
+          "blemishes": [],
+          "class": "auspicious",
+          "dasha_role": "yogakaraka",
+          "dasha_role_reasons": [
+            {
+              "code": "raja_yoga_partner_dasha",
+              "source": "LP S.14, S.16, S.33 (Jha p.27-28, p.36)"
+            }
+          ],
+          "eighth_lord": null,
+          "house_occupied": 6,
+          "houses_owned": [1],
+          "kendra_lord": [],
+          "kendradhipati_dosha": null,
+          "maraka": null,
+          "natural": "benefic",
+          "net": "very_good",
+          "node_proxy": null,
+          "planet": {
+            "id": "moon",
+            "name": "Moon",
+            "names": {
+              "en": "Moon",
+              "hi": "चंद्र"
+            }
+          },
+          "raja_yoga_partner": "venus",
+          "reasons": [
+            {
+              "code": "natural_nature",
+              "source": "LP S.6 (Jha p.19)"
+            },
+            {
+              "code": "trikona_lord",
+              "source": "LP S.6 (Jha p.19)"
+            },
+            {
+              "code": "net_grade_merge",
+              "source": "LP S.6 (Jha p.19)"
+            }
+          ],
+          "second_twelfth": null,
+          "trikona_lord": [1],
+          "trishadaya_lord": null,
+          "yogakaraka": null
+        },
+        "rahu": {
+          "blemishes": [],
+          "class": "inauspicious",
+          "dasha_role": "maraka",
+          "dasha_role_reasons": [],
+          "eighth_lord": null,
+          "house_occupied": 7,
+          "houses_owned": [],
+          "kendra_lord": [],
+          "kendradhipati_dosha": null,
+          "maraka": {
+            "basis": {
+              "kind": "node_in_maraka_house"
+            },
+            "houses": [7],
+            "pressure": "normal",
+            "prime": false
+          },
+          "natural": "malefic",
+          "net": "very_bad",
+          "node_proxy": {
+            "companions": ["saturn"],
+            "follows": "saturn",
+            "house": 7
+          },
+          "planet": {
+            "id": "rahu",
+            "name": "Rahu",
+            "names": {
+              "en": "Rahu",
+              "hi": "राहु"
+            }
+          },
+          "raja_yoga_partner": null,
+          "reasons": [
+            {
+              "code": "natural_nature",
+              "source": "LP S.6 (Jha p.19)"
+            },
+            {
+              "code": "node_with_eighth_lord",
+              "source": "LP S.13 (Verma p.120)"
+            },
+            {
+              "code": "node_maraka",
+              "source": "LP S.13 (Verma p.48, p.120); MP 1.5 (Jha p.40)"
+            },
+            {
+              "code": "net_grade_merge",
+              "source": "LP S.6 (Jha p.19)"
+            }
+          ],
+          "second_twelfth": null,
+          "trikona_lord": [],
+          "trishadaya_lord": null,
+          "yogakaraka": null
+        },
+        "saturn": {
+          "blemishes": [
+            {
+              "house": 8,
+              "kind": "also_owns"
+            }
+          ],
+          "class": "inauspicious",
+          "dasha_role": "maraka",
+          "dasha_role_reasons": [],
+          "eighth_lord": {
+            "also": {
+              "house": 7,
+              "kind": "kendra"
+            },
+            "placed_in_eighth": false
+          },
+          "house_occupied": 7,
+          "houses_owned": [7, 8],
+          "kendra_lord": [7],
+          "kendradhipati_dosha": null,
+          "maraka": {
+            "basis": {
+              "kind": "lordship"
+            },
+            "houses": [7],
+            "pressure": "high",
+            "prime": false
+          },
+          "natural": "malefic",
+          "net": "very_bad",
+          "node_proxy": null,
+          "planet": {
+            "id": "saturn",
+            "name": "Saturn",
+            "names": {
+              "en": "Saturn",
+              "hi": "शनि"
+            }
+          },
+          "raja_yoga_partner": null,
+          "reasons": [
+            {
+              "code": "natural_nature",
+              "source": "LP S.6 (Jha p.19)"
+            },
+            {
+              "code": "kendra_lord_neutral",
+              "source": "LP S.7 (Jha p.20-21)"
+            },
+            {
+              "code": "eighth_lord",
+              "source": "LP S.9 (Jha p.23)"
+            },
+            {
+              "code": "kendra_trikona_lord_owns_evil_house",
+              "source": "LP S.14-15, S.22 (Jha p.30)"
+            },
+            {
+              "code": "maraka_lord",
+              "source": "LP S.23-24 (Jha p.31-32)"
+            },
+            {
+              "code": "maraka_high_inauspicious",
+              "source": "LP S.25-27 (Verma p.89-99)"
+            },
+            {
+              "code": "net_grade_merge",
+              "source": "LP S.6 (Jha p.19)"
+            }
+          ],
+          "second_twelfth": null,
+          "trikona_lord": [],
+          "trishadaya_lord": null,
+          "yogakaraka": null
+        },
+        "sun": {
+          "blemishes": [],
+          "class": "inauspicious",
+          "dasha_role": "maraka",
+          "dasha_role_reasons": [],
+          "eighth_lord": null,
+          "house_occupied": 10,
+          "houses_owned": [2],
+          "kendra_lord": [],
+          "kendradhipati_dosha": null,
+          "maraka": {
+            "basis": {
+              "kind": "lordship"
+            },
+            "houses": [2],
+            "pressure": "high",
+            "prime": true
+          },
+          "natural": "malefic",
+          "net": "very_bad",
+          "node_proxy": null,
+          "planet": {
+            "id": "sun",
+            "name": "Sun",
+            "names": {
+              "en": "Sun",
+              "hi": "सूर्य"
+            }
+          },
+          "raja_yoga_partner": null,
+          "reasons": [
+            {
+              "code": "natural_nature",
+              "source": "LP S.6 (Jha p.19)"
+            },
+            {
+              "code": "second_twelfth_by_association",
+              "source": "LP S.8 (Jha p.22)"
+            },
+            {
+              "code": "maraka_lord",
+              "source": "LP S.23-24 (Jha p.31-32)"
+            },
+            {
+              "code": "maraka_high_inauspicious",
+              "source": "LP S.25-27 (Verma p.89-99)"
+            },
+            {
+              "code": "net_grade_merge",
+              "source": "LP S.6 (Jha p.19)"
+            }
+          ],
+          "second_twelfth": {
+            "basis": {
+              "kind": "companion",
+              "planet": {
+                "id": "mercury",
+                "name": "Mercury",
+                "names": {
+                  "en": "Mercury",
+                  "hi": "बुध"
+                }
+              }
+            },
+            "houses": [2],
+            "resolved": "inauspicious"
+          },
+          "trikona_lord": [],
+          "trishadaya_lord": null,
+          "yogakaraka": null
+        },
+        "venus": {
+          "blemishes": [
+            {
+              "house": 11,
+              "kind": "also_owns"
+            }
+          ],
+          "class": "inauspicious",
+          "dasha_role": "yogakaraka",
+          "dasha_role_reasons": [
+            {
+              "code": "raja_yoga_partner_dasha",
+              "source": "LP S.14, S.16, S.33 (Jha p.27-28, p.36)"
+            }
+          ],
+          "eighth_lord": null,
+          "house_occupied": 9,
+          "houses_owned": [4, 11],
+          "kendra_lord": [4],
+          "kendradhipati_dosha": {
+            "from": {
+              "id": "venus",
+              "name": "Venus",
+              "names": {
+                "en": "Venus",
+                "hi": "शुक्र"
+              }
+            },
+            "houses": [4],
+            "kendra_weight": 1,
+            "level": "moderate",
+            "placement": "plain",
+            "planet_weight": 3,
+            "score": 4
+          },
+          "maraka": null,
+          "natural": "benefic",
+          "net": "sama",
+          "node_proxy": null,
+          "planet": {
+            "id": "venus",
+            "name": "Venus",
+            "names": {
+              "en": "Venus",
+              "hi": "शुक्र"
+            }
+          },
+          "raja_yoga_partner": "moon",
+          "reasons": [
+            {
+              "code": "natural_nature",
+              "source": "LP S.6 (Jha p.19)"
+            },
+            {
+              "code": "kendra_lord_neutral",
+              "source": "LP S.7 (Jha p.20-21)"
+            },
+            {
+              "code": "trishadaya_lord",
+              "source": "LP S.6 (Jha p.19-20)"
+            },
+            {
+              "code": "kendradhipati_dosha",
+              "source": "LP S.7, S.10 (Jha p.23-25)"
+            },
+            {
+              "code": "kendra_trikona_lord_owns_evil_house",
+              "source": "LP S.14-15, S.22 (Jha p.30)"
+            },
+            {
+              "code": "net_grade_merge",
+              "source": "LP S.6 (Jha p.19)"
+            }
+          ],
+          "second_twelfth": null,
+          "trikona_lord": [],
+          "trishadaya_lord": {
+            "houses": [11],
+            "rank": 3
+          },
+          "yogakaraka": null
+        }
+      },
+      "switches": {
+        "dasha": {
+          "inauspicious_light_softens": true,
+          "low_maraka_softens": true,
+          "maraka_pushes_level": true,
+          "mixed_strength_tilt": true,
+          "mutual_dusthana_worsens": true,
+          "raja_yoga_dasha": true,
+          "raja_yoga_min_relation": 1,
+          "s19_related_papa_in_yk": "jha_auspicious",
+          "s31_order": "jha",
+          "s32_unrelated": "neutral",
+          "s34_unrelated_auspicious_in_yk": "jha_full",
+          "s35_peak_requires_strong_yk": true,
+          "s36_houses": "trikona",
+          "s40_uk_inversion": false,
+          "s40_unrelated_only": true,
+          "sandwich": true,
+          "seventh_lord_maraka_trikona": true
+        },
+        "functional": {
+          "eighth_in_eighth_relief": false,
+          "house_pair_sadharmi": true,
+          "kendradhipati_class": "jha_inauspicious_light",
+          "kt_relation": "jha_placement",
+          "lagna_eighth": "jha_neutral",
+          "luminaries_maraka": true,
+          "luminary_eighth": "jha_small_blemish",
+          "mercury_alone": "jha_sama",
+          "moon_strength": "tithi8",
+          "mutual_aspect_needs_own_sign": false,
+          "node_same_kind_yk": false,
+          "node_with_eighth": "acts_as_eighth_lord",
+          "prime_maraka": "second",
+          "second_twelfth": "jha_companion_first",
+          "trikona_eighth": "jha_facilitator",
+          "trikona_sixth": "by_house_rank",
+          "unlisted_pairs": "sadharmi"
+        }
+      }
+    },
+    "periods": [
+      {
+        "antardashas": [
+          {
+            "from": "1990-05-14T05:00:00.000Z",
+            "grade": 3,
+            "lord": {
+              "id": "mars",
+              "name": "Mars",
+              "names": {
+                "en": "Mars",
+                "hi": "मंगल"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "yk_dasha_yk_bhukti",
+                "source": "LP S.33-34 (Verma p.110)"
+              }
+            ],
+            "to": "1991-01-23T08:55:30.000Z"
+          },
+          {
+            "from": "1991-01-23T08:55:30.000Z",
+            "grade": 1,
+            "lord": {
+              "id": "rahu",
+              "name": "Rahu",
+              "names": {
+                "en": "Rahu",
+                "hi": "राहु"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "yk_dasha_unrelated_contrary_mixed",
+                "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+              },
+              {
+                "code": "mixed_dasha_lord_stronger",
+                "source": "LP S.31 (Jha p.35)"
+              }
+            ],
+            "to": "1994-01-23T02:55:30.000Z"
+          },
+          {
+            "from": "1994-01-23T02:55:30.000Z",
+            "grade": 3,
+            "lord": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "yk_dasha_yk_bhukti",
+                "source": "LP S.33-34 (Verma p.110)"
+              }
+            ],
+            "to": "1996-09-23T02:55:30.000Z"
+          },
+          {
+            "from": "1996-09-23T02:55:30.000Z",
+            "grade": 2,
+            "lord": {
+              "id": "saturn",
+              "name": "Saturn",
+              "names": {
+                "en": "Saturn",
+                "hi": "शनि"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "venus_saturn_dasha_lord_results",
+                "source": "LP S.40 (Jha p.38; Verma p.126-129)"
+              }
+            ],
+            "to": "1999-11-23T17:55:30.000Z"
+          },
+          {
+            "from": "1999-11-23T17:55:30.000Z",
+            "grade": 1,
+            "lord": {
+              "id": "mercury",
+              "name": "Mercury",
+              "names": {
+                "en": "Mercury",
+                "hi": "बुध"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "yk_dasha_unrelated_contrary_mixed",
+                "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+              },
+              {
+                "code": "mixed_dasha_lord_stronger",
+                "source": "LP S.31 (Jha p.35)"
+              }
+            ],
+            "to": "2002-09-23T14:55:30.000Z"
+          },
+          {
+            "from": "2002-09-23T14:55:30.000Z",
+            "grade": 2,
+            "lord": {
+              "id": "ketu",
+              "name": "Ketu",
+              "names": {
+                "en": "Ketu",
+                "hi": "केतु"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "lone_node_bhukti_yoga",
+                "source": "LP S.36 (Jha p.37)"
+              }
+            ],
+            "to": "2003-11-23T17:55:30.000Z"
+          }
+        ],
+        "areas": [
+          {
+            "house": 9,
+            "level": "favourable"
+          },
+          {
+            "house": 4,
+            "level": "favourable"
+          },
+          {
+            "house": 11,
+            "level": "favourable"
+          }
+        ],
+        "current": false,
+        "from": "1990-05-14T05:00:00.000Z",
+        "level": "favourable",
+        "lord": {
+          "id": "venus",
+          "name": "Venus",
+          "names": {
+            "en": "Venus",
+            "hi": "शुक्र"
+          }
+        },
+        "text": {
+          "en": "A Venus period that works strongly for you brings comfort, beauty and success together. Relationships and marriage tend to flourish, finances ease, and vehicles, a better home or refined possessions may arrive. Creative, artistic or luxury-related work can bring real recognition. Enjoy the pleasures without over-indulgence, and this can be one of the most rewarding times of life. Teachers, mentors and your father tend to guide and support you, and higher learning or spiritual study progresses well. Studies, property, land and vehicles tend to bring comfort, and the foundations you lay now serve you for years. A high point of recognition and rise is likely between January 1994 and September 1996. Overall, a period to build on: opportunities are real, and using them wisely makes the gains last.",
+          "hi": "आपके लिए प्रबल रूप से शुभ शुक्र दशा सुख, सौंदर्य और सफलता को एक साथ लाती है। संबंध और विवाह प्रायः फलते-फूलते हैं, आर्थिक स्थिति सहज होती है, और वाहन, अच्छा घर या सुरुचिपूर्ण वस्तुएँ आ सकती हैं। सृजनात्मक, कलात्मक या विलास से जुड़े कार्यों में वास्तविक पहचान मिल सकती है। भोगों का आनंद लें पर अति से बचें, तो यह जीवन के सबसे फलदायी समयों में से एक हो सकता है। गुरुजन, मार्गदर्शक और आपके पिता आपको दिशा और सहयोग देते हैं, और उच्च शिक्षा या आध्यात्मिक अध्ययन अच्छी प्रगति करता है। अध्ययन, संपत्ति, भूमि और वाहन सुख देते हैं, और इस समय रखी गई नींव आपको वर्षों तक सहारा देती है। जनवरी 1994 से सितंबर 1996 के बीच मान-सम्मान और उन्नति का शिखर आने की संभावना है। समग्रतः यह आगे निर्माण करने का समय है: अवसर वास्तविक हैं, और उनका विवेकपूर्ण उपयोग उपलब्धियों को स्थायी बनाता है।"
+        },
+        "to": "2003-11-23T17:55:30.000Z"
+      },
+      {
+        "antardashas": [
+          {
+            "from": "2003-11-23T17:55:30.000Z",
+            "grade": -1,
+            "lord": {
+              "id": "sun",
+              "name": "Sun",
+              "names": {
+                "en": "Sun",
+                "hi": "सूर्य"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "own_bhukti_muted",
+                "source": "LP S.29 (Jha p.35; Verma p.101-102)"
+              }
+            ],
+            "to": "2004-03-12T07:43:30.000Z"
+          },
+          {
+            "from": "2004-03-12T07:43:30.000Z",
+            "grade": 1,
+            "lord": {
+              "id": "moon",
+              "name": "Moon",
+              "names": {
+                "en": "Moon",
+                "hi": "चंद्र"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "maraka_dasha_table",
+                "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+              }
+            ],
+            "to": "2004-09-10T22:43:30.000Z"
+          },
+          {
+            "from": "2004-09-10T22:43:30.000Z",
+            "grade": 1,
+            "lord": {
+              "id": "mars",
+              "name": "Mars",
+              "names": {
+                "en": "Mars",
+                "hi": "मंगल"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "maraka_dasha_table",
+                "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+              }
+            ],
+            "to": "2005-01-16T18:49:30.000Z"
+          },
+          {
+            "from": "2005-01-16T18:49:30.000Z",
+            "grade": -2,
+            "lord": {
+              "id": "rahu",
+              "name": "Rahu",
+              "names": {
+                "en": "Rahu",
+                "hi": "राहु"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "maraka_dasha_table",
+                "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+              },
+              {
+                "code": "maraka_care_colouring",
+                "source": "LP S.39; owner 2026-09-29"
+              }
+            ],
+            "to": "2005-12-11T12:13:30.000Z"
+          },
+          {
+            "from": "2005-12-11T12:13:30.000Z",
+            "grade": 1,
+            "lord": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "maraka_dasha_table",
+                "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+              }
+            ],
+            "to": "2006-09-29T17:01:30.000Z"
+          },
+          {
+            "from": "2006-09-29T17:01:30.000Z",
+            "grade": -2,
+            "lord": {
+              "id": "saturn",
+              "name": "Saturn",
+              "names": {
+                "en": "Saturn",
+                "hi": "शनि"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "maraka_dasha_table",
+                "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+              },
+              {
+                "code": "maraka_care_colouring",
+                "source": "LP S.39; owner 2026-09-29"
+              }
+            ],
+            "to": "2007-09-11T16:43:30.000Z"
+          },
+          {
+            "from": "2007-09-11T16:43:30.000Z",
+            "grade": -2,
+            "lord": {
+              "id": "mercury",
+              "name": "Mercury",
+              "names": {
+                "en": "Mercury",
+                "hi": "बुध"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "maraka_dasha_table",
+                "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+              },
+              {
+                "code": "maraka_care_colouring",
+                "source": "LP S.39; owner 2026-09-29"
+              }
+            ],
+            "to": "2008-07-18T03:49:30.000Z"
+          },
+          {
+            "from": "2008-07-18T03:49:30.000Z",
+            "grade": 0,
+            "lord": {
+              "id": "ketu",
+              "name": "Ketu",
+              "names": {
+                "en": "Ketu",
+                "hi": "केतु"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "maraka_dasha_table",
+                "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+              }
+            ],
+            "to": "2008-11-22T23:55:30.000Z"
+          },
+          {
+            "from": "2008-11-22T23:55:30.000Z",
+            "grade": 1,
+            "lord": {
+              "id": "venus",
+              "name": "Venus",
+              "names": {
+                "en": "Venus",
+                "hi": "शुक्र"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "maraka_dasha_table",
+                "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+              }
+            ],
+            "to": "2009-11-23T05:55:30.000Z"
+          }
+        ],
+        "areas": [
+          {
+            "house": 10,
+            "level": "care"
+          },
+          {
+            "house": 2,
+            "level": "care"
+          }
+        ],
+        "current": false,
+        "from": "2003-11-23T17:55:30.000Z",
+        "level": "care",
+        "lord": {
+          "id": "sun",
+          "name": "Sun",
+          "names": {
+            "en": "Sun",
+            "hi": "सूर्य"
+          }
+        },
+        "text": {
+          "en": "A Sun period that works against you asks for humility and careful handling of authority. Disagreements with superiors, officials or your father may need more patience than usual, and effort can feel under-recognised for a while. It is a good time to strengthen routine, rest and health, and to let results speak. Steady conduct keeps your standing intact. Work pressure or dealings with superiors may need extra care; steady conduct and patience protect your position better than confrontation. Harsh or hasty words may cost you more than usual; a gentle tone and fewer promises help keep family ties steady. The period opens quietly, and its fuller effects begin to show only after March 2004. The most demanding stretch runs from September 2006 to July 2008; pace yourself and keep commitments modest then. Through these years, give your health regular attention and keep a steady, unhurried pace in work and travel. Taken as a whole, these are years for consolidation rather than expansion, and the lessons learned now last.",
+          "hi": "आपके प्रतिकूल चलने वाली सूर्य दशा विनम्रता और अधिकार से जुड़े विषयों में सावधानी माँगती है। वरिष्ठों, अधिकारियों या पिता से मतभेद में सामान्य से अधिक धैर्य चाहिए, और कुछ समय तक परिश्रम का उचित श्रेय न मिलने का अनुभव हो सकता है। यह दिनचर्या, विश्राम और स्वास्थ्य को सुदृढ़ करने तथा परिणामों को स्वयं बोलने देने का समय है। स्थिर आचरण आपकी प्रतिष्ठा को सुरक्षित रखता है। कार्य का दबाव या वरिष्ठों से व्यवहार अतिरिक्त सावधानी माँग सकता है; टकराव से अधिक स्थिर आचरण और धैर्य आपके पद की रक्षा करते हैं। कठोर या उतावले वचन इस समय सामान्य से अधिक महँगे पड़ सकते हैं; कोमल स्वर और सीमित प्रतिज्ञाएँ पारिवारिक संबंधों को स्थिर रखती हैं। यह दशा शांत ढंग से आरंभ होती है, और इसके पूर्ण प्रभाव मार्च 2004 के पश्चात ही प्रकट होने लगते हैं। सबसे अधिक परिश्रम माँगने वाला समय सितंबर 2006 से जुलाई 2008 तक है; उस समय अपनी गति संतुलित और प्रतिबद्धताएँ सीमित रखें। इन वर्षों में अपने स्वास्थ्य पर नियमित ध्यान दें और कार्य तथा यात्रा में स्थिर, धैर्यपूर्ण गति बनाए रखें। समग्र दृष्टि से ये वर्ष विस्तार के नहीं, सुदृढ़ीकरण के हैं, और इस समय सीखी गई बातें स्थायी रहती हैं।"
+        },
+        "to": "2009-11-23T05:55:30.000Z"
+      },
+      {
+        "antardashas": [
+          {
+            "from": "2009-11-23T05:55:30.000Z",
+            "grade": 1,
+            "lord": {
+              "id": "moon",
+              "name": "Moon",
+              "names": {
+                "en": "Moon",
+                "hi": "चंद्र"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "own_bhukti_muted",
+                "source": "LP S.29 (Jha p.35; Verma p.101-102)"
+              }
+            ],
+            "to": "2010-09-23T14:55:30.000Z"
+          },
+          {
+            "from": "2010-09-23T14:55:30.000Z",
+            "grade": 2,
+            "lord": {
+              "id": "mars",
+              "name": "Mars",
+              "names": {
+                "en": "Mars",
+                "hi": "मंगल"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "yk_dasha_yk_bhukti",
+                "source": "LP S.33-34 (Verma p.110)"
+              }
+            ],
+            "to": "2011-04-24T16:25:30.000Z"
+          },
+          {
+            "from": "2011-04-24T16:25:30.000Z",
+            "grade": -2,
+            "lord": {
+              "id": "rahu",
+              "name": "Rahu",
+              "names": {
+                "en": "Rahu",
+                "hi": "राहु"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "yk_dasha_unrelated_contrary_mixed",
+                "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+              },
+              {
+                "code": "mixed_bhukti_lord_stronger",
+                "source": "LP S.31 (Jha p.35)"
+              },
+              {
+                "code": "mutual_6_8_12_worsens",
+                "source": "LP S.37 (Verma p.122)"
+              }
+            ],
+            "to": "2012-10-23T13:25:30.000Z"
+          },
+          {
+            "from": "2012-10-23T13:25:30.000Z",
+            "grade": 2,
+            "lord": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "yk_dasha_yk_bhukti",
+                "source": "LP S.33-34 (Verma p.110)"
+              }
+            ],
+            "to": "2014-02-22T13:25:30.000Z"
+          },
+          {
+            "from": "2014-02-22T13:25:30.000Z",
+            "grade": -2,
+            "lord": {
+              "id": "saturn",
+              "name": "Saturn",
+              "names": {
+                "en": "Saturn",
+                "hi": "शनि"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "yk_dasha_unrelated_contrary_mixed",
+                "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+              },
+              {
+                "code": "mixed_bhukti_lord_stronger",
+                "source": "LP S.31 (Jha p.35)"
+              },
+              {
+                "code": "mutual_6_8_12_worsens",
+                "source": "LP S.37 (Verma p.122)"
+              }
+            ],
+            "to": "2015-09-23T20:55:30.000Z"
+          },
+          {
+            "from": "2015-09-23T20:55:30.000Z",
+            "grade": 0,
+            "lord": {
+              "id": "mercury",
+              "name": "Mercury",
+              "names": {
+                "en": "Mercury",
+                "hi": "बुध"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "yk_dasha_unrelated_contrary_mixed",
+                "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+              },
+              {
+                "code": "mixed_equal_strength",
+                "source": "LP S.31 (Jha p.35)"
+              }
+            ],
+            "to": "2017-02-22T07:25:30.000Z"
+          },
+          {
+            "from": "2017-02-22T07:25:30.000Z",
+            "grade": 2,
+            "lord": {
+              "id": "ketu",
+              "name": "Ketu",
+              "names": {
+                "en": "Ketu",
+                "hi": "केतु"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "lone_node_bhukti_yoga",
+                "source": "LP S.36 (Jha p.37)"
+              }
+            ],
+            "to": "2017-09-23T08:55:30.000Z"
+          },
+          {
+            "from": "2017-09-23T08:55:30.000Z",
+            "grade": 3,
+            "lord": {
+              "id": "venus",
+              "name": "Venus",
+              "names": {
+                "en": "Venus",
+                "hi": "शुक्र"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "yk_dasha_yk_bhukti",
+                "source": "LP S.33-34 (Verma p.110)"
+              }
+            ],
+            "to": "2019-05-25T02:55:30.000Z"
+          },
+          {
+            "from": "2019-05-25T02:55:30.000Z",
+            "grade": -1,
+            "lord": {
+              "id": "sun",
+              "name": "Sun",
+              "names": {
+                "en": "Sun",
+                "hi": "सूर्य"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "yk_dasha_unrelated_contrary_mixed",
+                "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+              },
+              {
+                "code": "mixed_bhukti_lord_stronger",
+                "source": "LP S.31 (Jha p.35)"
+              }
+            ],
+            "to": "2019-11-23T17:55:30.000Z"
+          }
+        ],
+        "areas": [
+          {
+            "house": 6,
+            "level": "favourable"
+          },
+          {
+            "house": 1,
+            "level": "mixed"
+          }
+        ],
+        "current": false,
+        "from": "2009-11-23T05:55:30.000Z",
+        "level": "mixed",
+        "lord": {
+          "id": "moon",
+          "name": "Moon",
+          "names": {
+            "en": "Moon",
+            "hi": "चंद्र"
+          }
+        },
+        "text": {
+          "en": "A Moon period of this kind reflects whatever surrounds it, much as the Moon reflects light. Its tone follows the smaller periods within it and the planets that sit with the Moon in your chart. Home, feelings and public dealings are in focus, and changes of mood or residence are possible. Keeping your inner rhythm steady makes the good stretches count. Competition keeps you on your toes; you win some contests and lose others, and each round sharpens your skills. Recognition comes, but not always for the efforts you expect, and your confidence may swing between bold and unsure before it settles. The period opens quietly, and its fuller effects begin to show only after September 2010. A high point of recognition and rise is likely between September 2017 and May 2019. The most demanding stretch runs from February 2014 to September 2015; pace yourself and keep commitments modest then. In sum, a period of ups and downs that rewards flexibility, patience and clear priorities.",
+          "hi": "इस प्रकार की चंद्र दशा अपने आस-पास के प्रभावों को उसी प्रकार प्रतिबिंबित करती है, जैसे चंद्रमा सूर्य के प्रकाश को। इसका स्वर भीतर की छोटी अवधियों और कुंडली में चंद्रमा के साथ बैठे ग्रहों से तय होता है। घर, भावनाएँ और सार्वजनिक व्यवहार केंद्र में रहते हैं, और मनोदशा या निवास में परिवर्तन संभव है। भीतरी लय को स्थिर रखने से अच्छे समय का पूरा लाभ मिलता है। प्रतिस्पर्धा आपको सजग रखती है; कुछ में आप जीतते हैं, कुछ में नहीं, और प्रत्येक अवसर आपके कौशल को निखारता है। मान तो मिलता है, परंतु सदा उन प्रयासों के लिए नहीं जिनकी आप आशा करते हैं, और स्थिर होने से पहले आपका आत्मविश्वास कभी दृढ़ तो कभी डगमग रहता है। यह दशा शांत ढंग से आरंभ होती है, और इसके पूर्ण प्रभाव सितंबर 2010 के पश्चात ही प्रकट होने लगते हैं। सितंबर 2017 से मई 2019 के बीच मान-सम्मान और उन्नति का शिखर आने की संभावना है। सबसे अधिक परिश्रम माँगने वाला समय फ़रवरी 2014 से सितंबर 2015 तक है; उस समय अपनी गति संतुलित और प्रतिबद्धताएँ सीमित रखें। सारांश में, यह उतार-चढ़ाव की दशा है जो लचीलेपन, धैर्य और स्पष्ट प्राथमिकताओं को पुरस्कृत करती है।"
+        },
+        "to": "2019-11-23T17:55:30.000Z"
+      },
+      {
+        "antardashas": [
+          {
+            "from": "2019-11-23T17:55:30.000Z",
+            "grade": 1,
+            "lord": {
+              "id": "mars",
+              "name": "Mars",
+              "names": {
+                "en": "Mars",
+                "hi": "मंगल"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "own_bhukti_muted",
+                "source": "LP S.29 (Jha p.35; Verma p.101-102)"
+              }
+            ],
+            "to": "2020-04-20T21:22:30.000Z"
+          },
+          {
+            "from": "2020-04-20T21:22:30.000Z",
+            "grade": -2,
+            "lord": {
+              "id": "rahu",
+              "name": "Rahu",
+              "names": {
+                "en": "Rahu",
+                "hi": "राहु"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "yk_dasha_unrelated_contrary_mixed",
+                "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+              },
+              {
+                "code": "mixed_bhukti_lord_stronger",
+                "source": "LP S.31 (Jha p.35)"
+              },
+              {
+                "code": "mutual_6_8_12_worsens",
+                "source": "LP S.37 (Verma p.122)"
+              }
+            ],
+            "to": "2021-05-09T09:40:30.000Z"
+          },
+          {
+            "from": "2021-05-09T09:40:30.000Z",
+            "grade": 2,
+            "lord": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "yk_dasha_yk_bhukti",
+                "source": "LP S.33-34 (Verma p.110)"
+              }
+            ],
+            "to": "2022-04-15T07:16:30.000Z"
+          },
+          {
+            "from": "2022-04-15T07:16:30.000Z",
+            "grade": -2,
+            "lord": {
+              "id": "saturn",
+              "name": "Saturn",
+              "names": {
+                "en": "Saturn",
+                "hi": "शनि"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "yk_dasha_unrelated_contrary_mixed",
+                "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+              },
+              {
+                "code": "mixed_bhukti_lord_stronger",
+                "source": "LP S.31 (Jha p.35)"
+              },
+              {
+                "code": "mutual_6_8_12_worsens",
+                "source": "LP S.37 (Verma p.122)"
+              }
+            ],
+            "to": "2023-05-25T02:55:30.000Z"
+          },
+          {
+            "from": "2023-05-25T02:55:30.000Z",
+            "grade": 0,
+            "lord": {
+              "id": "mercury",
+              "name": "Mercury",
+              "names": {
+                "en": "Mercury",
+                "hi": "बुध"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "yk_dasha_unrelated_contrary_mixed",
+                "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+              },
+              {
+                "code": "mixed_equal_strength",
+                "source": "LP S.31 (Jha p.35)"
+              }
+            ],
+            "to": "2024-05-21T07:52:30.000Z"
+          },
+          {
+            "from": "2024-05-21T07:52:30.000Z",
+            "grade": 2,
+            "lord": {
+              "id": "ketu",
+              "name": "Ketu",
+              "names": {
+                "en": "Ketu",
+                "hi": "केतु"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "lone_node_bhukti_yoga",
+                "source": "LP S.36 (Jha p.37)"
+              }
+            ],
+            "to": "2024-10-17T11:19:30.000Z"
+          },
+          {
+            "from": "2024-10-17T11:19:30.000Z",
+            "grade": 3,
+            "lord": {
+              "id": "venus",
+              "name": "Venus",
+              "names": {
+                "en": "Venus",
+                "hi": "शुक्र"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "yk_dasha_yk_bhukti",
+                "source": "LP S.33-34 (Verma p.110)"
+              }
+            ],
+            "to": "2025-12-17T14:19:30.000Z"
+          },
+          {
+            "from": "2025-12-17T14:19:30.000Z",
+            "grade": -1,
+            "lord": {
+              "id": "sun",
+              "name": "Sun",
+              "names": {
+                "en": "Sun",
+                "hi": "सूर्य"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "yk_dasha_unrelated_contrary_mixed",
+                "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+              },
+              {
+                "code": "mixed_bhukti_lord_stronger",
+                "source": "LP S.31 (Jha p.35)"
+              }
+            ],
+            "to": "2026-04-24T10:25:30.000Z"
+          },
+          {
+            "from": "2026-04-24T10:25:30.000Z",
+            "grade": 2,
+            "lord": {
+              "id": "moon",
+              "name": "Moon",
+              "names": {
+                "en": "Moon",
+                "hi": "चंद्र"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "yk_dasha_yk_bhukti",
+                "source": "LP S.33-34 (Verma p.110)"
+              }
+            ],
+            "to": "2026-11-23T11:55:30.000Z"
+          }
+        ],
+        "areas": [
+          {
+            "house": 8,
+            "level": "mixed"
+          },
+          {
+            "house": 5,
+            "level": "mixed"
+          },
+          {
+            "house": 10,
+            "level": "mixed"
+          }
+        ],
+        "current": true,
+        "from": "2019-11-23T17:55:30.000Z",
+        "level": "mixed",
+        "lord": {
+          "id": "mars",
+          "name": "Mars",
+          "names": {
+            "en": "Mars",
+            "hi": "मंगल"
+          }
+        },
+        "text": {
+          "en": "A Mars period of this kind brings energy without a fixed direction; what it builds depends on the smaller periods within it and the planets Mars keeps company with. There will be pushes to act, compete and assert yourself, some productive and some merely heated. Choosing your battles, and putting effort into property, fitness or skills, gives the years shape. Changes arrive with little warning, some welcome and some unsettling, and staying flexible lets you turn most of them to good use. Ideas come in plenty but not all of them ripen; choosing a few to see through works better than chasing every inspiration. The period opens quietly, and its fuller effects begin to show only after April 2020. A high point of recognition and rise is likely between October 2024 and December 2025. The most demanding stretch runs from April 2022 to May 2023; pace yourself and keep commitments modest then. Things tend to ease and improve noticeably after May 2023, so patience in the earlier years is well repaid. Taken together, these years are uneven but workable, and much depends on how you use the better stretches.",
+          "hi": "इस प्रकार की मंगल दशा ऊर्जा तो देती है, पर उसकी दिशा निश्चित नहीं होती; वह क्या रचती है, यह भीतर की छोटी अवधियों और मंगल की संगति वाले ग्रहों पर निर्भर है। कर्म करने, प्रतिस्पर्धा करने और अपनी बात रखने के प्रेरक क्षण आते हैं, कुछ फलदायी और कुछ केवल उत्तेजना भरे। सोच-समझकर संघर्ष चुनना और ऊर्जा को संपत्ति, शारीरिक क्षमता या कौशल में लगाना इन वर्षों को आकार देता है। परिवर्तन बिना पूर्व सूचना के आते हैं, कुछ स्वागत योग्य और कुछ विचलित करने वाले, और लचीलापन आपको उनमें से अधिकांश का सदुपयोग करने देता है। विचार तो बहुत आते हैं, परंतु सभी परिपक्व नहीं होते; प्रत्येक प्रेरणा के पीछे भागने से अच्छा है कुछ चुनकर उन्हें पूरा करना। यह दशा शांत ढंग से आरंभ होती है, और इसके पूर्ण प्रभाव अप्रैल 2020 के पश्चात ही प्रकट होने लगते हैं। अक्टूबर 2024 से दिसंबर 2025 के बीच मान-सम्मान और उन्नति का शिखर आने की संभावना है। सबसे अधिक परिश्रम माँगने वाला समय अप्रैल 2022 से मई 2023 तक है; उस समय अपनी गति संतुलित और प्रतिबद्धताएँ सीमित रखें। मई 2023 के पश्चात परिस्थितियाँ स्पष्ट रूप से सहज और अनुकूल होने लगती हैं, इसलिए आरंभिक वर्षों का धैर्य अच्छा फल देता है। एक साथ देखें तो ये वर्ष असमान किंतु संभालने योग्य हैं, और बहुत कुछ इस पर निर्भर है कि आप अनुकूल समयों का कैसा उपयोग करते हैं।"
+        },
+        "to": "2026-11-23T11:55:30.000Z"
+      },
+      {
+        "antardashas": [
+          {
+            "from": "2026-11-23T11:55:30.000Z",
+            "grade": -1,
+            "lord": {
+              "id": "rahu",
+              "name": "Rahu",
+              "names": {
+                "en": "Rahu",
+                "hi": "राहु"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "own_bhukti_muted",
+                "source": "LP S.29 (Jha p.35; Verma p.101-102)"
+              }
+            ],
+            "to": "2029-08-05T16:07:30.000Z"
+          },
+          {
+            "from": "2029-08-05T16:07:30.000Z",
+            "grade": 1,
+            "lord": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "maraka_dasha_table",
+                "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+              }
+            ],
+            "to": "2031-12-30T06:31:30.000Z"
+          },
+          {
+            "from": "2031-12-30T06:31:30.000Z",
+            "grade": -3,
+            "lord": {
+              "id": "saturn",
+              "name": "Saturn",
+              "names": {
+                "en": "Saturn",
+                "hi": "शनि"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "maraka_dasha_table",
+                "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+              },
+              {
+                "code": "maraka_care_colouring",
+                "source": "LP S.39; owner 2026-09-29"
+              }
+            ],
+            "to": "2034-11-05T05:37:30.000Z"
+          },
+          {
+            "from": "2034-11-05T05:37:30.000Z",
+            "grade": -3,
+            "lord": {
+              "id": "mercury",
+              "name": "Mercury",
+              "names": {
+                "en": "Mercury",
+                "hi": "बुध"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "maraka_dasha_table",
+                "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+              },
+              {
+                "code": "maraka_care_colouring",
+                "source": "LP S.39; owner 2026-09-29"
+              }
+            ],
+            "to": "2037-05-24T14:55:30.000Z"
+          },
+          {
+            "from": "2037-05-24T14:55:30.000Z",
+            "grade": 0,
+            "lord": {
+              "id": "ketu",
+              "name": "Ketu",
+              "names": {
+                "en": "Ketu",
+                "hi": "केतु"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "maraka_dasha_table",
+                "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+              }
+            ],
+            "to": "2038-06-12T03:13:30.000Z"
+          },
+          {
+            "from": "2038-06-12T03:13:30.000Z",
+            "grade": 1,
+            "lord": {
+              "id": "venus",
+              "name": "Venus",
+              "names": {
+                "en": "Venus",
+                "hi": "शुक्र"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "maraka_dasha_table",
+                "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+              }
+            ],
+            "to": "2041-06-11T21:13:30.000Z"
+          },
+          {
+            "from": "2041-06-11T21:13:30.000Z",
+            "grade": -2,
+            "lord": {
+              "id": "sun",
+              "name": "Sun",
+              "names": {
+                "en": "Sun",
+                "hi": "सूर्य"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "maraka_dasha_table",
+                "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+              },
+              {
+                "code": "maraka_care_colouring",
+                "source": "LP S.39; owner 2026-09-29"
+              }
+            ],
+            "to": "2042-05-06T14:37:30.000Z"
+          },
+          {
+            "from": "2042-05-06T14:37:30.000Z",
+            "grade": 1,
+            "lord": {
+              "id": "moon",
+              "name": "Moon",
+              "names": {
+                "en": "Moon",
+                "hi": "चंद्र"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "maraka_dasha_table",
+                "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+              }
+            ],
+            "to": "2043-11-05T11:37:30.000Z"
+          },
+          {
+            "from": "2043-11-05T11:37:30.000Z",
+            "grade": 1,
+            "lord": {
+              "id": "mars",
+              "name": "Mars",
+              "names": {
+                "en": "Mars",
+                "hi": "मंगल"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "maraka_dasha_table",
+                "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+              }
+            ],
+            "to": "2044-11-22T23:55:30.000Z"
+          }
+        ],
+        "areas": [
+          {
+            "house": 7,
+            "level": "care"
+          },
+          {
+            "house": 8,
+            "level": "care"
+          }
+        ],
+        "current": false,
+        "from": "2026-11-23T11:55:30.000Z",
+        "level": "care",
+        "lord": {
+          "id": "rahu",
+          "name": "Rahu",
+          "names": {
+            "en": "Rahu",
+            "hi": "राहु"
+          }
+        },
+        "text": {
+          "en": "A Rahu period that works against you can feel unsettled and hard to read. Confusion, unrealistic ambitions, misleading people and sudden reversals are the themes to guard against, and anxiety can run higher than the facts justify. Keep advisers trustworthy, paperwork clean and routines simple. These years also teach discernment, which becomes a lasting strength. Married or partnered life may ask for extra patience; making time for each other and listening without blame keeps the bond strong. Handle joint finances, inherited property and others' money with scrupulous care, keeping records clear and agreements in writing. The period opens quietly, and its fuller effects begin to show only after August 2029. The most demanding stretch runs from December 2031 to May 2037; pace yourself and keep commitments modest then. Things tend to ease and improve noticeably after November 2034, so patience in the earlier years is well repaid. Through these years, give your health regular attention and keep a steady, unhurried pace in work and travel. Overall, this period asks for patience and care; a steady routine and modest goals carry you through well.",
+          "hi": "आपके प्रतिकूल चलने वाली राहु दशा अस्थिर और समझने में कठिन लग सकती है। भ्रम, अवास्तविक महत्त्वाकांक्षाएँ, भटकाने वाले लोग और अचानक उलटफेर ऐसे विषय हैं जिनसे सावधान रहना चाहिए, और चिंता तथ्यों से अधिक बढ़ सकती है। परामर्शदाता विश्वसनीय, लिखा-पढ़ी स्वच्छ और दिनचर्या सरल रखें। ये वर्ष विवेक भी सिखाते हैं, जो आगे चलकर स्थायी बल बनता है। दांपत्य या सहजीवन अतिरिक्त धैर्य माँग सकता है; एक-दूसरे के लिए समय निकालना और दोषारोपण के बिना सुनना संबंध को सुदृढ़ रखता है। संयुक्त वित्त, पैतृक संपत्ति और दूसरों के धन को अत्यंत सावधानी से सँभालें, लेखा स्पष्ट रखें और सहमतियाँ लिखित रूप में लें। यह दशा शांत ढंग से आरंभ होती है, और इसके पूर्ण प्रभाव अगस्त 2029 के पश्चात ही प्रकट होने लगते हैं। सबसे अधिक परिश्रम माँगने वाला समय दिसंबर 2031 से मई 2037 तक है; उस समय अपनी गति संतुलित और प्रतिबद्धताएँ सीमित रखें। नवंबर 2034 के पश्चात परिस्थितियाँ स्पष्ट रूप से सहज और अनुकूल होने लगती हैं, इसलिए आरंभिक वर्षों का धैर्य अच्छा फल देता है। इन वर्षों में अपने स्वास्थ्य पर नियमित ध्यान दें और कार्य तथा यात्रा में स्थिर, धैर्यपूर्ण गति बनाए रखें। समग्र रूप से यह दशा धैर्य और सावधानी माँगती है; नियमित दिनचर्या और संयमित लक्ष्य आपको भली-भाँति पार ले जाते हैं।"
+        },
+        "to": "2044-11-22T23:55:30.000Z"
+      },
+      {
+        "antardashas": [
+          {
+            "from": "2044-11-22T23:55:30.000Z",
+            "grade": 1,
+            "lord": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "own_bhukti_muted",
+                "source": "LP S.29 (Jha p.35; Verma p.101-102)"
+              }
+            ],
+            "to": "2047-01-11T04:43:30.000Z"
+          },
+          {
+            "from": "2047-01-11T04:43:30.000Z",
+            "grade": -2,
+            "lord": {
+              "id": "saturn",
+              "name": "Saturn",
+              "names": {
+                "en": "Saturn",
+                "hi": "शनि"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "yk_dasha_unrelated_contrary_mixed",
+                "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+              },
+              {
+                "code": "mixed_bhukti_lord_stronger",
+                "source": "LP S.31 (Jha p.35)"
+              },
+              {
+                "code": "mutual_6_8_12_worsens",
+                "source": "LP S.37 (Verma p.122)"
+              }
+            ],
+            "to": "2049-07-24T11:55:30.000Z"
+          },
+          {
+            "from": "2049-07-24T11:55:30.000Z",
+            "grade": 0,
+            "lord": {
+              "id": "mercury",
+              "name": "Mercury",
+              "names": {
+                "en": "Mercury",
+                "hi": "बुध"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "yk_dasha_unrelated_contrary_mixed",
+                "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+              },
+              {
+                "code": "mixed_equal_strength",
+                "source": "LP S.31 (Jha p.35)"
+              }
+            ],
+            "to": "2051-10-30T09:31:30.000Z"
+          },
+          {
+            "from": "2051-10-30T09:31:30.000Z",
+            "grade": 2,
+            "lord": {
+              "id": "ketu",
+              "name": "Ketu",
+              "names": {
+                "en": "Ketu",
+                "hi": "केतु"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "lone_node_bhukti_yoga",
+                "source": "LP S.36 (Jha p.37)"
+              }
+            ],
+            "to": "2052-10-05T07:07:30.000Z"
+          },
+          {
+            "from": "2052-10-05T07:07:30.000Z",
+            "grade": 3,
+            "lord": {
+              "id": "venus",
+              "name": "Venus",
+              "names": {
+                "en": "Venus",
+                "hi": "शुक्र"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "yk_dasha_yk_bhukti",
+                "source": "LP S.33-34 (Verma p.110)"
+              }
+            ],
+            "to": "2055-06-06T07:07:30.000Z"
+          },
+          {
+            "from": "2055-06-06T07:07:30.000Z",
+            "grade": -1,
+            "lord": {
+              "id": "sun",
+              "name": "Sun",
+              "names": {
+                "en": "Sun",
+                "hi": "सूर्य"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "yk_dasha_unrelated_contrary_mixed",
+                "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+              },
+              {
+                "code": "mixed_bhukti_lord_stronger",
+                "source": "LP S.31 (Jha p.35)"
+              }
+            ],
+            "to": "2056-03-24T11:55:30.000Z"
+          },
+          {
+            "from": "2056-03-24T11:55:30.000Z",
+            "grade": 2,
+            "lord": {
+              "id": "moon",
+              "name": "Moon",
+              "names": {
+                "en": "Moon",
+                "hi": "चंद्र"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "yk_dasha_yk_bhukti",
+                "source": "LP S.33-34 (Verma p.110)"
+              }
+            ],
+            "to": "2057-07-24T11:55:30.000Z"
+          },
+          {
+            "from": "2057-07-24T11:55:30.000Z",
+            "grade": 2,
+            "lord": {
+              "id": "mars",
+              "name": "Mars",
+              "names": {
+                "en": "Mars",
+                "hi": "मंगल"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "yk_dasha_yk_bhukti",
+                "source": "LP S.33-34 (Verma p.110)"
+              }
+            ],
+            "to": "2058-06-30T09:31:30.000Z"
+          },
+          {
+            "from": "2058-06-30T09:31:30.000Z",
+            "grade": -2,
+            "lord": {
+              "id": "rahu",
+              "name": "Rahu",
+              "names": {
+                "en": "Rahu",
+                "hi": "राहु"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "yk_dasha_unrelated_contrary_mixed",
+                "source": "LP S.31 (Jha p.35; Verma p.111, p.114)"
+              },
+              {
+                "code": "mixed_bhukti_lord_stronger",
+                "source": "LP S.31 (Jha p.35)"
+              },
+              {
+                "code": "mutual_6_8_12_worsens",
+                "source": "LP S.37 (Verma p.122)"
+              }
+            ],
+            "to": "2060-11-22T23:55:30.000Z"
+          }
+        ],
+        "areas": [
+          {
+            "house": 12,
+            "level": "mixed"
+          },
+          {
+            "house": 6,
+            "level": "mixed"
+          },
+          {
+            "house": 9,
+            "level": "favourable"
+          }
+        ],
+        "current": false,
+        "from": "2044-11-22T23:55:30.000Z",
+        "level": "mixed",
+        "lord": {
+          "id": "jupiter",
+          "name": "Jupiter",
+          "names": {
+            "en": "Jupiter",
+            "hi": "गुरु"
+          }
+        },
+        "text": {
+          "en": "A Jupiter period of this kind is well-meaning but restrained: its natural kindness is present, yet the results depend on the smaller periods within it and the planets Jupiter is joined with. Learning, family matters, teachers and questions of belief come forward. Advice you give freely may not always be taken; patience and sincerity let the quieter blessings show. Expenses rise alongside income, some for good causes and some unplanned, so a little foresight keeps the balance comfortable. Luck arrives in patches, so doors open after some knocking; faith in your principles carries you through the slower stretches. The period opens quietly, and its fuller effects begin to show only after January 2047. A high point of recognition and rise is likely between October 2052 and June 2055. The most demanding stretch runs from January 2047 to July 2049; pace yourself and keep commitments modest then. Taken together, these years are uneven but workable, and much depends on how you use the better stretches.",
+          "hi": "इस प्रकार की गुरु दशा शुभ-भाव वाली किंतु संयमित होती है: इसकी स्वाभाविक कृपा उपस्थित रहती है, पर परिणाम भीतर की छोटी अवधियों और गुरु से जुड़े ग्रहों पर निर्भर करते हैं। अध्ययन, पारिवारिक विषय, गुरुजन और आस्था के प्रश्न सामने आते हैं। आपकी दी हुई सीख सदा स्वीकार न हो; धैर्य और निष्ठा से शांत आशीर्वाद प्रकट होते हैं। आय के साथ व्यय भी बढ़ता है, कुछ शुभ कार्यों में और कुछ अनियोजित, इसलिए थोड़ी दूरदर्शिता संतुलन को सुखद बनाए रखती है। भाग्य रुक-रुककर साथ देता है, इसलिए द्वार कुछ प्रयास के पश्चात खुलते हैं; अपने सिद्धांतों पर आस्था धीमे चरणों में आपको सँभाले रखती है। यह दशा शांत ढंग से आरंभ होती है, और इसके पूर्ण प्रभाव जनवरी 2047 के पश्चात ही प्रकट होने लगते हैं। अक्टूबर 2052 से जून 2055 के बीच मान-सम्मान और उन्नति का शिखर आने की संभावना है। सबसे अधिक परिश्रम माँगने वाला समय जनवरी 2047 से जुलाई 2049 तक है; उस समय अपनी गति संतुलित और प्रतिबद्धताएँ सीमित रखें। एक साथ देखें तो ये वर्ष असमान किंतु संभालने योग्य हैं, और बहुत कुछ इस पर निर्भर है कि आप अनुकूल समयों का कैसा उपयोग करते हैं।"
+        },
+        "to": "2060-11-22T23:55:30.000Z"
+      },
+      {
+        "antardashas": [
+          {
+            "from": "2060-11-22T23:55:30.000Z",
+            "grade": -1,
+            "lord": {
+              "id": "saturn",
+              "name": "Saturn",
+              "names": {
+                "en": "Saturn",
+                "hi": "शनि"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "own_bhukti_muted",
+                "source": "LP S.29 (Jha p.35; Verma p.101-102)"
+              }
+            ],
+            "to": "2063-11-26T18:58:30.000Z"
+          },
+          {
+            "from": "2063-11-26T18:58:30.000Z",
+            "grade": -3,
+            "lord": {
+              "id": "mercury",
+              "name": "Mercury",
+              "names": {
+                "en": "Mercury",
+                "hi": "बुध"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "maraka_dasha_table",
+                "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+              },
+              {
+                "code": "maraka_care_colouring",
+                "source": "LP S.39; owner 2026-09-29"
+              }
+            ],
+            "to": "2066-08-05T22:07:30.000Z"
+          },
+          {
+            "from": "2066-08-05T22:07:30.000Z",
+            "grade": -2,
+            "lord": {
+              "id": "ketu",
+              "name": "Ketu",
+              "names": {
+                "en": "Ketu",
+                "hi": "केतु"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "maraka_dasha_table",
+                "source": "LP S.39 (Jha p.37-38; Verma p.124-126)"
+              },
+              {
+                "code": "sandwiched_bhukti_follows_neighbours",
+                "source": "Verma p.104, p.111"
+              }
+            ],
+            "to": "2067-09-14T17:46:30.000Z"
+          },
+          {
+            "from": "2067-09-14T17:46:30.000Z",
+            "grade": -2,
+            "lord": {
+              "id": "venus",
+              "name": "Venus",
+              "names": {
+                "en": "Venus",
+                "hi": "शुक्र"
+              }
+            },
+            "phase": null,
+            "reasons": [
+              {
+                "code": "venus_saturn_dasha_lord_results",
+                "source": "LP S.40 (Jha p.38; Verma p.126-129)"
+              }
+            ],
+            "to": "2070-05-14T05:00:00.000Z"
+          }
+        ],
+        "areas": [
+          {
+            "house": 7,
+            "level": "care"
+          },
+          {
+            "house": 8,
+            "level": "care"
+          }
+        ],
+        "current": false,
+        "from": "2060-11-22T23:55:30.000Z",
+        "level": "care",
+        "lord": {
+          "id": "saturn",
+          "name": "Saturn",
+          "names": {
+            "en": "Saturn",
+            "hi": "शनि"
+          }
+        },
+        "text": {
+          "en": "A Saturn period that works against you is a long lesson in patience. Delays, heavier duties, tiredness and a feeling of carrying more than your share are common themes, and the joints and bones deserve care. Yet it is also a period that builds endurance and quiet strength. Simple living, honest work and respect for elders make the load noticeably lighter. Your partner's wellbeing and concerns deserve more attention in this period, and quiet support from you goes a long way. Sudden changes may test you; keeping reserves, backup plans and a calm pace helps you meet surprises without strain. The period opens quietly, and its fuller effects begin to show only after November 2063. The most demanding stretch runs from November 2063 to May 2070; pace yourself and keep commitments modest then. Through these years, give your health regular attention and keep a steady, unhurried pace in work and travel. Overall, this period asks for patience and care; a steady routine and modest goals carry you through well.",
+          "hi": "आपके प्रतिकूल चलने वाली शनि दशा धैर्य का एक लंबा पाठ है। विलंब, भारी कर्तव्य, थकान और अपने भाग से अधिक भार उठाने का अनुभव सामान्य विषय हैं, और जोड़ों तथा हड्डियों की देखभाल उचित है। फिर भी यह सहनशक्ति और शांत बल का निर्माण करने वाला समय है। सरल जीवन, सच्चा परिश्रम और बड़ों का सम्मान इस भार को स्पष्ट रूप से हल्का कर देते हैं। इस दशा में आपके जीवनसाथी के कल्याण और चिंताओं पर अधिक ध्यान देना उचित है, और आपका शांत सहयोग बहुत दूर तक काम आता है। आकस्मिक परिवर्तन आपकी परीक्षा ले सकते हैं; कुछ सुरक्षित संचय, वैकल्पिक योजनाएँ और शांत गति आपको बिना तनाव के अप्रत्याशित स्थितियों का सामना करने देती हैं। यह दशा शांत ढंग से आरंभ होती है, और इसके पूर्ण प्रभाव नवंबर 2063 के पश्चात ही प्रकट होने लगते हैं। सबसे अधिक परिश्रम माँगने वाला समय नवंबर 2063 से मई 2070 तक है; उस समय अपनी गति संतुलित और प्रतिबद्धताएँ सीमित रखें। इन वर्षों में अपने स्वास्थ्य पर नियमित ध्यान दें और कार्य तथा यात्रा में स्थिर, धैर्यपूर्ण गति बनाए रखें। समग्र रूप से यह दशा धैर्य और सावधानी माँगती है; नियमित दिनचर्या और संयमित लक्ष्य आपको भली-भाँति पार ले जाते हैं।"
+        },
+        "to": "2070-05-14T05:00:00.000Z"
+      }
+    ],
+    "disclaimer": {
+      "en": "These predictions are indicative. For a reading of your own chart, consult an astrologer.",
+      "hi": "ये फलादेश सांकेतिक हैं। अपनी कुंडली के व्यक्तिगत विश्लेषण के लिए किसी ज्योतिषी से परामर्श करें।"
+    }
+  },
+  "meta": {
+    "cached": false,
+    "ayanamsa": {
+      "id": "lahiri"
+    },
+    "timezone": {
+      "name": "Asia/Kolkata",
+      "utc_offset": "+05:30",
+      "source": "given"
+    },
+    "engine": "0.10.1",
+    "compute_ms": 3,
+    "language_fallback": [],
+    "credits": 5
+  }
+}

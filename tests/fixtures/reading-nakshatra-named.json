@@ -1,0 +1,34 @@
+{
+  "status": "ok",
+  "data": {
+    "nakshatra": {
+      "entry": {
+        "text": {
+          "en": "Your Moon is in Purva Phalguni, ruled by Venus and presided over by Bhaga, the deity of good fortune and enjoyment. You tend to be charming and affectionate, with a serious core beneath an easygoing surface. This nakshatra also brings comfort, learning, possessions, contentment, warmth in relationships and respect from the learned. You value pleasure and beauty and draw people toward you. The caution is pride and a tendency to want more than you need; a readiness to claim credit can also strain goodwill. Keeping enjoyment in proportion and sharing recognition generously let Purva Phalguni's natural grace and good fortune work for you."
+        }
+      },
+      "nakshatra": {
+        "id": "purva_phalguni",
+        "name": "Purva Phalguni"
+      }
+    },
+    "disclaimer": {
+      "en": "These predictions are indicative. For a reading of your own chart, consult Acharya Amit Verma (https://kaaljyoti.com)."
+    }
+  },
+  "meta": {
+    "cached": true,
+    "ayanamsa": {
+      "id": "lahiri"
+    },
+    "timezone": {
+      "name": null,
+      "utc_offset": "+00:00",
+      "source": "given"
+    },
+    "engine": "0.3.0",
+    "compute_ms": 0,
+    "language_fallback": [],
+    "credits": 5
+  }
+}

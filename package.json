@@ -1,0 +1,11 @@
+{
+  "name": "sdk-php",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "pnpm hooks for the PHP package so the workspace gates cover it",
+  "scripts": {
+    "gen": "node tool/gen.mjs",
+    "gen:check": "node tool/gen.mjs --check"
+  }
+}

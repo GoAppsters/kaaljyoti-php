@@ -1,0 +1,177 @@
+{
+  "status": "ok",
+  "data": {
+    "abhijit_muhurta": { "end": "2026-09-22T12:37:47.347", "start": "2026-09-22T11:49:43.145" },
+    "ascendant": 229.90554116798972,
+    "ascendant_dms": "229°54'19.9\"",
+    "at": "2026-09-22T12:00:00.000",
+    "brahma_muhurta": { "end": "2026-09-22T05:25:13.728", "start": "2026-09-22T04:37:13.728" },
+    "disha_shool": "north",
+    "gulika_kalam": { "end": "2026-09-22T13:43:53.126", "start": "2026-09-22T12:13:45.246" },
+    "karana_ends": "2026-09-22T21:44:03.750",
+    "lagna_sign": {
+      "id": "scorpio",
+      "name": "Scorpio",
+      "names": { "en": "Scorpio", "hi": "वृश्चिक" }
+    },
+    "masa": {
+      "is_adhik": false,
+      "month_index": 5,
+      "month_name": {
+        "id": "bhadrapada",
+        "name": "Bhadrapada",
+        "names": { "en": "Bhadrapada", "hi": "भाद्रपद" }
+      },
+      "samvat_year": 2083,
+      "system": "purnimanta"
+    },
+    "nakshatra_ends": "2026-09-23T09:09:22.500",
+    "panchang": {
+      "amanta_month_index": null,
+      "is_adhik_maasa": null,
+      "karana_index": 21,
+      "karana_name": {
+        "id": "vishti",
+        "name": "Vishti",
+        "names": { "en": "Vishti", "hi": "विष्टि" }
+      },
+      "nakshatra": {
+        "id": "shravana",
+        "name": "Shravana",
+        "names": { "en": "Shravana", "hi": "श्रवण" }
+      },
+      "next_sunrise": null,
+      "pada": 1,
+      "paksha": { "id": "shukla", "name": "Shukla", "names": { "en": "Shukla", "hi": "शुक्ल" } },
+      "samvat_year": null,
+      "sunrise": null,
+      "sunset": null,
+      "tithi_index": 10,
+      "tithi_name": {
+        "id": "ekadashi",
+        "name": "Ekadashi",
+        "names": { "en": "Ekadashi", "hi": "एकादशी" }
+      },
+      "vara": {
+        "id": "mangalavara",
+        "name": "Mangalavara",
+        "names": { "en": "Mangalavara", "hi": "मंगलवार" }
+      },
+      "vara_index": 1,
+      "yoga_index": 5,
+      "yoga_name": {
+        "id": "atiganda",
+        "name": "Atiganda",
+        "names": { "en": "Atiganda", "hi": "अतिगण्ड" }
+      }
+    },
+    "placements": {
+      "aquarius": ["rahu"],
+      "cancer": ["mars", "jupiter"],
+      "capricorn": ["moon"],
+      "leo": ["ketu"],
+      "libra": ["venus"],
+      "pisces": ["saturn"],
+      "virgo": ["sun", "mercury"]
+    },
+    "positions": {
+      "jupiter": {
+        "latitude": 0.5752696070813397,
+        "longitude": 113.74503360082795,
+        "longitude_dms": "113°44'42.1\"",
+        "speed": 0.1902761973783299
+      },
+      "ketu": {
+        "latitude": 0,
+        "longitude": 125.34797371542874,
+        "longitude_dms": "125°20'52.7\"",
+        "speed": 0.027563127248771174
+      },
+      "mars": {
+        "latitude": 0.8685487192501783,
+        "longitude": 92.29520261407296,
+        "longitude_dms": "92°17'42.7\"",
+        "speed": 0.5992120842432671
+      },
+      "mercury": {
+        "latitude": -0.660830657219893,
+        "longitude": 174.15877324495293,
+        "longitude_dms": "174°09'31.6\"",
+        "speed": 1.4856524330611844
+      },
+      "moon": {
+        "latitude": -2.0350422186753394,
+        "longitude": 282.4789686863442,
+        "longitude_dms": "282°28'44.3\"",
+        "speed": 12.206667190989904
+      },
+      "rahu": {
+        "latitude": 0,
+        "longitude": 305.34797371542874,
+        "longitude_dms": "305°20'52.7\"",
+        "speed": 0.027563127248771174
+      },
+      "saturn": {
+        "latitude": -2.7027894897824343,
+        "longitude": 348.01905455496,
+        "longitude_dms": "348°01'08.6\"",
+        "speed": -0.07546338714600608
+      },
+      "sun": {
+        "latitude": -0.000027871028754777674,
+        "longitude": 155.05042808350427,
+        "longitude_dms": "155°03'01.5\"",
+        "speed": 0.97778680711118
+      },
+      "venus": {
+        "latitude": -6.1276380969713555,
+        "longitude": 192.0699992605755,
+        "longitude_dms": "192°04'12.0\"",
+        "speed": 0.37848559567392787
+      }
+    },
+    "rahu_kalam": { "end": "2026-09-22T16:44:08.885", "start": "2026-09-22T15:14:01.005" },
+    "sunrise": "2026-09-22T06:13:13.728",
+    "sunset": "2026-09-22T18:14:16.765",
+    "tithi_ends": "2026-09-22T21:44:03.750",
+    "tithis": [
+      {
+        "ends": "2026-09-22T21:44:09.978",
+        "index": 10,
+        "kshaya": false,
+        "name": {
+          "id": "ekadashi",
+          "name": "Ekadashi",
+          "names": { "en": "Ekadashi", "hi": "एकादशी" }
+        },
+        "paksha": { "id": "shukla", "name": "Shukla", "names": { "en": "Shukla", "hi": "शुक्ल" } },
+        "starts": null,
+        "vriddhi": false
+      },
+      {
+        "ends": "2026-09-23T22:51:13.728",
+        "index": 11,
+        "kshaya": false,
+        "name": {
+          "id": "dwadashi",
+          "name": "Dwadashi",
+          "names": { "en": "Dwadashi", "hi": "द्वादशी" }
+        },
+        "paksha": { "id": "shukla", "name": "Shukla", "names": { "en": "Shukla", "hi": "शुक्ल" } },
+        "starts": "2026-09-22T21:44:09.978",
+        "vriddhi": false
+      }
+    ],
+    "yamaganda": { "end": "2026-09-22T10:43:37.366", "start": "2026-09-22T09:13:29.487" },
+    "yoga_ends": "2026-09-22T16:29:31.875"
+  },
+  "meta": {
+    "cached": false,
+    "ayanamsa": { "id": "lahiri" },
+    "timezone": { "name": "Asia/Kolkata", "utc_offset": "+05:30", "source": "given" },
+    "engine": "0.2.0",
+    "compute_ms": 22,
+    "language_fallback": [],
+    "credits": 1
+  }
+}

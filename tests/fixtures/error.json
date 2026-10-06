@@ -1,0 +1,9 @@
+{
+  "status": "error",
+  "error": {
+    "code": "validation_error",
+    "message": "Invalid input",
+    "docs": "https://kaaljyoti.com/api/docs/errors#validation_error",
+    "field": "options.language"
+  }
+}

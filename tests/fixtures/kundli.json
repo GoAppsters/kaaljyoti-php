@@ -1,0 +1,363 @@
+{
+  "status": "ok",
+  "data": {
+    "ascendant": 99.04672528868119,
+    "ascendant_dms": "99°02'48.2\"",
+    "ayanamsa_id": 1,
+    "ayanamsa_value": 23.72572909103076,
+    "ayanamsa_value_dms": "23°43'32.6\"",
+    "birth": {
+      "datetime_utc": "1990-05-14T05:00:00.000Z",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "longitude_dms": "77°12'32.4\"",
+      "place_name": "New Delhi",
+      "timezone_name": "Asia/Kolkata",
+      "utc_offset_minutes": 330
+    },
+    "house_cusps": [
+      99.04672528868119, 122.64841905816331, 150.1064573948515, 182.04663147859975,
+      216.19751896049314, 249.02822262921865, 279.04672528868116, 302.6484190581633,
+      330.10645739485153, 2.046631478599746, 36.19751896049313, 69.02822262921865
+    ],
+    "house_cusps_dms": [
+      "99°02'48.2\"",
+      "122°38'54.3\"",
+      "150°06'23.2\"",
+      "182°02'47.9\"",
+      "216°11'51.1\"",
+      "249°01'41.6\"",
+      "279°02'48.2\"",
+      "302°38'54.3\"",
+      "330°06'23.2\"",
+      "2°02'47.9\"",
+      "36°11'51.1\"",
+      "69°01'41.6\""
+    ],
+    "houses": {
+      "jupiter": 12,
+      "ketu": 1,
+      "mars": 8,
+      "mercury": 10,
+      "moon": 6,
+      "rahu": 7,
+      "saturn": 7,
+      "sun": 10,
+      "venus": 9
+    },
+    "lagna_sign": { "id": "cancer", "name": "Cancer", "names": { "en": "Cancer", "hi": "कर्क" } },
+    "moon_nakshatra": {
+      "id": "purva_ashadha",
+      "name": "Purva Ashadha",
+      "names": { "en": "Purva Ashadha", "hi": "पूर्वाषाढ़ा" }
+    },
+    "moon_sign": {
+      "id": "sagittarius",
+      "name": "Sagittarius",
+      "names": { "en": "Sagittarius", "hi": "धनु" }
+    },
+    "panchang": {
+      "amanta_month_index": 1,
+      "is_adhik_maasa": false,
+      "karana_index": 38,
+      "karana_name": {
+        "id": "kaulava",
+        "name": "Kaulava",
+        "names": { "en": "Kaulava", "hi": "कौलव" }
+      },
+      "nakshatra": {
+        "id": "purva_ashadha",
+        "name": "Purva Ashadha",
+        "names": { "en": "Purva Ashadha", "hi": "पूर्वाषाढ़ा" }
+      },
+      "next_sunrise": "1990-05-15T05:34:45.449",
+      "pada": 2,
+      "paksha": { "id": "krishna", "name": "Krishna", "names": { "en": "Krishna", "hi": "कृष्ण" } },
+      "samvat_year": 2047,
+      "sunrise": "1990-05-14T05:35:21.427",
+      "sunset": "1990-05-14T18:59:53.381",
+      "tithi_index": 19,
+      "tithi_name": {
+        "id": "panchami",
+        "name": "Panchami",
+        "names": { "en": "Panchami", "hi": "पंचमी" }
+      },
+      "vara": {
+        "id": "somavara",
+        "name": "Somavara",
+        "names": { "en": "Somavara", "hi": "सोमवार" }
+      },
+      "vara_index": 0,
+      "yoga_index": 21,
+      "yoga_name": { "id": "sadhya", "name": "Sadhya", "names": { "en": "Sadhya", "hi": "साध्य" } }
+    },
+    "positions": {
+      "jupiter": {
+        "degrees_in_sign": 15.572689714547408,
+        "degrees_in_sign_dms": "15°34'21.7\"",
+        "is_retrograde": false,
+        "latitude": 0.14079932580400273,
+        "longitude": 75.57268971454741,
+        "longitude_dms": "75°34'21.7\"",
+        "nakshatra": {
+          "id": "ardra",
+          "name": "Ardra",
+          "names": { "en": "Ardra", "hi": "आर्द्रा" }
+        },
+        "pada": 3,
+        "planet": {
+          "id": "jupiter",
+          "name": "Jupiter",
+          "names": { "en": "Jupiter", "hi": "गुरु" }
+        },
+        "sign": { "id": "gemini", "name": "Gemini", "names": { "en": "Gemini", "hi": "मिथुन" } },
+        "speed": 0.1874995968721462
+      },
+      "ketu": {
+        "degrees_in_sign": 16.592172960414928,
+        "degrees_in_sign_dms": "16°35'31.8\"",
+        "is_retrograde": true,
+        "latitude": 0,
+        "longitude": 106.59217296041493,
+        "longitude_dms": "106°35'31.8\"",
+        "nakshatra": {
+          "id": "pushya",
+          "name": "Pushya",
+          "names": { "en": "Pushya", "hi": "पुष्य" }
+        },
+        "pada": 4,
+        "planet": { "id": "ketu", "name": "Ketu", "names": { "en": "Ketu", "hi": "केतु" } },
+        "sign": { "id": "cancer", "name": "Cancer", "names": { "en": "Cancer", "hi": "कर्क" } },
+        "speed": -0.07314015708369584
+      },
+      "mars": {
+        "degrees_in_sign": 23.648463591224072,
+        "degrees_in_sign_dms": "23°38'54.5\"",
+        "is_retrograde": false,
+        "latitude": -1.716512051244129,
+        "longitude": 323.6484635912241,
+        "longitude_dms": "323°38'54.5\"",
+        "nakshatra": {
+          "id": "purva_bhadrapada",
+          "name": "Purva Bhadrapada",
+          "names": { "en": "Purva Bhadrapada", "hi": "पूर्वा भाद्रपद" }
+        },
+        "pada": 2,
+        "planet": { "id": "mars", "name": "Mars", "names": { "en": "Mars", "hi": "मंगल" } },
+        "sign": {
+          "id": "aquarius",
+          "name": "Aquarius",
+          "names": { "en": "Aquarius", "hi": "कुंभ" }
+        },
+        "speed": 0.7431353183449015
+      },
+      "mercury": {
+        "degrees_in_sign": 14.50416023224653,
+        "degrees_in_sign_dms": "14°30'15.0\"",
+        "is_retrograde": true,
+        "latitude": -2.256401683230875,
+        "longitude": 14.50416023224653,
+        "longitude_dms": "14°30'15.0\"",
+        "nakshatra": {
+          "id": "bharani",
+          "name": "Bharani",
+          "names": { "en": "Bharani", "hi": "भरणी" }
+        },
+        "pada": 1,
+        "planet": { "id": "mercury", "name": "Mercury", "names": { "en": "Mercury", "hi": "बुध" } },
+        "sign": { "id": "aries", "name": "Aries", "names": { "en": "Aries", "hi": "मेष" } },
+        "speed": -0.21584238361118438
+      },
+      "moon": {
+        "degrees_in_sign": 17.64720320981263,
+        "degrees_in_sign_dms": "17°38'49.9\"",
+        "is_retrograde": false,
+        "latitude": -2.4406659771661112,
+        "longitude": 257.64720320981263,
+        "longitude_dms": "257°38'49.9\"",
+        "nakshatra": {
+          "id": "purva_ashadha",
+          "name": "Purva Ashadha",
+          "names": { "en": "Purva Ashadha", "hi": "पूर्वाषाढ़ा" }
+        },
+        "pada": 2,
+        "planet": { "id": "moon", "name": "Moon", "names": { "en": "Moon", "hi": "चंद्र" } },
+        "sign": {
+          "id": "sagittarius",
+          "name": "Sagittarius",
+          "names": { "en": "Sagittarius", "hi": "धनु" }
+        },
+        "speed": 12.111288891603703
+      },
+      "rahu": {
+        "degrees_in_sign": 16.592172960414928,
+        "degrees_in_sign_dms": "16°35'31.8\"",
+        "is_retrograde": true,
+        "latitude": 0,
+        "longitude": 286.5921729604149,
+        "longitude_dms": "286°35'31.8\"",
+        "nakshatra": {
+          "id": "shravana",
+          "name": "Shravana",
+          "names": { "en": "Shravana", "hi": "श्रवण" }
+        },
+        "pada": 2,
+        "planet": { "id": "rahu", "name": "Rahu", "names": { "en": "Rahu", "hi": "राहु" } },
+        "sign": {
+          "id": "capricorn",
+          "name": "Capricorn",
+          "names": { "en": "Capricorn", "hi": "मकर" }
+        },
+        "speed": -0.07314015708369584
+      },
+      "saturn": {
+        "degrees_in_sign": 1.5441855341387623,
+        "degrees_in_sign_dms": "1°32'39.1\"",
+        "is_retrograde": true,
+        "latitude": 0.156563157638644,
+        "longitude": 271.54418553413876,
+        "longitude_dms": "271°32'39.1\"",
+        "nakshatra": {
+          "id": "uttara_ashadha",
+          "name": "Uttara Ashadha",
+          "names": { "en": "Uttara Ashadha", "hi": "उत्तराषाढ़ा" }
+        },
+        "pada": 2,
+        "planet": { "id": "saturn", "name": "Saturn", "names": { "en": "Saturn", "hi": "शनि" } },
+        "sign": {
+          "id": "capricorn",
+          "name": "Capricorn",
+          "names": { "en": "Capricorn", "hi": "मकर" }
+        },
+        "speed": -0.01491282088463363
+      },
+      "sun": {
+        "degrees_in_sign": 29.424634691248325,
+        "degrees_in_sign_dms": "29°25'28.7\"",
+        "is_retrograde": false,
+        "latitude": -0.00006176289804985143,
+        "longitude": 29.424634691248325,
+        "longitude_dms": "29°25'28.7\"",
+        "nakshatra": {
+          "id": "krittika",
+          "name": "Krittika",
+          "names": { "en": "Krittika", "hi": "कृत्तिका" }
+        },
+        "pada": 1,
+        "planet": { "id": "sun", "name": "Sun", "names": { "en": "Sun", "hi": "सूर्य" } },
+        "sign": { "id": "aries", "name": "Aries", "names": { "en": "Aries", "hi": "मेष" } },
+        "speed": 0.9646146191980094
+      },
+      "venus": {
+        "degrees_in_sign": 17.620629283466826,
+        "degrees_in_sign_dms": "17°37'14.3\"",
+        "is_retrograde": false,
+        "latitude": -1.756473817722509,
+        "longitude": 347.6206292834668,
+        "longitude_dms": "347°37'14.3\"",
+        "nakshatra": {
+          "id": "revati",
+          "name": "Revati",
+          "names": { "en": "Revati", "hi": "रेवती" }
+        },
+        "pada": 1,
+        "planet": { "id": "venus", "name": "Venus", "names": { "en": "Venus", "hi": "शुक्र" } },
+        "sign": { "id": "pisces", "name": "Pisces", "names": { "en": "Pisces", "hi": "मीन" } },
+        "speed": 1.138437943145686
+      }
+    },
+    "yogas": [
+      {
+        "category": "Chandra",
+        "code": "gaja_kesari",
+        "detail": "Jupiter in kendra 7 from Moon",
+        "name": "Gaja-Kesari Yoga",
+        "participants": [
+          { "id": "jupiter", "name": "Jupiter", "names": { "en": "Jupiter", "hi": "गुरु" } },
+          { "id": "moon", "name": "Moon", "names": { "en": "Moon", "hi": "चंद्र" } }
+        ]
+      },
+      {
+        "category": "Chandra",
+        "code": "sunapha",
+        "detail": "Saturn in 2nd from Moon",
+        "name": "Sunapha Yoga",
+        "participants": [
+          { "id": "moon", "name": "Moon", "names": { "en": "Moon", "hi": "चंद्र" } },
+          { "id": "saturn", "name": "Saturn", "names": { "en": "Saturn", "hi": "शनि" } }
+        ]
+      },
+      {
+        "category": "Other",
+        "code": "vasi",
+        "detail": "Venus in 12th from Sun",
+        "name": "Vasi Yoga",
+        "participants": [
+          { "id": "sun", "name": "Sun", "names": { "en": "Sun", "hi": "सूर्य" } },
+          { "id": "venus", "name": "Venus", "names": { "en": "Venus", "hi": "शुक्र" } }
+        ]
+      },
+      {
+        "category": "Other",
+        "code": "budha_aditya",
+        "detail": "Sun and Mercury conjunct",
+        "name": "Budha-Aditya Yoga",
+        "participants": [
+          { "id": "sun", "name": "Sun", "names": { "en": "Sun", "hi": "सूर्य" } },
+          { "id": "mercury", "name": "Mercury", "names": { "en": "Mercury", "hi": "बुध" } }
+        ]
+      },
+      {
+        "category": "Raj",
+        "code": "raj_yoga",
+        "detail": "Moon (kendra lord) and Jupiter (trikona lord) by mutual aspect",
+        "name": "Raj Yoga",
+        "participants": [
+          { "id": "moon", "name": "Moon", "names": { "en": "Moon", "hi": "चंद्र" } },
+          { "id": "jupiter", "name": "Jupiter", "names": { "en": "Jupiter", "hi": "गुरु" } }
+        ]
+      },
+      {
+        "category": "Raj",
+        "code": "yogakaraka",
+        "detail": "Mars lords houses 10 and 5",
+        "name": "Yogakaraka",
+        "participants": [{ "id": "mars", "name": "Mars", "names": { "en": "Mars", "hi": "मंगल" } }]
+      },
+      {
+        "category": "Vipreet Raj",
+        "code": "harsha",
+        "detail": "Lord of 6 (Jupiter) in house 12",
+        "name": "Harsha Yoga",
+        "participants": [
+          { "id": "jupiter", "name": "Jupiter", "names": { "en": "Jupiter", "hi": "गुरु" } }
+        ]
+      },
+      {
+        "category": "Dosha",
+        "code": "mangal_dosha",
+        "detail": "Mars in house 8 from lagna",
+        "name": "Mangal Dosha",
+        "participants": [{ "id": "mars", "name": "Mars", "names": { "en": "Mars", "hi": "मंगल" } }]
+      },
+      {
+        "category": "Mahapurusha",
+        "code": "shasha",
+        "detail": "Saturn in own sign in kendra",
+        "name": "Shasha Yoga",
+        "participants": [
+          { "id": "saturn", "name": "Saturn", "names": { "en": "Saturn", "hi": "शनि" } }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "cached": false,
+    "ayanamsa": { "id": "lahiri", "value": 23.72572909103076 },
+    "timezone": { "name": "Asia/Kolkata", "utc_offset": "+05:30", "source": "given" },
+    "engine": "0.2.0",
+    "compute_ms": 3,
+    "language_fallback": [],
+    "credits": 1
+  }
+}

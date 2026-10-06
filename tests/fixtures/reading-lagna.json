@@ -1,0 +1,34 @@
+{
+  "status": "ok",
+  "data": {
+    "lagna": {
+      "entry": {
+        "text": {
+          "en": "With Leo rising, the Sun is the lord of your lagna, and the sign is fixed and fiery. You tend to be strong-willed, courageous and firm once you have decided, with a natural dignity that others notice. You prefer to lead rather than follow, and you have the energy to overcome opposition. Open spaces, hills and forests refresh you, and you often share a close bond with your mother. The caution is pride and a temper that flares over small matters; a moment's patience keeps your authority intact. Your close circle may be small but loyal. The eyes and the digestion deserve care."
+        }
+      },
+      "sign": {
+        "id": "leo",
+        "name": "Leo"
+      }
+    },
+    "disclaimer": {
+      "en": "These predictions are indicative. For a reading of your own chart, consult an astrologer."
+    }
+  },
+  "meta": {
+    "cached": true,
+    "ayanamsa": {
+      "id": "lahiri"
+    },
+    "timezone": {
+      "name": null,
+      "utc_offset": "+00:00",
+      "source": "given"
+    },
+    "engine": "0.3.0",
+    "compute_ms": 0,
+    "language_fallback": [],
+    "credits": 5
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "status": "ok",
+  "data": {
+    "abhijit": { "end": "1990-05-14T12:44:26.469", "start": "1990-05-14T11:50:48.338" },
+    "abhijit_applies": true,
+    "chandra_bala": "favorable",
+    "choghadiya": {
+      "day": [
+        {
+          "choghadiya": "amrit",
+          "end": "1990-05-14T07:15:55.421",
+          "good": true,
+          "planet": null,
+          "start": "1990-05-14T05:35:21.427"
+        },
+        {
+          "choghadiya": "kaal",
+          "end": "1990-05-14T08:56:29.415",
+          "good": false,
+          "planet": null,
+          "start": "1990-05-14T07:15:55.421"
+        },
+        {
+          "choghadiya": "shubh",
+          "end": "1990-05-14T10:37:03.409",
+          "good": true,
+          "planet": null,
+          "start": "1990-05-14T08:56:29.415"
+        },
+        {
+          "choghadiya": "rog",
+          "end": "1990-05-14T12:17:37.404",
+          "good": false,
+          "planet": null,
+          "start": "1990-05-14T10:37:03.409"
+        },
+        {
+          "choghadiya": "udveg",
+          "end": "1990-05-14T13:58:11.398",
+          "good": false,
+          "planet": null,
+          "start": "1990-05-14T12:17:37.404"
+        },
+        {
+          "choghadiya": "char",
+          "end": "1990-05-14T15:38:45.392",
+          "good": true,
+          "planet": null,
+          "start": "1990-05-14T13:58:11.398"
+        },
+        {
+          "choghadiya": "labh",
+          "end": "1990-05-14T17:19:19.386",
+          "good": true,
+          "planet": null,
+          "start": "1990-05-14T15:38:45.392"
+        },
+        {
+          "choghadiya": "amrit",
+          "end": "1990-05-14T18:59:53.381",
+          "good": true,
+          "planet": null,
+          "start": "1990-05-14T17:19:19.386"
+        }
+      ],
+      "night": [
+        {
+          "choghadiya": "char",
+          "end": "1990-05-14T20:19:14.913",
+          "good": true,
+          "planet": null,
+          "start": "1990-05-14T18:59:53.381"
+        },
+        {
+          "choghadiya": "rog",
+          "end": "1990-05-14T21:38:36.446",
+          "good": false,
+          "planet": null,
+          "start": "1990-05-14T20:19:14.913"
+        },
+        {
+          "choghadiya": "kaal",
+          "end": "1990-05-14T22:57:57.978",
+          "good": false,
+          "planet": null,
+          "start": "1990-05-14T21:38:36.446"
+        },
+        {
+          "choghadiya": "labh",
+          "end": "1990-05-15T00:17:19.511",
+          "good": true,
+          "planet": null,
+          "start": "1990-05-14T22:57:57.978"
+        },
+        {
+          "choghadiya": "udveg",
+          "end": "1990-05-15T01:36:41.044",
+          "good": false,
+          "planet": null,
+          "start": "1990-05-15T00:17:19.511"
+        },
+        {
+          "choghadiya": "shubh",
+          "end": "1990-05-15T02:56:02.576",
+          "good": true,
+          "planet": null,
+          "start": "1990-05-15T01:36:41.044"
+        },
+        {
+          "choghadiya": "amrit",
+          "end": "1990-05-15T04:15:24.109",
+          "good": true,
+          "planet": null,
+          "start": "1990-05-15T02:56:02.576"
+        },
+        {
+          "choghadiya": "char",
+          "end": "1990-05-15T05:34:45.642",
+          "good": true,
+          "planet": null,
+          "start": "1990-05-15T04:15:24.109"
+        }
+      ]
+    },
+    "day_moon_longitude": 255.17207213751766,
+    "day_moon_longitude_dms": "255°10'19.5\"",
+    "gulika_kaal": { "end": "1990-05-14T15:38:45.392", "start": "1990-05-14T13:58:11.398" },
+    "hora": [
+      {
+        "choghadiya": null,
+        "end": "1990-05-14T06:42:24.089",
+        "good": null,
+        "planet": { "id": "moon", "name": "Moon", "names": { "en": "Moon", "hi": "चंद्र" } },
+        "start": "1990-05-14T05:35:21.427"
+      },
+      {
+        "choghadiya": null,
+        "end": "1990-05-14T07:49:26.752",
+        "good": null,
+        "planet": { "id": "saturn", "name": "Saturn", "names": { "en": "Saturn", "hi": "शनि" } },
+        "start": "1990-05-14T06:42:24.089"
+      },
+      {
+        "choghadiya": null,
+        "end": "1990-05-14T08:56:29.415",
+        "good": null,
+        "planet": {
+          "id": "jupiter",
+          "name": "Jupiter",
+          "names": { "en": "Jupiter", "hi": "गुरु" }
+        },
+        "start": "1990-05-14T07:49:26.752"
+      },
+      {
+        "choghadiya": null,
+        "end": "1990-05-14T10:03:32.078",
+        "good": null,
+        "planet": { "id": "mars", "name": "Mars", "names": { "en": "Mars", "hi": "मंगल" } },
+        "start": "1990-05-14T08:56:29.415"
+      },
+      {
+        "choghadiya": null,
+        "end": "1990-05-14T11:10:34.741",
+        "good": null,
+        "planet": { "id": "sun", "name": "Sun", "names": { "en": "Sun", "hi": "सूर्य" } },
+        "start": "1990-05-14T10:03:32.078"
+      },
+      {
+        "choghadiya": null,
+        "end": "1990-05-14T12:17:37.403",
+        "good": null,
+        "planet": { "id": "venus", "name": "Venus", "names": { "en": "Venus", "hi": "शुक्र" } },
+        "start": "1990-05-14T11:10:34.741"
+      },
+      {
+        "choghadiya": null,
+        "end": "1990-05-14T13:24:40.066",
+        "good": null,
+        "planet": { "id": "mercury", "name": "Mercury", "names": { "en": "Mercury", "hi": "बुध" } },
+        "start": "1990-05-14T12:17:37.403"
+      },
+      {
+        "choghadiya": null,
+        "end": "1990-05-14T14:31:42.729",
+        "good": null,
+        "planet": { "id": "moon", "name": "Moon", "names": { "en": "Moon", "hi": "चंद्र" } },
+        "start": "1990-05-14T13:24:40.066"
+      },
+      {
+        "choghadiya": null,
+        "end": "1990-05-14T15:38:45.392",
+        "good": null,
+        "planet": { "id": "saturn", "name": "Saturn", "names": { "en": "Saturn", "hi": "शनि" } },
+        "start": "1990-05-14T14:31:42.729"
+      },
+      {
+        "choghadiya": null,
+        "end": "1990-05-14T16:45:48.055",
+        "good": null,
+        "planet": {
+          "id": "jupiter",
+          "name": "Jupiter",
+          "names": { "en": "Jupiter", "hi": "गुरु" }
+        },
+        "start": "1990-05-14T15:38:45.392"
+      },
+      {
+        "choghadiya": null,
+        "end": "1990-05-14T17:52:50.718",
+        "good": null,
+        "planet": { "id": "mars", "name": "Mars", "names": { "en": "Mars", "hi": "मंगल" } },
+        "start": "1990-05-14T16:45:48.055"
+      },
+      {
+        "choghadiya": null,
+        "end": "1990-05-14T18:59:53.381",
+        "good": null,
+        "planet": { "id": "sun", "name": "Sun", "names": { "en": "Sun", "hi": "सूर्य" } },
+        "start": "1990-05-14T17:52:50.718"
+      },
+      {
+        "choghadiya": null,
+        "end": "1990-05-14T19:52:47.736",
+        "good": null,
+        "planet": { "id": "venus", "name": "Venus", "names": { "en": "Venus", "hi": "शुक्र" } },
+        "start": "1990-05-14T18:59:53.381"
+      },
+      {
+        "choghadiya": null,
+        "end": "1990-05-14T20:45:42.091",
+        "good": null,
+        "planet": { "id": "mercury", "name": "Mercury", "names": { "en": "Mercury", "hi": "बुध" } },
+        "start": "1990-05-14T19:52:47.736"
+      },
+      {
+        "choghadiya": null,
+        "end": "1990-05-14T21:38:36.446",
+        "good": null,
+        "planet": { "id": "moon", "name": "Moon", "names": { "en": "Moon", "hi": "चंद्र" } },
+        "start": "1990-05-14T20:45:42.091"
+      },
+      {
+        "choghadiya": null,
+        "end": "1990-05-14T22:31:30.801",
+        "good": null,
+        "planet": { "id": "saturn", "name": "Saturn", "names": { "en": "Saturn", "hi": "शनि" } },
+        "start": "1990-05-14T21:38:36.446"
+      },
+      {
+        "choghadiya": null,
+        "end": "1990-05-14T23:24:25.156",
+        "good": null,
+        "planet": {
+          "id": "jupiter",
+          "name": "Jupiter",
+          "names": { "en": "Jupiter", "hi": "गुरु" }
+        },
+        "start": "1990-05-14T22:31:30.801"
+      },
+      {
+        "choghadiya": null,
+        "end": "1990-05-15T00:17:19.511",
+        "good": null,
+        "planet": { "id": "mars", "name": "Mars", "names": { "en": "Mars", "hi": "मंगल" } },
+        "start": "1990-05-14T23:24:25.156"
+      },
+      {
+        "choghadiya": null,
+        "end": "1990-05-15T01:10:13.866",
+        "good": null,
+        "planet": { "id": "sun", "name": "Sun", "names": { "en": "Sun", "hi": "सूर्य" } },
+        "start": "1990-05-15T00:17:19.511"
+      },
+      {
+        "choghadiya": null,
+        "end": "1990-05-15T02:03:08.221",
+        "good": null,
+        "planet": { "id": "venus", "name": "Venus", "names": { "en": "Venus", "hi": "शुक्र" } },
+        "start": "1990-05-15T01:10:13.866"
+      },
+      {
+        "choghadiya": null,
+        "end": "1990-05-15T02:56:02.576",
+        "good": null,
+        "planet": { "id": "mercury", "name": "Mercury", "names": { "en": "Mercury", "hi": "बुध" } },
+        "start": "1990-05-15T02:03:08.221"
+      },
+      {
+        "choghadiya": null,
+        "end": "1990-05-15T03:48:56.931",
+        "good": null,
+        "planet": { "id": "moon", "name": "Moon", "names": { "en": "Moon", "hi": "चंद्र" } },
+        "start": "1990-05-15T02:56:02.576"
+      },
+      {
+        "choghadiya": null,
+        "end": "1990-05-15T04:41:51.286",
+        "good": null,
+        "planet": { "id": "saturn", "name": "Saturn", "names": { "en": "Saturn", "hi": "शनि" } },
+        "start": "1990-05-15T03:48:56.931"
+      },
+      {
+        "choghadiya": null,
+        "end": "1990-05-15T05:34:45.642",
+        "good": null,
+        "planet": {
+          "id": "jupiter",
+          "name": "Jupiter",
+          "names": { "en": "Jupiter", "hi": "गुरु" }
+        },
+        "start": "1990-05-15T04:41:51.286"
+      }
+    ],
+    "next_sunrise": "1990-05-15T05:34:45.642",
+    "rahu_kaal": { "end": "1990-05-14T08:56:29.415", "start": "1990-05-14T07:15:55.421" },
+    "sunrise": "1990-05-14T05:35:21.427",
+    "sunset": "1990-05-14T18:59:53.381",
+    "tara_bala": { "favorable": false, "result": "janma" },
+    "yamaganda": { "end": "1990-05-14T12:17:37.404", "start": "1990-05-14T10:37:03.409" }
+  },
+  "meta": {
+    "cached": false,
+    "ayanamsa": { "id": "lahiri" },
+    "timezone": { "name": "Asia/Kolkata", "utc_offset": "+05:30", "source": "given" },
+    "engine": "0.2.0",
+    "compute_ms": 4,
+    "language_fallback": [],
+    "credits": 1
+  }
+}

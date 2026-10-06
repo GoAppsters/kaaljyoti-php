@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "data": {
+    "nakshatra": {
+      "entry": {
+        "text": {
+          "en": "Your Moon is in Purva Ashadha, ruled by Venus and presided over by the Waters. You tend to be protective and fortunate, the kind of person others turn to for shelter and support. You are also popular and sensible, with a benefactor's nature. You are sociable, enjoy the company of friends and family, and often show a talent for organising and for business. The caution is that caring for everyone who leans on you can stretch your energy and resources thin, and a frugal streak may sometimes keep you from enjoying what you have earned. Balancing generosity toward others with care for yourself keeps Purva Ashadha's buoyancy strong.",
+          "hi": "आपका चंद्रमा पूर्वाषाढ़ा नक्षत्र में है, जिसका स्वामी शुक्र है और अधिष्ठाता देवता जल (आपः) हैं। आप स्वभाव से संरक्षक और भाग्यशाली होते हैं; लोग आश्रय और सहायता के लिए आपकी ओर देखते हैं। साथ ही आप लोकप्रिय, विवेकी और शरणागत के उपकारी होते हैं। आप मिलनसार हैं, मित्रों और परिवार के साथ का आनंद लेते हैं, और प्रायः संगठन तथा व्यवसाय में आपकी प्रतिभा दिखती है। सावधानी यह है कि आप पर निर्भर सभी की देखभाल आपकी ऊर्जा और साधनों को क्षीण कर सकती है, और मितव्ययिता कभी-कभी आपको अपने अर्जित सुख का आनंद लेने से रोक सकती है। दूसरों के प्रति उदारता और स्वयं की देखभाल में संतुलन पूर्वाषाढ़ा की उत्साहपूर्ण शक्ति को बनाए रखता है।"
+        }
+      },
+      "nakshatra": {
+        "id": "purva_ashadha",
+        "name": "Purva Ashadha",
+        "names": {
+          "en": "Purva Ashadha",
+          "hi": "पूर्वाषाढ़ा"
+        }
+      }
+    },
+    "disclaimer": {
+      "en": "These predictions are indicative. For a reading of your own chart, consult an astrologer.",
+      "hi": "ये फलादेश सांकेतिक हैं। अपनी कुंडली के व्यक्तिगत विश्लेषण के लिए किसी ज्योतिषी से परामर्श करें।"
+    }
+  },
+  "meta": {
+    "cached": false,
+    "ayanamsa": {
+      "id": "lahiri"
+    },
+    "timezone": {
+      "name": "Asia/Kolkata",
+      "utc_offset": "+05:30",
+      "source": "given"
+    },
+    "engine": "0.3.0",
+    "compute_ms": 0,
+    "language_fallback": [],
+    "credits": 5
+  }
+}
