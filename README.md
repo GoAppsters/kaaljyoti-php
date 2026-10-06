@@ -18,16 +18,6 @@ bundled.
 composer require kaaljyoti/sdk
 ```
 
-The Packagist listing arrives with the first tag; until then it is a VCS
-repository in your `composer.json`:
-
-```json
-{
-  "repositories": [{ "type": "vcs", "url": "https://github.com/goappsters/kaaljyoti-php.git" }],
-  "require": { "kaaljyoti/sdk": "dev-main" }
-}
-```
-
 `examples/quickstart.php` is the quick start below, runnable, and
 `CHANGELOG.md` records what each version changed.
 
