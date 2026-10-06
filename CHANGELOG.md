@@ -1,28 +1,16 @@
-## Unreleased
-
-- **Changed:** the API bills in credits, not calls. `Meta::$credits` (an `int`, on every metered answer) replaces `Meta::$calls`, `BatchMeta::$credits` replaces `BatchMeta::$calls`, `PlacesMeta` gains `$credits`, and `PdfFile::$credits` (from `X-KJ-Credits`) replaces `PdfFile::$calls` (from `X-KJ-Calls`). There is no `calls` alias. A calculation costs 1 credit, a written reading 5, a scan across time 10 or 20, a match batch 1 per pair, the kundli report 5 per part, a kundli PDF 1,000 and the other PDFs 500; time zone and reference tables are free. See [Credits per API](https://kaaljyoti.com/api/docs/credits).
-- `Result::$credits` (`X-KJ-Credits`: what the request cost, also on an SVG or a PDF, which have no `meta`) and `Result::$creditsRemaining` (`X-KJ-Credits-Remaining`: what is left of the month and the credit packs). Both are `?int`; the API sends the second to secret keys only, so it is always `null` on a publishable key.
-- **Changed:** no plan gates a method any more. The personal reports, `panchang->month()`, `ephemeris->month()`, `transit->scan()` and `match->batch()` answer on every plan; `$kj->pdf` answers on every paid plan (not Free), with a monthly PDF cap of Starter 50, Growth 200, Scale 500 and Enterprise 2,500. `branding` in a PDF body is still Enterprise only.
-- `$kj->transit->events()` (`POST /v1/transit/events`, 20 credits): the sign ingresses and stations of a year, the same for everyone — a `TransitEventsRequest` (a `year`, or `from` and `to`), answering a `TransitEventsDocument` of `TransitEvent`s.
-- `$kj->reference('credits')`: the price list in force, a `{route, credits, per?}` row per metered route; `$kj->reference('transit-events')` names the event kinds.
-- Models regenerated from the API's OpenAPI document 0.15.1.
-- **Changed:** `house_system` now only on the kundli PDF request. The API answers `400` to `options.house_system` on every other route, so `CalculationOptions` no longer has `$houseSystem`; `PdfKundliRequest::$options` is a `PdfKundliOptions` — `CalculationOptions`' properties plus `$houseSystem`, the bhava chalit the PDF prints (default `placidus`). Passing a `CalculationOptions` to `PdfKundliRequest` is now a `TypeError`. `HouseSystem` stays, listing the values `PdfKundliOptions::$houseSystem` accepts (`whole_sign`, `placidus`, `porphyry`, `equal`, `sripati`, `kp`).
-- `Ayanamsa` (the 47 slugs `options.ayanamsa` accepts) and `Varga` (`D1` … `D60`, the 16 ids `KundliChartRequest::$varga` and `$vargas` accept) are generated beside `ChartStyle` and `HouseSystem`, each with `VALUES`. The properties stay `string`, so a slug from a form still goes in as it is. `DashaRequest::$levels` is an `int` from 1 to 5, as before.
-- **Changed:** `ChalitDocument`'s four systems, `EphemerisMonthDocument::$nirayan` / `$sayan` and the `d1` … `d60` properties of `VargasDocumentLagna` / `VargasDocumentPlacements` are nullable: the API leaves out the ones a narrowed request (`system`, `vargas`) did not ask for.
-- Models regenerated from the API's OpenAPI document 0.14.2 with a description on every request field.
-- `$kj->pdf` (API 0.14): printable PDFs — `->kundli()`, `->match()`, `->varshphal()` and `->panchangMonth()` take a `PdfKundliRequest`, `PdfMatchRequest`, `PdfVarshphalRequest` or `PdfPanchangMonthRequest` (sharing one `PdfBranding`) and answer a `Result<PdfFile, null>`: `PdfFile` holds the file's `bytes` (the raw string, never decoded as text), `contentType`, the `filename` from `Content-Disposition` and the `calls` it cost from `X-KJ-Calls`; `cached` says the 24-hour cache answered. Scale and Enterprise plans, 10 calls each; a failure throws the usual `KaaljyotiException`. `Transport::ACCEPT_PDF` and `Transport::filenameOf()` are the transport's side of it.
-- `KundliChartRequest::$firstHouse` rotates the chart (`lagna`, a graha, or `house_2` … `house_12`); `ChartDocument` gains `firstHouse`, `firstHouseSign` and `title`.
-- **Changed:** `HealthDocument::$ephemeris` replaces the engine's old ephemeris-version field.
-- The API's new error code `pdf_quota_exceeded` (402), when the month's PDF allowance is used up.
-- Models regenerated from the API's OpenAPI document 0.14.2.
-- `$kj->reports->kundli()` (`POST /v1/reports/kundli`, Growth plan and above): several personal reports for one birth in one request — a `ReportKundliRequest` with optional `parts` and `year`, answering a `KundliReportDocument` of the parts asked for; priced one call per part (`Meta::$calls`). Every `YogaReading` now carries its `name` (`LocalizedText`).
-- The personal reports (Growth plan and above; a smaller plan throws `KaaljyotiException` with `code()` `plan_required`), from the API's OpenAPI document 0.10.1: `$kj->reports->grahas()` (`ReadingGrahasDocument`, nine `GrahaReading`s), `->yogas()` (`ReadingYogasDocument`, a `YogaReading` per yoga), `->vimshottari()` (`VimshottariReadingDocument`, a `MahadashaReading` per mahadasha, `current` marking the running one) and `->lifeAreas()` (`LifeAreasDocument`, eleven `LifeArea`s) take a `KundliRequest`; `->varshphal()` (`VarshphalReadingDocument`: a summary, seven areas and the year's `VarshphalPeriod`s) takes a `VarshphalRequest`. One call each.
-- **Changed:** `$kj->horoscope()` answers a `HoroscopeDocument` — a `ReadingSummary` and five `AreaSummary`s (work, money, relationships, health, education), each with a `level` of `favourable`, `mixed` or `care` — with the transits behind it in `basis` (`HoroscopeTransit`). `TransitForecastDocument`, `HoroscopeSegment`, `HoroscopeEntry` and `HoroscopeAreas` are gone with the per-graha shape.
-- Models regenerated from the API's OpenAPI document 0.10.1.
-- `$kj->reports->houseLords()` (`POST /v1/reports/house-lords`): for each of the twelve houses of a birth, the sign on it, its lord, the house the lord sits in and a reading — a `ReadingHouseLordsDocument` of `HouseLord`s in house order. Takes a `KundliRequest`; one call. From the API's OpenAPI document 0.5.0.
-- The report routes, from the API's OpenAPI document 0.5.0: `$kj->reports->lagna()` and `$kj->reports->nakshatra()` (a written reading, from a birth or a picked sign or nakshatra), `$kj->horoscope()` (the period ahead for a sign, one segment per sign each graha is in) and `$kj->places()` (place search for a birth form).
-- `CalculationOptions::$disclaimer` on every request: `'default'`, `'off'`, or a `Disclaimer` naming the astrologer the readings send the reader to.
+# Changelog
 
 ## 0.1.0
 
-- First release: every `/v1` operation, typed requests and documents generated from the API's OpenAPI document (0.2.0), retries, `KaaljyotiException`, wall-clock helpers, a cURL client and a PSR-18 adapter.
+First release.
+
+- One method per endpoint of the Kaal Jyoti API — kundli, panchang, dasha, vargas, KP, Jaimini,
+  varshphal, transits, matching, horoscopes, written readings and printable PDFs — with every
+  request and response typed from the API's OpenAPI document 0.15.2.
+- What each request cost, in credits (`meta->credits`, `$result->credits`), and what is left of the
+  month for a secret key (`$result->creditsRemaining`).
+- Retries a `429` after its `Retry-After`, an engine error and a network failure, and never a
+  request the API would refuse again; one error type, `KaaljyotiException`, carrying the API's error
+  `code`.
+- Wall-clock times kept as the API sends them: never moved into the caller's time zone.
+- PHP 8.2+, no runtime dependencies; HTTP through `ext-curl` or any PSR-18 client.
