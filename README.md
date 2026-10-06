@@ -23,7 +23,7 @@ repository in your `composer.json`:
 
 ```json
 {
-  "repositories": [{ "type": "vcs", "url": "https://github.com/amitverm/kaaljyoti-php.git" }],
+  "repositories": [{ "type": "vcs", "url": "https://github.com/goappsters/kaaljyoti-php.git" }],
   "require": { "kaaljyoti/sdk": "dev-main" }
 }
 ```
@@ -807,4 +807,4 @@ Generated from OpenAPI document version **0.15.2**
 disagree.
 
 MIT licensed. Issues and pull requests:
-[kaaljyoti-integrations](https://github.com/amitverm/kaaljyoti-integrations).
+[kaaljyoti-integrations](https://github.com/goappsters/kaaljyoti-integrations).
