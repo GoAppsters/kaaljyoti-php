@@ -563,7 +563,7 @@ final class TransportTest extends TestCase
         // not wrapped in an envelope and carries no meta.
         $http = new RecordingHttpClient(RecordingHttpClient::json(
             200,
-            '{"status":"ok","engine":"0.14.2","ephemeris":"kaaljyoti-ephemeris 0.1.1","ops":42,"uptime_s":900}',
+            '{"status":"ok","engine":"0.14.2","ephemeris":"kaaljyoti-ephemeris 0.1.1","ops":42,"supported_range":{"first_date":"1550-04-01","last_date":"2400-12-31","first_year":1551,"last_year":2399},"uptime_s":900}',
         ));
 
         $answer = self::transport($http)->get(Transport::HEALTH_PATH, [], self::raw(), null);

@@ -28,7 +28,7 @@ final readonly class Birth
     /**
      * @param string $datetime The local clock time at the birth place, as a birth certificate gives it: not UTC and not
      *     your server's zone. `YYYY-MM-DDTHH:MM:SS`, optionally with `.sss`, with no offset or `Z`, e.g.
-     *     `1990-05-14T10:30:00`. Year 1800 to 2400.
+     *     `1990-05-14T10:30:00`. From 1550-04-01 to 2400-12-31.
      * @param float $latitude Latitude in decimal degrees, north positive, from -89.9 to 89.9, e.g. `28.6139`.
      * @param float $longitude Longitude in decimal degrees, east positive, from -180 to 180, e.g. `77.209`.
      * @param string|null $timezone IANA time zone name, e.g. `Asia/Kolkata`. The offset in force there at that date is

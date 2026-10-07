@@ -19,11 +19,17 @@ use Kaaljyoti\Generated\Json;
  */
 final readonly class HealthDocument
 {
+    /**
+     * @param HealthDocumentSupportedRange $supportedRange The dates the API answers for, from its ephemeris data:
+     *     calendar dates at the place, whole months; `first_year`/`last_year` bound the whole-year fields (a Varshphal
+     *     `year`). A date outside is a 400.
+     */
     public function __construct(
         public string $status,
         public string $engine,
         public string $ephemeris,
         public int $ops,
+        public HealthDocumentSupportedRange $supportedRange,
         public int $uptimeS,
     ) {
     }
@@ -38,6 +44,7 @@ final readonly class HealthDocument
             engine: Json::string($data['engine'] ?? null),
             ephemeris: Json::string($data['ephemeris'] ?? null),
             ops: Json::int($data['ops'] ?? null),
+            supportedRange: HealthDocumentSupportedRange::fromArray(Json::object($data['supported_range'] ?? null)),
             uptimeS: Json::int($data['uptime_s'] ?? null),
         );
     }
@@ -54,6 +61,7 @@ final readonly class HealthDocument
         $out['engine'] = $this->engine;
         $out['ephemeris'] = $this->ephemeris;
         $out['ops'] = $this->ops;
+        $out['supported_range'] = $this->supportedRange->toArray();
         $out['uptime_s'] = $this->uptimeS;
 
         return $out;

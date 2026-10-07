@@ -1,5 +1,12 @@
 # Changelog
 
+## Unreleased
+
+- Generated from the API's OpenAPI document 0.16.0. `health()` carries `supported_range`
+  (`first_date`, `last_date`, `first_year`, `last_year`): the dates the API answers for, from its
+  ephemeris data. Dates now run from 1 April 1550 to 31 December 2400 (whole years 1551–2399); a
+  date outside is refused with a message naming the range.
+
 ## 0.1.0
 
 First release.

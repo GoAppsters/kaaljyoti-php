@@ -34,7 +34,7 @@ final readonly class PanchangRequest
      * @param CalculationOptions|null $options Settings for the calculation and the answer: ayanamsa, language,
      *     disclaimer. Every field has a default, so `options` may be left out.
      * @param string|null $date The calendar date at the place, `YYYY-MM-DD`, e.g. `2026-09-16`. Default: today there
-     *     (and an answer without `date` is never cached). Year 1800 to 2400.
+     *     (and an answer without `date` is never cached). From 1550-04-01 to 2400-12-31.
      */
     public function __construct(
         public float $latitude,

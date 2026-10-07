@@ -16,7 +16,7 @@ use Kaaljyoti\Generated\Json;
 use Kaaljyoti\Generated\LabelledId;
 
 /**
- * The document the `chart` op of the Kaal Jyoti engine 0.15.2 returns, inferred from real responses by
+ * The document the `chart` op of the Kaal Jyoti engine 0.16.0 returns, inferred from real responses by
  * harness/gen_response_schemas.py. Regenerated on every engine tag.
  *
  * Wire shape: `#/components/schemas/ChartDocument`.

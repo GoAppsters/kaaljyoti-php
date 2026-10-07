@@ -15,7 +15,7 @@ namespace Kaaljyoti\Models;
 use Kaaljyoti\Generated\Json;
 
 /**
- * The document the `reading` op of the Kaal Jyoti engine 0.15.2 returns, inferred from real responses by
+ * The document the `reading` op of the Kaal Jyoti engine 0.16.0 returns, inferred from real responses by
  * harness/gen_response_schemas.py. Regenerated on every engine tag.
  *
  * Wire shape: `#/components/schemas/ReadingGrahasDocument`.

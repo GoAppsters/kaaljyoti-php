@@ -23,7 +23,7 @@ final readonly class PdfVarshphalRequest
      * @param Birth $birth The birth: the local clock time at the birth place, its coordinates and, optionally, its zone
      *     (`timezone` or `utc_offset`, not both).
      * @param int $year The year, e.g. `2026`, required: the annual chart runs from that year's birthday to the next.
-     *     Not before the birth year; at most 2400.
+     *     Not before the birth year; at most 2399.
      * @param CalculationOptions|null $options Settings for the calculation and the answer: ayanamsa, language,
      *     disclaimer. Every field has a default, so `options` may be left out.
      * @param string|null $template The look: `classic` (serif type, a framed cover), `modern` (sans type, accent

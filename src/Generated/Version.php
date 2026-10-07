@@ -25,5 +25,5 @@ final class Version
     public const SDK = '0.1.0';
 
     /** The `info.version` of the OpenAPI snapshot these models were built from. */
-    public const OPENAPI = '0.15.2';
+    public const OPENAPI = '0.16.0';
 }

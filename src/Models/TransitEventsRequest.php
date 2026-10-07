@@ -21,7 +21,7 @@ final readonly class TransitEventsRequest
 {
     /**
      * @param int|null $year A calendar year, e.g. `2026`: from local midnight on 1 January to local midnight on the
-     *     next, in the zone below. Year 1800 to 2400. Give this or `from` and `to`, not both.
+     *     next, in the zone below. Year 1551 to 2399. Give this or `from` and `to`, not both.
      * @param string|null $from Start of the window instead of `year`: a UTC instant, `YYYY-MM-DDTHH:MM:SS` (optionally
      *     `.sss`), `Z` optional, e.g. `2026-01-01T00:00:00Z`. With `to`.
      * @param string|null $to End of the window: a UTC instant, `YYYY-MM-DDTHH:MM:SS` (optionally `.sss`), `Z` optional,

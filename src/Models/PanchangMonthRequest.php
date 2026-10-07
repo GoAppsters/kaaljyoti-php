@@ -22,8 +22,8 @@ final readonly class PanchangMonthRequest
     /**
      * @param float $latitude Latitude in decimal degrees, north positive, from -89.9 to 89.9, e.g. `28.6139`.
      * @param float $longitude Longitude in decimal degrees, east positive, from -180 to 180, e.g. `77.209`.
-     * @param string $month The calendar month, `YYYY-MM`, e.g. `2026-10`; every date of it is answered. Year 1800 to
-     *     2400.
+     * @param string $month The calendar month, `YYYY-MM`, e.g. `2026-10`; every date of it is answered. From 1550-04 to
+     *     2400-12.
      * @param string|null $timezone IANA time zone name, e.g. `Asia/Kolkata`. The offset in force there at that date is
      *     used, so daylight saving and historical changes (India's +06:30 war time) are handled. Give this or
      *     `utc_offset`, not both. With neither, the zone is worked out from `latitude` and `longitude`, and

@@ -500,7 +500,7 @@ final class ModelsTest extends TestCase
     public function testTheGeneratedConstantsPinBothVersions(): void
     {
         self::assertMatchesRegularExpression('/^\d+\.\d+\.\d+/', Version::SDK);
-        self::assertSame('0.15.2', Version::OPENAPI);
+        self::assertSame('0.16.0', Version::OPENAPI);
     }
 
     public function testTheGeneratedConstantsSpellTheEnumsTheSchemaLists(): void

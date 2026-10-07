@@ -29,7 +29,7 @@ final readonly class ReportKundliRequest
      *     `varshphal`. Default: all eight. The report is priced per part.
      * @param int|null $year The Varshphal's year, e.g. `2026`: the year from that year's birthday to the next. Default:
      *     the Varshphal year running today (last year's until this year's birthday). Not before the birth year; at most
-     *     2400.
+     *     2399.
      */
     public function __construct(
         public Birth $birth,

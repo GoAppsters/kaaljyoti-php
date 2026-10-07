@@ -22,7 +22,7 @@ final readonly class VikramSamvatRequest
     /**
      * @param string $datetime The local clock time at the place, `YYYY-MM-DDTHH:MM:SS`, optionally with `.sss`, with no
      *     offset or `Z`, e.g. `2026-03-19T06:00:00`. The time matters: the masa depends on the Moon's phase at that
-     *     moment. Year 1800 to 2400.
+     *     moment. From 1550-04-01 to 2400-12-31.
      * @param float $latitude Latitude in decimal degrees, north positive, from -89.9 to 89.9, e.g. `28.6139`.
      * @param float $longitude Longitude in decimal degrees, east positive, from -180 to 180, e.g. `77.209`.
      * @param string|null $timezone IANA time zone name, e.g. `Asia/Kolkata`. The offset in force there at that date is
