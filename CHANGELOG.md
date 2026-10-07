@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.1.1
 
 - Generated from the API's OpenAPI document 0.16.0. `health()` carries `supported_range`
   (`first_date`, `last_date`, `first_year`, `last_year`): the dates the API answers for, from its
