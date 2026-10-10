@@ -21,8 +21,8 @@ use Kaaljyoti\Generated\LabelledId;
 final readonly class ReadingNakshatra
 {
     public function __construct(
-        public ReadingEntry $entry,
         public LabelledId $nakshatra,
+        public ?ReadingEntry $entry = null,
     ) {
     }
 
@@ -31,9 +31,11 @@ final readonly class ReadingNakshatra
      */
     public static function fromArray(array $data): self
     {
+        $entryRaw = $data['entry'] ?? null;
+
         return new self(
-            entry: ReadingEntry::fromArray(Json::object($data['entry'] ?? null)),
             nakshatra: LabelledId::fromArray(Json::object($data['nakshatra'] ?? null)),
+            entry: $entryRaw === null ? null : ReadingEntry::fromArray(Json::object($entryRaw)),
         );
     }
 
@@ -45,8 +47,10 @@ final readonly class ReadingNakshatra
     public function toArray(): array
     {
         $out = [];
-        $out['entry'] = $this->entry->toArray();
         $out['nakshatra'] = $this->nakshatra->toArray();
+        if ($this->entry !== null) {
+            $out['entry'] = $this->entry->toArray();
+        }
 
         return $out;
     }

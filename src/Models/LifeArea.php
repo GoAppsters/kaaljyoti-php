@@ -20,16 +20,14 @@ use Kaaljyoti\Generated\Json;
 final readonly class LifeArea
 {
     /**
-     * @param list<LifeAreaPeriod> $periods
-     * @param LocalizedText $text One piece of text, keyed by language: one entry for each language in
-     *     `options.language`, in that order (`{"hi": "…"}` or `{"en": "…", "hi": "…"}`).
+     * @param list<YogaReadingPeriodsItem> $periods
      */
     public function __construct(
         public string $area,
         public LifeAreaBasis $basis,
         public string $level,
         public array $periods,
-        public LocalizedText $text,
+        public ?LocalizedText $text = null,
     ) {
     }
 
@@ -38,15 +36,17 @@ final readonly class LifeArea
      */
     public static function fromArray(array $data): self
     {
+        $textRaw = $data['text'] ?? null;
+
         return new self(
             area: Json::string($data['area'] ?? null),
             basis: LifeAreaBasis::fromArray(Json::object($data['basis'] ?? null)),
             level: Json::string($data['level'] ?? null),
             periods: array_map(
-                static fn (mixed $v): LifeAreaPeriod => LifeAreaPeriod::fromArray(Json::object($v)),
+                static fn (mixed $v): YogaReadingPeriodsItem => YogaReadingPeriodsItem::fromArray(Json::object($v)),
                 Json::list($data['periods'] ?? null),
             ),
-            text: LocalizedText::fromArray(Json::object($data['text'] ?? null)),
+            text: $textRaw === null ? null : LocalizedText::fromArray(Json::object($textRaw)),
         );
     }
 
@@ -61,8 +61,10 @@ final readonly class LifeArea
         $out['area'] = $this->area;
         $out['basis'] = $this->basis->toArray();
         $out['level'] = $this->level;
-        $out['periods'] = array_map(static fn (LifeAreaPeriod $v): array => $v->toArray(), $this->periods);
-        $out['text'] = $this->text->toArray();
+        $out['periods'] = array_map(static fn (YogaReadingPeriodsItem $v): array => $v->toArray(), $this->periods);
+        if ($this->text !== null) {
+            $out['text'] = $this->text->toArray();
+        }
 
         return $out;
     }

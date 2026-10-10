@@ -41,6 +41,7 @@ final readonly class LifeAreaBasis
         public array $reasons,
         public float $relative,
         public float $score,
+        public LifeAreaBasisVarga $varga,
         public array $yogas,
         public ?string $pressure = null,
         public ?string $support = null,
@@ -79,6 +80,7 @@ final readonly class LifeAreaBasis
             ),
             relative: Json::float($data['relative'] ?? null),
             score: Json::float($data['score'] ?? null),
+            varga: LifeAreaBasisVarga::fromArray(Json::object($data['varga'] ?? null)),
             yogas: array_map(static fn (mixed $v): string => Json::string($v), Json::list($data['yogas'] ?? null)),
             pressure: Json::stringOrNull($data['pressure'] ?? null),
             support: Json::stringOrNull($data['support'] ?? null),
@@ -107,6 +109,7 @@ final readonly class LifeAreaBasis
         $out['reasons'] = array_map(static fn (LifeAreaBasisReasonsItem $v): array => $v->toArray(), $this->reasons);
         $out['relative'] = $this->relative;
         $out['score'] = $this->score;
+        $out['varga'] = $this->varga->toArray();
         $out['yogas'] = $this->yogas;
         if ($this->pressure !== null) {
             $out['pressure'] = $this->pressure;

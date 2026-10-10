@@ -25,6 +25,7 @@ final readonly class VimshottariReadingDocumentBasisSwitchesFunctional
         public string $kendradhipatiClass,
         public string $ktRelation,
         public string $lagnaEighth,
+        public string $lagnaKendra,
         public bool $luminariesMaraka,
         public string $luminaryEighth,
         public string $mercuryAlone,
@@ -33,6 +34,8 @@ final readonly class VimshottariReadingDocumentBasisSwitchesFunctional
         public bool $nodeSameKindYk,
         public string $nodeWithEighth,
         public string $primeMaraka,
+        public bool $raoLuminaryMarakaLow,
+        public bool $raoMarakaList,
         public string $trikonaEighth,
         public string $trikonaSixth,
         public string $unlistedPairs,
@@ -51,6 +54,7 @@ final readonly class VimshottariReadingDocumentBasisSwitchesFunctional
             kendradhipatiClass: Json::string($data['kendradhipati_class'] ?? null),
             ktRelation: Json::string($data['kt_relation'] ?? null),
             lagnaEighth: Json::string($data['lagna_eighth'] ?? null),
+            lagnaKendra: Json::string($data['lagna_kendra'] ?? null),
             luminariesMaraka: Json::bool($data['luminaries_maraka'] ?? null),
             luminaryEighth: Json::string($data['luminary_eighth'] ?? null),
             mercuryAlone: Json::string($data['mercury_alone'] ?? null),
@@ -59,6 +63,8 @@ final readonly class VimshottariReadingDocumentBasisSwitchesFunctional
             nodeSameKindYk: Json::bool($data['node_same_kind_yk'] ?? null),
             nodeWithEighth: Json::string($data['node_with_eighth'] ?? null),
             primeMaraka: Json::string($data['prime_maraka'] ?? null),
+            raoLuminaryMarakaLow: Json::bool($data['rao_luminary_maraka_low'] ?? null),
+            raoMarakaList: Json::bool($data['rao_maraka_list'] ?? null),
             trikonaEighth: Json::string($data['trikona_eighth'] ?? null),
             trikonaSixth: Json::string($data['trikona_sixth'] ?? null),
             unlistedPairs: Json::string($data['unlisted_pairs'] ?? null),
@@ -79,6 +85,7 @@ final readonly class VimshottariReadingDocumentBasisSwitchesFunctional
         $out['kendradhipati_class'] = $this->kendradhipatiClass;
         $out['kt_relation'] = $this->ktRelation;
         $out['lagna_eighth'] = $this->lagnaEighth;
+        $out['lagna_kendra'] = $this->lagnaKendra;
         $out['luminaries_maraka'] = $this->luminariesMaraka;
         $out['luminary_eighth'] = $this->luminaryEighth;
         $out['mercury_alone'] = $this->mercuryAlone;
@@ -87,6 +94,8 @@ final readonly class VimshottariReadingDocumentBasisSwitchesFunctional
         $out['node_same_kind_yk'] = $this->nodeSameKindYk;
         $out['node_with_eighth'] = $this->nodeWithEighth;
         $out['prime_maraka'] = $this->primeMaraka;
+        $out['rao_luminary_maraka_low'] = $this->raoLuminaryMarakaLow;
+        $out['rao_maraka_list'] = $this->raoMarakaList;
         $out['trikona_eighth'] = $this->trikonaEighth;
         $out['trikona_sixth'] = $this->trikonaSixth;
         $out['unlisted_pairs'] = $this->unlistedPairs;

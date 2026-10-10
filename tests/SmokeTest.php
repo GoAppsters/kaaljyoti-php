@@ -209,7 +209,7 @@ final class SmokeTest extends TestCase
         ));
 
         self::assertSame('leo', $answer->data->lagna?->sign->id);
-        self::assertNotEmpty($answer->data->lagna?->entry->text->en);
+        self::assertNotEmpty($answer->data->lagna?->entry?->text->en);
         self::assertNull($answer->data->disclaimer, '"off" leaves the disclaimer out');
     }
 
@@ -223,7 +223,7 @@ final class SmokeTest extends TestCase
         $lords = $answer->data->houseLords ?? [];
         self::assertSame(range(1, 12), array_map(static fn ($lord): int => $lord->house, $lords));
         self::assertSame('cancer', $lords[0]->sign->id);
-        self::assertNotEmpty($lords[0]->entry->text->hi);
+        self::assertNotEmpty($lords[0]->entry?->text->hi);
     }
 
     public function testAPlaceSearchAnswersWithTheZoneABirthNeeds(): void

@@ -21,9 +21,11 @@ final readonly class KundliReportVimshottariBasis
 {
     /**
      * @param array<string, KundliReportVimshottariBasisFunctionalValue> $functional
+     * @param list<string> $healthGrahas
      */
     public function __construct(
         public array $functional,
+        public array $healthGrahas,
         public VimshottariReadingDocumentBasisSwitches $switches,
     ) {
     }
@@ -40,6 +42,10 @@ final readonly class KundliReportVimshottariBasis
 
         return new self(
             functional: $functional,
+            healthGrahas: array_map(
+                static fn (mixed $v): string => Json::string($v),
+                Json::list($data['health_grahas'] ?? null),
+            ),
             switches: VimshottariReadingDocumentBasisSwitches::fromArray(Json::object($data['switches'] ?? null)),
         );
     }
@@ -56,6 +62,7 @@ final readonly class KundliReportVimshottariBasis
             static fn (KundliReportVimshottariBasisFunctionalValue $v): array => $v->toArray(),
             $this->functional,
         );
+        $out['health_grahas'] = $this->healthGrahas;
         $out['switches'] = $this->switches->toArray();
 
         return $out;

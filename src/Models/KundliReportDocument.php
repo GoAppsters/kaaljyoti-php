@@ -26,6 +26,8 @@ final readonly class KundliReportDocument
      * @param list<string> $parts
      * @param list<KundliReportGraha>|null $grahas
      * @param list<KundliReportHouseLord>|null $houseLords
+     * @param list<KundliReportDocumentInDepthItem>|null $inDepth
+     * @param list<KundliReportDocumentInDepthItemGrahasItem>|null $nature
      * @param list<YogaReading>|null $yogas
      * @param LocalizedText|null $disclaimer The closing line: "these predictions are indicative…", naming the
      *     astrologer in `options.disclaimer` when one is given. Absent when `options.disclaimer` is `"off"`.
@@ -34,9 +36,12 @@ final readonly class KundliReportDocument
         public array $parts,
         public ?array $grahas = null,
         public ?array $houseLords = null,
+        public ?array $inDepth = null,
         public ?ReadingLagna $lagna = null,
         public ?KundliReportLifeAreas $lifeAreas = null,
         public ?ReadingNakshatra $nakshatra = null,
+        public ?array $nature = null,
+        public ?KundliReportDocumentNowNext $nowNext = null,
         public ?KundliReportVarshphal $varshphal = null,
         public ?KundliReportVimshottari $vimshottari = null,
         public ?array $yogas = null,
@@ -51,9 +56,12 @@ final readonly class KundliReportDocument
     {
         $grahasRaw = $data['grahas'] ?? null;
         $houseLordsRaw = $data['house_lords'] ?? null;
+        $inDepthRaw = $data['in_depth'] ?? null;
         $lagnaRaw = $data['lagna'] ?? null;
         $lifeAreasRaw = $data['life_areas'] ?? null;
         $nakshatraRaw = $data['nakshatra'] ?? null;
+        $natureRaw = $data['nature'] ?? null;
+        $nowNextRaw = $data['now_next'] ?? null;
         $varshphalRaw = $data['varshphal'] ?? null;
         $vimshottariRaw = $data['vimshottari'] ?? null;
         $yogasRaw = $data['yogas'] ?? null;
@@ -69,9 +77,20 @@ final readonly class KundliReportDocument
                 static fn (mixed $v): KundliReportHouseLord => KundliReportHouseLord::fromArray(Json::object($v)),
                 Json::list($houseLordsRaw),
             ),
+            inDepth: $inDepthRaw === null ? null : array_map(
+                static fn (mixed $v): KundliReportDocumentInDepthItem
+                    => KundliReportDocumentInDepthItem::fromArray(Json::object($v)),
+                Json::list($inDepthRaw),
+            ),
             lagna: $lagnaRaw === null ? null : ReadingLagna::fromArray(Json::object($lagnaRaw)),
             lifeAreas: $lifeAreasRaw === null ? null : KundliReportLifeAreas::fromArray(Json::object($lifeAreasRaw)),
             nakshatra: $nakshatraRaw === null ? null : ReadingNakshatra::fromArray(Json::object($nakshatraRaw)),
+            nature: $natureRaw === null ? null : array_map(
+                static fn (mixed $v): KundliReportDocumentInDepthItemGrahasItem
+                    => KundliReportDocumentInDepthItemGrahasItem::fromArray(Json::object($v)),
+                Json::list($natureRaw),
+            ),
+            nowNext: $nowNextRaw === null ? null : KundliReportDocumentNowNext::fromArray(Json::object($nowNextRaw)),
             varshphal: $varshphalRaw === null ? null : KundliReportVarshphal::fromArray(Json::object($varshphalRaw)),
             vimshottari: $vimshottariRaw === null ? null : KundliReportVimshottari::fromArray(Json::object($vimshottariRaw)),
             yogas: $yogasRaw === null ? null : array_map(
@@ -100,6 +119,12 @@ final readonly class KundliReportDocument
                 $this->houseLords,
             );
         }
+        if ($this->inDepth !== null) {
+            $out['in_depth'] = array_map(
+                static fn (KundliReportDocumentInDepthItem $v): array => $v->toArray(),
+                $this->inDepth,
+            );
+        }
         if ($this->lagna !== null) {
             $out['lagna'] = $this->lagna->toArray();
         }
@@ -108,6 +133,15 @@ final readonly class KundliReportDocument
         }
         if ($this->nakshatra !== null) {
             $out['nakshatra'] = $this->nakshatra->toArray();
+        }
+        if ($this->nature !== null) {
+            $out['nature'] = array_map(
+                static fn (KundliReportDocumentInDepthItemGrahasItem $v): array => $v->toArray(),
+                $this->nature,
+            );
+        }
+        if ($this->nowNext !== null) {
+            $out['now_next'] = $this->nowNext->toArray();
         }
         if ($this->varshphal !== null) {
             $out['varshphal'] = $this->varshphal->toArray();

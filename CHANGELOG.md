@@ -1,5 +1,21 @@
 # Changelog
 
+## 0.1.2
+
+- Generated from the API's OpenAPI document for engine 0.17.0.
+- Kundli PDF: `edition` takes `life`, the Life Report written for the person it is about, beside
+  `basic` and `professional`; `sections` takes `nature`, `sarvashtakavarga`, `in_depth` and
+  `now_next`.
+- Varshphal PDF: `edition`, `life` (the default) or `professional` (adds the astrologer's tables).
+- Kundli report: three more parts, `nature`, `in_depth` and `now_next`. Without `parts` the report
+  now holds all eleven (55 credits).
+- The written readings carry the engine's new fields: the Varshphal's monthly readings, best and
+  hard days and sub-periods, a `note` on its summary, the yogas' periods. The Vimshottari reading
+  reads every mahadasha that begins before age 80 to its own end.
+- Python, Dart and PHP: the horoscope's summary types are now `ReadingSummary2` (its `summary`) and
+  `AreaSummary2` (its `areas`); `ReadingSummary` and `AreaSummary` now name the Varshphal's. Code
+  that names the horoscope's types needs the new names. TypeScript is unaffected.
+
 ## 0.1.1
 
 - Generated from the API's OpenAPI document 0.16.0. `health()` carries `supported_range`

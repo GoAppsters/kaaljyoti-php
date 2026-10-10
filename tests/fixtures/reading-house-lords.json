@@ -5,38 +5,12 @@
       {
         "entry": {
           "text": {
-            "en": "Your lagna lord in the 9th, the house of fortune and dharma, is one of the most supportive placements. You tend to be lucky in the long run, liked by people, devotional and articulate, with a respect for teachers and principles. Family, children and resources generally come together well. Long journeys and higher learning broaden you. The only caution is to let faith stay open-minded rather than rigid, so that your good name keeps growing.",
-            "hi": "लग्न का स्वामी भाग्य और धर्म के नवम भाव में होना अत्यंत सहायक योग है। आप प्रायः दीर्घकाल में भाग्यशाली, लोकप्रिय, भक्तिभाव से युक्त और वाक्पटु होते हैं, तथा गुरुजनों और सिद्धांतों के प्रति आदर रखते हैं। परिवार, संतान और साधन सामान्यतः भली-भाँति जुड़ते हैं। दूर की यात्राएँ और उच्च शिक्षा आपके दृष्टिकोण को विस्तृत करती हैं। एकमात्र सावधानी यह है कि आस्था उदार बनी रहे, कठोर न हो, जिससे आपकी प्रतिष्ठा निरंतर बढ़ती रहे।"
+            "en": "Your lagna lord in the 6th places you in the arena of work, service and competition. You tend to carry a fighting spirit and do well where effort, discipline and problem-solving are needed. Physical ease may not come automatically, so routine, exercise and sensible diet repay you well. Opponents or rivals can appear, especially if the lord is under strain; meeting them with preparation rather than confrontation usually brings you out ahead.",
+            "hi": "लग्न का स्वामी षष्ठ भाव में होने से आपका जीवन कर्म, सेवा और प्रतिस्पर्धा के क्षेत्र में केंद्रित रहता है। आपमें संघर्ष की भावना रहती है और जहाँ परिश्रम, अनुशासन और समस्याओं का समाधान चाहिए, वहाँ आप अच्छा करते हैं। शारीरिक सुख सहज रूप से नहीं मिलता, इसलिए नियमित दिनचर्या, व्यायाम और संतुलित आहार आपको अच्छा प्रतिफल देते हैं। प्रतिद्वंद्वी या विरोधी सामने आ सकते हैं, विशेषकर यदि स्वामी पीड़ित हो; टकराव के स्थान पर तैयारी से उनका सामना करना प्रायः आपको आगे रखता है।"
           }
         },
         "house": 1,
-        "in_house": 9,
-        "lord": {
-          "id": "mercury",
-          "name": "Mercury",
-          "names": {
-            "en": "Mercury",
-            "hi": "बुध"
-          }
-        },
-        "sign": {
-          "id": "gemini",
-          "name": "Gemini",
-          "names": {
-            "en": "Gemini",
-            "hi": "मिथुन"
-          }
-        }
-      },
-      {
-        "entry": {
-          "text": {
-            "en": "With the lord of wealth in the 5th, money and intelligence support each other. You tend to earn through knowledge, advice, teaching, creative work or well-judged planning, and your family resources grow with thought rather than luck alone. Children are often capable and earning-minded themselves. The caution is speculative impulse: the 5th also rules chance, so you do best when you weigh an idea carefully before risking savings on it.",
-            "hi": "धन भाव का स्वामी पंचम भाव में होने से धन और बुद्धि एक-दूसरे का पोषण करते हैं। आप प्रायः ज्ञान, परामर्श, अध्यापन, सृजनात्मक कार्य या सुविचारित योजना से धन अर्जित करते हैं, और परिवार की संपदा केवल भाग्य से नहीं, विवेक से बढ़ती है। संतान भी प्रायः योग्य और अर्जन के प्रति सजग होती है। सावधानी सट्टे जैसी आवेगपूर्ण प्रवृत्ति को लेकर है: पंचम भाव संयोग का भी है, इसलिए बचत को दाँव पर लगाने से पहले विचार को भली-भाँति परखना आपके लिए श्रेष्ठ रहता है।"
-          }
-        },
-        "house": 2,
-        "in_house": 5,
+        "in_house": 6,
         "lord": {
           "id": "moon",
           "name": "Moon",
@@ -57,11 +31,11 @@
       {
         "entry": {
           "text": {
-            "en": "With the lord of the 3rd in the 10th, courage turns directly into career. You tend to build status and wealth through your own initiative, and professions involving communication, media, sales, travel or technical skill suit you. Authorities and relatives tend to trust you. Comforts come as a result of effort. The caution lies in the company you keep: choosing associates with care protects the reputation you work hard to earn.",
-            "hi": "तृतीय भाव का स्वामी दशम भाव में होने से साहस सीधे कर्मक्षेत्र में रूपांतरित होता है। आप प्रायः अपनी पहल से पद और धन बनाते हैं, और संचार, प्रसार माध्यम, विक्रय, यात्रा या तकनीकी कौशल से जुड़े व्यवसाय आपके अनुकूल हैं। अधिकारी और संबंधी आप पर विश्वास करते हैं। सुख-सुविधाएँ प्रयास के फलस्वरूप आती हैं। सावधानी संगति को लेकर है: साथियों का चयन सावधानी से करना उस प्रतिष्ठा की रक्षा करता है जिसे आप परिश्रम से अर्जित करते हैं।"
+            "en": "With the lord of the 2nd in the 10th, career and wealth reinforce each other. You tend to earn through profession, public position or work connected with government and authority, and you are respected for learning and bearing. Desire for pleasure and comfort is marked. Joy from children may be modest or delayed, and family time can be crowded out by work, so deliberately protecting it matters.",
+            "hi": "द्वितीय भाव का स्वामी दशम भाव में होने से कर्मक्षेत्र और धन एक-दूसरे को सुदृढ़ करते हैं। आप प्रायः व्यवसाय, सार्वजनिक पद या शासन और अधिकारी वर्ग से जुड़े कार्य से धन अर्जित करते हैं, और अपनी विद्या तथा आचरण के लिए सम्मान पाते हैं। भोग और सुख-सुविधा की इच्छा स्पष्ट रहती है। संतान-सुख सीमित या विलंबित हो सकता है, और कार्य की व्यस्तता पारिवारिक समय को घटा सकती है, इसलिए उसे सजग रूप से सुरक्षित रखना महत्त्वपूर्ण है।"
           }
         },
-        "house": 3,
+        "house": 2,
         "in_house": 10,
         "lord": {
           "id": "sun",
@@ -83,12 +57,12 @@
       {
         "entry": {
           "text": {
-            "en": "With the lord of the 4th in the 9th, home is blessed by fortune and faith. You tend to be widely liked, devout and virtuous, and to enjoy many kinds of happiness, including a pleasant house, vehicles and learning in several fields. Your residence may be near a place of worship, or your home may carry a spiritual atmosphere. You may live apart from your father for a time; staying in touch keeps that bond warm.",
-            "hi": "चतुर्थ भाव का स्वामी नवम भाव में होने से घर पर भाग्य और आस्था की कृपा रहती है। आप प्रायः सर्वप्रिय, धर्मनिष्ठ और सद्गुणी होते हैं, और सुखद घर, वाहन तथा अनेक विषयों की विद्या सहित अनेक प्रकार के सुख भोगते हैं। आपका निवास किसी उपासना-स्थल के निकट हो सकता है, या घर में आध्यात्मिक वातावरण रह सकता है। कुछ समय आप पिता से दूर रह सकते हैं; निरंतर संपर्क उस संबंध को स्नेहपूर्ण बनाए रखता है।"
+            "en": "With the lord of the 3rd in the 10th, courage turns directly into career. You tend to build status and wealth through your own initiative, and professions involving communication, media, sales, travel or technical skill suit you. Authorities and relatives tend to trust you. Comforts come as a result of effort. The caution lies in the company you keep: choosing associates with care protects the reputation you work hard to earn.",
+            "hi": "तृतीय भाव का स्वामी दशम भाव में होने से साहस सीधे कर्मक्षेत्र में रूपांतरित होता है। आप प्रायः अपनी पहल से पद और धन बनाते हैं, और संचार, प्रसार माध्यम, विक्रय, यात्रा या तकनीकी कौशल से जुड़े व्यवसाय आपके अनुकूल हैं। अधिकारी और संबंधी आप पर विश्वास करते हैं। सुख-सुविधाएँ प्रयास के फलस्वरूप आती हैं। सावधानी संगति को लेकर है: साथियों का चयन सावधानी से करना उस प्रतिष्ठा की रक्षा करता है जिसे आप परिश्रम से अर्जित करते हैं।"
           }
         },
-        "house": 4,
-        "in_house": 9,
+        "house": 3,
+        "in_house": 10,
         "lord": {
           "id": "mercury",
           "name": "Mercury",
@@ -109,12 +83,12 @@
       {
         "entry": {
           "text": {
-            "en": "Your 5th lord in the 8th house turns intelligence inward, toward research, hidden subjects, astrology or anything that needs digging beneath the surface. You tend to have a probing, intuitive mind. Matters of children may unfold slowly or need extra care, and a quick temper or sharp tongue can cloud your contentment. The chest and breathing deserve care. Patience, measured speech and a disciplined practice of study or meditation bring out the depth of this placement.",
-            "hi": "पंचम भाव का स्वामी अष्टम भाव में होने से बुद्धि अंतर्मुखी होकर अनुसंधान, गूढ़ विषयों, ज्योतिष या सतह के नीचे छिपी बातों की खोज में लगती है। आपका मन खोजी और अंतर्ज्ञानी होता है। संतान से जुड़े विषय धीरे-धीरे आगे बढ़ सकते हैं या अतिरिक्त देखभाल माँग सकते हैं, और शीघ्र क्रोध या कटु वाणी आपके संतोष को धुँधला कर सकती है। छाती और श्वसन का ध्यान रखें। धैर्य, संयमित वाणी और अध्ययन या ध्यान का नियमित अभ्यास इस स्थिति की गहराई को प्रकट करते हैं।"
+            "en": "With the lord of the 4th in the 9th, home is blessed by fortune and faith. You tend to be widely liked, devout and virtuous, and to enjoy many kinds of happiness, including a pleasant house, vehicles and learning in several fields. Your residence may be near a place of worship, or your home may carry a spiritual atmosphere. You may live apart from your father for a time; staying in touch keeps that bond warm.",
+            "hi": "चतुर्थ भाव का स्वामी नवम भाव में होने से घर पर भाग्य और आस्था की कृपा रहती है। आप प्रायः सर्वप्रिय, धर्मनिष्ठ और सद्गुणी होते हैं, और सुखद घर, वाहन तथा अनेक विषयों की विद्या सहित अनेक प्रकार के सुख भोगते हैं। आपका निवास किसी उपासना-स्थल के निकट हो सकता है, या घर में आध्यात्मिक वातावरण रह सकता है। कुछ समय आप पिता से दूर रह सकते हैं; निरंतर संपर्क उस संबंध को स्नेहपूर्ण बनाए रखता है।"
           }
         },
-        "house": 5,
-        "in_house": 8,
+        "house": 4,
+        "in_house": 9,
         "lord": {
           "id": "venus",
           "name": "Venus",
@@ -135,12 +109,12 @@
       {
         "entry": {
           "text": {
-            "en": "Your 6th lord in the 11th house turns effort and competition into gains. You tend to be courageous, honourable and able to profit even from rivals, contests or difficult clients, and service-based or health-related work can pay well. Ambitions may be fulfilled only after hurdles, and friendships or ties with elder siblings can turn competitive. Matters of children may ask for patience. Keeping gains fair and not keeping score with friends protects this strength.",
-            "hi": "षष्ठ भाव का स्वामी एकादश भाव में होने से परिश्रम और प्रतिस्पर्धा लाभ में बदलते हैं। आप साहसी और सम्माननीय होते हैं, तथा प्रतिद्वंद्वियों, प्रतियोगिताओं या कठिन ग्राहकों से भी लाभ उठा सकते हैं; सेवा या स्वास्थ्य से जुड़े कार्य अच्छी आय दे सकते हैं। इच्छाएँ बाधाओं के पश्चात पूरी हो सकती हैं, और मित्रता या बड़े भाई-बहनों से संबंध प्रतिस्पर्धी हो सकते हैं। संतान के विषय में धैर्य की आवश्यकता हो सकती है। लाभ को न्यायपूर्ण रखना और मित्रता में तुलना न करना इस बल की रक्षा करता है।"
+            "en": "Your 5th lord in the 8th house turns intelligence inward, toward research, hidden subjects, astrology or anything that needs digging beneath the surface. You tend to have a probing, intuitive mind. Matters of children may unfold slowly or need extra care, and a quick temper or sharp tongue can cloud your contentment. The chest and breathing deserve care. Patience, measured speech and a disciplined practice of study or meditation bring out the depth of this placement.",
+            "hi": "पंचम भाव का स्वामी अष्टम भाव में होने से बुद्धि अंतर्मुखी होकर अनुसंधान, गूढ़ विषयों, ज्योतिष या सतह के नीचे छिपी बातों की खोज में लगती है। आपका मन खोजी और अंतर्ज्ञानी होता है। संतान से जुड़े विषय धीरे-धीरे आगे बढ़ सकते हैं या अतिरिक्त देखभाल माँग सकते हैं, और शीघ्र क्रोध या कटु वाणी आपके संतोष को धुँधला कर सकती है। छाती और श्वसन का ध्यान रखें। धैर्य, संयमित वाणी और अध्ययन या ध्यान का नियमित अभ्यास इस स्थिति की गहराई को प्रकट करते हैं।"
           }
         },
-        "house": 6,
-        "in_house": 11,
+        "house": 5,
+        "in_house": 8,
         "lord": {
           "id": "mars",
           "name": "Mars",
@@ -161,12 +135,12 @@
       {
         "entry": {
           "text": {
-            "en": "Your 7th lord in the 10th house ties partnership to career and public life. You tend to be principled, prosperous and blessed with family, and business partnerships or a spouse can advance your professional standing. Your partner is likely to have strong career ambitions of their own, so balancing two sets of goals takes negotiation. Keep relations with authorities and superiors cordial, and share credit generously with those you work alongside.",
-            "hi": "सप्तम भाव का स्वामी दशम भाव में होने से साझेदारी का संबंध कार्यक्षेत्र और सार्वजनिक जीवन से जुड़ता है। आप सिद्धांतनिष्ठ, समृद्ध और पारिवारिक सुख से युक्त होते हैं, और व्यापारिक साझेदारी या जीवनसाथी आपकी व्यावसायिक प्रतिष्ठा को आगे बढ़ा सकते हैं। आपके साथी की अपनी भी प्रबल महत्त्वाकांक्षाएँ होने की संभावना है, अतः दो लक्ष्यों में संतुलन के लिए परस्पर बातचीत आवश्यक है। अधिकारियों और वरिष्ठों से संबंध सौहार्दपूर्ण रखें, और साथ काम करने वालों को उदारता से श्रेय दें।"
+            "en": "Your 6th lord in the 12th house is one of the placements where a lord of difficulty, sitting in the house of loss, loses much of its power to harm; it can form a yoga that loosens the hold of opponents and debts. Rivals often fade and problems resolve quietly. The caution lies in spending, since travel, indulgence or careless habits can drain resources. Kindness toward animals, respect for the learned and a simple, disciplined life bring out its protective side.",
+            "hi": "षष्ठ भाव का स्वामी द्वादश भाव में उन स्थितियों में है जहाँ कठिनाई का स्वामी व्यय के भाव में बैठकर हानि पहुँचाने की अपनी शक्ति बहुत कुछ खो देता है; यह ऐसा योग बना सकता है जो विरोधियों और ऋण की पकड़ ढीली करता है। प्रतिद्वंद्वी प्रायः स्वयं पीछे हट जाते हैं और समस्याएँ चुपचाप सुलझ जाती हैं। सावधानी व्यय में है, क्योंकि यात्रा, भोग-विलास या असावधान जीवनशैली संसाधनों को घटा सकती है। पशुओं के प्रति करुणा, विद्वानों का आदर और सरल, अनुशासित जीवन इसके रक्षक पक्ष को प्रकट करते हैं।"
           }
         },
-        "house": 7,
-        "in_house": 10,
+        "house": 6,
+        "in_house": 12,
         "lord": {
           "id": "jupiter",
           "name": "Jupiter",
@@ -187,12 +161,12 @@
       {
         "entry": {
           "text": {
-            "en": "Your 8th lord in the 6th house is a placement where the lord of sudden change sits in the house of struggle, and the two difficulties tend to cancel, forming a protective yoga. You tend to defeat opponents, outlast competition and handle debts or disputes shrewdly. Health routines deserve consistent attention, and care near water and in wild places is sensible, particularly in childhood. Disciplined work, service and steady self-care let this yoga show its strength.",
-            "hi": "अष्टम भाव का स्वामी षष्ठ भाव में होने से आकस्मिक परिवर्तन का स्वामी संघर्ष के भाव में बैठता है, और दोनों कठिनाइयाँ एक-दूसरे को काटकर रक्षक योग बना सकती हैं। आप विरोधियों को परास्त करते हैं, प्रतिस्पर्धा में टिके रहते हैं और ऋण या विवाद को चतुराई से सँभालते हैं। स्वास्थ्य की दिनचर्या पर निरंतर ध्यान दें, और जल के निकट तथा वन्य स्थानों में, विशेषकर बाल्यकाल में, सावधानी उचित है। अनुशासित कार्य, सेवा और नियमित आत्म-देखभाल इस योग का बल प्रकट करते हैं।"
+            "en": "Your 7th lord in its own house gives strength to marriage and partnerships. You tend to find real happiness with your spouse, and you are courageous, capable and wise in dealing with the public. Business partnerships and trade generally prosper, and your dignity draws respect. Because you rely so much on the partnership, give your partner room to grow as well. Regular rest keeps your energy even when commitments pile up.",
+            "hi": "सप्तम भाव का स्वामी अपने ही भाव में होने से विवाह और साझेदारी को बल मिलता है। आपको जीवनसाथी के साथ सच्चा सुख मिलने की प्रवृत्ति रहती है, और आप जनसामान्य से व्यवहार में साहसी, सक्षम और विवेकी होते हैं। व्यापारिक साझेदारियाँ और वाणिज्य सामान्यतः फलते हैं, और आपकी गरिमा आदर दिलाती है। चूँकि आप साझेदारी पर बहुत निर्भर रहते हैं, अपने साथी को भी विकसित होने का अवसर दें। दायित्व बढ़ने पर भी नियमित विश्राम आपकी ऊर्जा को संतुलित रखता है।"
           }
         },
-        "house": 8,
-        "in_house": 6,
+        "house": 7,
+        "in_house": 7,
         "lord": {
           "id": "saturn",
           "name": "Saturn",
@@ -213,12 +187,12 @@
       {
         "entry": {
           "text": {
-            "en": "Here fortune is earned through service, discipline and the patient handling of problems rather than handed over easily. You may do well in healing, law, service or problem-solving, where obstacles become your training ground. Luck often feels delayed, and competitors or relatives on your mother's side can ask for tact. The more you rely on method and fair dealing, the more support gathers behind your effort.",
-            "hi": "यहाँ भाग्य सहज रूप से नहीं मिलता, वह सेवा, अनुशासन और समस्याओं के धैर्यपूर्ण समाधान से अर्जित होता है। चिकित्सा, विधि, सेवा या समस्या-समाधान से जुड़े क्षेत्रों में आप अच्छा कर सकते हैं, जहाँ बाधाएँ ही आपकी पाठशाला बनती हैं। भाग्य प्रायः विलंब से फल देता है, और प्रतिस्पर्धी या मामा-पक्ष के संबंधी विवेकपूर्ण व्यवहार माँगते हैं। आप जितना नियम और न्यायपूर्ण आचरण पर टिकते हैं, उतना ही आपके प्रयास को सहारा मिलता है।"
+            "en": "With the 8th lord in your 7th house, marriage and partnerships carry an element of intensity and change. A spouse may bring depth, hidden resources or a taste for research, yet the relationship can pass through testing phases that ask both of you to grow. Business partnerships need thorough checks, as sudden reversals in trade are possible. The digestion deserves care. Choosing a partner slowly and recommitting in hard seasons build a partnership that lasts.",
+            "hi": "अष्टम भाव का स्वामी सप्तम भाव में होने से विवाह और साझेदारी में तीव्रता और परिवर्तन का तत्त्व रहता है। जीवनसाथी गहराई, छिपे संसाधन या अनुसंधान की रुचि ला सकता है, फिर भी संबंध ऐसे परीक्षणकारी चरणों से होकर जा सकता है जिनमें दोनों को विकसित होना पड़ता है। व्यापारिक साझेदारियों की पूर्ण जाँच करें, क्योंकि व्यापार में सहसा उलटफेर संभव है। पाचन का ध्यान रखें। साथी का चयन धैर्य से करना और कठिन समय में संकल्प को नया करना स्थायी साझेदारी बनाते हैं।"
           }
         },
-        "house": 9,
-        "in_house": 6,
+        "house": 8,
+        "in_house": 7,
         "lord": {
           "id": "saturn",
           "name": "Saturn",
@@ -239,12 +213,12 @@
       {
         "entry": {
           "text": {
-            "en": "The career lord in its own house gives firm command over your working life. You are inclined to be capable in many kinds of work, courageous, truthful and respectful of elders and teachers, and you speak with authority. Success tends to come through your own name and standards. Work can absorb everything, so leave room for family and rest, lest achievement become your only language.",
-            "hi": "कर्मेश का अपने ही भाव में होना कार्यक्षेत्र पर सुदृढ़ अधिकार देता है। आप अनेक प्रकार के कार्यों में सक्षम, साहसी, सत्यवादी और गुरुजनों के प्रति आदरशील होते हैं, और अधिकारपूर्ण ढंग से अपनी बात रखते हैं। सफलता प्रायः आपके अपने नाम और मानकों से आती है। कार्य सब कुछ न निगल ले, इसलिए परिवार और विश्राम के लिए स्थान रखें, जिससे उपलब्धि ही आपकी एकमात्र भाषा न बन जाए।"
+            "en": "Your good fortune tends to flow outward, into generosity, hospitality, pilgrimage or life in distant places. Recognition may come more readily abroad or away from your birthplace, and spiritual practice can become a quiet source of strength. Giving and entertaining can outrun your means, so set a budget for generosity; it lets you stay open-handed without draining what you have built.",
+            "hi": "आपका सौभाग्य बाहर की ओर बहता है, उदारता, अतिथि-सत्कार, तीर्थयात्रा या दूर देशों के जीवन में। जन्मस्थान से दूर या विदेश में मान्यता अधिक सहजता से मिल सकती है, और आध्यात्मिक साधना शांत बल का स्रोत बनती है। दान और आतिथ्य आपके साधनों से आगे निकल सकते हैं, अतः उदारता की एक सीमा निश्चित करें; इससे आप खुले हाथ रहकर भी अपना संचित धन सुरक्षित रख पाते हैं।"
           }
         },
-        "house": 10,
-        "in_house": 10,
+        "house": 9,
+        "in_house": 12,
         "lord": {
           "id": "jupiter",
           "name": "Jupiter",
@@ -265,12 +239,12 @@
       {
         "entry": {
           "text": {
-            "en": "The lord of gains in its own house is a strong promise of fulfilled wishes. Your undertakings tend to pay, learning and contentment grow with the years, and you may become a central figure among friends, family and community. Elder siblings and networks help. Share success generously and keep setting worthwhile goals, since abundance without purpose can turn restless.",
-            "hi": "लाभेश का अपने ही भाव में होना मनोकामनाओं की पूर्ति का सुदृढ़ संकेत है। आपके उपक्रम प्रायः फल देते हैं, विद्या और संतोष वर्षों के साथ बढ़ते हैं, और आप मित्रों, परिवार तथा समाज में केंद्रीय व्यक्ति बन सकते हैं। बड़े भाई-बहन और संपर्क सहायक होते हैं। सफलता को उदारता से बाँटें और सार्थक लक्ष्य बनाते रहें, क्योंकि उद्देश्यहीन समृद्धि अशांति ला सकती है।"
+            "en": "Your career sits in the house of transformation, so working life tends to move through breaks, restarts and changes of field. Research, investigation, insurance, mining, occult study or handling other people's resources can suit you, and endurance is a real strength. Recognition may feel uneven. Own your setbacks rather than assigning blame; taking responsibility turns turbulence into lasting expertise.",
+            "hi": "आपका कर्म परिवर्तन के भाव में है, अतः कार्य-जीवन में विराम, पुनरारंभ और क्षेत्र-परिवर्तन आते रहते हैं। शोध, अन्वेषण, खनन, गूढ़ विद्या या दूसरों के धन का प्रबंधन आपके अनुकूल हो सकते हैं, और सहनशक्ति आपका सच्चा बल है। मान्यता असमान रूप से मिलती प्रतीत हो सकती है। असफलताओं का दोष दूसरों पर डालने के स्थान पर उनका उत्तरदायित्व लें; इससे उथल-पुथल स्थायी विशेषज्ञता में बदलती है।"
           }
         },
-        "house": 11,
-        "in_house": 11,
+        "house": 10,
+        "in_house": 8,
         "lord": {
           "id": "mars",
           "name": "Mars",
@@ -291,12 +265,12 @@
       {
         "entry": {
           "text": {
-            "en": "The lord of loss in the house of change forms a viparita raja yoga that turns adversity to advantage. You are inclined to be resolute, fearless and well spoken, with gains that often arrive unexpectedly, sometimes through inheritance or shared resources. Interest in occult or research subjects is likely. Avoid staking much on sudden windfalls; your strength lies in steady courage, not daring.",
-            "hi": "व्ययेश का अष्टम भाव में होना विपरीत राजयोग बनाता है, जो विपत्ति को लाभ में बदलता है। आप दृढ़निश्चयी, निर्भीक और मधुरभाषी होते हैं, और लाभ प्रायः अप्रत्याशित रूप से, कभी-कभी पैतृक या संयुक्त साधनों से, आता है। गूढ़ विद्या या शोध के विषयों में रुचि की संभावना है। आकस्मिक धन पर अधिक दाँव न लगाएँ; आपका बल स्थिर साहस में है, दुस्साहस में नहीं।"
+            "en": "Gains and fortune meet here, so income often comes with less struggle than others face. You are inclined to be skilful, truthful and learned, respected by those in authority and drawn to philosophy and spiritual study. Father, teachers and long journeys can bring benefit. Ease can breed complacency; keep effort alive and stay warm with siblings, whose goodwill is worth tending.",
+            "hi": "यहाँ लाभ और भाग्य मिलते हैं, अतः आय प्रायः दूसरों की अपेक्षा अल्प संघर्ष से आती है। आप कुशल, सत्यवादी और विद्वान होते हैं, अधिकारियों से सम्मान पाते हैं और दर्शन तथा आध्यात्मिक अध्ययन की ओर आकर्षित होते हैं। पिता, गुरुजन और लंबी यात्राएँ लाभ दे सकती हैं। सुगमता आलस्य न जगा दे; प्रयास बनाए रखें और भाई-बहनों से आत्मीयता रखें, उनकी सद्भावना सहेजने योग्य है।"
           }
         },
-        "house": 12,
-        "in_house": 8,
+        "house": 11,
+        "in_house": 9,
         "lord": {
           "id": "venus",
           "name": "Venus",
@@ -313,6 +287,32 @@
             "hi": "वृषभ"
           }
         }
+      },
+      {
+        "entry": {
+          "text": {
+            "en": "The lord of expenditure in the house of career links your work with institutions, foreign connections or large organisations, and advancement may come through the support of influential people. You are inclined to be sincere and clean in conduct. Expenses connected with official matters may be notable, and closeness with your father can be moderate. Keep professional spending purposeful and your records in order.",
+            "hi": "व्ययेश का कर्म भाव में होना आपके कार्य को संस्थाओं, विदेशी संबंधों या बड़े संगठनों से जोड़ता है, और उन्नति प्रभावशाली व्यक्तियों के सहयोग से आ सकती है। आप निश्छल और शुद्ध आचरण वाले होते हैं। शासकीय विषयों से जुड़ा व्यय उल्लेखनीय हो सकता है, और पिता से निकटता मध्यम रह सकती है। व्यावसायिक व्यय को उद्देश्यपूर्ण रखें और लेखा-जोखा व्यवस्थित रखें।"
+          }
+        },
+        "house": 12,
+        "in_house": 10,
+        "lord": {
+          "id": "mercury",
+          "name": "Mercury",
+          "names": {
+            "en": "Mercury",
+            "hi": "बुध"
+          }
+        },
+        "sign": {
+          "id": "gemini",
+          "name": "Gemini",
+          "names": {
+            "en": "Gemini",
+            "hi": "मिथुन"
+          }
+        }
       }
     ],
     "disclaimer": {
@@ -321,7 +321,7 @@
     }
   },
   "meta": {
-    "cached": false,
+    "cached": true,
     "ayanamsa": {
       "id": "lahiri"
     },
@@ -330,8 +330,8 @@
       "utc_offset": "+05:30",
       "source": "given"
     },
-    "engine": "0.5.0",
-    "compute_ms": 2,
+    "engine": "0.17.0",
+    "compute_ms": 0,
     "language_fallback": [],
     "credits": 5
   }

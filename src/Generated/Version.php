@@ -22,8 +22,8 @@ final class Version
      *
      * Sent as the `sdk-php/<version>` half of the `X-KJ-Client` header.
      */
-    public const SDK = '0.1.1';
+    public const SDK = '0.1.2';
 
     /** The `info.version` of the OpenAPI snapshot these models were built from. */
-    public const OPENAPI = '0.16.0';
+    public const OPENAPI = '0.17.0';
 }

@@ -24,7 +24,7 @@ use Kaaljyoti\Generated\LabelledId;
 final readonly class HoroscopeDocument
 {
     /**
-     * @param list<AreaSummary> $areas
+     * @param list<AreaSummary2> $areas
      * @param list<HoroscopeTransit> $basis
      * @param LocalizedText|null $disclaimer The closing line: "these predictions are indicative…", naming the
      *     astrologer in `options.disclaimer` when one is given. Absent when `options.disclaimer` is `"off"`.
@@ -35,7 +35,7 @@ final readonly class HoroscopeDocument
         public string $from,
         public string $period,
         public LabelledId $sign,
-        public ReadingSummary $summary,
+        public ReadingSummary2 $summary,
         public string $to,
         public ?LocalizedText $disclaimer = null,
     ) {
@@ -50,7 +50,7 @@ final readonly class HoroscopeDocument
 
         return new self(
             areas: array_map(
-                static fn (mixed $v): AreaSummary => AreaSummary::fromArray(Json::object($v)),
+                static fn (mixed $v): AreaSummary2 => AreaSummary2::fromArray(Json::object($v)),
                 Json::list($data['areas'] ?? null),
             ),
             basis: array_map(
@@ -60,7 +60,7 @@ final readonly class HoroscopeDocument
             from: Json::string($data['from'] ?? null),
             period: Json::string($data['period'] ?? null),
             sign: LabelledId::fromArray(Json::object($data['sign'] ?? null)),
-            summary: ReadingSummary::fromArray(Json::object($data['summary'] ?? null)),
+            summary: ReadingSummary2::fromArray(Json::object($data['summary'] ?? null)),
             to: Json::string($data['to'] ?? null),
             disclaimer: $disclaimerRaw === null ? null : LocalizedText::fromArray(Json::object($disclaimerRaw)),
         );
@@ -74,7 +74,7 @@ final readonly class HoroscopeDocument
     public function toArray(): array
     {
         $out = [];
-        $out['areas'] = array_map(static fn (AreaSummary $v): array => $v->toArray(), $this->areas);
+        $out['areas'] = array_map(static fn (AreaSummary2 $v): array => $v->toArray(), $this->areas);
         $out['basis'] = array_map(static fn (HoroscopeTransit $v): array => $v->toArray(), $this->basis);
         $out['from'] = $this->from;
         $out['period'] = $this->period;

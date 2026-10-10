@@ -313,13 +313,14 @@ final class ModelsTest extends TestCase
     {
         $lagna = ReadingLagnaDocument::fromArray(self::dataOf('reading-lagna'));
         self::assertSame('leo', $lagna->lagna?->sign->id);
-        self::assertStringStartsWith('With Leo rising', (string) $lagna->lagna?->entry->text->en);
-        self::assertNull($lagna->lagna?->entry->text->hi);
+        self::assertNotNull($lagna->lagna?->entry);
+        self::assertStringStartsWith('With Leo rising', (string) $lagna->lagna->entry->text->en);
+        self::assertNull($lagna->lagna->entry->text->hi);
 
         $nakshatra = ReadingNakshatraDocument::fromArray(self::dataOf('reading-nakshatra'));
         self::assertSame('purva_ashadha', $nakshatra->nakshatra?->nakshatra->id);
-        self::assertNotEmpty($nakshatra->nakshatra?->entry->text->en);
-        self::assertNotEmpty($nakshatra->nakshatra?->entry->text->hi);
+        self::assertNotEmpty($nakshatra->nakshatra?->entry?->text->en);
+        self::assertNotEmpty($nakshatra->nakshatra?->entry?->text->hi);
         self::assertNotEmpty($nakshatra->disclaimer?->hi);
     }
 
@@ -339,9 +340,9 @@ final class ModelsTest extends TestCase
         $both = ReadingHouseLordsDocument::fromArray(self::dataOf('reading-house-lords'));
         $lords = $both->houseLords ?? [];
         self::assertCount(12, $lords);
-        self::assertSame('sagittarius', $lords[6]->sign->id);
-        self::assertSame('jupiter', $lords[6]->lord->id);
-        self::assertSame(10, $lords[6]->inHouse);
+        self::assertSame('capricorn', $lords[6]->sign->id);
+        self::assertSame('saturn', $lords[6]->lord->id);
+        self::assertSame(7, $lords[6]->inHouse);
         self::assertNotNull($both->disclaimer?->en);
 
         // Hindi alone, and the disclaimer turned off: the names come back in
@@ -349,7 +350,8 @@ final class ModelsTest extends TestCase
         $hindi = ReadingHouseLordsDocument::fromArray(self::dataOf('reading-house-lords-hi'));
         $first = ($hindi->houseLords ?? [])[0] ?? null;
         self::assertNotNull($first);
-        self::assertSame('मिथुन', $first->sign->name);
+        self::assertSame('कर्क', $first->sign->name);
+        self::assertNotNull($first->entry);
         self::assertNull($first->entry->text->en);
         self::assertNotEmpty($first->entry->text->hi);
         self::assertNull($hindi->disclaimer);
@@ -500,7 +502,7 @@ final class ModelsTest extends TestCase
     public function testTheGeneratedConstantsPinBothVersions(): void
     {
         self::assertMatchesRegularExpression('/^\d+\.\d+\.\d+/', Version::SDK);
-        self::assertSame('0.16.0', Version::OPENAPI);
+        self::assertSame('0.17.0', Version::OPENAPI);
     }
 
     public function testTheGeneratedConstantsSpellTheEnumsTheSchemaLists(): void

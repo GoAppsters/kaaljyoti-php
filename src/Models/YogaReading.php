@@ -21,16 +21,21 @@ use Kaaljyoti\Generated\LabelledId;
 final readonly class YogaReading
 {
     /**
+     * @param list<YogaReadingFormationsItem> $formations
      * @param LocalizedText $name One piece of text, keyed by language: one entry for each language in
      *     `options.language`, in that order (`{"hi": "…"}` or `{"en": "…", "hi": "…"}`).
      * @param list<LabelledId> $participants
+     * @param list<YogaReadingPeriodsItem> $periods
      */
     public function __construct(
         public string $category,
         public string $code,
-        public ReadingEntry $entry,
+        public int $count,
+        public array $formations,
         public LocalizedText $name,
         public array $participants,
+        public array $periods,
+        public ?ReadingEntry $entry = null,
     ) {
     }
 
@@ -39,15 +44,27 @@ final readonly class YogaReading
      */
     public static function fromArray(array $data): self
     {
+        $entryRaw = $data['entry'] ?? null;
+
         return new self(
             category: Json::string($data['category'] ?? null),
             code: Json::string($data['code'] ?? null),
-            entry: ReadingEntry::fromArray(Json::object($data['entry'] ?? null)),
+            count: Json::int($data['count'] ?? null),
+            formations: array_map(
+                static fn (mixed $v): YogaReadingFormationsItem
+                    => YogaReadingFormationsItem::fromArray(Json::object($v)),
+                Json::list($data['formations'] ?? null),
+            ),
             name: LocalizedText::fromArray(Json::object($data['name'] ?? null)),
             participants: array_map(
                 static fn (mixed $v): LabelledId => LabelledId::fromArray(Json::object($v)),
                 Json::list($data['participants'] ?? null),
             ),
+            periods: array_map(
+                static fn (mixed $v): YogaReadingPeriodsItem => YogaReadingPeriodsItem::fromArray(Json::object($v)),
+                Json::list($data['periods'] ?? null),
+            ),
+            entry: $entryRaw === null ? null : ReadingEntry::fromArray(Json::object($entryRaw)),
         );
     }
 
@@ -61,9 +78,17 @@ final readonly class YogaReading
         $out = [];
         $out['category'] = $this->category;
         $out['code'] = $this->code;
-        $out['entry'] = $this->entry->toArray();
+        $out['count'] = $this->count;
+        $out['formations'] = array_map(
+            static fn (YogaReadingFormationsItem $v): array => $v->toArray(),
+            $this->formations,
+        );
         $out['name'] = $this->name->toArray();
         $out['participants'] = array_map(static fn (LabelledId $v): array => $v->toArray(), $this->participants);
+        $out['periods'] = array_map(static fn (YogaReadingPeriodsItem $v): array => $v->toArray(), $this->periods);
+        if ($this->entry !== null) {
+            $out['entry'] = $this->entry->toArray();
+        }
 
         return $out;
     }

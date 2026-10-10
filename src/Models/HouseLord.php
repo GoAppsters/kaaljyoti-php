@@ -21,11 +21,11 @@ use Kaaljyoti\Generated\LabelledId;
 final readonly class HouseLord
 {
     public function __construct(
-        public ReadingEntry $entry,
         public int $house,
         public int $inHouse,
         public LabelledId $lord,
         public LabelledId $sign,
+        public ?ReadingEntry $entry = null,
     ) {
     }
 
@@ -34,12 +34,14 @@ final readonly class HouseLord
      */
     public static function fromArray(array $data): self
     {
+        $entryRaw = $data['entry'] ?? null;
+
         return new self(
-            entry: ReadingEntry::fromArray(Json::object($data['entry'] ?? null)),
             house: Json::int($data['house'] ?? null),
             inHouse: Json::int($data['in_house'] ?? null),
             lord: LabelledId::fromArray(Json::object($data['lord'] ?? null)),
             sign: LabelledId::fromArray(Json::object($data['sign'] ?? null)),
+            entry: $entryRaw === null ? null : ReadingEntry::fromArray(Json::object($entryRaw)),
         );
     }
 
@@ -51,11 +53,13 @@ final readonly class HouseLord
     public function toArray(): array
     {
         $out = [];
-        $out['entry'] = $this->entry->toArray();
         $out['house'] = $this->house;
         $out['in_house'] = $this->inHouse;
         $out['lord'] = $this->lord->toArray();
         $out['sign'] = $this->sign->toArray();
+        if ($this->entry !== null) {
+            $out['entry'] = $this->entry->toArray();
+        }
 
         return $out;
     }

@@ -25,8 +25,8 @@ final readonly class ReportKundliRequest
      * @param CalculationOptions|null $options Settings for the calculation and the answer: ayanamsa, language,
      *     disclaimer. Every field has a default, so `options` may be left out.
      * @param list<string>|null $parts The parts to include, each named once, in any order (the answer keeps the
-     *     report's own order): `lagna`, `nakshatra`, `life_areas`, `house_lords`, `grahas`, `yogas`, `vimshottari`,
-     *     `varshphal`. Default: all eight. The report is priced per part.
+     *     report's own order): `lagna`, `nakshatra`, `nature`, `life_areas`, `in_depth`, `house_lords`, `grahas`,
+     *     `yogas`, `vimshottari`, `varshphal`, `now_next`. Default: all eleven. The report is priced per part.
      * @param int|null $year The Varshphal's year, e.g. `2026`: the year from that year's birthday to the next. Default:
      *     the Varshphal year running today (last year's until this year's birthday). Not before the birth year; at most
      *     2399.

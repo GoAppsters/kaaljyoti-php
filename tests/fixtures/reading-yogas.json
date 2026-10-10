@@ -5,12 +5,43 @@
       {
         "category": "Chandra",
         "code": "gaja_kesari",
+        "count": 1,
         "entry": {
           "text": {
             "en": "Gaja-Kesari Yoga forms because Jupiter stands in a kendra (1st, 4th, 7th or 10th) from your Moon. It supports wisdom, a good reputation, the ability to speak well before others and the respect that comes from sound counsel. Its strength rises when Jupiter is exalted or in its own sign and falls when Jupiter is debilitated. It is fairly common, so read it with the rest of the chart, and do not let it breed complacency.",
             "hi": "गुरु चंद्रमा से केंद्र (पहली, चौथी, सातवीं या दसवीं राशि) में स्थित है, इसलिए गजकेसरी योग बनता है। यह ज्ञान, अच्छी प्रतिष्ठा, सभा में प्रभावी ढंग से बोलने की क्षमता और उचित परामर्श से मिलने वाले सम्मान का समर्थन करता है। गुरु उच्च या स्वराशि में हो तो इसका बल बढ़ता है, और नीच राशि में हो तो घटता है। यह योग अपेक्षाकृत सामान्य है, अतः इसे पूरी कुंडली के साथ पढ़ें और इसके कारण आत्मसंतुष्ट न हों।"
           }
         },
+        "formations": [
+          {
+            "grade": 0.94,
+            "in_kendra_trikona": false,
+            "lords": {
+              "jupiter": [6, 9],
+              "moon": [1]
+            },
+            "participants": [
+              {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              {
+                "id": "moon",
+                "name": "Moon",
+                "names": {
+                  "en": "Moon",
+                  "hi": "चंद्र"
+                }
+              }
+            ],
+            "relation": null,
+            "repeated_in_d9": false
+          }
+        ],
         "name": {
           "en": "Gaja-Kesari Yoga",
           "hi": "गजकेसरी योग"
@@ -32,17 +63,76 @@
               "hi": "चंद्र"
             }
           }
+        ],
+        "periods": [
+          {
+            "current": false,
+            "from": "2009-11-23T05:55:05.000Z",
+            "lord": {
+              "id": "moon",
+              "name": "Moon",
+              "names": {
+                "en": "Moon",
+                "hi": "चंद्र"
+              }
+            },
+            "to": "2019-11-23T17:55:05.000Z"
+          },
+          {
+            "current": false,
+            "from": "2044-11-22T23:55:05.000Z",
+            "lord": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "to": "2060-11-22T23:55:05.000Z"
+          }
         ]
       },
       {
         "category": "Chandra",
         "code": "sunapha",
+        "count": 1,
         "entry": {
           "text": {
             "en": "Sunapha Yoga forms when one or more of Mars, Mercury, Jupiter, Venus or Saturn occupy the 2nd sign from your Moon, with none in the 12th from it. It favours self-made resources, a good mind, reputation and a sense of security you build through your own work. The planet involved sets the flavour, from scholarly to enterprising. Guard against measuring your worth only by what you own.",
             "hi": "जब मंगल, बुध, गुरु, शुक्र या शनि में से कोई ग्रह चंद्रमा से दूसरी राशि में हो और उससे बारहवीं राशि में कोई न हो, तब सुनफा योग बनता है। यह स्वयं अर्जित साधनों, कुशाग्र बुद्धि, प्रतिष्ठा और अपने परिश्रम से बनी सुरक्षा की भावना का पक्ष लेता है। संबंधित ग्रह इसका स्वरूप निर्धारित करता है, विद्वत्तापूर्ण से लेकर उद्यमी तक। अपने मूल्य को केवल अपनी संपत्ति से मापने से बचें।"
           }
         },
+        "formations": [
+          {
+            "grade": 0.99,
+            "in_kendra_trikona": false,
+            "lords": {
+              "moon": [1],
+              "saturn": [7, 8]
+            },
+            "participants": [
+              {
+                "id": "moon",
+                "name": "Moon",
+                "names": {
+                  "en": "Moon",
+                  "hi": "चंद्र"
+                }
+              },
+              {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              }
+            ],
+            "relation": null,
+            "repeated_in_d9": false
+          }
+        ],
         "name": {
           "en": "Sunapha Yoga",
           "hi": "सुनफा योग"
@@ -64,17 +154,76 @@
               "hi": "शनि"
             }
           }
+        ],
+        "periods": [
+          {
+            "current": false,
+            "from": "2009-11-23T05:55:05.000Z",
+            "lord": {
+              "id": "moon",
+              "name": "Moon",
+              "names": {
+                "en": "Moon",
+                "hi": "चंद्र"
+              }
+            },
+            "to": "2019-11-23T17:55:05.000Z"
+          },
+          {
+            "current": false,
+            "from": "2060-11-22T23:55:05.000Z",
+            "lord": {
+              "id": "saturn",
+              "name": "Saturn",
+              "names": {
+                "en": "Saturn",
+                "hi": "शनि"
+              }
+            },
+            "to": "2079-11-23T17:55:05.000Z"
+          }
         ]
       },
       {
         "category": "Other",
         "code": "vasi",
+        "count": 1,
         "entry": {
           "text": {
             "en": "Vasi Yoga forms when one or more of Mars, Mercury, Jupiter, Venus or Saturn occupy the 12th sign from your Sun, with none in the 2nd from it. It gives foresight, diligence and measured speech, and a habit of planning before acting. With benefics it brings goodwill and prosperity; with malefics it asks for extra care in speech and company. Balance hard work with rest and recognition of your own efforts.",
             "hi": "जब मंगल, बुध, गुरु, शुक्र या शनि में से कोई ग्रह सूर्य से बारहवीं राशि में हो और उससे दूसरी राशि में कोई न हो, तब वासि योग बनता है। यह दूरदर्शिता, परिश्रमशीलता, संयत वाणी और कार्य से पहले योजना बनाने की प्रवृत्ति देता है। शुभ ग्रह हों तो सद्भावना और समृद्धि मिलती है; पाप ग्रह हों तो वाणी और संगति में विशेष सावधानी अपेक्षित है। परिश्रम के साथ विश्राम और अपने प्रयासों की सराहना का संतुलन रखें।"
           }
         },
+        "formations": [
+          {
+            "grade": 1.5,
+            "in_kendra_trikona": true,
+            "lords": {
+              "sun": [2],
+              "venus": [4, 11]
+            },
+            "participants": [
+              {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              {
+                "id": "venus",
+                "name": "Venus",
+                "names": {
+                  "en": "Venus",
+                  "hi": "शुक्र"
+                }
+              }
+            ],
+            "relation": null,
+            "repeated_in_d9": true
+          }
+        ],
         "name": {
           "en": "Vasi Yoga",
           "hi": "वाशि योग"
@@ -96,17 +245,63 @@
               "hi": "शुक्र"
             }
           }
+        ],
+        "periods": [
+          {
+            "current": false,
+            "from": "2008-05-14T05:00:00.000Z",
+            "lord": {
+              "id": "sun",
+              "name": "Sun",
+              "names": {
+                "en": "Sun",
+                "hi": "सूर्य"
+              }
+            },
+            "to": "2009-11-23T05:55:05.000Z"
+          }
         ]
       },
       {
         "category": "Other",
         "code": "budha_aditya",
+        "count": 1,
         "entry": {
           "text": {
             "en": "Budha-Aditya Yoga forms because the Sun and Mercury share a sign. It favours intelligence, clear expression, sound judgement and a good name for your abilities, with a natural pull toward work that uses the mind. Because Mercury stays close to the Sun, this pairing is common; its strength depends on the sign and house and on Mercury not being deeply combust. Watch for pride in your own opinions.",
             "hi": "सूर्य और बुध एक ही राशि में होने से बुधादित्य योग बनता है। यह बुद्धिमत्ता, स्पष्ट अभिव्यक्ति, विवेकपूर्ण निर्णय और अपनी योग्यता के लिए अच्छी प्रतिष्ठा का पक्ष लेता है, और बौद्धिक कार्यों की ओर स्वाभाविक झुकाव देता है। बुध सूर्य के निकट ही रहता है, अतः यह योग बहुत-सी कुंडलियों में मिलता है; इसका बल राशि, भाव और बुध के अत्यधिक अस्त न होने पर निर्भर है। अपने मत के प्रति अहंकार से सावधान रहें।"
           }
         },
+        "formations": [
+          {
+            "grade": 1.39,
+            "in_kendra_trikona": true,
+            "lords": {
+              "mercury": [3, 12],
+              "sun": [2]
+            },
+            "participants": [
+              {
+                "id": "sun",
+                "name": "Sun",
+                "names": {
+                  "en": "Sun",
+                  "hi": "सूर्य"
+                }
+              },
+              {
+                "id": "mercury",
+                "name": "Mercury",
+                "names": {
+                  "en": "Mercury",
+                  "hi": "बुध"
+                }
+              }
+            ],
+            "relation": null,
+            "repeated_in_d9": false
+          }
+        ],
         "name": {
           "en": "Budha-Aditya Yoga",
           "hi": "बुधादित्य योग"
@@ -128,17 +323,63 @@
               "hi": "बुध"
             }
           }
+        ],
+        "periods": [
+          {
+            "current": false,
+            "from": "2008-05-14T05:00:00.000Z",
+            "lord": {
+              "id": "sun",
+              "name": "Sun",
+              "names": {
+                "en": "Sun",
+                "hi": "सूर्य"
+              }
+            },
+            "to": "2009-11-23T05:55:05.000Z"
+          }
         ]
       },
       {
         "category": "Raj",
         "code": "raj_yoga",
+        "count": 1,
         "entry": {
           "text": {
             "en": "A Raj Yoga is present: a kendra lord and a trikona lord are linked by exchange, conjunction or mutual aspect. Such links join effort with fortune and support status, authority, recognition and success in your field, most visibly in the periods of the planets involved. Several of these links strengthen the promise. Results still depend on the dignity of the planets and on your own discipline; it supports a rise, it does not ensure one.",
             "hi": "आपकी कुंडली में राजयोग है: किसी केंद्र भाव का स्वामी और किसी त्रिकोण भाव का स्वामी परिवर्तन, युति या परस्पर दृष्टि से जुड़े हैं। ऐसा संबंध कर्म को भाग्य से जोड़ता है और प्रतिष्ठा, अधिकार, मान्यता तथा अपने क्षेत्र में सफलता का समर्थन करता है, जो संबंधित ग्रहों की दशा में सबसे स्पष्ट दिखती है। ऐसे अनेक संबंध इस संभावना को प्रबल करते हैं। फिर भी फल ग्रहों के बल और आपके अनुशासन पर निर्भर है; यह उन्नति को सहारा देता है, उसे सुनिश्चित नहीं करता।"
           }
         },
+        "formations": [
+          {
+            "grade": 0.94,
+            "in_kendra_trikona": false,
+            "lords": {
+              "jupiter": [6, 9],
+              "moon": [1]
+            },
+            "participants": [
+              {
+                "id": "moon",
+                "name": "Moon",
+                "names": {
+                  "en": "Moon",
+                  "hi": "चंद्र"
+                }
+              },
+              {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              }
+            ],
+            "relation": "mutual_aspect",
+            "repeated_in_d9": false
+          }
+        ],
         "name": {
           "en": "Raj Yoga",
           "hi": "राज योग"
@@ -160,17 +401,67 @@
               "hi": "गुरु"
             }
           }
+        ],
+        "periods": [
+          {
+            "current": false,
+            "from": "2009-11-23T05:55:05.000Z",
+            "lord": {
+              "id": "moon",
+              "name": "Moon",
+              "names": {
+                "en": "Moon",
+                "hi": "चंद्र"
+              }
+            },
+            "to": "2019-11-23T17:55:05.000Z"
+          },
+          {
+            "current": false,
+            "from": "2044-11-22T23:55:05.000Z",
+            "lord": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "to": "2060-11-22T23:55:05.000Z"
+          }
         ]
       },
       {
         "category": "Raj",
         "code": "yogakaraka",
+        "count": 1,
         "entry": {
           "text": {
             "en": "A Yogakaraka is present: one planet rules both a kendra (4th, 7th or 10th) and a trikona (5th or 9th) for your lagna. That planet becomes especially helpful, joining effort with fortune, and its periods often mark progress in status, work and wellbeing. Its results are fullest when it is well placed and strong by sign; a weak placement tends to delay its help rather than remove it.",
             "hi": "आपकी कुंडली में योगकारक ग्रह है: एक ही ग्रह आपके लग्न के लिए किसी केंद्र (चौथे, सातवें या दसवें) और किसी त्रिकोण (पाँचवें या नौवें) भाव का स्वामी है। वह ग्रह विशेष रूप से सहायक बनता है, परिश्रम और सौभाग्य को एक सूत्र में बाँधता है, और उसकी दशा प्रायः पद, कार्य और कल्याण में प्रगति का समय होती है। वह सुस्थित और राशि से बलवान हो तो फल पूर्ण मिलते हैं; निर्बल स्थिति उसकी सहायता को समाप्त नहीं करती, प्रायः केवल विलंबित करती है।"
           }
         },
+        "formations": [
+          {
+            "grade": 1.03,
+            "in_kendra_trikona": false,
+            "lords": {
+              "mars": [5, 10]
+            },
+            "participants": [
+              {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              }
+            ],
+            "relation": null,
+            "repeated_in_d9": false
+          }
+        ],
         "name": {
           "en": "Yogakaraka",
           "hi": "योगकारक"
@@ -184,41 +475,54 @@
               "hi": "मंगल"
             }
           }
-        ]
-      },
-      {
-        "category": "Vipreet Raj",
-        "code": "harsha",
-        "entry": {
-          "text": {
-            "en": "Harsha Yoga, a vipreet raj yoga, forms because the lord of your 6th house sits in the 6th, 8th or 12th. A difficult house lord placed in another difficult house tends to weaken obstacles: you are resilient, recover well and often come out ahead in rivalry and disputes. It gives a cheerful nature and a sturdy constitution that still deserves care. The gains usually come after pressure, not instead of it.",
-            "hi": "हर्ष योग, एक विपरीत राजयोग, इसलिए बनता है क्योंकि आपके छठे भाव का स्वामी छठे, आठवें या बारहवें भाव में स्थित है। कठिन भाव का स्वामी जब दूसरे कठिन भाव में जाता है, तो बाधाएँ दुर्बल होती हैं: आप धैर्यवान रहते हैं, शीघ्र संभलते हैं और प्रायः प्रतिस्पर्धा व विवादों में आगे निकलते हैं। यह प्रसन्नचित्त स्वभाव और सुदृढ़ शरीर देता है, जिसकी देखभाल फिर भी आवश्यक है। लाभ प्रायः दबाव के पश्चात आता है, उसके बिना नहीं।"
-          }
-        },
-        "name": {
-          "en": "Harsha Yoga",
-          "hi": "हर्ष योग"
-        },
-        "participants": [
+        ],
+        "periods": [
           {
-            "id": "jupiter",
-            "name": "Jupiter",
-            "names": {
-              "en": "Jupiter",
-              "hi": "गुरु"
-            }
+            "current": true,
+            "from": "2019-11-23T17:55:05.000Z",
+            "lord": {
+              "id": "mars",
+              "name": "Mars",
+              "names": {
+                "en": "Mars",
+                "hi": "मंगल"
+              }
+            },
+            "to": "2026-11-23T11:55:05.000Z"
           }
         ]
       },
       {
         "category": "Dosha",
         "code": "mangal_dosha",
+        "count": 1,
         "entry": {
           "text": {
             "en": "Mangal Dosha is noted because Mars is in the 1st, 2nd, 4th, 7th, 8th or 12th house from your lagna. It points to strong will and directness in marriage and partnership, where impatience or friction can arise if energy is not shared well. It also gives courage, protectiveness and drive. It is very common, is weaker when Mars is in its own or exalted sign, and has many recognised cancellations; judge it only with the whole chart.",
             "hi": "मंगल आपके लग्न से पहले, दूसरे, चौथे, सातवें, आठवें या बारहवें भाव में है, इसलिए मंगल दोष बनता है। यह दांपत्य और साझेदारी में दृढ़ इच्छाशक्ति और स्पष्टवादिता का संकेत है, जहाँ ऊर्जा का संतुलन न रहे तो अधीरता या टकराव हो सकता है। यह साहस, संरक्षण-भाव और उत्साह भी देता है। यह योग बहुत सामान्य है, मंगल स्वराशि या उच्च राशि में हो तो दुर्बल रहता है, और इसके भंग की अनेक मान्य स्थितियाँ हैं; इसे केवल पूरी कुंडली के साथ ही आँकें।"
           }
         },
+        "formations": [
+          {
+            "grade": 1.03,
+            "in_kendra_trikona": false,
+            "lords": {
+              "mars": [5, 10]
+            },
+            "participants": [
+              {
+                "id": "mars",
+                "name": "Mars",
+                "names": {
+                  "en": "Mars",
+                  "hi": "मंगल"
+                }
+              }
+            ],
+            "relation": null,
+            "repeated_in_d9": false
+          }
+        ],
         "name": {
           "en": "Mangal Dosha",
           "hi": "मंगल दोष"
@@ -232,17 +536,54 @@
               "hi": "मंगल"
             }
           }
+        ],
+        "periods": [
+          {
+            "current": true,
+            "from": "2019-11-23T17:55:05.000Z",
+            "lord": {
+              "id": "mars",
+              "name": "Mars",
+              "names": {
+                "en": "Mars",
+                "hi": "मंगल"
+              }
+            },
+            "to": "2026-11-23T11:55:05.000Z"
+          }
         ]
       },
       {
         "category": "Mahapurusha",
         "code": "shasha",
+        "count": 1,
         "entry": {
           "text": {
             "en": "Shasha Yoga, counted among the five great-person yogas, forms because Saturn is in its own or exalted sign (Capricorn, Aquarius or Libra) in a kendra from your lagna. It supports discipline, endurance, organising ability and authority earned slowly, often over people, systems or large undertakings. Rewards come later but last. The caution is severity and suspicion; fairness toward those who work with you keeps its power healthy.",
             "hi": "शनि अपनी राशि या उच्च राशि (मकर, कुंभ या तुला) में लग्न से केंद्र में है, इसलिए शश योग बनता है, जो पंच महापुरुष योगों में से एक है। यह अनुशासन, सहनशक्ति, संगठन-क्षमता और धीरे-धीरे अर्जित अधिकार का समर्थन करता है, प्रायः लोगों, व्यवस्थाओं या बड़े उपक्रमों पर। फल विलंब से आते हैं पर टिकते हैं। सावधानी कठोरता और संदेह की है; सहकर्मियों के प्रति न्यायपूर्ण व्यवहार इसकी शक्ति को स्वस्थ रखता है।"
           }
         },
+        "formations": [
+          {
+            "grade": 1.36,
+            "in_kendra_trikona": true,
+            "lords": {
+              "saturn": [7, 8]
+            },
+            "participants": [
+              {
+                "id": "saturn",
+                "name": "Saturn",
+                "names": {
+                  "en": "Saturn",
+                  "hi": "शनि"
+                }
+              }
+            ],
+            "relation": null,
+            "repeated_in_d9": false
+          }
+        ],
         "name": {
           "en": "Shasha Yoga",
           "hi": "शश योग"
@@ -255,6 +596,21 @@
               "en": "Saturn",
               "hi": "शनि"
             }
+          }
+        ],
+        "periods": [
+          {
+            "current": false,
+            "from": "2060-11-22T23:55:05.000Z",
+            "lord": {
+              "id": "saturn",
+              "name": "Saturn",
+              "names": {
+                "en": "Saturn",
+                "hi": "शनि"
+              }
+            },
+            "to": "2079-11-23T17:55:05.000Z"
           }
         ]
       }
@@ -274,7 +630,7 @@
       "utc_offset": "+05:30",
       "source": "given"
     },
-    "engine": "0.10.1",
+    "engine": "0.17.0",
     "compute_ms": 1,
     "language_fallback": [],
     "credits": 5

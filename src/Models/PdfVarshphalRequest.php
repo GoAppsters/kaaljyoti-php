@@ -36,6 +36,9 @@ final readonly class PdfVarshphalRequest
      *     printed.
      * @param string|null $name The person's name, printed on the cover and used in the file name; 1 to 120 characters.
      *     Default: none (the cover carries the title only).
+     * @param string|null $edition How much the Varshphal prints: `life` (the default, the year written for the person
+     *     it is about) or `professional` (adds the astrologer's tables: planet strengths, Tajika yogas, every saham,
+     *     the period grades with their sub-periods and the month lords). Both cost the same.
      */
     public function __construct(
         public Birth $birth,
@@ -45,6 +48,7 @@ final readonly class PdfVarshphalRequest
         public ?string $chartStyle = null,
         public ?PdfBranding $branding = null,
         public ?string $name = null,
+        public ?string $edition = null,
     ) {
     }
 
@@ -64,6 +68,7 @@ final readonly class PdfVarshphalRequest
             chartStyle: Json::stringOrNull($data['chart_style'] ?? null),
             branding: $brandingRaw === null ? null : PdfBranding::fromArray(Json::object($brandingRaw)),
             name: Json::stringOrNull($data['name'] ?? null),
+            edition: Json::stringOrNull($data['edition'] ?? null),
         );
     }
 
@@ -91,6 +96,9 @@ final readonly class PdfVarshphalRequest
         }
         if ($this->name !== null) {
             $out['name'] = $this->name;
+        }
+        if ($this->edition !== null) {
+            $out['edition'] = $this->edition;
         }
 
         return $out;

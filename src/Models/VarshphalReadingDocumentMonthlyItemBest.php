@@ -5,7 +5,7 @@
  * Do not edit by hand: `pnpm --filter sdk-php run gen:check` fails the build
  * when this file and the snapshot disagree.
  *
- * `LifeArea.periods[]` as a PHP class.
+ * `VarshphalReadingDocumentMonthlyItem.best` as a PHP class.
  */
 
 declare(strict_types=1);
@@ -13,17 +13,14 @@ declare(strict_types=1);
 namespace Kaaljyoti\Models;
 
 use Kaaljyoti\Generated\Json;
-use Kaaljyoti\Generated\LabelledId;
 
 /**
- * Wire shape: `LifeArea.periods[]`.
+ * Wire shape: `VarshphalReadingDocumentMonthlyItem.best`.
  */
-final readonly class LifeAreaPeriod
+final readonly class VarshphalReadingDocumentMonthlyItemBest
 {
     public function __construct(
-        public bool $current,
         public string $from,
-        public LabelledId $lord,
         public string $to,
     ) {
     }
@@ -34,9 +31,7 @@ final readonly class LifeAreaPeriod
     public static function fromArray(array $data): self
     {
         return new self(
-            current: Json::bool($data['current'] ?? null),
             from: Json::string($data['from'] ?? null),
-            lord: LabelledId::fromArray(Json::object($data['lord'] ?? null)),
             to: Json::string($data['to'] ?? null),
         );
     }
@@ -49,9 +44,7 @@ final readonly class LifeAreaPeriod
     public function toArray(): array
     {
         $out = [];
-        $out['current'] = $this->current;
         $out['from'] = $this->from;
-        $out['lord'] = $this->lord->toArray();
         $out['to'] = $this->to;
 
         return $out;

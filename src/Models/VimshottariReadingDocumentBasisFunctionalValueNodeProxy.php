@@ -24,8 +24,8 @@ final readonly class VimshottariReadingDocumentBasisFunctionalValueNodeProxy
      */
     public function __construct(
         public array $companions,
+        public string $follows,
         public int $house,
-        public ?string $follows = null,
     ) {
     }
 
@@ -39,8 +39,8 @@ final readonly class VimshottariReadingDocumentBasisFunctionalValueNodeProxy
                 static fn (mixed $v): string => Json::string($v),
                 Json::list($data['companions'] ?? null),
             ),
+            follows: Json::string($data['follows'] ?? null),
             house: Json::int($data['house'] ?? null),
-            follows: Json::stringOrNull($data['follows'] ?? null),
         );
     }
 
@@ -53,10 +53,8 @@ final readonly class VimshottariReadingDocumentBasisFunctionalValueNodeProxy
     {
         $out = [];
         $out['companions'] = $this->companions;
+        $out['follows'] = $this->follows;
         $out['house'] = $this->house;
-        if ($this->follows !== null) {
-            $out['follows'] = $this->follows;
-        }
 
         return $out;
     }

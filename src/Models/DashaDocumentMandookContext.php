@@ -21,10 +21,10 @@ use Kaaljyoti\Generated\LabelledId;
 final readonly class DashaDocumentMandookContext
 {
     public function __construct(
-        public bool $applicable,
         public bool $direct,
         public int $kendraGrahas,
         public LabelledId $startSign,
+        public ?bool $applicable = null,
     ) {
     }
 
@@ -34,10 +34,10 @@ final readonly class DashaDocumentMandookContext
     public static function fromArray(array $data): self
     {
         return new self(
-            applicable: Json::bool($data['applicable'] ?? null),
             direct: Json::bool($data['direct'] ?? null),
             kendraGrahas: Json::int($data['kendra_grahas'] ?? null),
             startSign: LabelledId::fromArray(Json::object($data['start_sign'] ?? null)),
+            applicable: Json::boolOrNull($data['applicable'] ?? null),
         );
     }
 
@@ -49,10 +49,12 @@ final readonly class DashaDocumentMandookContext
     public function toArray(): array
     {
         $out = [];
-        $out['applicable'] = $this->applicable;
         $out['direct'] = $this->direct;
         $out['kendra_grahas'] = $this->kendraGrahas;
         $out['start_sign'] = $this->startSign->toArray();
+        if ($this->applicable !== null) {
+            $out['applicable'] = $this->applicable;
+        }
 
         return $out;
     }

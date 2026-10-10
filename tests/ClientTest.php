@@ -21,6 +21,7 @@ use Kaaljyoti\PdfFile;
 use Kaaljyoti\Models\Birth;
 use Kaaljyoti\Models\CalculationOptions;
 use Kaaljyoti\Models\AreaSummary;
+use Kaaljyoti\Models\AreaSummary2;
 use Kaaljyoti\Models\Disclaimer;
 use Kaaljyoti\Models\GrahaReading;
 use Kaaljyoti\Models\HoroscopeRequest;
@@ -36,7 +37,7 @@ use Kaaljyoti\Models\PdfMatchRequest;
 use Kaaljyoti\Models\PdfPanchangMonthRequest;
 use Kaaljyoti\Models\PdfVarshphalRequest;
 use Kaaljyoti\Models\ReportLagnaRequest;
-use Kaaljyoti\Models\ReadingSummary;
+use Kaaljyoti\Models\ReadingSummary2;
 use Kaaljyoti\Models\ReportKundliRequest;
 use Kaaljyoti\Models\ReportNakshatraRequest;
 use Kaaljyoti\Models\VarshphalPeriod;
@@ -288,7 +289,7 @@ final class ClientTest extends TestCase
             json_decode((string) $sent->body, true, 512, JSON_THROW_ON_ERROR),
         );
         self::assertSame('leo', $answer->data->lagna?->sign->id);
-        self::assertStringStartsWith('With Leo rising', (string) $answer->data->lagna?->entry->text->en);
+        self::assertStringStartsWith('With Leo rising', (string) $answer->data->lagna?->entry?->text->en);
         self::assertSame(
             'These predictions are indicative. For a reading of your own chart, consult an astrologer.',
             $answer->data->disclaimer?->en,
@@ -314,7 +315,7 @@ final class ClientTest extends TestCase
             array_keys((array) json_decode((string) $http->last()->body, true, 512, JSON_THROW_ON_ERROR)),
         );
         self::assertSame('purva_ashadha', $byBirth->data->nakshatra?->nakshatra->id);
-        self::assertNotEmpty($byBirth->data->nakshatra?->entry->text->hi);
+        self::assertNotEmpty($byBirth->data->nakshatra?->entry?->text->hi);
 
         $picked = $kj->reports->nakshatra(new ReportNakshatraRequest(
             nakshatra: 'purva_phalguni',
@@ -372,15 +373,17 @@ final class ClientTest extends TestCase
 
         $lords = $answer->data->houseLords ?? [];
         self::assertSame(range(1, 12), array_map(static fn ($lord): int => $lord->house, $lords));
-        // Gemini rising: Mercury rules the 1st and sits in the 9th.
-        self::assertSame('gemini', $lords[0]->sign->id);
-        self::assertSame('mercury', $lords[0]->lord->id);
-        self::assertSame('बुध', $lords[0]->lord->names['hi'] ?? null);
-        self::assertSame(9, $lords[0]->inHouse);
+        // The recorded answer (for the 1990 New Delhi birth the other reports
+        // use) is Cancer rising: the Moon rules the 1st and sits in the 6th.
+        self::assertSame('cancer', $lords[0]->sign->id);
+        self::assertSame('moon', $lords[0]->lord->id);
+        self::assertSame('चंद्र', $lords[0]->lord->names['hi'] ?? null);
+        self::assertSame(6, $lords[0]->inHouse);
+        self::assertNotNull($lords[0]->entry);
         self::assertNotEmpty($lords[0]->entry->text->en);
         self::assertNotEmpty($lords[0]->entry->text->hi);
         self::assertStringContainsString('सांकेतिक', (string) $answer->data->disclaimer?->hi);
-        self::assertSame('0.5.0', $answer->meta->engine);
+        self::assertSame('0.17.0', $answer->meta->engine);
     }
 
     public function testHoroscopeSendsTheSignAndThePeriodAndReadsTheSummaries(): void
@@ -404,11 +407,11 @@ final class ClientTest extends TestCase
 
         self::assertSame('aries', $answer->data->sign->id);
         self::assertSame('2026-09-27T18:30:00.000Z', $answer->data->from);
-        self::assertInstanceOf(ReadingSummary::class, $answer->data->summary);
+        self::assertInstanceOf(ReadingSummary2::class, $answer->data->summary);
         self::assertSame('care', $answer->data->summary->level);
         self::assertSame(
             [['work', 'mixed'], ['money', 'care'], ['relationships', 'care'], ['health', 'mixed'], ['education', 'care']],
-            array_map(static fn (AreaSummary $area): array => [$area->area, $area->level], $answer->data->areas),
+            array_map(static fn (AreaSummary2 $area): array => [$area->area, $area->level], $answer->data->areas),
         );
         $moon = array_values(array_filter(
             $answer->data->basis,
@@ -433,7 +436,7 @@ final class ClientTest extends TestCase
         self::assertSame(['sun', 'aries', 10], [$grahas[0]->graha->id, $grahas[0]->sign->id, $grahas[0]->house]);
         self::assertStringStartsWith('Your Sun is in Aries', (string) $grahas[0]->inSign->text->en);
         self::assertNotEmpty($grahas[0]->inHouse->text->hi);
-        self::assertSame('0.10.1', $answer->meta->engine);
+        self::assertSame('0.17.0', $answer->meta->engine);
     }
 
     public function testReportsYogasNamesEachByCode(): void
@@ -488,7 +491,7 @@ final class ClientTest extends TestCase
         );
         $current = array_values(array_filter($periods, static fn (MahadashaReading $p): bool => $p->current));
         self::assertCount(1, $current);
-        self::assertSame(['mars', 'mixed'], [$current[0]->lord->id, $current[0]->level]);
+        self::assertSame(['mars', 'favourable'], [$current[0]->lord->id, $current[0]->level]);
         self::assertNotEmpty($periods[0]->antardashas);
     }
 
@@ -519,8 +522,8 @@ final class ClientTest extends TestCase
         $answer = self::client($http)->reports->lifeAreas(new KundliRequest(birth: self::birth()));
 
         self::assertSame('https://api.kaaljyoti.com/v1/reports/life-areas', $http->last()->url);
-        self::assertSame(['foreign', 'marriage'], $answer->data->summary->strongest);
-        self::assertSame(['children', 'fortune'], $answer->data->summary->needsCare);
+        self::assertSame(['marriage', 'self'], $answer->data->summary->strongest);
+        self::assertSame(['fortune', 'education'], $answer->data->summary->needsCare);
         self::assertCount(11, $answer->data->areas);
         self::assertInstanceOf(LifeArea::class, $answer->data->areas[0]);
         self::assertSame(['self', 'favourable'], [$answer->data->areas[0]->area, $answer->data->areas[0]->level]);

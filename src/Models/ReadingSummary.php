@@ -26,6 +26,9 @@ final readonly class ReadingSummary
     public function __construct(
         public string $level,
         public LocalizedText $text,
+        public ?VarshphalReadingDocumentMonthlyItemBest $best = null,
+        public ?VarshphalReadingDocumentMonthlyItemBest $hard = null,
+        public ?LocalizedText $note = null,
     ) {
     }
 
@@ -34,9 +37,16 @@ final readonly class ReadingSummary
      */
     public static function fromArray(array $data): self
     {
+        $bestRaw = $data['best'] ?? null;
+        $hardRaw = $data['hard'] ?? null;
+        $noteRaw = $data['note'] ?? null;
+
         return new self(
             level: Json::string($data['level'] ?? null),
             text: LocalizedText::fromArray(Json::object($data['text'] ?? null)),
+            best: $bestRaw === null ? null : VarshphalReadingDocumentMonthlyItemBest::fromArray(Json::object($bestRaw)),
+            hard: $hardRaw === null ? null : VarshphalReadingDocumentMonthlyItemBest::fromArray(Json::object($hardRaw)),
+            note: $noteRaw === null ? null : LocalizedText::fromArray(Json::object($noteRaw)),
         );
     }
 
@@ -50,6 +60,15 @@ final readonly class ReadingSummary
         $out = [];
         $out['level'] = $this->level;
         $out['text'] = $this->text->toArray();
+        if ($this->best !== null) {
+            $out['best'] = $this->best->toArray();
+        }
+        if ($this->hard !== null) {
+            $out['hard'] = $this->hard->toArray();
+        }
+        if ($this->note !== null) {
+            $out['note'] = $this->note->toArray();
+        }
 
         return $out;
     }

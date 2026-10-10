@@ -5,46 +5,71 @@
       {
         "area": "work",
         "level": "mixed",
+        "rules": [
+          {
+            "good": true,
+            "id": "a10_1"
+          },
+          {
+            "good": false,
+            "id": "a10_11"
+          }
+        ],
         "text": {
-          "en": "This year, work brings progress with some friction; keep communication clear and do not take small delays personally. What you have been aiming for at work is well placed to come about, whether a new role, recognition or a long-planned project taking shape.",
-          "hi": "इस वर्ष कार्यक्षेत्र में प्रगति के साथ कुछ घर्षण भी रहता है; संवाद स्पष्ट रखें और छोटे विलंबों को व्यक्तिगत रूप से न लें। कार्यक्षेत्र में आप जिस लक्ष्य की ओर बढ़ रहे हैं, वह पूर्ण होने की अच्छी स्थिति में है, चाहे वह नई भूमिका हो, मान्यता हो या लंबे समय से सोची गई परियोजना।"
+          "en": "This year, work brings progress with some friction; keep communication clear and do not take small delays personally. An opening at work may already have slipped by, so this is a time to strengthen your present position rather than chase what has gone. This year tends to bring you authority, money, comfort and recognition at work. Work needs the most care from December 2026 to January 2027; avoid hasty decisions then.",
+          "hi": "इस वर्ष कार्यक्षेत्र में प्रगति के साथ कुछ घर्षण भी रहता है; संवाद स्पष्ट रखें और छोटे विलंबों को व्यक्तिगत रूप से न लें। कार्यक्षेत्र का कोई अवसर संभवतः निकल चुका है, इसलिए बीते अवसर के पीछे भागने के स्थान पर अपनी वर्तमान स्थिति को सुदृढ़ करने का यह समय है। इस वर्ष कार्यक्षेत्र में आपको अधिकार, धन, सुख और मान्यता मिलने के आसार हैं। दिसंबर 2026 से जनवरी 2027 तक कार्य को सबसे अधिक सावधानी चाहिए; तब जल्दबाज़ी के निर्णयों से बचें।"
         }
       },
       {
         "area": "money",
         "level": "mixed",
+        "rules": [
+          {
+            "good": true,
+            "id": "a2_9"
+          }
+        ],
         "text": {
-          "en": "This year, some payments arrive on time and others lag, so plan around what is certain rather than what is promised. Help from family, a partner or a trusted adviser is likely to strengthen your finances, and shared efforts tend to bear fruit.",
-          "hi": "इस वर्ष कुछ भुगतान समय पर आते हैं और कुछ पिछड़ जाते हैं, अतः वचनों पर नहीं, निश्चित आय पर योजना बनाएँ। परिवार, जीवनसाथी या किसी विश्वसनीय परामर्शदाता की सहायता आपकी आर्थिक स्थिति को बल दे सकती है, और साझा प्रयास फलदायी रहते हैं।"
+          "en": "This year, some payments arrive on time and others lag, so plan around what is certain rather than what is promised. Help from family, a partner or a trusted adviser is likely to strengthen your finances, and shared efforts tend to bear fruit. This year points to good wealth for you and a respected standing among your own people. This year's chart is strong here, but your birth chart limits how far it can rise this year. Money matters go best from June 2026 to July 2026, a good window for income and savings. Money needs the most care from December 2026 to January 2027; keep spending and lending in check.",
+          "hi": "इस वर्ष कुछ भुगतान समय पर आते हैं और कुछ पिछड़ जाते हैं, अतः वचनों पर नहीं, निश्चित आय पर योजना बनाएँ। परिवार, जीवनसाथी या किसी विश्वसनीय परामर्शदाता की सहायता आपकी आर्थिक स्थिति को बल दे सकती है, और साझा प्रयास फलदायी रहते हैं। यह वर्ष आपके लिए अच्छे धन और अपने लोगों के बीच सम्मानित स्थान का संकेत देता है। इस क्षेत्र में वर्ष कुंडली बलवान है, किंतु आपकी जन्म कुंडली यह सीमित करती है कि यह इस वर्ष कितना ऊपर उठ सकता है। धन संबंधी विषय जून 2026 से जुलाई 2026 तक सबसे अच्छे रहते हैं, जो आय और बचत के लिए अच्छा समय है। दिसंबर 2026 से जनवरी 2027 तक धन को सबसे अधिक सावधानी चाहिए; व्यय और उधार पर नियंत्रण रखें।"
         }
       },
       {
         "area": "relationships",
         "level": "mixed",
+        "rules": [
+          {
+            "good": false,
+            "id": "a8_6"
+          }
+        ],
         "text": {
-          "en": "This year, relationships bring both warmth and small misunderstandings; listen fully before you respond. A chance in a relationship may feel as though it has passed, so nurture the bonds already in your life rather than looking back.",
-          "hi": "इस वर्ष संबंधों में स्नेह के साथ छोटी-मोटी भ्रांतियाँ भी आ सकती हैं; उत्तर देने से पहले पूरी बात सुनें। संबंधों में कोई अवसर बीत गया-सा लग सकता है, अतः पीछे देखने के स्थान पर अपने जीवन में उपस्थित संबंधों को पोषित करें।"
+          "en": "This year, relationships bring both warmth and small misunderstandings; listen fully before you respond. A chance in a relationship may feel as though it has passed, so nurture the bonds already in your life rather than looking back. Close relationships may see harsh words and friction this year, so choose patience with those near you. Relationships are warmest from July 2026 to August 2026, a good time for commitments. Relationships need the most patience from February 2027 to March 2027; talk things through calmly.",
+          "hi": "इस वर्ष संबंधों में स्नेह के साथ छोटी-मोटी भ्रांतियाँ भी आ सकती हैं; उत्तर देने से पहले पूरी बात सुनें। संबंधों में कोई अवसर बीत गया-सा लग सकता है, अतः पीछे देखने के स्थान पर अपने जीवन में उपस्थित संबंधों को पोषित करें। इस वर्ष निकट संबंधों में कठोर शब्द और टकराव हो सकते हैं, इसलिए अपनों के साथ धैर्य रखें। संबंध जुलाई 2026 से अगस्त 2026 तक सबसे मधुर रहते हैं, जो प्रतिबद्धताओं के लिए अच्छा समय है। फ़रवरी 2027 से मार्च 2027 तक संबंधों में सबसे अधिक धैर्य चाहिए; बातें शांति से सुलझाएँ।"
         }
       },
       {
         "area": "health",
         "level": "mixed",
+        "rules": [],
         "text": {
-          "en": "This year, good habits pay off, while irregular hours are felt more quickly than usual in your energy. Your energy may be stretched by many demands on your time, so pace yourself, rest before you are exhausted and avoid overcommitting.",
-          "hi": "इस वर्ष अच्छे अभ्यास फल देते हैं, जबकि अनियमित समय-सारिणी का प्रभाव ऊर्जा पर सामान्य से शीघ्र अनुभव होता है। समय पर अनेक माँगों के कारण आपकी ऊर्जा खिंच सकती है, अतः अपनी गति संयत रखें, थकान से पहले विश्राम करें और अधिक दायित्व लेने से बचें।"
+          "en": "This year, good habits pay off, while irregular hours are felt more quickly than usual in your energy. Your energy may be stretched by many demands on your time, so pace yourself, rest before you are exhausted and avoid overcommitting. Health and energy are at their best from September 2026 to November 2026. Health needs the most care from March 2027 to April 2027; keep a steady routine and timely check-ups.",
+          "hi": "इस वर्ष अच्छे अभ्यास फल देते हैं, जबकि अनियमित समय-सारिणी का प्रभाव ऊर्जा पर सामान्य से शीघ्र अनुभव होता है। समय पर अनेक माँगों के कारण आपकी ऊर्जा खिंच सकती है, अतः अपनी गति संयत रखें, थकान से पहले विश्राम करें और अधिक दायित्व लेने से बचें। सितंबर 2026 से नवंबर 2026 तक स्वास्थ्य और ऊर्जा सबसे अच्छी रहती है। मार्च 2027 से अप्रैल 2027 तक स्वास्थ्य को सबसे अधिक सावधानी चाहिए; दिनचर्या स्थिर रखें और समय पर जाँच कराएँ।"
         }
       },
       {
         "area": "education",
         "level": "mixed",
+        "rules": [],
         "text": {
-          "en": "This year, learning moves ahead, though focus may waver; short, regular study sessions work better than long ones. A teacher, a mentor or a study partner is likely to make a real difference, so seek guidance early rather than struggling alone.",
-          "hi": "इस वर्ष अध्ययन आगे बढ़ता है, यद्यपि एकाग्रता डगमगा सकती है; लंबे सत्रों की अपेक्षा छोटे, नियमित अध्ययन-सत्र अधिक उपयोगी रहते हैं। कोई शिक्षक, मार्गदर्शक या अध्ययन-साथी वास्तविक अंतर ला सकता है, अतः अकेले संघर्ष करने के स्थान पर आरंभ में ही मार्गदर्शन लें।"
+          "en": "This year, learning moves ahead, though focus may waver; short, regular study sessions work better than long ones. A teacher, a mentor or a study partner is likely to make a real difference, so seek guidance early rather than struggling alone. Studies need the most steady effort from December 2026 to January 2027.",
+          "hi": "इस वर्ष अध्ययन आगे बढ़ता है, यद्यपि एकाग्रता डगमगा सकती है; लंबे सत्रों की अपेक्षा छोटे, नियमित अध्ययन-सत्र अधिक उपयोगी रहते हैं। कोई शिक्षक, मार्गदर्शक या अध्ययन-साथी वास्तविक अंतर ला सकता है, अतः अकेले संघर्ष करने के स्थान पर आरंभ में ही मार्गदर्शन लें। दिसंबर 2026 से जनवरी 2027 तक अध्ययन के लिए सबसे अधिक स्थिर प्रयास चाहिए।"
         }
       },
       {
         "area": "home",
         "level": "mixed",
+        "rules": [],
         "text": {
           "en": "This year, a move or renovation is possible, yet it may involve more planning than expected, so avoid rushing the details. A property or home opportunity may have passed you by, so look after what you have and wait for a better-timed opening.",
           "hi": "इस वर्ष गृह-परिवर्तन या नवीनीकरण संभव है, पर उसमें अपेक्षा से अधिक योजना लग सकती है, अतः विवरणों में उतावली न करें। संपत्ति या घर से जुड़ा कोई अवसर निकल चुका हो सकता है, अतः जो आपके पास है उसकी देखभाल करें और उचित समय पर आने वाले अवसर की प्रतीक्षा करें।"
@@ -53,9 +78,10 @@
       {
         "area": "travel",
         "level": "mixed",
+        "rules": [],
         "text": {
-          "en": "This year, travel is possible, though plans may change once or twice, so keep bookings flexible and your documents ready. Someone's help, perhaps a host, a sponsor or a well-connected friend, is likely to open the way for a journey or a move.",
-          "hi": "इस वर्ष यात्रा संभव है, यद्यपि योजनाएँ एक-दो बार बदल सकती हैं, अतः आरक्षण लचीले रखें और प्रलेख तैयार रखें। किसी का सहयोग, संभवतः किसी आतिथेय, प्रायोजक या अच्छे संपर्कों वाले मित्र का, यात्रा या स्थान-परिवर्तन का मार्ग खोल सकता है।"
+          "en": "This year, travel is possible, though plans may change once or twice, so keep bookings flexible and your documents ready. Someone's help, perhaps a host, a sponsor or a well-connected friend, is likely to open the way for a journey or a move. Travel and long-distance plans go best from September 2026 to October 2026. Travel needs the most care from October 2026 to November 2026; plan journeys carefully then.",
+          "hi": "इस वर्ष यात्रा संभव है, यद्यपि योजनाएँ एक-दो बार बदल सकती हैं, अतः आरक्षण लचीले रखें और प्रलेख तैयार रखें। किसी का सहयोग, संभवतः किसी आतिथेय, प्रायोजक या अच्छे संपर्कों वाले मित्र का, यात्रा या स्थान-परिवर्तन का मार्ग खोल सकता है। यात्रा और दूर की योजनाएँ सितंबर 2026 से अक्टूबर 2026 तक सबसे अच्छी रहती हैं। अक्टूबर 2026 से नवंबर 2026 तक यात्रा को सबसे अधिक सावधानी चाहिए; तब यात्राएँ सोच-समझकर करें।"
         }
       }
     ],
@@ -119,9 +145,13 @@
             {
               "code": "karaka_strong",
               "source": "Charak bk 171"
+            },
+            {
+              "code": "year_lord_is_karaka",
+              "source": "Charak bk 83-85"
             }
           ],
-          "score": 1.875,
+          "score": 2.75,
           "yogas": [
             {
               "factor": "helped",
@@ -149,29 +179,6 @@
             {
               "factor": "passed",
               "graha": {
-                "id": "moon",
-                "name": "Moon",
-                "names": {
-                  "en": "Moon",
-                  "hi": "चंद्र"
-                }
-              },
-              "house": 5,
-              "karyesha": {
-                "id": "saturn",
-                "name": "Saturn",
-                "names": {
-                  "en": "Saturn",
-                  "hi": "शनि"
-                }
-              },
-              "kinds": ["ishrafa"],
-              "source": "year_lord",
-              "weight": -1
-            },
-            {
-              "factor": "passed",
-              "graha": {
                 "id": "mercury",
                 "name": "Mercury",
                 "names": {
@@ -191,29 +198,6 @@
               "kinds": ["ishrafa", "dutthottha_davira"],
               "source": "lagna_lord",
               "weight": -1
-            },
-            {
-              "factor": "fulfils",
-              "graha": {
-                "id": "moon",
-                "name": "Moon",
-                "names": {
-                  "en": "Moon",
-                  "hi": "चंद्र"
-                }
-              },
-              "house": 4,
-              "karyesha": {
-                "id": "jupiter",
-                "name": "Jupiter",
-                "names": {
-                  "en": "Jupiter",
-                  "hi": "गुरु"
-                }
-              },
-              "kinds": ["poorna_ithasala", "rudda"],
-              "source": "year_lord",
-              "weight": 0.75
             },
             {
               "factor": "helped",
@@ -361,13 +345,9 @@
             {
               "code": "tajika_yoga",
               "source": "Charak bk 109-145"
-            },
-            {
-              "code": "year_lord_is_karaka",
-              "source": "Charak bk 83-85"
             }
           ],
-          "score": 2.5,
+          "score": 1,
           "yogas": [
             {
               "factor": "passed",
@@ -391,29 +371,6 @@
               "kinds": ["ishrafa", "dutthottha_davira"],
               "source": "lagna_lord",
               "weight": -2
-            },
-            {
-              "factor": "fulfils",
-              "graha": {
-                "id": "moon",
-                "name": "Moon",
-                "names": {
-                  "en": "Moon",
-                  "hi": "चंद्र"
-                }
-              },
-              "house": 4,
-              "karyesha": {
-                "id": "jupiter",
-                "name": "Jupiter",
-                "names": {
-                  "en": "Jupiter",
-                  "hi": "गुरु"
-                }
-              },
-              "kinds": ["poorna_ithasala", "rudda"],
-              "source": "year_lord",
-              "weight": 1.5
             }
           ]
         },
@@ -473,11 +430,19 @@
               "source": "Charak bk 171"
             },
             {
+              "code": "year_lord_is_karaka",
+              "source": "Charak bk 83-85"
+            },
+            {
               "code": "natal_promise_guard",
               "source": "Charak bk 3, 8, 145, 171"
+            },
+            {
+              "code": "tajika_neelakanthi_house_rules",
+              "source": "Tajika Neelakanthi Bhava-vichara pp.207-250"
             }
           ],
-          "score": 4.5,
+          "score": 5.125,
           "yogas": [
             {
               "factor": "helped",
@@ -524,6 +489,29 @@
               "kinds": ["yamaya", "dutthottha_davira"],
               "source": "lagna_lord",
               "weight": 2
+            },
+            {
+              "factor": "blocked",
+              "graha": {
+                "id": "jupiter",
+                "name": "Jupiter",
+                "names": {
+                  "en": "Jupiter",
+                  "hi": "गुरु"
+                }
+              },
+              "house": 11,
+              "karyesha": {
+                "id": "moon",
+                "name": "Moon",
+                "names": {
+                  "en": "Moon",
+                  "hi": "चंद्र"
+                }
+              },
+              "kinds": ["vartamana_ithasala", "rudda"],
+              "source": "year_lord",
+              "weight": -0.75
             }
           ]
         },
@@ -589,9 +577,13 @@
             {
               "code": "karaka_strong",
               "source": "Charak bk 171"
+            },
+            {
+              "code": "tajika_neelakanthi_house_rules",
+              "source": "Tajika Neelakanthi Bhava-vichara pp.207-250"
             }
           ],
-          "score": 3,
+          "score": 2.333333333333333,
           "yogas": [
             {
               "factor": "passed",
@@ -617,29 +609,6 @@
               "weight": -2
             },
             {
-              "factor": "fulfils",
-              "graha": {
-                "id": "moon",
-                "name": "Moon",
-                "names": {
-                  "en": "Moon",
-                  "hi": "चंद्र"
-                }
-              },
-              "house": 7,
-              "karyesha": {
-                "id": "jupiter",
-                "name": "Jupiter",
-                "names": {
-                  "en": "Jupiter",
-                  "hi": "गुरु"
-                }
-              },
-              "kinds": ["poorna_ithasala", "rudda"],
-              "source": "year_lord",
-              "weight": 1.5
-            },
-            {
               "factor": "helped",
               "graha": {
                 "id": "mercury",
@@ -661,29 +630,6 @@
               "kinds": ["dutthottha_davira"],
               "source": "lagna_lord",
               "weight": 0.5
-            },
-            {
-              "factor": "passed",
-              "graha": {
-                "id": "moon",
-                "name": "Moon",
-                "names": {
-                  "en": "Moon",
-                  "hi": "चंद्र"
-                }
-              },
-              "house": 5,
-              "karyesha": {
-                "id": "saturn",
-                "name": "Saturn",
-                "names": {
-                  "en": "Saturn",
-                  "hi": "शनि"
-                }
-              },
-              "kinds": ["ishrafa"],
-              "source": "year_lord",
-              "weight": -0.5
             }
           ]
         },
@@ -715,10 +661,6 @@
           },
           "reasons": [
             {
-              "code": "house_year_lord_or_strong_planet",
-              "source": "Charak bk 174"
-            },
-            {
               "code": "karyesha_strength",
               "source": "Charak bk 109-111, 144"
             },
@@ -743,15 +685,15 @@
               "source": "Charak bk 174-175"
             },
             {
-              "code": "occupant_unfavourable_house",
-              "source": "Charak ch. IX, bk 93-107"
+              "code": "house_year_lord_or_strong_planet",
+              "source": "Charak bk 174"
             },
             {
-              "code": "year_lord_is_karaka",
-              "source": "Charak bk 83-85"
+              "code": "occupant_unfavourable_house",
+              "source": "Charak ch. IX, bk 93-107"
             }
           ],
-          "score": 2.4375,
+          "score": 1.25,
           "yogas": [
             {
               "factor": "helped",
@@ -795,18 +737,18 @@
                   "hi": "सूर्य"
                 }
               },
-              "kinds": ["poorna_ithasala", "rudda", "duhphali_kuttha"],
+              "kinds": ["vartamana_ithasala", "rudda", "duhphali_kuttha"],
               "source": "lagna_lord",
               "weight": -0.75
             },
             {
-              "factor": "fulfils",
+              "factor": "passed",
               "graha": {
-                "id": "moon",
-                "name": "Moon",
+                "id": "jupiter",
+                "name": "Jupiter",
                 "names": {
-                  "en": "Moon",
-                  "hi": "चंद्र"
+                  "en": "Jupiter",
+                  "hi": "गुरु"
                 }
               },
               "house": 12,
@@ -818,15 +760,15 @@
                   "hi": "सूर्य"
                 }
               },
-              "kinds": ["yamaya"],
+              "kinds": ["ishrafa"],
               "source": "year_lord",
-              "weight": 0.375
+              "weight": -0.5
             }
           ]
         },
         "work": {
           "danger": false,
-          "factor": "fulfils",
+          "factor": "passed",
           "house": 10,
           "karyesha": {
             "id": "mercury",
@@ -886,18 +828,22 @@
             {
               "code": "karaka_afflicted",
               "source": "Charak bk 171"
+            },
+            {
+              "code": "tajika_neelakanthi_house_rules",
+              "source": "Tajika Neelakanthi Bhava-vichara pp.207-250"
             }
           ],
-          "score": 2.25,
+          "score": 0.5,
           "yogas": [
             {
-              "factor": "fulfils",
+              "factor": "passed",
               "graha": {
-                "id": "moon",
-                "name": "Moon",
+                "id": "jupiter",
+                "name": "Jupiter",
                 "names": {
-                  "en": "Moon",
-                  "hi": "चंद्र"
+                  "en": "Jupiter",
+                  "hi": "गुरु"
                 }
               },
               "house": 10,
@@ -909,9 +855,9 @@
                   "hi": "बुध"
                 }
               },
-              "kinds": ["yamaya"],
+              "kinds": ["ishrafa"],
               "source": "year_lord",
-              "weight": 0.75
+              "weight": -1
             }
           ]
         }
@@ -927,9 +873,9 @@
             }
           },
           "house": 7,
-          "roles": ["natal_lagna_lord", "muntha_lord", "year_lord"],
+          "roles": ["natal_lagna_lord", "muntha_lord"],
           "strong": false,
-          "vb": 9.286468663855409,
+          "vb": 9.286470210416736,
           "weak": false
         },
         {
@@ -944,7 +890,7 @@
           "house": 8,
           "roles": ["annual_lagna_lord"],
           "strong": false,
-          "vb": 7.791106981304172,
+          "vb": 7.791107208014779,
           "weak": true
         },
         {
@@ -959,8 +905,23 @@
           "house": 8,
           "roles": ["annual_eighth_lord"],
           "strong": false,
-          "vb": 17.274139376783737,
+          "vb": 17.27413929694507,
           "weak": true
+        },
+        {
+          "graha": {
+            "id": "jupiter",
+            "name": "Jupiter",
+            "names": {
+              "en": "Jupiter",
+              "hi": "गुरु"
+            }
+          },
+          "house": 10,
+          "roles": ["year_lord"],
+          "strong": true,
+          "vb": 14.145310332119532,
+          "weak": false
         }
       ],
       "months": [
@@ -1027,10 +988,6 @@
             {
               "code": "period_lord_rules_good_house",
               "source": "Charak bk 16"
-            },
-            {
-              "code": "period_lord_is_year_lord",
-              "source": "Charak bk 82"
             }
           ],
           "score": 0
@@ -1098,9 +1055,13 @@
             {
               "code": "period_lord_class",
               "source": "Charak bk 73-75"
+            },
+            {
+              "code": "period_lord_is_year_lord",
+              "source": "Charak bk 82"
             }
           ],
-          "score": 1
+          "score": 1.5
         },
         {
           "lord": {
@@ -1238,8 +1199,16 @@
         "natal_gate": false,
         "reasons": [
           {
-            "code": "year_lord_medium",
+            "code": "year_lord_full_strength",
             "source": "Charak bk 62-63, 83"
+          },
+          {
+            "code": "year_lord_strong_in_kendra",
+            "source": "Charak bk 194"
+          },
+          {
+            "code": "five_lord_strong",
+            "source": "Charak bk 174"
           },
           {
             "code": "five_lord_weak_or_6_8_12",
@@ -1262,7 +1231,7 @@
             "source": "Charak bk 174-175"
           }
         ],
-        "score": 0
+        "score": 4
       },
       "switches": {
         "functional": {
@@ -1270,7 +1239,8 @@
           "house_pair_sadharmi": true,
           "kendradhipati_class": "jha_inauspicious_light",
           "kt_relation": "jha_placement",
-          "lagna_eighth": "jha_neutral",
+          "lagna_eighth": "rao_lagna_prevails",
+          "lagna_kendra": "rao_auspicious",
           "luminaries_maraka": true,
           "luminary_eighth": "jha_small_blemish",
           "mercury_alone": "jha_sama",
@@ -1279,6 +1249,8 @@
           "node_same_kind_yk": false,
           "node_with_eighth": "acts_as_eighth_lord",
           "prime_maraka": "second",
+          "rao_luminary_maraka_low": true,
+          "rao_maraka_list": true,
           "second_twelfth": "jha_companion_first",
           "trikona_eighth": "jha_facilitator",
           "trikona_sixth": "by_house_rank",
@@ -1294,7 +1266,7 @@
           "natal_guard_min_afflictions": 1,
           "node_strength_proxy": true,
           "roga_saham_formula": "charak",
-          "roga_saham_trigger": false,
+          "roga_saham_trigger": true,
           "rudda_needs_fast_planet": true,
           "scale_mudda_to_year": true,
           "year_lord_combust_retro_lowers": true,
@@ -1304,27 +1276,725 @@
       "year_lord": {
         "combust": false,
         "graha": {
-          "id": "moon",
-          "name": "Moon",
+          "id": "jupiter",
+          "name": "Jupiter",
           "names": {
-            "en": "Moon",
-            "hi": "चंद्र"
+            "en": "Jupiter",
+            "hi": "गुरु"
           }
         },
-        "placement_house": 7,
+        "placement_house": 10,
         "reasons": [
           {
-            "code": "year_lord_medium",
+            "code": "year_lord_full_strength",
             "source": "Charak bk 62-63, 83"
           }
         ],
         "retrograde": false,
-        "score": 9.286468663855409,
-        "strength_class": "medium",
-        "vb_class": "medium"
+        "score": 14.145310332119532,
+        "strength_class": "strong",
+        "vb_class": "full"
       }
     },
     "from": "2026-05-14T10:33:33.967Z",
+    "monthly": [
+      {
+        "areas": [
+          {
+            "area": "health",
+            "good": false
+          },
+          {
+            "area": "travel",
+            "good": false
+          }
+        ],
+        "best": {
+          "from": "2026-05-14T16:46:49.186Z",
+          "to": "2026-05-16T05:19:41.633Z"
+        },
+        "care": false,
+        "from": "2026-05-14T10:33:33.967Z",
+        "hard": {
+          "from": "2026-06-12T23:53:00.895Z",
+          "to": "2026-06-14T16:56:04.319Z"
+        },
+        "level": "favourable",
+        "lord": {
+          "id": "jupiter",
+          "name": "Jupiter",
+          "names": {
+            "en": "Jupiter",
+            "hi": "गुरु"
+          }
+        },
+        "lord_strength": "strong",
+        "month": 1,
+        "muntha": {
+          "id": "cancer",
+          "name": "Cancer",
+          "names": {
+            "en": "Cancer",
+            "hi": "कर्क"
+          }
+        },
+        "reasons": [
+          {
+            "code": "month_lord_strength",
+            "source": "Tajika Neelakanthi p.272 v.6"
+          },
+          {
+            "code": "month_patyayini_segments",
+            "source": "Tajika Neelakanthi p.276 vv.14-15"
+          },
+          {
+            "code": "month_house_navamsha_lords",
+            "source": "Tajika Neelakanthi p.274 v.9"
+          }
+        ],
+        "rise": false,
+        "text": {
+          "en": "14 May 2026 to 13 June 2026: a supportive month, good for moving plans forward. Jupiter guides this month and is strong, so its matters tend to go well. Give extra care to health and travel during these weeks. The best days are from 14 May 2026 to 16 May 2026. Go carefully from 13 June 2026 to 14 June 2026.",
+          "hi": "14 मई 2026 से 13 जून 2026: एक सहायक महीना, योजनाओं को आगे बढ़ाने के लिए अच्छा। इस महीने का मार्गदर्शक ग्रह गुरु बलवान है, इसलिए इसके विषय प्रायः अच्छे चलते हैं। इन सप्ताहों में स्वास्थ्य और यात्रा पर विशेष ध्यान दें। सबसे अच्छे दिन 14 मई 2026 से 16 मई 2026 तक हैं। 13 जून 2026 से 14 जून 2026 तक सावधानी से चलें।"
+        },
+        "to": "2026-06-14T16:56:04.319Z"
+      },
+      {
+        "areas": [
+          {
+            "area": "money",
+            "good": true
+          }
+        ],
+        "best": null,
+        "care": false,
+        "from": "2026-06-14T16:56:04.319Z",
+        "hard": null,
+        "level": "mixed",
+        "lord": {
+          "id": "venus",
+          "name": "Venus",
+          "names": {
+            "en": "Venus",
+            "hi": "शुक्र"
+          }
+        },
+        "lord_strength": "strong",
+        "month": 2,
+        "muntha": {
+          "id": "cancer",
+          "name": "Cancer",
+          "names": {
+            "en": "Cancer",
+            "hi": "कर्क"
+          }
+        },
+        "reasons": [
+          {
+            "code": "month_lord_strength",
+            "source": "Tajika Neelakanthi p.272 v.6"
+          },
+          {
+            "code": "month_patyayini_segments",
+            "source": "Tajika Neelakanthi p.276 vv.14-15"
+          },
+          {
+            "code": "month_house_navamsha_lords",
+            "source": "Tajika Neelakanthi p.274 v.9"
+          }
+        ],
+        "rise": false,
+        "text": {
+          "en": "14 June 2026 to 15 July 2026: an uneven month; steady effort keeps it on track. This month is guided by Venus, which is strong now, so its matters move forward. Above all, the month favours money matters; make the most of it.",
+          "hi": "14 जून 2026 से 15 जुलाई 2026: असमान महीना; निरंतर प्रयास इसे सही दिशा में रखता है। इस महीने शुक्र का मार्गदर्शन है और वह बलवान है, इसलिए इसके विषय आगे बढ़ते हैं। विशेष रूप से यह महीना धन के अनुकूल है; इसका पूरा लाभ उठाएँ।"
+        },
+        "to": "2026-07-16T03:41:13.185Z"
+      },
+      {
+        "areas": [
+          {
+            "area": "relationships",
+            "good": true
+          }
+        ],
+        "best": null,
+        "care": false,
+        "from": "2026-07-16T03:41:13.185Z",
+        "hard": null,
+        "level": "mixed",
+        "lord": {
+          "id": "mercury",
+          "name": "Mercury",
+          "names": {
+            "en": "Mercury",
+            "hi": "बुध"
+          }
+        },
+        "lord_strength": "strong",
+        "month": 3,
+        "muntha": {
+          "id": "cancer",
+          "name": "Cancer",
+          "names": {
+            "en": "Cancer",
+            "hi": "कर्क"
+          }
+        },
+        "reasons": [
+          {
+            "code": "month_lord_strength",
+            "source": "Tajika Neelakanthi p.272 v.6"
+          },
+          {
+            "code": "month_patyayini_segments",
+            "source": "Tajika Neelakanthi p.276 vv.14-15"
+          },
+          {
+            "code": "month_house_navamsha_lords",
+            "source": "Tajika Neelakanthi p.274 v.9"
+          }
+        ],
+        "rise": false,
+        "text": {
+          "en": "16 July 2026 to 15 August 2026: a month of ups and downs; choose your priorities carefully. With Mercury guiding the month in full strength, effort is well rewarded. Above all, the month favours relationships; make the most of it.",
+          "hi": "16 जुलाई 2026 से 15 अगस्त 2026: उतार-चढ़ाव का महीना; प्राथमिकताएँ सोच-समझकर चुनें। पूर्ण बल वाले बुध के मार्गदर्शन में इस महीने प्रयास का अच्छा फल मिलता है। विशेष रूप से यह महीना संबंधों के अनुकूल है; इसका पूरा लाभ उठाएँ।"
+        },
+        "to": "2026-08-16T12:07:01.994Z"
+      },
+      {
+        "areas": [
+          {
+            "area": "work",
+            "good": false
+          },
+          {
+            "area": "money",
+            "good": false
+          },
+          {
+            "area": "education",
+            "good": false
+          }
+        ],
+        "best": null,
+        "care": false,
+        "from": "2026-08-16T12:07:01.994Z",
+        "hard": {
+          "from": "2026-08-16T12:07:01.994Z",
+          "to": "2026-09-03T12:59:53.578Z"
+        },
+        "level": "favourable",
+        "lord": {
+          "id": "mercury",
+          "name": "Mercury",
+          "names": {
+            "en": "Mercury",
+            "hi": "बुध"
+          }
+        },
+        "lord_strength": "strong",
+        "month": 4,
+        "muntha": {
+          "id": "cancer",
+          "name": "Cancer",
+          "names": {
+            "en": "Cancer",
+            "hi": "कर्क"
+          }
+        },
+        "reasons": [
+          {
+            "code": "month_lord_strength",
+            "source": "Tajika Neelakanthi p.272 v.6"
+          },
+          {
+            "code": "month_three_lords_strong",
+            "source": "Tajika Neelakanthi p.276 v.13"
+          },
+          {
+            "code": "month_patyayini_segments",
+            "source": "Tajika Neelakanthi p.276 vv.14-15"
+          },
+          {
+            "code": "month_house_navamsha_lords",
+            "source": "Tajika Neelakanthi p.274 v.9"
+          }
+        ],
+        "rise": true,
+        "text": {
+          "en": "16 August 2026 to 15 September 2026: a supportive month, good for moving plans forward. Mercury guides this month and is strong, so its matters tend to go well. The planets that rule the year stand well this month, favouring health, recognition and success over rivals. Give extra care to work, money matters and studies during these weeks. Go carefully from 16 August 2026 to 3 September 2026.",
+          "hi": "16 अगस्त 2026 से 15 सितंबर 2026: एक सहायक महीना, योजनाओं को आगे बढ़ाने के लिए अच्छा। इस महीने का मार्गदर्शक ग्रह बुध बलवान है, इसलिए इसके विषय प्रायः अच्छे चलते हैं। वर्ष के शासक ग्रह इस महीने अच्छी स्थिति में हैं, जो स्वास्थ्य, मान्यता और प्रतिद्वंद्वियों पर सफलता के अनुकूल है। इन सप्ताहों में कार्य, धन और अध्ययन पर विशेष ध्यान दें। 16 अगस्त 2026 से 3 सितंबर 2026 तक सावधानी से चलें।"
+        },
+        "to": "2026-09-16T12:13:24.670Z"
+      },
+      {
+        "areas": [
+          {
+            "area": "health",
+            "good": true
+          },
+          {
+            "area": "travel",
+            "good": true
+          }
+        ],
+        "best": null,
+        "care": false,
+        "from": "2026-09-16T12:13:24.670Z",
+        "hard": {
+          "from": "2026-10-03T08:25:42.626Z",
+          "to": "2026-10-17T00:26:34.884Z"
+        },
+        "level": "mixed",
+        "lord": {
+          "id": "sun",
+          "name": "Sun",
+          "names": {
+            "en": "Sun",
+            "hi": "सूर्य"
+          }
+        },
+        "lord_strength": "strong",
+        "month": 5,
+        "muntha": {
+          "id": "cancer",
+          "name": "Cancer",
+          "names": {
+            "en": "Cancer",
+            "hi": "कर्क"
+          }
+        },
+        "reasons": [
+          {
+            "code": "month_lord_strength",
+            "source": "Tajika Neelakanthi p.272 v.6"
+          },
+          {
+            "code": "month_patyayini_segments",
+            "source": "Tajika Neelakanthi p.276 vv.14-15"
+          },
+          {
+            "code": "month_house_navamsha_lords",
+            "source": "Tajika Neelakanthi p.274 v.9"
+          }
+        ],
+        "rise": false,
+        "text": {
+          "en": "16 September 2026 to 16 October 2026: an uneven month; steady effort keeps it on track. This month is guided by Sun, which is strong now, so its matters move forward. Above all, the month favours health and travel; make the most of it. Go carefully from 3 October 2026 to 17 October 2026.",
+          "hi": "16 सितंबर 2026 से 16 अक्टूबर 2026: असमान महीना; निरंतर प्रयास इसे सही दिशा में रखता है। इस महीने सूर्य का मार्गदर्शन है और वह बलवान है, इसलिए इसके विषय आगे बढ़ते हैं। विशेष रूप से यह महीना स्वास्थ्य और यात्रा के अनुकूल है; इसका पूरा लाभ उठाएँ। 3 अक्टूबर 2026 से 17 अक्टूबर 2026 तक सावधानी से चलें।"
+        },
+        "to": "2026-10-17T00:26:34.884Z"
+      },
+      {
+        "areas": [
+          {
+            "area": "health",
+            "good": true
+          },
+          {
+            "area": "travel",
+            "good": false
+          }
+        ],
+        "best": null,
+        "care": false,
+        "from": "2026-10-17T00:26:34.884Z",
+        "hard": {
+          "from": "2026-10-17T00:26:34.884Z",
+          "to": "2026-10-30T17:51:51.745Z"
+        },
+        "level": "mixed",
+        "lord": {
+          "id": "jupiter",
+          "name": "Jupiter",
+          "names": {
+            "en": "Jupiter",
+            "hi": "गुरु"
+          }
+        },
+        "lord_strength": "strong",
+        "month": 6,
+        "muntha": {
+          "id": "cancer",
+          "name": "Cancer",
+          "names": {
+            "en": "Cancer",
+            "hi": "कर्क"
+          }
+        },
+        "reasons": [
+          {
+            "code": "month_lord_strength",
+            "source": "Tajika Neelakanthi p.272 v.6"
+          },
+          {
+            "code": "month_patyayini_segments",
+            "source": "Tajika Neelakanthi p.276 vv.14-15"
+          },
+          {
+            "code": "month_house_navamsha_lords",
+            "source": "Tajika Neelakanthi p.274 v.9"
+          }
+        ],
+        "rise": false,
+        "text": {
+          "en": "17 October 2026 to 15 November 2026: a month of ups and downs; choose your priorities carefully. With Jupiter guiding the month in full strength, effort is well rewarded. Above all, the month favours health; make the most of it. Give extra care to travel during these weeks. Go carefully from 17 October 2026 to 30 October 2026.",
+          "hi": "17 अक्टूबर 2026 से 15 नवंबर 2026: उतार-चढ़ाव का महीना; प्राथमिकताएँ सोच-समझकर चुनें। पूर्ण बल वाले गुरु के मार्गदर्शन में इस महीने प्रयास का अच्छा फल मिलता है। विशेष रूप से यह महीना स्वास्थ्य के अनुकूल है; इसका पूरा लाभ उठाएँ। इन सप्ताहों में यात्रा पर विशेष ध्यान दें। 17 अक्टूबर 2026 से 30 अक्टूबर 2026 तक सावधानी से चलें।"
+        },
+        "to": "2026-11-16T00:30:54.293Z"
+      },
+      {
+        "areas": [],
+        "best": {
+          "from": "2026-12-03T15:10:47.602Z",
+          "to": "2026-12-14T09:32:23.102Z"
+        },
+        "care": false,
+        "from": "2026-11-16T00:30:54.293Z",
+        "hard": {
+          "from": "2026-11-18T10:23:04.363Z",
+          "to": "2026-11-19T13:58:12.933Z"
+        },
+        "level": "favourable",
+        "lord": {
+          "id": "mercury",
+          "name": "Mercury",
+          "names": {
+            "en": "Mercury",
+            "hi": "बुध"
+          }
+        },
+        "lord_strength": "strong",
+        "month": 7,
+        "muntha": {
+          "id": "cancer",
+          "name": "Cancer",
+          "names": {
+            "en": "Cancer",
+            "hi": "कर्क"
+          }
+        },
+        "reasons": [
+          {
+            "code": "month_lord_strength",
+            "source": "Tajika Neelakanthi p.272 v.6"
+          },
+          {
+            "code": "month_three_lords_strong",
+            "source": "Tajika Neelakanthi p.276 v.13"
+          },
+          {
+            "code": "month_patyayini_segments",
+            "source": "Tajika Neelakanthi p.276 vv.14-15"
+          }
+        ],
+        "rise": true,
+        "text": {
+          "en": "16 November 2026 to 14 December 2026: a supportive month, good for moving plans forward. Mercury guides this month and is strong, so its matters tend to go well. The planets that rule the year stand well this month, favouring health, recognition and success over rivals. The best days are from 3 December 2026 to 14 December 2026. Go carefully from 18 November 2026 to 19 November 2026.",
+          "hi": "16 नवंबर 2026 से 14 दिसंबर 2026: एक सहायक महीना, योजनाओं को आगे बढ़ाने के लिए अच्छा। इस महीने का मार्गदर्शक ग्रह बुध बलवान है, इसलिए इसके विषय प्रायः अच्छे चलते हैं। वर्ष के शासक ग्रह इस महीने अच्छी स्थिति में हैं, जो स्वास्थ्य, मान्यता और प्रतिद्वंद्वियों पर सफलता के अनुकूल है। सबसे अच्छे दिन 3 दिसंबर 2026 से 14 दिसंबर 2026 तक हैं। 18 नवंबर 2026 से 19 नवंबर 2026 तक सावधानी से चलें।"
+        },
+        "to": "2026-12-15T15:20:39.136Z"
+      },
+      {
+        "areas": [
+          {
+            "area": "work",
+            "good": false
+          },
+          {
+            "area": "money",
+            "good": false
+          },
+          {
+            "area": "education",
+            "good": false
+          },
+          {
+            "area": "travel",
+            "good": false
+          }
+        ],
+        "best": {
+          "from": "2026-12-15T15:20:39.136Z",
+          "to": "2026-12-24T06:57:22.921Z"
+        },
+        "care": false,
+        "from": "2026-12-15T15:20:39.136Z",
+        "hard": null,
+        "level": "mixed",
+        "lord": {
+          "id": "saturn",
+          "name": "Saturn",
+          "names": {
+            "en": "Saturn",
+            "hi": "शनि"
+          }
+        },
+        "lord_strength": "medium",
+        "month": 8,
+        "muntha": {
+          "id": "cancer",
+          "name": "Cancer",
+          "names": {
+            "en": "Cancer",
+            "hi": "कर्क"
+          }
+        },
+        "reasons": [
+          {
+            "code": "month_lord_strength",
+            "source": "Tajika Neelakanthi p.272 v.6"
+          },
+          {
+            "code": "month_patyayini_segments",
+            "source": "Tajika Neelakanthi p.276 vv.14-15"
+          },
+          {
+            "code": "month_house_navamsha_lords",
+            "source": "Tajika Neelakanthi p.274 v.9"
+          }
+        ],
+        "rise": false,
+        "text": {
+          "en": "15 December 2026 to 13 January 2027: an uneven month; steady effort keeps it on track. This month is guided by Saturn at moderate strength, so progress is steady rather than quick. Give extra care to work, money matters, studies and travel during these weeks. The best days are from 15 December 2026 to 24 December 2026.",
+          "hi": "15 दिसंबर 2026 से 13 जनवरी 2027: असमान महीना; निरंतर प्रयास इसे सही दिशा में रखता है। इस महीने शनि मध्यम बल से मार्गदर्शन करता है, इसलिए प्रगति तेज़ नहीं, स्थिर रहती है। इन सप्ताहों में कार्य, धन, अध्ययन और यात्रा पर विशेष ध्यान दें। सबसे अच्छे दिन 15 दिसंबर 2026 से 24 दिसंबर 2026 तक हैं।"
+        },
+        "to": "2027-01-14T02:07:08.751Z"
+      },
+      {
+        "areas": [],
+        "best": null,
+        "care": false,
+        "from": "2027-01-14T02:07:08.751Z",
+        "hard": null,
+        "level": "mixed",
+        "lord": {
+          "id": "saturn",
+          "name": "Saturn",
+          "names": {
+            "en": "Saturn",
+            "hi": "शनि"
+          }
+        },
+        "lord_strength": "medium",
+        "month": 9,
+        "muntha": {
+          "id": "cancer",
+          "name": "Cancer",
+          "names": {
+            "en": "Cancer",
+            "hi": "कर्क"
+          }
+        },
+        "reasons": [
+          {
+            "code": "month_lord_strength",
+            "source": "Tajika Neelakanthi p.272 v.6"
+          },
+          {
+            "code": "month_patyayini_segments",
+            "source": "Tajika Neelakanthi p.276 vv.14-15"
+          }
+        ],
+        "rise": false,
+        "text": {
+          "en": "14 January 2027 to 11 February 2027: a month of ups and downs; choose your priorities carefully. Saturn guides the month without great strength; patient work brings the results.",
+          "hi": "14 जनवरी 2027 से 11 फ़रवरी 2027: उतार-चढ़ाव का महीना; प्राथमिकताएँ सोच-समझकर चुनें। शनि इस महीने अधिक बल के बिना मार्गदर्शन करता है; धैर्यपूर्ण कार्य से परिणाम मिलते हैं।"
+        },
+        "to": "2027-02-12T14:59:49.364Z"
+      },
+      {
+        "areas": [
+          {
+            "area": "relationships",
+            "good": false
+          }
+        ],
+        "best": {
+          "from": "2027-02-13T10:15:59.089Z",
+          "to": "2027-02-14T17:40:23.222Z"
+        },
+        "care": false,
+        "from": "2027-02-12T14:59:49.364Z",
+        "hard": {
+          "from": "2027-02-19T15:06:30.622Z",
+          "to": "2027-02-20T00:15:46.320Z"
+        },
+        "level": "mixed",
+        "lord": {
+          "id": "sun",
+          "name": "Sun",
+          "names": {
+            "en": "Sun",
+            "hi": "सूर्य"
+          }
+        },
+        "lord_strength": "strong",
+        "month": 10,
+        "muntha": {
+          "id": "leo",
+          "name": "Leo",
+          "names": {
+            "en": "Leo",
+            "hi": "सिंह"
+          }
+        },
+        "reasons": [
+          {
+            "code": "month_lord_strength",
+            "source": "Tajika Neelakanthi p.272 v.6"
+          },
+          {
+            "code": "month_patyayini_segments",
+            "source": "Tajika Neelakanthi p.276 vv.14-15"
+          },
+          {
+            "code": "month_house_navamsha_lords",
+            "source": "Tajika Neelakanthi p.274 v.9"
+          }
+        ],
+        "rise": false,
+        "text": {
+          "en": "12 February 2027 to 13 March 2027: a mixed month, with gains alongside some demands. Sun guides this month and is strong, so its matters tend to go well. Give extra care to relationships during these weeks. The best days are from 13 February 2027 to 14 February 2027. Go carefully from 19 February 2027 to 20 February 2027. The year's focus point moves into a new sign this month, shifting the year's emphasis.",
+          "hi": "12 फ़रवरी 2027 से 13 मार्च 2027: मिला-जुला महीना, लाभ के साथ कुछ माँगें भी। इस महीने का मार्गदर्शक ग्रह सूर्य बलवान है, इसलिए इसके विषय प्रायः अच्छे चलते हैं। इन सप्ताहों में संबंधों पर विशेष ध्यान दें। सबसे अच्छे दिन 13 फ़रवरी 2027 से 14 फ़रवरी 2027 तक हैं। 19 फ़रवरी 2027 से 20 फ़रवरी 2027 तक सावधानी से चलें। इस महीने वर्ष का केंद्र बिंदु (मुंथा) नई राशि में जाता है, जिससे वर्ष का ज़ोर बदलता है।"
+        },
+        "to": "2027-03-14T11:39:08.975Z"
+      },
+      {
+        "areas": [
+          {
+            "area": "work",
+            "good": true
+          },
+          {
+            "area": "relationships",
+            "good": true
+          },
+          {
+            "area": "health",
+            "good": false
+          },
+          {
+            "area": "education",
+            "good": true
+          },
+          {
+            "area": "travel",
+            "good": true
+          }
+        ],
+        "best": {
+          "from": "2027-04-03T20:26:43.286Z",
+          "to": "2027-04-03T21:45:47.406Z"
+        },
+        "care": true,
+        "from": "2027-03-14T11:39:08.975Z",
+        "hard": {
+          "from": "2027-03-14T11:39:08.975Z",
+          "to": "2027-03-24T01:36:08.120Z"
+        },
+        "level": "care",
+        "lord": {
+          "id": "jupiter",
+          "name": "Jupiter",
+          "names": {
+            "en": "Jupiter",
+            "hi": "गुरु"
+          }
+        },
+        "lord_strength": "strong",
+        "month": 11,
+        "muntha": {
+          "id": "leo",
+          "name": "Leo",
+          "names": {
+            "en": "Leo",
+            "hi": "सिंह"
+          }
+        },
+        "reasons": [
+          {
+            "code": "month_lord_strength",
+            "source": "Tajika Neelakanthi p.272 v.6"
+          },
+          {
+            "code": "month_lords_in_6_8_12",
+            "source": "Tajika Neelakanthi p.275 v.12"
+          },
+          {
+            "code": "month_patyayini_segments",
+            "source": "Tajika Neelakanthi p.276 vv.14-15"
+          },
+          {
+            "code": "month_house_navamsha_lords",
+            "source": "Tajika Neelakanthi p.274 v.9"
+          }
+        ],
+        "rise": false,
+        "text": {
+          "en": "14 March 2027 to 13 April 2027: a demanding month; go steadily and avoid risks. This month is guided by Jupiter, which is strong now, so its matters move forward. With the year's main planets under pressure, health and harmony with others need watching this month. Above all, the month favours work, relationships, studies and travel; make the most of it. Give extra care to health during these weeks. The best days are on 4 April 2027. Go carefully from 14 March 2027 to 24 March 2027.",
+          "hi": "14 मार्च 2027 से 13 अप्रैल 2027: कठिन महीना; धीरे-धीरे चलें और जोखिम से बचें। इस महीने गुरु का मार्गदर्शन है और वह बलवान है, इसलिए इसके विषय आगे बढ़ते हैं। वर्ष के प्रमुख ग्रह दबाव में होने से इस महीने स्वास्थ्य और दूसरों से सामंजस्य पर ध्यान देना आवश्यक है। विशेष रूप से यह महीना कार्य, संबंधों, अध्ययन और यात्रा के अनुकूल है; इसका पूरा लाभ उठाएँ। इन सप्ताहों में स्वास्थ्य पर विशेष ध्यान दें। सबसे अच्छे दिन 4 अप्रैल 2027 को हैं। 14 मार्च 2027 से 24 मार्च 2027 तक सावधानी से चलें।"
+        },
+        "to": "2027-04-13T19:52:55.334Z"
+      },
+      {
+        "areas": [
+          {
+            "area": "money",
+            "good": false
+          }
+        ],
+        "best": {
+          "from": "2027-05-12T07:22:44.322Z",
+          "to": "2027-05-12T11:33:55.779Z"
+        },
+        "care": false,
+        "from": "2027-04-13T19:52:55.334Z",
+        "hard": {
+          "from": "2027-04-13T21:18:32.728Z",
+          "to": "2027-04-14T02:14:11.858Z"
+        },
+        "level": "mixed",
+        "lord": {
+          "id": "sun",
+          "name": "Sun",
+          "names": {
+            "en": "Sun",
+            "hi": "सूर्य"
+          }
+        },
+        "lord_strength": "strong",
+        "month": 12,
+        "muntha": {
+          "id": "leo",
+          "name": "Leo",
+          "names": {
+            "en": "Leo",
+            "hi": "सिंह"
+          }
+        },
+        "reasons": [
+          {
+            "code": "month_lord_strength",
+            "source": "Tajika Neelakanthi p.272 v.6"
+          },
+          {
+            "code": "month_patyayini_segments",
+            "source": "Tajika Neelakanthi p.276 vv.14-15"
+          },
+          {
+            "code": "month_house_navamsha_lords",
+            "source": "Tajika Neelakanthi p.274 v.9"
+          }
+        ],
+        "rise": false,
+        "text": {
+          "en": "14 April 2027 to 13 May 2027: a month of ups and downs; choose your priorities carefully. With Sun guiding the month in full strength, effort is well rewarded. Give extra care to money matters during these weeks. The best days are on 12 May 2027. Go carefully on 14 April 2027.",
+          "hi": "14 अप्रैल 2027 से 13 मई 2027: उतार-चढ़ाव का महीना; प्राथमिकताएँ सोच-समझकर चुनें। पूर्ण बल वाले सूर्य के मार्गदर्शन में इस महीने प्रयास का अच्छा फल मिलता है। इन सप्ताहों में धन पर विशेष ध्यान दें। सबसे अच्छे दिन 12 मई 2027 को हैं। 14 अप्रैल 2027 को सावधानी से चलें।"
+        },
+        "to": "2027-05-14T16:30:46.120Z"
+      }
+    ],
     "months": [
       {
         "from": "2026-05-14T10:33:33.967Z",
@@ -1337,10 +2007,10 @@
             "hi": "शुक्र"
           }
         },
-        "to": "2026-06-24T14:51:42.905Z"
+        "to": "2026-06-24T14:51:42.587Z"
       },
       {
-        "from": "2026-06-24T14:51:42.905Z",
+        "from": "2026-06-24T14:51:42.587Z",
         "level": "care",
         "lord": {
           "id": "sun",
@@ -1350,10 +2020,10 @@
             "hi": "सूर्य"
           }
         },
-        "to": "2026-07-12T21:09:34.562Z"
+        "to": "2026-07-12T21:09:34.195Z"
       },
       {
-        "from": "2026-07-12T21:09:34.562Z",
+        "from": "2026-07-12T21:09:34.195Z",
         "level": "mixed",
         "lord": {
           "id": "moon",
@@ -1363,10 +2033,10 @@
             "hi": "चंद्र"
           }
         },
-        "to": "2026-08-12T07:39:20.657Z"
+        "to": "2026-08-12T07:39:20.208Z"
       },
       {
-        "from": "2026-08-12T07:39:20.657Z",
+        "from": "2026-08-12T07:39:20.208Z",
         "level": "mixed",
         "lord": {
           "id": "mars",
@@ -1376,10 +2046,10 @@
             "hi": "मंगल"
           }
         },
-        "to": "2026-09-02T15:00:10.924Z"
+        "to": "2026-09-02T15:00:10.417Z"
       },
       {
-        "from": "2026-09-02T15:00:10.924Z",
+        "from": "2026-09-02T15:00:10.417Z",
         "level": "favourable",
         "lord": {
           "id": "rahu",
@@ -1389,10 +2059,10 @@
             "hi": "राहु"
           }
         },
-        "to": "2026-10-27T09:53:45.895Z"
+        "to": "2026-10-27T09:53:45.239Z"
       },
       {
-        "from": "2026-10-27T09:53:45.895Z",
+        "from": "2026-10-27T09:53:45.239Z",
         "level": "favourable",
         "lord": {
           "id": "jupiter",
@@ -1402,10 +2072,10 @@
             "hi": "गुरु"
           }
         },
-        "to": "2026-12-15T02:41:23.647Z"
+        "to": "2026-12-15T02:41:22.860Z"
       },
       {
-        "from": "2026-12-15T02:41:23.647Z",
+        "from": "2026-12-15T02:41:22.860Z",
         "level": "care",
         "lord": {
           "id": "saturn",
@@ -1415,10 +2085,10 @@
             "hi": "शनि"
           }
         },
-        "to": "2027-02-10T22:37:57.228Z"
+        "to": "2027-02-10T22:37:56.284Z"
       },
       {
-        "from": "2027-02-10T22:37:57.228Z",
+        "from": "2027-02-10T22:37:56.284Z",
         "level": "care",
         "lord": {
           "id": "mercury",
@@ -1428,10 +2098,10 @@
             "hi": "बुध"
           }
         },
-        "to": "2027-04-03T16:28:33.590Z"
+        "to": "2027-04-03T16:28:32.506Z"
       },
       {
-        "from": "2027-04-03T16:28:33.590Z",
+        "from": "2027-04-03T16:28:32.506Z",
         "level": "favourable",
         "lord": {
           "id": "ketu",
@@ -1441,10 +2111,10 @@
             "hi": "केतु"
           }
         },
-        "to": "2027-04-24T23:49:23.856Z"
+        "to": "2027-04-24T23:49:22.715Z"
       },
       {
-        "from": "2027-04-24T23:49:23.856Z",
+        "from": "2027-04-24T23:49:22.715Z",
         "level": "favourable",
         "lord": {
           "id": "venus",
@@ -1454,17 +2124,1644 @@
             "hi": "शुक्र"
           }
         },
-        "to": "2027-05-14T16:30:47.109Z"
+        "to": "2027-05-14T16:30:46.120Z"
+      }
+    ],
+    "natal_promise": [
+      {
+        "active": false,
+        "house": 6,
+        "lord": {
+          "id": "jupiter",
+          "name": "Jupiter",
+          "names": {
+            "en": "Jupiter",
+            "hi": "गुरु"
+          }
+        },
+        "reasons": [
+          {
+            "code": "natal_promise_this_year",
+            "source": "Tajika Neelakanthi p.181-182 vv.40-42"
+          }
+        ],
+        "text": {
+          "en": "Overcoming rivals, debts and competition: what your birth chart promises here is on hold this year; it can come later.",
+          "hi": "प्रतिद्वंद्वियों, ऋण और प्रतियोगिता पर विजय: आपकी जन्म कुंडली में यहाँ जो वादा है, वह इस वर्ष रुका हुआ है; यह बाद में आ सकता है।"
+        },
+        "with": "mercury"
+      }
+    ],
+    "periods": [
+      {
+        "from": "2026-05-14T10:33:33.967Z",
+        "level": "favourable",
+        "lord": {
+          "id": "venus",
+          "name": "Venus",
+          "names": {
+            "en": "Venus",
+            "hi": "शुक्र"
+          }
+        },
+        "reasons": [
+          {
+            "code": "patyayini_lord_strength",
+            "source": "Tajika Neelakanthi p.252-263 vv.5-42"
+          },
+          {
+            "code": "patyayini_good_house_step",
+            "source": "Tajika Neelakanthi p.254-263 vv.13, 18, 23, 28, 33, 38, 43"
+          },
+          {
+            "code": "patyayini_vamana_antardasha",
+            "source": "Tajika Neelakanthi p.264-265 vv.48-49 (Vamana)"
+          }
+        ],
+        "step": 3,
+        "subs": [
+          {
+            "from": "2026-05-14T10:33:33.967Z",
+            "good": null,
+            "lord": {
+              "id": "venus",
+              "name": "Venus",
+              "names": {
+                "en": "Venus",
+                "hi": "शुक्र"
+              }
+            },
+            "to": "2026-05-14T11:14:01.235Z"
+          },
+          {
+            "from": "2026-05-14T11:14:01.235Z",
+            "good": false,
+            "lord": {
+              "id": "mars",
+              "name": "Mars",
+              "names": {
+                "en": "Mars",
+                "hi": "मंगल"
+              }
+            },
+            "to": "2026-05-14T16:46:49.186Z"
+          },
+          {
+            "from": "2026-05-14T16:46:49.186Z",
+            "good": true,
+            "lord": {
+              "id": "saturn",
+              "name": "Saturn",
+              "names": {
+                "en": "Saturn",
+                "hi": "शनि"
+              }
+            },
+            "to": "2026-05-16T05:19:41.633Z"
+          },
+          {
+            "from": "2026-05-16T05:19:41.633Z",
+            "good": null,
+            "lord": "lagna",
+            "to": "2026-05-16T18:31:35.751Z"
+          },
+          {
+            "from": "2026-05-16T18:31:35.751Z",
+            "good": false,
+            "lord": {
+              "id": "moon",
+              "name": "Moon",
+              "names": {
+                "en": "Moon",
+                "hi": "चंद्र"
+              }
+            },
+            "to": "2026-05-17T06:39:18.265Z"
+          },
+          {
+            "from": "2026-05-17T06:39:18.265Z",
+            "good": true,
+            "lord": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "to": "2026-05-17T08:24:03.680Z"
+          },
+          {
+            "from": "2026-05-17T08:24:03.680Z",
+            "good": true,
+            "lord": {
+              "id": "mercury",
+              "name": "Mercury",
+              "names": {
+                "en": "Mercury",
+                "hi": "बुध"
+              }
+            },
+            "to": "2026-05-17T14:55:45.989Z"
+          },
+          {
+            "from": "2026-05-17T14:55:45.989Z",
+            "good": false,
+            "lord": {
+              "id": "sun",
+              "name": "Sun",
+              "names": {
+                "en": "Sun",
+                "hi": "सूर्य"
+              }
+            },
+            "to": "2026-05-17T15:26:18.049Z"
+          }
+        ],
+        "to": "2026-05-17T15:26:18.048Z"
+      },
+      {
+        "from": "2026-05-17T15:26:18.048Z",
+        "level": "favourable",
+        "lord": {
+          "id": "mars",
+          "name": "Mars",
+          "names": {
+            "en": "Mars",
+            "hi": "मंगल"
+          }
+        },
+        "reasons": [
+          {
+            "code": "patyayini_lord_strength",
+            "source": "Tajika Neelakanthi p.252-263 vv.5-42"
+          },
+          {
+            "code": "patyayini_vamana_antardasha",
+            "source": "Tajika Neelakanthi p.264-265 vv.48-49 (Vamana)"
+          }
+        ],
+        "step": 3,
+        "subs": [
+          {
+            "from": "2026-05-17T15:26:18.048Z",
+            "good": null,
+            "lord": {
+              "id": "mars",
+              "name": "Mars",
+              "names": {
+                "en": "Mars",
+                "hi": "मंगल"
+              }
+            },
+            "to": "2026-05-19T13:04:04.620Z"
+          },
+          {
+            "from": "2026-05-19T13:04:04.620Z",
+            "good": false,
+            "lord": {
+              "id": "saturn",
+              "name": "Saturn",
+              "names": {
+                "en": "Saturn",
+                "hi": "शनि"
+              }
+            },
+            "to": "2026-06-01T01:43:46.842Z"
+          },
+          {
+            "from": "2026-06-01T01:43:46.842Z",
+            "good": null,
+            "lord": "lagna",
+            "to": "2026-06-05T14:18:22.269Z"
+          },
+          {
+            "from": "2026-06-05T14:18:22.269Z",
+            "good": true,
+            "lord": {
+              "id": "moon",
+              "name": "Moon",
+              "names": {
+                "en": "Moon",
+                "hi": "चंद्र"
+              }
+            },
+            "to": "2026-06-09T18:04:52.435Z"
+          },
+          {
+            "from": "2026-06-09T18:04:52.435Z",
+            "good": false,
+            "lord": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "to": "2026-06-10T08:26:39.468Z"
+          },
+          {
+            "from": "2026-06-10T08:26:39.468Z",
+            "good": false,
+            "lord": {
+              "id": "mercury",
+              "name": "Mercury",
+              "names": {
+                "en": "Mercury",
+                "hi": "बुध"
+              }
+            },
+            "to": "2026-06-12T14:09:01.486Z"
+          },
+          {
+            "from": "2026-06-12T14:09:01.486Z",
+            "good": true,
+            "lord": {
+              "id": "sun",
+              "name": "Sun",
+              "names": {
+                "en": "Sun",
+                "hi": "सूर्य"
+              }
+            },
+            "to": "2026-06-12T18:20:12.944Z"
+          },
+          {
+            "from": "2026-06-12T18:20:12.944Z",
+            "good": false,
+            "lord": {
+              "id": "venus",
+              "name": "Venus",
+              "names": {
+                "en": "Venus",
+                "hi": "शुक्र"
+              }
+            },
+            "to": "2026-06-12T23:53:00.894Z"
+          }
+        ],
+        "to": "2026-06-12T23:53:00.895Z"
+      },
+      {
+        "from": "2026-06-12T23:53:00.895Z",
+        "level": "care",
+        "lord": {
+          "id": "saturn",
+          "name": "Saturn",
+          "names": {
+            "en": "Saturn",
+            "hi": "शनि"
+          }
+        },
+        "reasons": [
+          {
+            "code": "patyayini_lord_strength",
+            "source": "Tajika Neelakanthi p.252-263 vv.5-42"
+          },
+          {
+            "code": "patyayini_vamana_antardasha",
+            "source": "Tajika Neelakanthi p.264-265 vv.48-49 (Vamana)"
+          }
+        ],
+        "step": 1,
+        "subs": [
+          {
+            "from": "2026-06-12T23:53:00.895Z",
+            "good": null,
+            "lord": {
+              "id": "saturn",
+              "name": "Saturn",
+              "names": {
+                "en": "Saturn",
+                "hi": "शनि"
+              }
+            },
+            "to": "2026-09-03T12:59:53.578Z"
+          },
+          {
+            "from": "2026-09-03T12:59:53.578Z",
+            "good": null,
+            "lord": "lagna",
+            "to": "2026-10-03T08:25:42.626Z"
+          },
+          {
+            "from": "2026-10-03T08:25:42.626Z",
+            "good": false,
+            "lord": {
+              "id": "moon",
+              "name": "Moon",
+              "names": {
+                "en": "Moon",
+                "hi": "चंद्र"
+              }
+            },
+            "to": "2026-10-30T17:51:51.745Z"
+          },
+          {
+            "from": "2026-10-30T17:51:51.745Z",
+            "good": true,
+            "lord": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "to": "2026-11-03T16:30:18.755Z"
+          },
+          {
+            "from": "2026-11-03T16:30:18.755Z",
+            "good": true,
+            "lord": {
+              "id": "mercury",
+              "name": "Mercury",
+              "names": {
+                "en": "Mercury",
+                "hi": "बुध"
+              }
+            },
+            "to": "2026-11-18T10:23:04.363Z"
+          },
+          {
+            "from": "2026-11-18T10:23:04.363Z",
+            "good": false,
+            "lord": {
+              "id": "sun",
+              "name": "Sun",
+              "names": {
+                "en": "Sun",
+                "hi": "सूर्य"
+              }
+            },
+            "to": "2026-11-19T13:58:12.933Z"
+          },
+          {
+            "from": "2026-11-19T13:58:12.933Z",
+            "good": true,
+            "lord": {
+              "id": "venus",
+              "name": "Venus",
+              "names": {
+                "en": "Venus",
+                "hi": "शुक्र"
+              }
+            },
+            "to": "2026-11-21T02:31:05.380Z"
+          },
+          {
+            "from": "2026-11-21T02:31:05.380Z",
+            "good": false,
+            "lord": {
+              "id": "mars",
+              "name": "Mars",
+              "names": {
+                "en": "Mars",
+                "hi": "मंगल"
+              }
+            },
+            "to": "2026-12-03T15:10:47.603Z"
+          }
+        ],
+        "to": "2026-12-03T15:10:47.602Z"
+      },
+      {
+        "from": "2026-12-03T15:10:47.602Z",
+        "level": "favourable",
+        "lord": "lagna",
+        "reasons": [
+          {
+            "code": "patyayini_lagna_by_its_lord",
+            "source": "Tajika Neelakanthi p.263 v.44"
+          },
+          {
+            "code": "patyayini_lagna_decanate",
+            "source": "Tajika Neelakanthi p.263-264 vv.44-45"
+          },
+          {
+            "code": "patyayini_lagna_aspects",
+            "source": "Tajika Neelakanthi p.264 v.45"
+          }
+        ],
+        "step": 3,
+        "subs": [
+          {
+            "from": "2026-12-03T15:10:47.602Z",
+            "good": null,
+            "lord": "lagna",
+            "to": "2026-12-14T09:32:23.102Z"
+          },
+          {
+            "from": "2026-12-14T09:32:23.102Z",
+            "good": null,
+            "lord": {
+              "id": "moon",
+              "name": "Moon",
+              "names": {
+                "en": "Moon",
+                "hi": "चंद्र"
+              }
+            },
+            "to": "2026-12-24T06:57:22.921Z"
+          },
+          {
+            "from": "2026-12-24T06:57:22.921Z",
+            "good": null,
+            "lord": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "to": "2026-12-25T17:08:00.787Z"
+          },
+          {
+            "from": "2026-12-25T17:08:00.787Z",
+            "good": null,
+            "lord": {
+              "id": "mercury",
+              "name": "Mercury",
+              "names": {
+                "en": "Mercury",
+                "hi": "बुध"
+              }
+            },
+            "to": "2026-12-31T00:55:41.790Z"
+          },
+          {
+            "from": "2026-12-31T00:55:41.790Z",
+            "good": null,
+            "lord": {
+              "id": "sun",
+              "name": "Sun",
+              "names": {
+                "en": "Sun",
+                "hi": "सूर्य"
+              }
+            },
+            "to": "2026-12-31T10:53:24.611Z"
+          },
+          {
+            "from": "2026-12-31T10:53:24.611Z",
+            "good": null,
+            "lord": {
+              "id": "venus",
+              "name": "Venus",
+              "names": {
+                "en": "Venus",
+                "hi": "शुक्र"
+              }
+            },
+            "to": "2027-01-01T00:05:18.729Z"
+          },
+          {
+            "from": "2027-01-01T00:05:18.729Z",
+            "good": null,
+            "lord": {
+              "id": "mars",
+              "name": "Mars",
+              "names": {
+                "en": "Mars",
+                "hi": "मंगल"
+              }
+            },
+            "to": "2027-01-05T12:39:54.156Z"
+          },
+          {
+            "from": "2027-01-05T12:39:54.156Z",
+            "good": null,
+            "lord": {
+              "id": "saturn",
+              "name": "Saturn",
+              "names": {
+                "en": "Saturn",
+                "hi": "शनि"
+              }
+            },
+            "to": "2027-02-04T08:05:43.204Z"
+          }
+        ],
+        "to": "2027-02-04T08:05:43.202Z"
+      },
+      {
+        "from": "2027-02-04T08:05:43.202Z",
+        "level": "mixed",
+        "lord": {
+          "id": "moon",
+          "name": "Moon",
+          "names": {
+            "en": "Moon",
+            "hi": "चंद्र"
+          }
+        },
+        "reasons": [
+          {
+            "code": "patyayini_lord_strength",
+            "source": "Tajika Neelakanthi p.252-263 vv.5-42"
+          },
+          {
+            "code": "patyayini_good_house_step",
+            "source": "Tajika Neelakanthi p.254-263 vv.13, 18, 23, 28, 33, 38, 43"
+          },
+          {
+            "code": "patyayini_vamana_antardasha",
+            "source": "Tajika Neelakanthi p.264-265 vv.48-49 (Vamana)"
+          }
+        ],
+        "step": 2,
+        "subs": [
+          {
+            "from": "2027-02-04T08:05:43.202Z",
+            "good": null,
+            "lord": {
+              "id": "moon",
+              "name": "Moon",
+              "names": {
+                "en": "Moon",
+                "hi": "चंद्र"
+              }
+            },
+            "to": "2027-02-13T10:15:59.089Z"
+          },
+          {
+            "from": "2027-02-13T10:15:59.089Z",
+            "good": true,
+            "lord": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "to": "2027-02-14T17:40:23.222Z"
+          },
+          {
+            "from": "2027-02-14T17:40:23.222Z",
+            "good": true,
+            "lord": {
+              "id": "mercury",
+              "name": "Mercury",
+              "names": {
+                "en": "Mercury",
+                "hi": "बुध"
+              }
+            },
+            "to": "2027-02-19T15:06:30.622Z"
+          },
+          {
+            "from": "2027-02-19T15:06:30.622Z",
+            "good": false,
+            "lord": {
+              "id": "sun",
+              "name": "Sun",
+              "names": {
+                "en": "Sun",
+                "hi": "सूर्य"
+              }
+            },
+            "to": "2027-02-20T00:15:46.320Z"
+          },
+          {
+            "from": "2027-02-20T00:15:46.320Z",
+            "good": true,
+            "lord": {
+              "id": "venus",
+              "name": "Venus",
+              "names": {
+                "en": "Venus",
+                "hi": "शुक्र"
+              }
+            },
+            "to": "2027-02-20T12:23:28.834Z"
+          },
+          {
+            "from": "2027-02-20T12:23:28.834Z",
+            "good": false,
+            "lord": {
+              "id": "mars",
+              "name": "Mars",
+              "names": {
+                "en": "Mars",
+                "hi": "मंगल"
+              }
+            },
+            "to": "2027-02-24T16:09:59.000Z"
+          },
+          {
+            "from": "2027-02-24T16:09:59.000Z",
+            "good": false,
+            "lord": {
+              "id": "saturn",
+              "name": "Saturn",
+              "names": {
+                "en": "Saturn",
+                "hi": "शनि"
+              }
+            },
+            "to": "2027-03-24T01:36:08.120Z"
+          },
+          {
+            "from": "2027-03-24T01:36:08.120Z",
+            "good": null,
+            "lord": "lagna",
+            "to": "2027-04-02T23:01:07.939Z"
+          }
+        ],
+        "to": "2027-04-02T23:01:07.939Z"
+      },
+      {
+        "from": "2027-04-02T23:01:07.939Z",
+        "level": "favourable",
+        "lord": {
+          "id": "jupiter",
+          "name": "Jupiter",
+          "names": {
+            "en": "Jupiter",
+            "hi": "गुरु"
+          }
+        },
+        "reasons": [
+          {
+            "code": "patyayini_lord_strength",
+            "source": "Tajika Neelakanthi p.252-263 vv.5-42"
+          },
+          {
+            "code": "patyayini_good_house_step",
+            "source": "Tajika Neelakanthi p.254-263 vv.13, 18, 23, 28, 33, 38, 43"
+          },
+          {
+            "code": "patyayini_vamana_antardasha",
+            "source": "Tajika Neelakanthi p.264-265 vv.48-49 (Vamana)"
+          }
+        ],
+        "step": 3,
+        "subs": [
+          {
+            "from": "2027-04-02T23:01:07.939Z",
+            "good": null,
+            "lord": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "to": "2027-04-03T03:32:24.027Z"
+          },
+          {
+            "from": "2027-04-03T03:32:24.027Z",
+            "good": false,
+            "lord": {
+              "id": "mercury",
+              "name": "Mercury",
+              "names": {
+                "en": "Mercury",
+                "hi": "बुध"
+              }
+            },
+            "to": "2027-04-03T20:26:43.286Z"
+          },
+          {
+            "from": "2027-04-03T20:26:43.286Z",
+            "good": true,
+            "lord": {
+              "id": "sun",
+              "name": "Sun",
+              "names": {
+                "en": "Sun",
+                "hi": "सूर्य"
+              }
+            },
+            "to": "2027-04-03T21:45:47.406Z"
+          },
+          {
+            "from": "2027-04-03T21:45:47.406Z",
+            "good": false,
+            "lord": {
+              "id": "venus",
+              "name": "Venus",
+              "names": {
+                "en": "Venus",
+                "hi": "शुक्र"
+              }
+            },
+            "to": "2027-04-03T23:30:32.821Z"
+          },
+          {
+            "from": "2027-04-03T23:30:32.821Z",
+            "good": true,
+            "lord": {
+              "id": "mars",
+              "name": "Mars",
+              "names": {
+                "en": "Mars",
+                "hi": "मंगल"
+              }
+            },
+            "to": "2027-04-04T13:52:19.854Z"
+          },
+          {
+            "from": "2027-04-04T13:52:19.854Z",
+            "good": false,
+            "lord": {
+              "id": "saturn",
+              "name": "Saturn",
+              "names": {
+                "en": "Saturn",
+                "hi": "शनि"
+              }
+            },
+            "to": "2027-04-08T12:30:46.864Z"
+          },
+          {
+            "from": "2027-04-08T12:30:46.864Z",
+            "good": null,
+            "lord": "lagna",
+            "to": "2027-04-09T22:41:24.730Z"
+          },
+          {
+            "from": "2027-04-09T22:41:24.730Z",
+            "good": true,
+            "lord": {
+              "id": "moon",
+              "name": "Moon",
+              "names": {
+                "en": "Moon",
+                "hi": "चंद्र"
+              }
+            },
+            "to": "2027-04-11T06:05:48.863Z"
+          }
+        ],
+        "to": "2027-04-11T06:05:48.863Z"
+      },
+      {
+        "from": "2027-04-11T06:05:48.863Z",
+        "level": "care",
+        "lord": {
+          "id": "mercury",
+          "name": "Mercury",
+          "names": {
+            "en": "Mercury",
+            "hi": "बुध"
+          }
+        },
+        "reasons": [
+          {
+            "code": "patyayini_lord_strength",
+            "source": "Tajika Neelakanthi p.252-263 vv.5-42"
+          },
+          {
+            "code": "patyayini_vamana_antardasha",
+            "source": "Tajika Neelakanthi p.264-265 vv.48-49 (Vamana)"
+          }
+        ],
+        "step": 1,
+        "subs": [
+          {
+            "from": "2027-04-11T06:05:48.863Z",
+            "good": null,
+            "lord": {
+              "id": "mercury",
+              "name": "Mercury",
+              "names": {
+                "en": "Mercury",
+                "hi": "बुध"
+              }
+            },
+            "to": "2027-04-13T21:18:32.728Z"
+          },
+          {
+            "from": "2027-04-13T21:18:32.728Z",
+            "good": false,
+            "lord": {
+              "id": "sun",
+              "name": "Sun",
+              "names": {
+                "en": "Sun",
+                "hi": "सूर्य"
+              }
+            },
+            "to": "2027-04-14T02:14:11.858Z"
+          },
+          {
+            "from": "2027-04-14T02:14:11.858Z",
+            "good": true,
+            "lord": {
+              "id": "venus",
+              "name": "Venus",
+              "names": {
+                "en": "Venus",
+                "hi": "शुक्र"
+              }
+            },
+            "to": "2027-04-14T08:45:54.168Z"
+          },
+          {
+            "from": "2027-04-14T08:45:54.168Z",
+            "good": false,
+            "lord": {
+              "id": "mars",
+              "name": "Mars",
+              "names": {
+                "en": "Mars",
+                "hi": "मंगल"
+              }
+            },
+            "to": "2027-04-16T14:28:16.186Z"
+          },
+          {
+            "from": "2027-04-16T14:28:16.186Z",
+            "good": true,
+            "lord": {
+              "id": "saturn",
+              "name": "Saturn",
+              "names": {
+                "en": "Saturn",
+                "hi": "शनि"
+              }
+            },
+            "to": "2027-05-01T08:21:01.793Z"
+          },
+          {
+            "from": "2027-05-01T08:21:01.793Z",
+            "good": null,
+            "lord": "lagna",
+            "to": "2027-05-06T16:08:42.796Z"
+          },
+          {
+            "from": "2027-05-06T16:08:42.796Z",
+            "good": false,
+            "lord": {
+              "id": "moon",
+              "name": "Moon",
+              "names": {
+                "en": "Moon",
+                "hi": "चंद्र"
+              }
+            },
+            "to": "2027-05-11T13:34:50.197Z"
+          },
+          {
+            "from": "2027-05-11T13:34:50.197Z",
+            "good": true,
+            "lord": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "to": "2027-05-12T06:29:09.456Z"
+          }
+        ],
+        "to": "2027-05-12T06:29:09.456Z"
+      },
+      {
+        "from": "2027-05-12T06:29:09.456Z",
+        "level": "mixed",
+        "lord": {
+          "id": "sun",
+          "name": "Sun",
+          "names": {
+            "en": "Sun",
+            "hi": "सूर्य"
+          }
+        },
+        "reasons": [
+          {
+            "code": "patyayini_lord_strength",
+            "source": "Tajika Neelakanthi p.252-263 vv.5-42"
+          },
+          {
+            "code": "patyayini_vamana_antardasha",
+            "source": "Tajika Neelakanthi p.264-265 vv.48-49 (Vamana)"
+          }
+        ],
+        "step": 2,
+        "subs": [
+          {
+            "from": "2027-05-12T06:29:09.456Z",
+            "good": null,
+            "lord": {
+              "id": "sun",
+              "name": "Sun",
+              "names": {
+                "en": "Sun",
+                "hi": "सूर्य"
+              }
+            },
+            "to": "2027-05-12T06:52:12.262Z"
+          },
+          {
+            "from": "2027-05-12T06:52:12.262Z",
+            "good": false,
+            "lord": {
+              "id": "venus",
+              "name": "Venus",
+              "names": {
+                "en": "Venus",
+                "hi": "शुक्र"
+              }
+            },
+            "to": "2027-05-12T07:22:44.322Z"
+          },
+          {
+            "from": "2027-05-12T07:22:44.322Z",
+            "good": true,
+            "lord": {
+              "id": "mars",
+              "name": "Mars",
+              "names": {
+                "en": "Mars",
+                "hi": "मंगल"
+              }
+            },
+            "to": "2027-05-12T11:33:55.779Z"
+          },
+          {
+            "from": "2027-05-12T11:33:55.779Z",
+            "good": false,
+            "lord": {
+              "id": "saturn",
+              "name": "Saturn",
+              "names": {
+                "en": "Saturn",
+                "hi": "शनि"
+              }
+            },
+            "to": "2027-05-13T15:09:04.350Z"
+          },
+          {
+            "from": "2027-05-13T15:09:04.350Z",
+            "good": null,
+            "lord": "lagna",
+            "to": "2027-05-14T01:06:47.171Z"
+          },
+          {
+            "from": "2027-05-14T01:06:47.171Z",
+            "good": true,
+            "lord": {
+              "id": "moon",
+              "name": "Moon",
+              "names": {
+                "en": "Moon",
+                "hi": "चंद्र"
+              }
+            },
+            "to": "2027-05-14T10:16:02.869Z"
+          },
+          {
+            "from": "2027-05-14T10:16:02.869Z",
+            "good": true,
+            "lord": {
+              "id": "jupiter",
+              "name": "Jupiter",
+              "names": {
+                "en": "Jupiter",
+                "hi": "गुरु"
+              }
+            },
+            "to": "2027-05-14T11:35:06.989Z"
+          },
+          {
+            "from": "2027-05-14T11:35:06.989Z",
+            "good": false,
+            "lord": {
+              "id": "mercury",
+              "name": "Mercury",
+              "names": {
+                "en": "Mercury",
+                "hi": "बुध"
+              }
+            },
+            "to": "2027-05-14T16:30:46.119Z"
+          }
+        ],
+        "to": "2027-05-14T16:30:46.120Z"
+      }
+    ],
+    "sahams": [
+      {
+        "day": null,
+        "half": "late",
+        "key": "punya",
+        "lord": {
+          "id": "sun",
+          "name": "Sun",
+          "names": {
+            "en": "Sun",
+            "hi": "सूर्य"
+          }
+        },
+        "name": {
+          "en": "Punya (good fortune)",
+          "hi": "पुण्य (सौभाग्य)"
+        },
+        "period": null,
+        "reasons": [
+          {
+            "code": "saham_viable_at_birth",
+            "source": "Tajika Neelakanthi p.151 v.30"
+          },
+          {
+            "code": "saham_joined_or_aspected_by_lord_or_benefic",
+            "source": "Tajika Neelakanthi p.150 v.28"
+          },
+          {
+            "code": "saham_eighth_lord_or_malefic",
+            "source": "Tajika Neelakanthi p.150 v.29"
+          },
+          {
+            "code": "saham_half_year",
+            "source": "Tajika Neelakanthi p.152 vv.32-33, p.153 v.36"
+          }
+        ],
+        "sign": {
+          "id": "leo",
+          "name": "Leo",
+          "names": {
+            "en": "Leo",
+            "hi": "सिंह"
+          }
+        },
+        "text": {
+          "en": "Good fortune gets no special lift this year; rely on your steady effort. It tends to go better later in the year than early on.",
+          "hi": "इस वर्ष सौभाग्य को कोई विशेष बढ़त नहीं मिलती; अपने निरंतर प्रयास पर भरोसा रखें। यह वर्ष के आरंभ की तुलना में बाद में बेहतर रहता है।"
+        },
+        "verdict": "no_result"
+      },
+      {
+        "day": "2026-11-16T11:25:27.967Z",
+        "half": "late",
+        "key": "karyasiddhi",
+        "lord": {
+          "id": "jupiter",
+          "name": "Jupiter",
+          "names": {
+            "en": "Jupiter",
+            "hi": "गुरु"
+          }
+        },
+        "name": {
+          "en": "Karyasiddhi (success)",
+          "hi": "कार्यसिद्धि (सफलता)"
+        },
+        "period": null,
+        "reasons": [
+          {
+            "code": "saham_viable_at_birth",
+            "source": "Tajika Neelakanthi p.151 v.30"
+          },
+          {
+            "code": "saham_joined_or_aspected_by_lord_or_benefic",
+            "source": "Tajika Neelakanthi p.150 v.28"
+          },
+          {
+            "code": "saham_eighth_lord_or_malefic",
+            "source": "Tajika Neelakanthi p.150 v.29"
+          },
+          {
+            "code": "saham_lord_strong",
+            "source": "Tajika Neelakanthi p.149-150 vv.26-28"
+          },
+          {
+            "code": "saham_half_year",
+            "source": "Tajika Neelakanthi p.152 vv.32-33, p.153 v.36"
+          },
+          {
+            "code": "saham_day_formula",
+            "source": "Tajika Neelakanthi p.148-149 v.25"
+          }
+        ],
+        "sign": {
+          "id": "pisces",
+          "name": "Pisces",
+          "names": {
+            "en": "Pisces",
+            "hi": "मीन"
+          }
+        },
+        "text": {
+          "en": "Success in what you take on is mixed: it comes, but through hard work. Expect it around 16 November 2026.",
+          "hi": "कार्यों में सफलता मिली-जुली है: सफलता मिलती है, पर कड़े परिश्रम से। इसे 16 नवंबर 2026 के आसपास देखें।"
+        },
+        "verdict": "mixed"
+      },
+      {
+        "day": null,
+        "half": "late",
+        "key": "karma",
+        "lord": {
+          "id": "sun",
+          "name": "Sun",
+          "names": {
+            "en": "Sun",
+            "hi": "सूर्य"
+          }
+        },
+        "name": {
+          "en": "Karma (work)",
+          "hi": "कर्म (कार्य)"
+        },
+        "period": null,
+        "reasons": [
+          {
+            "code": "saham_viable_at_birth",
+            "source": "Tajika Neelakanthi p.151 v.30"
+          },
+          {
+            "code": "saham_joined_or_aspected_by_lord_or_benefic",
+            "source": "Tajika Neelakanthi p.150 v.28"
+          },
+          {
+            "code": "saham_eighth_lord_or_malefic",
+            "source": "Tajika Neelakanthi p.150 v.29"
+          },
+          {
+            "code": "saham_half_year",
+            "source": "Tajika Neelakanthi p.152 vv.32-33, p.153 v.36"
+          }
+        ],
+        "sign": {
+          "id": "leo",
+          "name": "Leo",
+          "names": {
+            "en": "Leo",
+            "hi": "सिंह"
+          }
+        },
+        "text": {
+          "en": "Your work gets no special lift this year; keep to steady, careful effort. It tends to go better later in the year than early on.",
+          "hi": "इस वर्ष आपके काम को कोई विशेष बढ़त नहीं मिलती; स्थिर और सावधान प्रयास करते रहें। यह वर्ष के आरंभ की तुलना में बाद में बेहतर रहता है।"
+        },
+        "verdict": "no_result"
+      },
+      {
+        "day": null,
+        "half": "late",
+        "key": "artha",
+        "lord": {
+          "id": "saturn",
+          "name": "Saturn",
+          "names": {
+            "en": "Saturn",
+            "hi": "शनि"
+          }
+        },
+        "name": {
+          "en": "Artha (wealth)",
+          "hi": "अर्थ (धन)"
+        },
+        "period": null,
+        "reasons": [
+          {
+            "code": "saham_viable_at_birth",
+            "source": "Tajika Neelakanthi p.151 v.30"
+          },
+          {
+            "code": "saham_joined_or_aspected_by_lord_or_benefic",
+            "source": "Tajika Neelakanthi p.150 v.28"
+          },
+          {
+            "code": "saham_eighth_lord_or_malefic",
+            "source": "Tajika Neelakanthi p.150 v.29"
+          },
+          {
+            "code": "saham_half_year",
+            "source": "Tajika Neelakanthi p.152 vv.32-33, p.153 v.36"
+          }
+        ],
+        "sign": {
+          "id": "aquarius",
+          "name": "Aquarius",
+          "names": {
+            "en": "Aquarius",
+            "hi": "कुंभ"
+          }
+        },
+        "text": {
+          "en": "Wealth is quiet this year; protect your savings. It tends to go better later in the year than early on.",
+          "hi": "इस वर्ष धन शांत है; अपनी बचत सुरक्षित रखें। यह वर्ष के आरंभ की तुलना में बाद में बेहतर रहता है।"
+        },
+        "verdict": "no_result"
+      },
+      {
+        "day": null,
+        "half": "late",
+        "key": "yasha",
+        "lord": {
+          "id": "sun",
+          "name": "Sun",
+          "names": {
+            "en": "Sun",
+            "hi": "सूर्य"
+          }
+        },
+        "name": {
+          "en": "Yasha (reputation)",
+          "hi": "यश (प्रतिष्ठा)"
+        },
+        "period": null,
+        "reasons": [
+          {
+            "code": "saham_viable_at_birth",
+            "source": "Tajika Neelakanthi p.151 v.30"
+          },
+          {
+            "code": "saham_joined_or_aspected_by_lord_or_benefic",
+            "source": "Tajika Neelakanthi p.150 v.28"
+          },
+          {
+            "code": "saham_eighth_lord_or_malefic",
+            "source": "Tajika Neelakanthi p.150 v.29"
+          },
+          {
+            "code": "saham_half_year",
+            "source": "Tajika Neelakanthi p.152 vv.32-33, p.153 v.36"
+          }
+        ],
+        "sign": {
+          "id": "leo",
+          "name": "Leo",
+          "names": {
+            "en": "Leo",
+            "hi": "सिंह"
+          }
+        },
+        "text": {
+          "en": "Your reputation gets no special lift this year; let your work speak quietly. It tends to go better later in the year than early on.",
+          "hi": "इस वर्ष आपके यश को कोई विशेष बढ़त नहीं मिलती; अपने काम को चुपचाप बोलने दें। यह वर्ष के आरंभ की तुलना में बाद में बेहतर रहता है।"
+        },
+        "verdict": "no_result"
+      },
+      {
+        "day": null,
+        "half": "late",
+        "key": "gaurava",
+        "lord": {
+          "id": "sun",
+          "name": "Sun",
+          "names": {
+            "en": "Sun",
+            "hi": "सूर्य"
+          }
+        },
+        "name": {
+          "en": "Gaurava (honour)",
+          "hi": "गौरव (सम्मान)"
+        },
+        "period": null,
+        "reasons": [
+          {
+            "code": "saham_viable_at_birth",
+            "source": "Tajika Neelakanthi p.151 v.30"
+          },
+          {
+            "code": "saham_joined_or_aspected_by_lord_or_benefic",
+            "source": "Tajika Neelakanthi p.150 v.28"
+          },
+          {
+            "code": "saham_eighth_lord_or_malefic",
+            "source": "Tajika Neelakanthi p.150 v.29"
+          },
+          {
+            "code": "saham_half_year",
+            "source": "Tajika Neelakanthi p.152 vv.32-33, p.153 v.36"
+          }
+        ],
+        "sign": {
+          "id": "leo",
+          "name": "Leo",
+          "names": {
+            "en": "Leo",
+            "hi": "सिंह"
+          }
+        },
+        "text": {
+          "en": "Honour gets no special lift this year; avoid battles over status. It tends to go better later in the year than early on.",
+          "hi": "इस वर्ष सम्मान को कोई विशेष बढ़त नहीं मिलती; पद-प्रतिष्ठा की होड़ से बचें। यह वर्ष के आरंभ की तुलना में बाद में बेहतर रहता है।"
+        },
+        "verdict": "no_result"
+      },
+      {
+        "day": null,
+        "half": null,
+        "key": "asha",
+        "lord": {
+          "id": "moon",
+          "name": "Moon",
+          "names": {
+            "en": "Moon",
+            "hi": "चंद्र"
+          }
+        },
+        "name": {
+          "en": "Asha (hopes)",
+          "hi": "आशा (इच्छाएँ)"
+        },
+        "period": null,
+        "reasons": [
+          {
+            "code": "saham_viable_at_birth",
+            "source": "Tajika Neelakanthi p.151 v.30"
+          },
+          {
+            "code": "saham_joined_or_aspected_by_lord_or_benefic",
+            "source": "Tajika Neelakanthi p.150 v.28"
+          },
+          {
+            "code": "saham_eighth_lord_or_malefic",
+            "source": "Tajika Neelakanthi p.150 v.29"
+          }
+        ],
+        "sign": {
+          "id": "cancer",
+          "name": "Cancer",
+          "names": {
+            "en": "Cancer",
+            "hi": "कर्क"
+          }
+        },
+        "text": {
+          "en": "Your hopes are quiet this year; keep expectations realistic.",
+          "hi": "इस वर्ष आपकी आशाएँ शांत हैं; अपेक्षाएँ यथार्थ रखें।"
+        },
+        "verdict": "no_result"
+      },
+      {
+        "day": null,
+        "half": null,
+        "key": "vivaha",
+        "lord": {
+          "id": "saturn",
+          "name": "Saturn",
+          "names": {
+            "en": "Saturn",
+            "hi": "शनि"
+          }
+        },
+        "name": {
+          "en": "Vivaha (marriage)",
+          "hi": "विवाह (शादी)"
+        },
+        "period": null,
+        "reasons": [
+          {
+            "code": "saham_viable_at_birth",
+            "source": "Tajika Neelakanthi p.151 v.30"
+          },
+          {
+            "code": "saham_joined_or_aspected_by_lord_or_benefic",
+            "source": "Tajika Neelakanthi p.150 v.28"
+          },
+          {
+            "code": "saham_eighth_lord_or_malefic",
+            "source": "Tajika Neelakanthi p.150 v.29"
+          }
+        ],
+        "sign": {
+          "id": "capricorn",
+          "name": "Capricorn",
+          "names": {
+            "en": "Capricorn",
+            "hi": "मकर"
+          }
+        },
+        "text": {
+          "en": "Marriage is quiet this year; plans may need more time.",
+          "hi": "इस वर्ष विवाह का विषय शांत है; योजनाओं को अधिक समय लग सकता है।"
+        },
+        "verdict": "no_result"
+      },
+      {
+        "day": null,
+        "half": null,
+        "key": "putra",
+        "lord": {
+          "id": "saturn",
+          "name": "Saturn",
+          "names": {
+            "en": "Saturn",
+            "hi": "शनि"
+          }
+        },
+        "name": {
+          "en": "Putra (children)",
+          "hi": "पुत्र (संतान)"
+        },
+        "period": null,
+        "reasons": [
+          {
+            "code": "saham_viable_at_birth",
+            "source": "Tajika Neelakanthi p.151 v.30"
+          },
+          {
+            "code": "saham_joined_or_aspected_by_lord_or_benefic",
+            "source": "Tajika Neelakanthi p.150 v.28"
+          },
+          {
+            "code": "saham_eighth_lord_or_malefic",
+            "source": "Tajika Neelakanthi p.150 v.29"
+          }
+        ],
+        "sign": {
+          "id": "capricorn",
+          "name": "Capricorn",
+          "names": {
+            "en": "Capricorn",
+            "hi": "मकर"
+          }
+        },
+        "text": {
+          "en": "Children are a quiet theme this year.",
+          "hi": "इस वर्ष संतान का विषय शांत है।"
+        },
+        "verdict": "no_result"
+      },
+      {
+        "day": null,
+        "half": "late",
+        "key": "pitri",
+        "lord": {
+          "id": "sun",
+          "name": "Sun",
+          "names": {
+            "en": "Sun",
+            "hi": "सूर्य"
+          }
+        },
+        "name": {
+          "en": "Pitri (father)",
+          "hi": "पितृ (पिता)"
+        },
+        "period": null,
+        "reasons": [
+          {
+            "code": "saham_viable_at_birth",
+            "source": "Tajika Neelakanthi p.151 v.30"
+          },
+          {
+            "code": "saham_joined_or_aspected_by_lord_or_benefic",
+            "source": "Tajika Neelakanthi p.150 v.28"
+          },
+          {
+            "code": "saham_eighth_lord_or_malefic",
+            "source": "Tajika Neelakanthi p.150 v.29"
+          },
+          {
+            "code": "saham_half_year",
+            "source": "Tajika Neelakanthi p.152 vv.32-33, p.153 v.36"
+          }
+        ],
+        "sign": {
+          "id": "leo",
+          "name": "Leo",
+          "names": {
+            "en": "Leo",
+            "hi": "सिंह"
+          }
+        },
+        "text": {
+          "en": "Your father is a quiet theme this year. It tends to go better later in the year than early on.",
+          "hi": "इस वर्ष आपके पिता का विषय शांत है। यह वर्ष के आरंभ की तुलना में बाद में बेहतर रहता है।"
+        },
+        "verdict": "no_result"
+      },
+      {
+        "day": "2026-11-14T16:07:13.967Z",
+        "half": "late",
+        "key": "roga",
+        "lord": {
+          "id": "jupiter",
+          "name": "Jupiter",
+          "names": {
+            "en": "Jupiter",
+            "hi": "गुरु"
+          }
+        },
+        "name": {
+          "en": "Roga (health)",
+          "hi": "रोग (स्वास्थ्य)"
+        },
+        "period": null,
+        "reasons": [
+          {
+            "code": "saham_viable_at_birth",
+            "source": "Tajika Neelakanthi p.151 v.30"
+          },
+          {
+            "code": "saham_joined_or_aspected_by_lord_or_benefic",
+            "source": "Tajika Neelakanthi p.150 v.28"
+          },
+          {
+            "code": "saham_eighth_lord_or_malefic",
+            "source": "Tajika Neelakanthi p.150 v.29"
+          },
+          {
+            "code": "saham_read_in_reverse",
+            "source": "Tajika Neelakanthi p.153 v.36"
+          },
+          {
+            "code": "saham_half_year",
+            "source": "Tajika Neelakanthi p.152 vv.32-33, p.153 v.36"
+          },
+          {
+            "code": "saham_day_formula",
+            "source": "Tajika Neelakanthi p.148-149 v.25"
+          }
+        ],
+        "sign": {
+          "id": "pisces",
+          "name": "Pisces",
+          "names": {
+            "en": "Pisces",
+            "hi": "मीन"
+          }
+        },
+        "text": {
+          "en": "Health is mixed: some care for your wellbeing is wise this year. Expect it around 14 November 2026.",
+          "hi": "स्वास्थ्य मिला-जुला है: इस वर्ष अपनी कुछ देखभाल करना उचित है। इसे 14 नवंबर 2026 के आसपास देखें।"
+        },
+        "verdict": "mixed"
+      },
+      {
+        "day": "2027-03-11T00:25:59.967Z",
+        "half": null,
+        "key": "kali",
+        "lord": {
+          "id": "saturn",
+          "name": "Saturn",
+          "names": {
+            "en": "Saturn",
+            "hi": "शनि"
+          }
+        },
+        "name": {
+          "en": "Kali (disputes)",
+          "hi": "कलि (विवाद)"
+        },
+        "period": null,
+        "reasons": [
+          {
+            "code": "saham_viable_at_birth",
+            "source": "Tajika Neelakanthi p.151 v.30"
+          },
+          {
+            "code": "saham_joined_or_aspected_by_lord_or_benefic",
+            "source": "Tajika Neelakanthi p.150 v.28"
+          },
+          {
+            "code": "saham_eighth_lord_or_malefic",
+            "source": "Tajika Neelakanthi p.150 v.29"
+          },
+          {
+            "code": "saham_read_in_reverse",
+            "source": "Tajika Neelakanthi p.153 v.36"
+          },
+          {
+            "code": "saham_day_formula",
+            "source": "Tajika Neelakanthi p.148-149 v.25"
+          }
+        ],
+        "sign": {
+          "id": "capricorn",
+          "name": "Capricorn",
+          "names": {
+            "en": "Capricorn",
+            "hi": "मकर"
+          }
+        },
+        "text": {
+          "en": "Disputes are mixed: disagreements may arise, but they can be settled. Expect it around 11 March 2027.",
+          "hi": "विवाद का विषय मिला-जुला है: मतभेद हो सकते हैं, पर सुलझाए जा सकते हैं। इसे 11 मार्च 2027 के आसपास देखें।"
+        },
+        "verdict": "mixed"
       }
     ],
     "summary": {
+      "best": {
+        "from": "2026-05-14T10:33:33.967Z",
+        "to": "2026-06-14T16:56:04.319Z"
+      },
+      "hard": {
+        "from": "2027-03-14T11:39:08.975Z",
+        "to": "2027-04-13T19:52:55.334Z"
+      },
       "level": "mixed",
+      "note": null,
       "text": {
-        "en": "This year, gains and hurdles tend to balance each other, so keep plans flexible and your expectations measured. The Moon rules your year with middling strength, so comforts and cash flow can be uneven. Spending may run ahead of income, energy can feel lower than usual, and those in charge may be harder to please. Keep a simple budget, protect your sleep and emotional calm, and let small, steady gains add up. The year centres on gains and fulfilled wishes. Income improves, superiors look on you kindly and health and spirits tend to be good. Friends and social networks prove helpful, and children bring joy. It is a year to set clear goals and reach for them, while remembering to share the rewards generously. The most rewarding stretch of this period runs from September 2026 to December 2026. The most demanding stretch runs from December 2026 to April 2027; pace yourself and keep commitments modest then.",
-        "hi": "इस वर्ष लाभ और बाधाएँ एक-दूसरे को संतुलित करती हैं, इसलिए योजनाओं को लचीला और अपेक्षाओं को संयत रखें। मध्यम बल वाले चंद्रमा के वर्ष का स्वामी होने पर सुख-साधन और धन का प्रवाह असमान रह सकता है। व्यय आय से आगे निकल सकता है, ऊर्जा सामान्य से न्यून लग सकती है और उच्चाधिकारियों को संतुष्ट करना कठिन हो सकता है। आय-व्यय का सरल लेखा रखें, नींद और मन की शांति की रक्षा करें, और छोटी-छोटी स्थिर उपलब्धियों को जुड़ने दें। इस वर्ष का केंद्र लाभ और इच्छापूर्ति है। आय में सुधार होता है, वरिष्ठ जन प्रसन्न रहते हैं, और स्वास्थ्य तथा मनोबल प्रायः अच्छे रहते हैं। मित्र और सामाजिक संपर्क सहायक सिद्ध होते हैं, और संतान से आनंद मिलता है। स्पष्ट लक्ष्य निर्धारित करके उनकी ओर बढ़ने का यह वर्ष है; साथ ही प्रतिफल को उदारता से बाँटना न भूलें। इस दशा का सबसे फलदायी समय सितंबर 2026 से दिसंबर 2026 तक रहता है। सबसे अधिक परिश्रम माँगने वाला समय दिसंबर 2026 से अप्रैल 2027 तक है; उस समय अपनी गति संतुलित और प्रतिबद्धताएँ सीमित रखें।"
+        "en": "This year, gains and hurdles tend to balance each other, so keep plans flexible and your expectations measured. With Jupiter ruling your year at full strength, it tends to be a generous and well-guided time. Home life is comfortable, thinking is clear, and wealth and good name grow together. Even those who usually oppose you may cooperate. Interest in learning, ethics and inner growth deepens. Stay humble in good fortune and share it; that keeps the blessings flowing. The year centres on gains and fulfilled wishes. Income improves, superiors look on you kindly and health and spirits tend to be good. Friends and social networks prove helpful, and children bring joy. It is a year to set clear goals and reach for them, while remembering to share the rewards generously. The most rewarding months of the year run from May 2026 to June 2026. The most demanding months run from March 2027 to April 2027; pace yourself and keep commitments modest then. Taken together, the year is uneven but workable, and much depends on how you use its better months.",
+        "hi": "इस वर्ष लाभ और बाधाएँ एक-दूसरे को संतुलित करती हैं, इसलिए योजनाओं को लचीला और अपेक्षाओं को संयत रखें। पूर्ण बल से युक्त बृहस्पति जब वर्ष का स्वामी हो, तो यह समय उदार और सुमार्गदर्शित रहने की प्रवृत्ति रखता है। गृहस्थ जीवन सुखद रहता है, विचार स्पष्ट रहते हैं, और धन तथा सुयश साथ-साथ बढ़ते हैं। सामान्यतः विरोध करने वाले भी सहयोग कर सकते हैं। विद्या, नैतिकता और आंतरिक विकास में रुचि गहरी होती है। सौभाग्य में विनम्र रहें और उसे बाँटें; इससे शुभ प्रवाह बना रहता है। इस वर्ष का केंद्र लाभ और इच्छापूर्ति है। आय में सुधार होता है, वरिष्ठ जन प्रसन्न रहते हैं, और स्वास्थ्य तथा मनोबल प्रायः अच्छे रहते हैं। मित्र और सामाजिक संपर्क सहायक सिद्ध होते हैं, और संतान से आनंद मिलता है। स्पष्ट लक्ष्य निर्धारित करके उनकी ओर बढ़ने का यह वर्ष है; साथ ही प्रतिफल को उदारता से बाँटना न भूलें। वर्ष के सबसे लाभकारी महीने मई 2026 से जून 2026 तक हैं। सबसे कठिन महीने मार्च 2027 से अप्रैल 2027 तक हैं; उस समय अपनी गति संयमित रखें और प्रतिबद्धताएँ सीमित रखें। समग्र रूप से यह वर्ष असमान पर संभालने योग्य है, और बहुत कुछ इस पर निर्भर है कि आप अच्छे महीनों का उपयोग कैसे करते हैं।"
       }
     },
-    "to": "2027-05-14T16:30:47.109Z",
+    "to": "2027-05-14T16:30:46.120Z",
     "varsha_year": 36,
     "year": 2026,
     "disclaimer": {
@@ -1482,8 +3779,8 @@
       "utc_offset": "+05:30",
       "source": "given"
     },
-    "engine": "0.10.1",
-    "compute_ms": 5,
+    "engine": "0.17.0",
+    "compute_ms": 122,
     "language_fallback": [],
     "credits": 5
   }

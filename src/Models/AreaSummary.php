@@ -20,12 +20,14 @@ use Kaaljyoti\Generated\Json;
 final readonly class AreaSummary
 {
     /**
+     * @param list<AreaSummaryRulesItem> $rules
      * @param LocalizedText $text One piece of text, keyed by language: one entry for each language in
      *     `options.language`, in that order (`{"hi": "…"}` or `{"en": "…", "hi": "…"}`).
      */
     public function __construct(
         public string $area,
         public string $level,
+        public array $rules,
         public LocalizedText $text,
     ) {
     }
@@ -38,6 +40,10 @@ final readonly class AreaSummary
         return new self(
             area: Json::string($data['area'] ?? null),
             level: Json::string($data['level'] ?? null),
+            rules: array_map(
+                static fn (mixed $v): AreaSummaryRulesItem => AreaSummaryRulesItem::fromArray(Json::object($v)),
+                Json::list($data['rules'] ?? null),
+            ),
             text: LocalizedText::fromArray(Json::object($data['text'] ?? null)),
         );
     }
@@ -52,6 +58,7 @@ final readonly class AreaSummary
         $out = [];
         $out['area'] = $this->area;
         $out['level'] = $this->level;
+        $out['rules'] = array_map(static fn (AreaSummaryRulesItem $v): array => $v->toArray(), $this->rules);
         $out['text'] = $this->text->toArray();
 
         return $out;

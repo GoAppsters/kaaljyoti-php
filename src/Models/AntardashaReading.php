@@ -21,14 +21,17 @@ use Kaaljyoti\Generated\LabelledId;
 final readonly class AntardashaReading
 {
     /**
+     * @param list<AntardashaReadingAreasItem> $areas
      * @param list<VimshottariReadingDocumentBasisFunctionalValueDashaRoleReasonsItem> $reasons
      */
     public function __construct(
+        public array $areas,
         public string $from,
         public int $grade,
         public LabelledId $lord,
         public array $reasons,
         public string $to,
+        public ?VimshottariReadingDocumentBasisFunctionalValueDashaRoleReasonsItem $care = null,
         public ?string $phase = null,
     ) {
     }
@@ -38,7 +41,14 @@ final readonly class AntardashaReading
      */
     public static function fromArray(array $data): self
     {
+        $careRaw = $data['care'] ?? null;
+
         return new self(
+            areas: array_map(
+                static fn (mixed $v): AntardashaReadingAreasItem
+                    => AntardashaReadingAreasItem::fromArray(Json::object($v)),
+                Json::list($data['areas'] ?? null),
+            ),
             from: Json::string($data['from'] ?? null),
             grade: Json::int($data['grade'] ?? null),
             lord: LabelledId::fromArray(Json::object($data['lord'] ?? null)),
@@ -48,6 +58,7 @@ final readonly class AntardashaReading
                 Json::list($data['reasons'] ?? null),
             ),
             to: Json::string($data['to'] ?? null),
+            care: $careRaw === null ? null : VimshottariReadingDocumentBasisFunctionalValueDashaRoleReasonsItem::fromArray(Json::object($careRaw)),
             phase: Json::stringOrNull($data['phase'] ?? null),
         );
     }
@@ -60,6 +71,7 @@ final readonly class AntardashaReading
     public function toArray(): array
     {
         $out = [];
+        $out['areas'] = array_map(static fn (AntardashaReadingAreasItem $v): array => $v->toArray(), $this->areas);
         $out['from'] = $this->from;
         $out['grade'] = $this->grade;
         $out['lord'] = $this->lord->toArray();
@@ -68,6 +80,9 @@ final readonly class AntardashaReading
             $this->reasons,
         );
         $out['to'] = $this->to;
+        if ($this->care !== null) {
+            $out['care'] = $this->care->toArray();
+        }
         if ($this->phase !== null) {
             $out['phase'] = $this->phase;
         }

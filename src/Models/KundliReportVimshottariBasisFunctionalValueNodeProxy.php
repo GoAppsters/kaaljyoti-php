@@ -24,7 +24,7 @@ final readonly class KundliReportVimshottariBasisFunctionalValueNodeProxy
      */
     public function __construct(
         public array $companions,
-        public ?string $follows = null,
+        public string $follows,
         public ?int $house = null,
     ) {
     }
@@ -39,7 +39,7 @@ final readonly class KundliReportVimshottariBasisFunctionalValueNodeProxy
                 static fn (mixed $v): string => Json::string($v),
                 Json::list($data['companions'] ?? null),
             ),
-            follows: Json::stringOrNull($data['follows'] ?? null),
+            follows: Json::string($data['follows'] ?? null),
             house: Json::intOrNull($data['house'] ?? null),
         );
     }
@@ -53,9 +53,7 @@ final readonly class KundliReportVimshottariBasisFunctionalValueNodeProxy
     {
         $out = [];
         $out['companions'] = $this->companions;
-        if ($this->follows !== null) {
-            $out['follows'] = $this->follows;
-        }
+        $out['follows'] = $this->follows;
         if ($this->house !== null) {
             $out['house'] = $this->house;
         }

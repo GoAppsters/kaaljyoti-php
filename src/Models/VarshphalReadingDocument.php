@@ -24,7 +24,11 @@ final readonly class VarshphalReadingDocument
 {
     /**
      * @param list<AreaSummary> $areas
+     * @param list<VarshphalReadingDocumentMonthlyItem> $monthly
      * @param list<VarshphalPeriod> $months
+     * @param list<VarshphalReadingDocumentNatalPromiseItem> $natalPromise
+     * @param list<VarshphalReadingDocumentPeriodsItem> $periods
+     * @param list<VarshphalReadingDocumentSahamsItem> $sahams
      * @param LocalizedText|null $disclaimer The closing line: "these predictions are indicative…", naming the
      *     astrologer in `options.disclaimer` when one is given. Absent when `options.disclaimer` is `"off"`.
      */
@@ -32,7 +36,11 @@ final readonly class VarshphalReadingDocument
         public array $areas,
         public VarshphalReadingDocumentBasis $basis,
         public string $from,
+        public array $monthly,
         public array $months,
+        public array $natalPromise,
+        public array $periods,
+        public array $sahams,
         public ReadingSummary $summary,
         public string $to,
         public int $varshaYear,
@@ -55,9 +63,29 @@ final readonly class VarshphalReadingDocument
             ),
             basis: VarshphalReadingDocumentBasis::fromArray(Json::object($data['basis'] ?? null)),
             from: Json::string($data['from'] ?? null),
+            monthly: array_map(
+                static fn (mixed $v): VarshphalReadingDocumentMonthlyItem
+                    => VarshphalReadingDocumentMonthlyItem::fromArray(Json::object($v)),
+                Json::list($data['monthly'] ?? null),
+            ),
             months: array_map(
                 static fn (mixed $v): VarshphalPeriod => VarshphalPeriod::fromArray(Json::object($v)),
                 Json::list($data['months'] ?? null),
+            ),
+            natalPromise: array_map(
+                static fn (mixed $v): VarshphalReadingDocumentNatalPromiseItem
+                    => VarshphalReadingDocumentNatalPromiseItem::fromArray(Json::object($v)),
+                Json::list($data['natal_promise'] ?? null),
+            ),
+            periods: array_map(
+                static fn (mixed $v): VarshphalReadingDocumentPeriodsItem
+                    => VarshphalReadingDocumentPeriodsItem::fromArray(Json::object($v)),
+                Json::list($data['periods'] ?? null),
+            ),
+            sahams: array_map(
+                static fn (mixed $v): VarshphalReadingDocumentSahamsItem
+                    => VarshphalReadingDocumentSahamsItem::fromArray(Json::object($v)),
+                Json::list($data['sahams'] ?? null),
             ),
             summary: ReadingSummary::fromArray(Json::object($data['summary'] ?? null)),
             to: Json::string($data['to'] ?? null),
@@ -78,7 +106,23 @@ final readonly class VarshphalReadingDocument
         $out['areas'] = array_map(static fn (AreaSummary $v): array => $v->toArray(), $this->areas);
         $out['basis'] = $this->basis->toArray();
         $out['from'] = $this->from;
+        $out['monthly'] = array_map(
+            static fn (VarshphalReadingDocumentMonthlyItem $v): array => $v->toArray(),
+            $this->monthly,
+        );
         $out['months'] = array_map(static fn (VarshphalPeriod $v): array => $v->toArray(), $this->months);
+        $out['natal_promise'] = array_map(
+            static fn (VarshphalReadingDocumentNatalPromiseItem $v): array => $v->toArray(),
+            $this->natalPromise,
+        );
+        $out['periods'] = array_map(
+            static fn (VarshphalReadingDocumentPeriodsItem $v): array => $v->toArray(),
+            $this->periods,
+        );
+        $out['sahams'] = array_map(
+            static fn (VarshphalReadingDocumentSahamsItem $v): array => $v->toArray(),
+            $this->sahams,
+        );
         $out['summary'] = $this->summary->toArray();
         $out['to'] = $this->to;
         $out['varsha_year'] = $this->varshaYear;

@@ -27,6 +27,7 @@ final readonly class VarshphalVarshaYearDocumentMaasaItem
         public LabelledId $lagnaSign,
         public int $month,
         public VarshphalVarshaYearDocumentYearLord $monthLord,
+        public LabelledId $muntha,
         public string $pravesh,
     ) {
     }
@@ -43,6 +44,7 @@ final readonly class VarshphalVarshaYearDocumentMaasaItem
             lagnaSign: LabelledId::fromArray(Json::object($data['lagna_sign'] ?? null)),
             month: Json::int($data['month'] ?? null),
             monthLord: VarshphalVarshaYearDocumentYearLord::fromArray(Json::object($data['month_lord'] ?? null)),
+            muntha: LabelledId::fromArray(Json::object($data['muntha'] ?? null)),
             pravesh: Json::string($data['pravesh'] ?? null),
         );
     }
@@ -61,6 +63,7 @@ final readonly class VarshphalVarshaYearDocumentMaasaItem
         $out['lagna_sign'] = $this->lagnaSign->toArray();
         $out['month'] = $this->month;
         $out['month_lord'] = $this->monthLord->toArray();
+        $out['muntha'] = $this->muntha->toArray();
         $out['pravesh'] = $this->pravesh;
 
         return $out;

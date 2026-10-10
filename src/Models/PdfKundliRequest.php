@@ -34,8 +34,10 @@ final readonly class PdfKundliRequest
      *     printed.
      * @param string|null $name The person's name, printed on the cover and used in the file name; 1 to 120 characters.
      *     Default: none (the cover carries the title only).
-     * @param string|null $edition How much the kundli prints: `basic` (the default, about 12 to 20 pages) or
-     *     `professional` (every section, about 30 to 45). Both cost the same.
+     * @param string|null $edition How much the kundli prints: `basic` (the default, about 12 to 27 pages),
+     *     `professional` (the astrologer's edition, every technical section, about 30 to 45) or `life` (the Life
+     *     Report, written for the person it is about: who they are, each area of life in depth, Manglik, Sade Sati and
+     *     the dasha timeline). All three cost the same.
      * @param list<string>|null $sections The sections to print, by id, in any order (the PDF keeps its own), e.g.
      *     `["details", "charts", "kp_planets", "kp_cusps"]`. Default: the edition's. The cover always prints.
      * @param list<string>|null $vargas The charts drawn, by id, `d1` to `d60`: 1 or 2 beside the Moon chart, or up to

@@ -27,6 +27,12 @@ final readonly class VimshottariReadingDocumentBasisSwitchesDasha
         public bool $mutualDusthanaWorsens,
         public bool $rajaYogaDasha,
         public int $rajaYogaMinRelation,
+        public bool $raoBeneficAssociation,
+        public bool $raoDebilitatedDusthana,
+        public bool $raoNodeTrikonaYk,
+        public bool $raoVsOwnBhukti,
+        public bool $raoYogaBhukti,
+        public bool $raoYogaSurvivesMaraka,
         public string $s19RelatedPapaInYk,
         public string $s31Order,
         public string $s32Unrelated,
@@ -53,6 +59,12 @@ final readonly class VimshottariReadingDocumentBasisSwitchesDasha
             mutualDusthanaWorsens: Json::bool($data['mutual_dusthana_worsens'] ?? null),
             rajaYogaDasha: Json::bool($data['raja_yoga_dasha'] ?? null),
             rajaYogaMinRelation: Json::int($data['raja_yoga_min_relation'] ?? null),
+            raoBeneficAssociation: Json::bool($data['rao_benefic_association'] ?? null),
+            raoDebilitatedDusthana: Json::bool($data['rao_debilitated_dusthana'] ?? null),
+            raoNodeTrikonaYk: Json::bool($data['rao_node_trikona_yk'] ?? null),
+            raoVsOwnBhukti: Json::bool($data['rao_vs_own_bhukti'] ?? null),
+            raoYogaBhukti: Json::bool($data['rao_yoga_bhukti'] ?? null),
+            raoYogaSurvivesMaraka: Json::bool($data['rao_yoga_survives_maraka'] ?? null),
             s19RelatedPapaInYk: Json::string($data['s19_related_papa_in_yk'] ?? null),
             s31Order: Json::string($data['s31_order'] ?? null),
             s32Unrelated: Json::string($data['s32_unrelated'] ?? null),
@@ -81,6 +93,12 @@ final readonly class VimshottariReadingDocumentBasisSwitchesDasha
         $out['mutual_dusthana_worsens'] = $this->mutualDusthanaWorsens;
         $out['raja_yoga_dasha'] = $this->rajaYogaDasha;
         $out['raja_yoga_min_relation'] = $this->rajaYogaMinRelation;
+        $out['rao_benefic_association'] = $this->raoBeneficAssociation;
+        $out['rao_debilitated_dusthana'] = $this->raoDebilitatedDusthana;
+        $out['rao_node_trikona_yk'] = $this->raoNodeTrikonaYk;
+        $out['rao_vs_own_bhukti'] = $this->raoVsOwnBhukti;
+        $out['rao_yoga_bhukti'] = $this->raoYogaBhukti;
+        $out['rao_yoga_survives_maraka'] = $this->raoYogaSurvivesMaraka;
         $out['s19_related_papa_in_yk'] = $this->s19RelatedPapaInYk;
         $out['s31_order'] = $this->s31Order;
         $out['s32_unrelated'] = $this->s32Unrelated;

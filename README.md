@@ -791,7 +791,7 @@ so a slug from a form or a database still goes in as it is.
 
 ---
 
-Generated from OpenAPI document version **0.16.0**
+Generated from OpenAPI document version **0.17.0**
 (`Kaaljyoti\Generated\Version::OPENAPI`, beside `::SDK`).
 `pnpm --filter sdk-php run gen` regenerates `src/Models/` and `src/Generated/`, and CI fails when the generated code and the snapshot
 disagree.

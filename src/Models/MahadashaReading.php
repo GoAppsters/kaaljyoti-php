@@ -23,8 +23,6 @@ final readonly class MahadashaReading
     /**
      * @param list<AntardashaReading> $antardashas
      * @param list<MahadashaArea> $areas
-     * @param LocalizedText $text One piece of text, keyed by language: one entry for each language in
-     *     `options.language`, in that order (`{"hi": "…"}` or `{"en": "…", "hi": "…"}`).
      */
     public function __construct(
         public array $antardashas,
@@ -33,8 +31,10 @@ final readonly class MahadashaReading
         public string $from,
         public string $level,
         public LabelledId $lord,
-        public LocalizedText $text,
+        public string $stage,
         public string $to,
+        public ?string $tara = null,
+        public ?LocalizedText $text = null,
     ) {
     }
 
@@ -43,6 +43,8 @@ final readonly class MahadashaReading
      */
     public static function fromArray(array $data): self
     {
+        $textRaw = $data['text'] ?? null;
+
         return new self(
             antardashas: array_map(
                 static fn (mixed $v): AntardashaReading => AntardashaReading::fromArray(Json::object($v)),
@@ -56,8 +58,10 @@ final readonly class MahadashaReading
             from: Json::string($data['from'] ?? null),
             level: Json::string($data['level'] ?? null),
             lord: LabelledId::fromArray(Json::object($data['lord'] ?? null)),
-            text: LocalizedText::fromArray(Json::object($data['text'] ?? null)),
+            stage: Json::string($data['stage'] ?? null),
             to: Json::string($data['to'] ?? null),
+            tara: Json::stringOrNull($data['tara'] ?? null),
+            text: $textRaw === null ? null : LocalizedText::fromArray(Json::object($textRaw)),
         );
     }
 
@@ -75,8 +79,14 @@ final readonly class MahadashaReading
         $out['from'] = $this->from;
         $out['level'] = $this->level;
         $out['lord'] = $this->lord->toArray();
-        $out['text'] = $this->text->toArray();
+        $out['stage'] = $this->stage;
         $out['to'] = $this->to;
+        if ($this->tara !== null) {
+            $out['tara'] = $this->tara;
+        }
+        if ($this->text !== null) {
+            $out['text'] = $this->text->toArray();
+        }
 
         return $out;
     }
